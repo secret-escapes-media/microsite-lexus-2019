@@ -1,1 +1,51 @@
 // general styles for the project that wouldn't be a reuseable component
+
+.width {
+  &--title { max-width: 580px; }
+}
+
+.inline-buttons {
+  margin: -5px;
+  > .btn {
+    margin: 5px;
+  }
+}
+
+.image-slider {
+  position: absolute;
+  top: auto;
+  left: auto;
+  right: 0;
+  bottom: 0;
+  display: block;
+  color: $white;
+  line-height: 0;
+  &__btn {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-size: auto 15px;
+    background-color: rgba($white, .5);
+    background-repeat: no-repeat;
+    background-position: center;
+    @include transition;
+    @include bp(lg){
+      height: 50px;
+      width: 50px;
+      background-size: auto 20px;
+    }
+    &:hover {
+      cursor: pointer;
+      background-color: rgba($grey-light, .5);
+    }
+    &--left {
+      background-image: url('../img/icons/arrow-left.svg');
+      background-position: 45% 50%;
+    }
+    &--right {
+      border-left: 1px solid rgba($white, .5);
+      background-image: url('../img/icons/arrow-right.svg');
+      background-position: 55% 50%;
+    }
+  }
+}

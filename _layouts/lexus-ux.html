@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="vpad--xl">
+  <div class="container">
+    <div class="width--xl">
+      <p class="text--xxl">{{page.intro}}</p>
+      <div class="inline-buttons space--sm">
+        <a href="{{site.test-drive.url}}" class="btn btn--black js-open-td-modal">{{site.test-drive.cta}}</a>
+        <a href="#download-pdf" class="btn btn--outline btn--outline-black">Download Brochure</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="vpad--xxl bg--light">
+  <div class="container">
+    {% for feature in page.features %}
+      <div class="bob{% cycle '', ' bob--swap' %}">
+        <div class="bob__img">
+          <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/img.jpg');">
+            <a class="bg-img__link" href="{{feature.link}}"></a>
+          </div>
+        </div>
+        <div class="bob__text">
+          <h2 class="title title--md">{{feature.title}}</h2>
+          <p>{{feature.description}}</p>
+          <div class="space--md"></div>
+          <a href="{{feature.link}}" class="btn btn--outline btn--outline-black">Find Out More</a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

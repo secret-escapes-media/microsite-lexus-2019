@@ -25,7 +25,9 @@
     flex-direction: column;
     justify-content: center;
     overflow: hidden;
-    @include page-padding;
+    > * {
+      @include page-padding;
+    }
   }
   &__bg {
     position: absolute;

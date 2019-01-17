@@ -39,7 +39,7 @@ gulp.task('serve', ['build-jekyll'], function() {
     server: {
       baseDir: '_site/',
       routes: {
-        '/template': '_site/'
+        '/lexus-design-collection': '_site/'
       }
     }
   });
@@ -119,6 +119,7 @@ gulp.task('build-main-js', function(cb) {
     './_assets/js/_components/offer-countdown.js',
     './_assets/js/_components/modal.js',
     './_assets/js/_components/modal-nav.js',
+    './_assets/js/_components/td-modal.js',
     // './_assets/js/_components/sticky-nav.js',
 
     // custom js for project

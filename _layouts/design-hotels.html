@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="vpad--xl">
+  <div class="container">
+    <div class="width--xl">
+      <p class="text--xxl">{{site.description}}</p>
+    </div>
+  </div>
+</div>
+
+<div class="space--lg"></div>
+
+{% assign amount-of-hotels = page.features.size %}
+{% assign amount-of-hotels = amount-of-hotels | plus: 1 %}
+{% for feature in page.features reversed %}
+  <div class="width width--xxxl">
+    <div class="bg-img bg-img--1-1 bg-img--lg-3-2 bg-img--xxl-16-9" style="background-image: url('{{site.img}}/img.jpg');">
+      <div class="image-slider">
+        <span class="image-slider__btn image-slider__btn--left"></span><span class="image-slider__btn image-slider__btn--right"></span>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="space--lg width--xl">
+      <h2 class="title title--lg">{{amount-of-hotels | minus: forloop.index}}. {{feature.title}}</h2>
+      <div class="space--xs"></div>
+      <h3 class="sub-title">{{feature.location}}</h3>
+      <p class="text--lg">{{feature.description}}</p>
+    </div>
+    {% unless forloop.last %}
+      <div class="space--xxxl"></div>
+    {% endunless %}
+  </div>
+{% endfor %}
+
+<div class="space--xxxxl"></div>

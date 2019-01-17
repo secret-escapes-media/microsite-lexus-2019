@@ -15,7 +15,15 @@
       {{ content }}
     </div>
 
+    {% unless page.no-test-drive-promo %}
+      {% include page/promo-test-drive.html %}
+    {% endunless %}
+
     {% include page/footer.html %}
+
+    {% unless page.no-test-drive-promo %}
+      {% include modal/td-modal.html %}
+    {% endunless %}
 
     {% include modal/modal.html %}
 

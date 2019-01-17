@@ -1,0 +1,29 @@
+---
+layout: default
+
+banner:
+  content: >
+    <div class="container container--no-padding">
+      <h1 class="hidden">{{page.banner-title}}</h1>
+      <img class="width--title" src="{{site.img}}/content/overview/title.svg" alt="{{page.banner-title}}">
+      <div class="text--normal width--lg space--md">
+        <p class=" text--xxl">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, laborum, accusamus. Provident iste alias iure eum, quidem, porro officiis earum quas sunt cumque modi dignissimos.</p>
+        <div class="space--sm"></div>
+        <a href="https://www.youtube.com/watch?v=JRg0BYcitU0" class="btn btn--white js-open-modal" data-open-modal="feature-video">Watch Video</a>
+      </div>
+    </div>
+---
+
+<div class="vpad--xxl">
+  <div class="container">
+    <div class="width--xl">
+      <h2 class="title title--color title--xxl">City Guides</h2>
+      <p class="text--xxl">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat amet, est. Ullam eaque nisi dolor pariatur maiores sit a aut illo quae, repellat inventore quis eius nam modi. Illum, aut.</p>
+    </div>
+    <div class="width--xxl">
+      <div class="row row--6-6 space--lg">
+        {% include page/guide-nav.html %}
+      </div>
+    </div>
+  </div>
+</div>

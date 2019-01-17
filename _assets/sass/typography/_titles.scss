@@ -1,9 +1,14 @@
 // all banner types on site
 
 .title {
-
   // custom content headline
   font-family: $font-title-01;
+  line-height: 1;
+  letter-spacing: -.025em;
+  font-weight: 500;
+  &--color  { color: #1a1a1a; }
+  &--upper  { text-transform: uppercase; }
+  // title sizes
   &--xxxl   { font-size: $s8; }
   &--xxl    { font-size: $s7; }
   &--xl     { font-size: $s6; }
@@ -24,11 +29,19 @@
     &--xxs    { font-size: $s2; }
     &--xxxs   { font-size: $s1; }
   }
+}
 
+.bold-title {
+  font-family: $font-title-01;
+  line-height: 1;
+  letter-spacing: .025em;
+  font-weight: 500;
+  font-size: $s6;
+  text-transform: uppercase;
+  @include bp($lg){ font-size: $s7; }
 }
 
 .sub-title {
-
   // custom content headline
   font-family: $font-title-01;
   font-size: $s2; // default size
@@ -39,17 +52,15 @@
     &--lg     { font-size: $s5; }
     &--sm     { font-size: $s1; }
   }
-
 }
 
 
 .core-title {
-
   // open-sans – core site typeface
   font-family: $font-core;
   font-weight: 300;
   letter-spacing: -.02em;
-
+  // core title sizes
   &--xxxl   { font-size: $s8; line-height: 1.1; }
   &--xxl    { font-size: $s7; line-height: 1.1; }
   &--xl     { font-size: $s6; line-height: 1.2; }
@@ -70,17 +81,22 @@
     &--xxs    { font-size: $s2; line-height: 1.35; }
     &--xxxs   { font-size: $s1; line-height: 1.4; }
   }
-
 }
 
 
 .banner-title {
-
-  // custom banner headline
+  display: inline-block;
   font-family: $font-title-01;
   text-transform: uppercase;
   font-size: $s5;
+  font-weight: 500;
+  letter-spacing: .02em;
+  line-height: 1;
   @include bp($md){ font-size: $s7; }
   @include bp($xl){ font-size: $s10; }
-
+  &--sm {
+    font-size: $s3;
+    @include bp($md){ font-size: $s6; }
+    @include bp($xl){ font-size: $s8; }
+  }
 }

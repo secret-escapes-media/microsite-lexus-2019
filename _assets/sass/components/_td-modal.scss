@@ -1,0 +1,30 @@
+.td-modal {
+  $icon-size: 3em;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: $z-overlay;
+  width: 100%;
+  min-height: 100%;
+  background-color: rgba($white,.5);
+  &.is-open   { display: block; }
+  &.is-closed { display: none; }
+  &__close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: $icon-size;
+    width: $icon-size;
+    background-color: rgba($grey-darker,.85);
+    background-image: url('../img/icons/close.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: ($icon-size/3);
+    cursor: pointer;
+    z-index: $z-overlay-upper;
+    transition: background-color $transition-time ease;
+    &:hover{ background-color: rgba($black,.85); }
+  }
+}
