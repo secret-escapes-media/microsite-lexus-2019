@@ -9,10 +9,10 @@ description: >
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/lexus-design-collection" # the subpath of your site, e.g. /blog/
-img:     "/lexus-design-collection/_assets/img"
-css:     "/lexus-design-collection/_assets/css"
-js:      "/lexus-design-collection/_assets/js"
+baseurl: "/lexus-design-collection/uk" # the subpath of your site, e.g. /blog/
+img:     "/lexus-design-collection/uk/_assets/img"
+css:     "/lexus-design-collection/uk/_assets/css"
+js:      "/lexus-design-collection/uk/_assets/js"
 
 #global content
 test-drive:
