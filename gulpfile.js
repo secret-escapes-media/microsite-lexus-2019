@@ -39,7 +39,7 @@ gulp.task('serve', ['build-jekyll'], function() {
     server: {
       baseDir: '_site/',
       routes: {
-        '/lexus-design-collection': '_site/'
+        '/lexus-design-collection/de': '_site/'
       }
     }
   });
