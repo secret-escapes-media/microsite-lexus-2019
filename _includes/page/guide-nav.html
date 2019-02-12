@@ -1,4 +1,4 @@
-{% assign guide-pages = site.html_pages | where: "group-parent", "city-guides" %}
+{% assign guide-pages = site.html_pages | where: "group-parent", "city-guides" | sort: "group-order" %}
 {% for page in guide-pages %}
 <div class="col">
   <div class="bg-img bg-img--2-3" style="background-image: url({{site.img}}/img.jpg);">
