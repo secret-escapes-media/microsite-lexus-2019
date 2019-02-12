@@ -1,5 +1,7 @@
 ---
 layout: default
+extra-js: true
+extra-css: true
 ---
 
 <div class="vpad--xl">
@@ -16,10 +18,17 @@ layout: default
 {% assign amount-of-hotels = amount-of-hotels | plus: 1 %}
 {% for feature in page.features reversed %}
   <div class="width width--xxxl">
-    <div class="bg-img bg-img--1-1 bg-img--lg-3-2 bg-img--xxl-16-9" style="background-image: url('{{site.img}}/img.jpg');">
-      <div class="image-slider">
-        <span class="image-slider__btn image-slider__btn--left"></span><span class="image-slider__btn image-slider__btn--right"></span>
+    <div id="slider-{{forloop.index}}" class="js-slider slider">
+      <div class="slider__images">
+        <img class="js-slider-image slider__image" src="{{site.img}}/img.jpg" />
+        <img class="js-slider-image slider__image" src="{{site.img}}/img.jpg" />
+        <img class="js-slider-image slider__image" src="{{site.img}}/img.jpg" />
       </div>
+      <div class="slider__btn-wrap">
+        <span class="js-slider-nav slider__btn slider__btn--left" data-slider-nav-direction="prev"></span><span class="js-slider-nav slider__btn slider__btn--right" data-slider-nav-direction="next"></span>
+      </div>
+    </div>
+
     </div>
   </div>
   <div class="container">
