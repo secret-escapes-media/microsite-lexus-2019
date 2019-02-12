@@ -1,24 +1,9 @@
-# Site settings
-title: Lexus Design Samling
-client:
-  name: Lexus
-  link: https://www.lexus.no
-core-se-link: https://no.secretescapes.com/aktuelle-tilbud
-description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
 baseurl: "/lexus-design-collection/no" # the subpath of your site, e.g. /blog/
 img:     "/lexus-design-collection/no/_assets/img"
 css:     "/lexus-design-collection/no/_assets/css"
 js:      "/lexus-design-collection/no/_assets/js"
-
-#global content
-test-drive:
-  cta: Book a Test Drive
-  url: https://forms.lexus.co.uk/webforms/secretescapestestdrive.aspx
-
 
 # Build settings
 markdown: kramdown
@@ -27,3 +12,51 @@ keep_files: [_assets]
 sass:
     sass_dir: css
     style: compressed
+
+
+
+################################################################################
+#   LOCALE
+################################################################################
+
+title: Lexus Design Samling
+description: >
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, laborum, accusamus. Provident iste alias iure eum, quidem, porro officiis earum quas sunt cumque modi dignissimos.
+copyright: '© Copyright <span class="js-year">2019</span> Secret Escapes'
+
+# client
+client:
+  name: Lexus
+  link: https://www.lexus.no
+
+# secret escapes
+secret-escapes:
+  current-sales: https://no.secretescapes.com/aktuelle-tilbud
+  nav:
+    - title: Current Sales
+      link: "{{site.secret-escapes.current-sales}}"
+    - title: Spa
+      link: https://www.secretescapes.com/spa
+    - title: Smart Stays
+      link: https://www.secretescapes.com/smartstays/filter
+    - title: "{{site.title}}"
+      link: "{{site.baseurl}}"
+
+# offer card
+offer-card:
+  view-offer: View Offer
+  saved: Save up to&nbsp;
+  from: From
+  price: "£{{offer.price}}"
+  expires:
+    # need to manually update the js, just here for reference. Project path: _assets/js/_components/offer-countdown.js
+    today: Ending Today
+    number-of-days: Ending in 99 days
+    one-day: Ending in 1 day
+
+# test drive promo
+test-drive:
+  title: Test drive the Lexus UX
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio dicta eligendi accusantium quibusdam iste eos cum incidunt placeat magni accusamus nemo fugiat recusandae, provident a impedit quas assumenda deleniti! Molestiae.
+  cta: Book a Test Drive
+  url: https://forms.lexus.co.uk/webforms/secretescapestestdrive.aspx
