@@ -1,11 +1,9 @@
 <div class="offer">
 
-  <a class="offer__link" href="{{offer.link}}"><span class="btn btn--orange">View Offer</span></a>
+  <a class="offer__link" href="{{offer.link}}"><span class="btn btn--orange">{{site.offer-card.view-offer}}</span></a>
 
   {% if offer.image %}
     <div class="bg-img bg-img--3-2" style="background-image: url('{{offer.image}}')"></div>
-  {% else %}
-    <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/offers/{{offer.id}}.jpg')"></div>
   {% endif %}
 
   <div class="offer__content">
@@ -20,14 +18,14 @@
 
         {% if offer.saved %}
           <div class="offer__saved">
-            <div class="offer__saved-label">Save up to&nbsp;</div>
+            <div class="offer__saved-label">{{site.offer-card.saved}}</div>
             <div class="offer__saved-percent">{{offer.saved}}%</div>
           </div>
           <div class="offer__separator"></div>
         {% endif %}
 
         <div class="offer__details">
-          <div>From <span class="offer__price">£{{offer.price}}</span></div>
+          <div>From <span class="offer__price">{{site.offer-card.price | liquify}}</span></div>
           <div class="text--sm">{{offer.price-description}}</div>
           <div class="js-offer-expires text--sm" data-expires="{{offer.expires}}"></div>
         </div>
