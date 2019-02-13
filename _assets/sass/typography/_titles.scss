@@ -85,7 +85,7 @@
 
 
 .banner-title {
-  display: inline-block;
+  display: block;
   font-family: $font-title-01;
   text-transform: uppercase;
   font-size: $s5;
@@ -99,4 +99,35 @@
     @include bp($md){ font-size: $s6; }
     @include bp($xl){ font-size: $s8; }
   }
+  &--overview {
+    font-size: $s12;
+    font-weight: 700;
+  }
 }
+
+.banner-sub-title {
+  display: block;
+  font-family: $font-title-01;
+  text-transform: uppercase;
+  font-size: $s4;
+  font-weight: 400;
+  letter-spacing: .25em;
+  line-height: 1;
+  &--overview { display: inline-block; }
+}
+
+// styles for the hr on the sub title, and ajustments for proper alignment
+$banner-sub-title-indent: 0.3em;
+.banner-title + .banner-sub-title {
+  padding-left: $banner-sub-title-indent;
+  &:before {
+    content: '';
+    display: block;
+    background-color: $white;
+    height: 2px;
+    margin-top: $s-2;
+    margin-bottom: $s-1;
+  }
+}
+// a wrap to adjust for the sub-title and main title alignment
+.banner-title__offset{ transform: translateX(-($banner-sub-title-indent*2)); }

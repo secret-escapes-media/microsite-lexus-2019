@@ -4,6 +4,7 @@ baseurl: "/lexus-design-collection/de" # the subpath of your site, e.g. /blog/
 img:     "/lexus-design-collection/de/_assets/img"
 css:     "/lexus-design-collection/de/_assets/css"
 js:      "/lexus-design-collection/de/_assets/js"
+video:   "/lexus-design-collection/de/_assets/video"
 
 # Build settings
 markdown: kramdown

@@ -11,10 +11,14 @@
   max-height: 700px;
   color: $white;
   background-color: $grey;
+  overflow: hidden;
   @include bp($lg){
     height: 90%;
     min-height: 650px;
     max-height: none;
+    &--overview {
+      height: 100%;
+    }
   }
   &__wrap {
     position: relative;
@@ -59,6 +63,50 @@
     &--top {
       top: 0;
       bottom: auto;
+    }
+  }
+  &__bg-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: $z-content;
+    width: 100%;
+    min-height: 100%;
+    & video {
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      height: 100%;
+      // margin: auto;
+    }
+    &:before {
+      content: '';
+      display: block;
+      width: 100%;
+      padding-top: 56.25%;
+    }
+  }
+  &__jump-down {
+    position: absolute;
+    left: 50%;
+    bottom: $s0;
+    z-index: $z-content-upper;
+    $icon-size: 50px;
+    display: block;
+    width: $icon-size;
+    height: $icon-size;
+    background-image: url('../img/icons/arrow-down.svg');
+    background-position: 50% 52.5%;
+    background-repeat: no-repeat;
+    background-size: ($icon-size/2.5);
+    border-radius: 50%;
+    border: 2px solid $white;
+    transform: translateX(-($icon-size / 2));
+    @include transition;
+    &:hover {
+      border-color: transparent;
+      background-color: rgba($white,.4);
     }
   }
 }
