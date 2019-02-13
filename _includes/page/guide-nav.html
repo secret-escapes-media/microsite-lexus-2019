@@ -1,7 +1,7 @@
-{% assign guide-pages = site.html_pages | where: "group-parent", "city-guides" %}
+{% assign guide-pages = site.html_pages | where: "group-parent", "city-guides" | sort: "group-order"%}
 {% for page in guide-pages %}
 <div class="col">
-  <div class="bg-img bg-img--2-3" style="background-image: url({{site.img}}/img.jpg);">
+  <div class="bg-img bg-img--2-3" style="background-image: url({{site.img}}/content/{{page.id}}/nav-page.jpg);">
     <a href="{{site.baseurl}}{{page.url}}" class="bg-img__link"></a>
     <div class="bg-img__bg-overlay"></div>
     <div class="bg-img__content bg-img__content--bottom-left">

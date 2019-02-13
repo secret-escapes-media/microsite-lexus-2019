@@ -41,8 +41,7 @@
     right: 0;
     bottom: 0;
     z-index: $z-content;
-    background-color: rgba($black,.4);
     @include transition;
   }
-  &:hover &__bg-overlay { background-color: rgba($black,.6); }
+  &:hover &__bg-overlay { background-color: rgba($l-black,.3); }
 }
