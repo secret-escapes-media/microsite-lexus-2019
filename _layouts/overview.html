@@ -4,17 +4,19 @@ layout: default
 banner:
   content: >
     <div class="container container--no-padding">
-      <h1 class="hidden">{{page.banner-title}}</h1>
-      <img class="width--title" src="{{site.img}}/content/overview/title.svg" alt="{{page.banner-title}}">
-      <div class="text--normal width--lg space--md">
+      <div class="banner-title__offset">
+        <h1 class="banner-title banner-title--overview">{{page.banner.title}}</h1>
+        <h2 class="banner-sub-title banner-sub-title--overview">{{page.banner.title-sub}}</h2>
+      </div>
+      <div class="text--normal width--lg space--sm">
         <p class=" text--xxl">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, laborum, accusamus. Provident iste alias iure eum, quidem, porro officiis earum quas sunt cumque modi dignissimos.</p>
-        <div class="space--sm"></div>
+        <div class="space--md"></div>
         <a href="https://www.youtube.com/watch?v=JRg0BYcitU0" class="btn btn--white js-open-modal" data-open-modal="feature-video">Watch Video</a>
       </div>
     </div>
 ---
 
-<div class="vpad--xxl">
+<div id="guides" class="vpad--xxl">
   <div class="container">
     <div class="width--xl">
       <h2 class="title title--color title--xxl">City Guides</h2>
