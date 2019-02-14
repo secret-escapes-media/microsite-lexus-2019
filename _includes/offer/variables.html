@@ -8,3 +8,9 @@
 
 <!-- offers by price -->
 {% assign offers-by-price = offers | sort: 'price' %}
+
+<!-- uk offers by price -->
+{% assign uk-offers = site.data.offers | where: 'uk', 'true' | sort: 'price' %}
+
+<!-- Rest of the world offers by price -->
+{% assign world-offers = site.data.offers | where: 'uk', 'false' | sort: 'price' %}
