@@ -22,7 +22,7 @@ sass:
 
 title: Lexus Design Kollektion
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, laborum, accusamus. Provident iste alias iure eum, quidem, porro officiis earum quas sunt cumque modi dignissimos.
+  Discover a world of design with Lexus and Secret Escapes. Embark on your own urban adventure in the Lexus UX and let the city inspire you. From the world’s finest design hotels to the most envelope-pushing design hangouts in London and Edinburgh, discover the Design Collection.
 copyright: '© Copyright <span class="js-year">2019</span> Secret Escapes'
 
 # client
@@ -57,7 +57,15 @@ offer-card:
 
 # test drive promo
 test-drive:
-  title: Test drive the Lexus UX
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio dicta eligendi accusantium quibusdam iste eos cum incidunt placeat magni accusamus nemo fugiat recusandae, provident a impedit quas assumenda deleniti! Molestiae.
+  title: Test drive the new Lexus UX self-charging hybrid
+  description: Head for your own urban adventure with 24hr test-drives in the new Lexus UX.
   cta: Book a Test Drive
   url: https://forms.lexus.co.uk/webforms/secretescapestestdrive.aspx
+
+offer-page:
+  country: UK
+  world: Rest of the world
+
+video:
+  cta: Watch Video
+  url: https://www.youtube.com/watch?v=JRg0BYcitU0
