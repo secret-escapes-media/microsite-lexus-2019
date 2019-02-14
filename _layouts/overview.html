@@ -9,9 +9,9 @@ banner:
         <h2 class="banner-sub-title banner-sub-title--overview">{{page.banner.title-sub}}</h2>
       </div>
       <div class="text--normal width--lg space--sm">
-        <p class=" text--xxl">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, laborum, accusamus. Provident iste alias iure eum, quidem, porro officiis earum quas sunt cumque modi dignissimos.</p>
+        <p class=" text--xxl">{{site.description}}</p>
         <div class="space--md"></div>
-        <a href="https://www.youtube.com/watch?v=JRg0BYcitU0" class="btn btn--white js-open-modal" data-open-modal="feature-video">Watch Video</a>
+        <a href="{{site.video.url}}" class="btn btn--white js-open-modal" data-open-modal="feature-video">{{site.video.cta}}</a>
       </div>
     </div>
 ---
@@ -19,8 +19,9 @@ banner:
 <div id="guides" class="vpad--xxl">
   <div class="container">
     <div class="width--xl">
-      <h2 class="title title--color title--xxl">City Guides</h2>
-      <p class="text--xxl">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat amet, est. Ullam eaque nisi dolor pariatur maiores sit a aut illo quae, repellat inventore quis eius nam modi. Illum, aut.</p>
+      {% assign city-guides-page = site.html_pages | where: 'id', 'city-guides' | first %}
+      <h2 class="title title--color title--xxl">{{city-guides-page.title}}</h2>
+      <p class="text--xxl">{{city-guides-page.intro}}</p>
     </div>
     <div class="width--xxl">
       <div class="row row--6-6 space--lg">

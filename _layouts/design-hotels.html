@@ -7,22 +7,23 @@ extra-css: true
 <div class="vpad--xl">
   <div class="container">
     <div class="width--xl">
-      <p class="text--xxl">{{site.description}}</p>
+      <p class="text--xxl">{{page.intro}}</p>
     </div>
   </div>
 </div>
 
 <div class="space--lg"></div>
 
-{% assign amount-of-hotels = page.features.size %}
-{% assign amount-of-hotels = amount-of-hotels | plus: 1 %}
-{% for feature in page.features reversed %}
+{% for feature in page.features %}
   <div class="width width--xxxl">
     <div id="slider-{{forloop.index}}" class="js-slider slider">
       <div class="slider__images">
-        <img class="js-slider-image slider__image" src="{{site.img}}/img.jpg" />
-        <img class="js-slider-image slider__image" src="{{site.img}}/img.jpg" />
-        <img class="js-slider-image slider__image" src="{{site.img}}/img.jpg" />
+        <img class="js-slider-image slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/01.jpg" />
+        <img class="js-slider-image slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/02.jpg" />
+        <img class="js-slider-image slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/03.jpg" />
+        <img class="js-slider-image slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/04.jpg" />
+        <img class="js-slider-image slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/05.jpg" />
+        <img class="js-slider-image slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/06.jpg" />
       </div>
       <div class="slider__btn-wrap">
         <span class="js-slider-nav slider__btn slider__btn--left" data-slider-nav-direction="prev"></span><span class="js-slider-nav slider__btn slider__btn--right" data-slider-nav-direction="next"></span>
@@ -33,7 +34,7 @@ extra-css: true
   </div>
   <div class="container">
     <div class="space--lg width--xl">
-      <h2 class="title title--lg">{{amount-of-hotels | minus: forloop.index}}. {{feature.title}}</h2>
+      <h2 class="title title--lg">{{feature.title}}</h2>
       <div class="space--xs"></div>
       <h3 class="sub-title">{{feature.location}}</h3>
       <p class="text--lg">{{feature.description}}</p>
