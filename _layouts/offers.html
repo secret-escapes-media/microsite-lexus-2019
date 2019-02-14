@@ -2,4 +2,34 @@
 layout: default
 ---
 
-{% include offer/all-offers.html %}
+{% include offer/variables.html %}
+
+<div class="vpad--xxl">
+  <div class="container">
+    <p class="text--xxl width--xl">{{page.intro}}</p>
+    <div class="space--xxl"></div>
+    <h2 class="title title--color title--xl">{{site.offer-page.country}}</h2>
+    <div class="space--lg"></div>
+    <div class="row row--xl-6-6 row--gutters-lg">
+      {% for offer in uk-offers %}
+        <div class="col">
+          {% include offer/offer.html %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="vpad--xxl bg--light">
+  <div class="container">
+    <h2 class="title title--color title--xl">{{site.offer-page.world}}</h2>
+    <div class="space--lg"></div>
+    <div class="row row--xl-6-6 row--gutters-lg">
+      {% for offer in world-offers %}
+        <div class="col">
+          {% include offer/offer.html %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
