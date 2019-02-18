@@ -20,7 +20,7 @@ layout: default
     {% for feature in page.features %}
       <div class="bob{% cycle '', ' bob--swap' %}">
         <div class="bob__img">
-          <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/img.jpg');">
+          <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/{{feature.id}}.jpg');">
             <a class="bg-img__link" href="{{feature.link}}"></a>
           </div>
         </div>
