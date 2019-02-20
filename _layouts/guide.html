@@ -16,7 +16,7 @@ layout: default
       <h2 class="title title--color title--xl">{{feature.time}} - {{feature.place}}</h2>
       <div class="sub-title title--color">{{feature.title}}</div>
       <div class="vpad--sm">
-        <div class="bg-img bg-img--1-1 bg-img--lg-3-2 bg-img--xxl-16-9" style="background-image: url('{{site.img}}/img.jpg');"></div>
+        <div class="bg-img bg-img--1-1 bg-img--lg-3-2 bg-img--xxl-16-9" style="background-image: url('{{site.img}}/content/{{page.id}}/{{feature.id}}.jpg');"></div>
       </div>
       <p class="text--xl width--xl">{{feature.description}}</p>
       {% unless forloop.last %}
