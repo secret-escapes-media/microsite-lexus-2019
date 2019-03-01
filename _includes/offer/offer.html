@@ -25,7 +25,7 @@
         {% endif %}
 
         <div class="offer__details">
-          <div>From <span class="offer__price">{{site.offer-card.price | liquify}}</span></div>
+          <div>{{site.offer-card.from}} <span class="offer__price">{{site.offer-card.price | liquify}}</span></div>
           <div class="text--sm">{{offer.price-description}}</div>
           <div class="js-offer-expires text--sm" data-expires="{{offer.expires}}"></div>
         </div>
