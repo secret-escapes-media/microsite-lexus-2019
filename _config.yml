@@ -20,9 +20,9 @@ sass:
 #   LOCALE
 ################################################################################
 
-title: Lexus Design Samling
+title: Lexus Design Collection
 description: >
-  Discover a world of design with Lexus and Secret Escapes. Embark on your own urban adventure in the Lexus UX and let the city inspire you. From the world’s finest design hotels to the trendiest, urban design hangouts in London and Edinburgh, discover the Design Collection.
+  Oppdag en verden av design med Lexus og Secret Escapes. Legg ut på et urbant eventyr i en Lexux UX og la byen inspirere deg. Utforsk Desgin Collection med noen av verdens flotteste designhoteller og finn de kuleste stedene å henge med design i fokus i Bergen og Oslo.
 copyright: '© Copyright <span class="js-year">2019</span> Secret Escapes'
 
 # client
@@ -34,38 +34,38 @@ client:
 secret-escapes:
   current-sales: https://no.secretescapes.com/aktuelle-tilbud
   nav:
-    - title: Current Sales
+    - title: Aktuelle tilbud
       link: "{{site.secret-escapes.current-sales}}"
-    - title: Spa
-      link: https://www.secretescapes.com/spa
-    - title: Smart Stays
-      link: https://www.secretescapes.com/smartstays/filter
+    - title: Wow-faktor
+      link: https://no.secretescapes.com/drmmehotell/filter
+    - title: Storbydrømmer
+      link: https://no.secretescapes.com/storby/filter
     - title: "{{site.title}}"
       link: "{{site.baseurl}}"
 
 # offer card
 offer-card:
-  view-offer: View Offer
-  saved: Save up to&nbsp;
-  from: From
-  price: "£{{offer.price}}"
+  view-offer: Se tilbud
+  saved: Spar innti&nbsp;
+  from: Fra
+  price: "kr {{offer.price}}"
   expires:
     # need to manually update the js, just here for reference. Project path: _assets/js/_components/offer-countdown.js
-    today: Ending Today
-    number-of-days: Ending in 99 days
-    one-day: Ending in 1 day
+    today: Avslutter i dag
+    number-of-days: Avslutter om 99 dager
+    one-day: Avslutter om 1 dag
 
 # test drive promo
 test-drive:
-  title: Test drive the new Lexus UX self-charging hybrid
-  description: Head for your own urban adventure with 24hr test-drives in the new Lexus UX.
-  cta: Book a Test Drive
+  title: Prøvekjør den nye selvladende hybridbilen Lexux UX
+  description: Dra på et urbant eventyr med 24-timers prøvekjøring i den nye Lexus UX.
+  cta: Bestill prøvekjøring
   url: https://forms.lexus.co.uk/webforms/secretescapestestdrive.aspx
 
 offer-page:
-  country: UK
-  world: Rest of the world
+  country: Norge
+  world: Resten av verden
 
 feature-video:
-  cta: Watch Video
+  cta: Se video
   url: https://www.youtube.com/watch?v=JRg0BYcitU0
