@@ -3,7 +3,7 @@
   location: Scandic St. Olavs plass & Clarion Hotel Admiral, Norway
   description: A fantastic four-night trip to Norway's Oslo and Bergen, with one of the world's most scenic train journeys between the two cities - including flights and an optional fjord tour
   price: 459
-  price-description: per person for 4 nights
+  price-description: SEK per person
   saved: 37
   expires: 2020/04/14
   image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
@@ -15,7 +15,7 @@
   location: Larvik, Norway
   description: Upscale beachfront stay at the first Nordic balneological health resort, with a supersized spa
   price: 214
-  price-description: per room per night
+  price-description: SEK per person
   saved: 33
   expires: 2020/04/20
   image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
@@ -27,7 +27,7 @@
   location: Bergen, Norway
   description: A unique stay in the centre of picturesque Bergen, just a stone's throw from the harbour
   price: 48
-  price-description: per room per night
+  price-description: SEK per person
   saved: 43
   expires: 2020/04/20
   image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
@@ -39,7 +39,7 @@
   location: Bergen, Norway
   description: A brand-new hip hotel in the centre of Bergen, designed by a top New York designer
   price: 73
-  price-description: per room per night
+  price-description: SEK per person
   saved: 55
   expires: 2020/04/20
   image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
@@ -51,7 +51,7 @@
   location: Sola, Norway
   description: Discover one of the world's sixth best beaches on Norway's gorgeous coast, with breakfast and more
   price: 79
-  price-description: per room per night
+  price-description: SEK per person
   saved: 47
   expires: 2020/04/20
   image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
@@ -63,7 +63,7 @@
   location: Scandic St. Olavs plass & Clarion Hotel Admiral, Norway
   description: A fantastic four-night trip to Norway's Oslo and Bergen, with one of the world's most scenic train journeys between the two cities - including flights and an optional fjord tour
   price: 459
-  price-description: per person for 4 nights
+  price-description: SEK per person
   saved: 37
   expires: 2020/04/14
   image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
@@ -75,7 +75,7 @@
   location: Larvik, Norway
   description: Upscale beachfront stay at the first Nordic balneological health resort, with a supersized spa
   price: 214
-  price-description: per room per night
+  price-description: SEK per person
   saved: 33
   expires: 2020/04/20
   image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
@@ -87,7 +87,7 @@
   location: Bergen, Norway
   description: A unique stay in the centre of picturesque Bergen, just a stone's throw from the harbour
   price: 48
-  price-description: per room per night
+  price-description: SEK per person
   saved: 43
   expires: 2020/04/20
   image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
@@ -99,7 +99,7 @@
   location: Bergen, Norway
   description: A brand-new hip hotel in the centre of Bergen, designed by a top New York designer
   price: 73
-  price-description: per room per night
+  price-description: SEK per person
   saved: 55
   expires: 2020/04/20
   image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
@@ -111,7 +111,7 @@
   location: Sola, Norway
   description: Discover one of the world's sixth best beaches on Norway's gorgeous coast, with breakfast and more
   price: 79
-  price-description: per room per night
+  price-description: SEK per person
   saved: 47
   expires: 2020/04/20
   image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg

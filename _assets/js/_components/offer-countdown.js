@@ -15,10 +15,10 @@ $('.js-offer-expires').each(function() {
       $(this).remove();
     } else if (event.offset.totalDays === 0) {
       // there is 0 days left, just hours, so ends today
-      $(this).html(event.strftime('Ending <strong>Today</strong>'));
+      $(this).html(event.strftime('Slutar <strong>idag</strong>'));
     } else {
       // there are days left, outputs with either day or days
-      $(this).html(event.strftime('Ending in <strong>%-D day%!D</strong>'));
+      $(this).html(event.strftime('Slutar om <strong>%-D %!d:dag,dagar;</strong>'));
     }
   });
 });
