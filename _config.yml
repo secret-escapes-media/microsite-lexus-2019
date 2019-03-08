@@ -1,5 +1,5 @@
 # file paths
-url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
+url:     "https://mp.secretescapes.com" # the base hostname & protocol for your site
 baseurl: "/lexus-design-collection/de" # the subpath of your site, e.g. /blog/
 img:     "/lexus-design-collection/de/_assets/img"
 css:     "/lexus-design-collection/de/_assets/css"
