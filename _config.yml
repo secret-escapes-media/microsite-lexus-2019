@@ -36,10 +36,10 @@ secret-escapes:
   nav:
     - title: Aktuella kampanjer
       link: "{{site.secret-escapes.current-sales}}"
-    - title: Ekovänligt
-      link: https://www.secretescapes.se/ekovanligt/filter
-    - title: Toppdestinationer 2019
-      link: https://www.secretescapes.se/toppdestinationer2019/filter
+    - title: Så funkar det
+      link: https://www.secretescapes.se/how-it-works
+    - title: Presentkort
+      link: https://www.secretescapes.se/presentkort-offer
     - title: "{{site.title}}"
       link: "{{site.baseurl}}"
 
