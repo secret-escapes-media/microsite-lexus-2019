@@ -22,7 +22,7 @@ sass:
 
 title: Lexus Design Collection
 description: >
-  Discover a world of design with Lexus and Secret Escapes. Embark on your own urban adventure in the Lexus UX and let the city inspire you. From the world’s finest design hotels to the trendiest, urban design hangouts in London and Edinburgh, discover the Design Collection.
+  Discover a world of design with Lexus and Secret Escapes. Embark on your own urban adventure in the Lexus&nbsp;UX and let the city inspire you. From the world’s finest design hotels to the trendiest, urban design hangouts in London and Edinburgh, discover the Design Collection.
 copyright: '© Copyright <span class="js-year">2019</span> Secret Escapes'
 
 # client
@@ -57,8 +57,8 @@ offer-card:
 
 # test drive promo
 test-drive:
-  title: Test drive the all-new Lexus UX Self-Charging Hybrid
-  description: Head for your own urban adventure with 24hr test-drives in the new Lexus UX.
+  title: Test drive the all-new Lexus&nbsp;UX Self-Charging Hybrid
+  description: Head for your own urban adventure with 24hr test-drives in the new Lexus&nbsp;UX.
   cta: Book a Test Drive
   url: https://www.lexus.co.uk/forms/secret-escapes/test-drive-se
 
