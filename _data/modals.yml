@@ -19,8 +19,8 @@
 #
 #####################################
 
-- id: feature-video
-  type: youtube
-  pages:
-    - id: all
-  youtube-id: JRg0BYcitU0
+# - id: feature-video
+#   type: youtube
+#   pages:
+#     - id: all
+#   youtube-id: JRg0BYcitU0
