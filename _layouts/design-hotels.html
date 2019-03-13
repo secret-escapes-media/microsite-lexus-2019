@@ -18,12 +18,14 @@ extra-css: true
   <div class="width width--xxxl">
     <div id="slider-{{forloop.index}}" class="js-slider slider">
       <div class="slider__images">
-        <img class="js-slider-image slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/01.jpg" />
-        <img class="js-slider-image slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/02.jpg" />
-        <img class="js-slider-image slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/03.jpg" />
-        <img class="js-slider-image slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/04.jpg" />
-        <img class="js-slider-image slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/05.jpg" />
-        <img class="js-slider-image slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/06.jpg" />
+        <noscript class="js-lazy-load-slider">
+          <img class="slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/01.jpg" />
+          <img class="slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/02.jpg" />
+          <img class="slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/03.jpg" />
+          <img class="slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/04.jpg" />
+          <img class="slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/05.jpg" />
+          <img class="slider__image" src="{{site.img}}/content/{{page.id}}/{{feature.id}}/06.jpg" />
+        </noscript>
       </div>
       <div class="slider__btn-wrap">
         <span class="js-slider-nav slider__btn slider__btn--left" data-slider-nav-direction="prev"></span><span class="js-slider-nav slider__btn slider__btn--right" data-slider-nav-direction="next"></span>
