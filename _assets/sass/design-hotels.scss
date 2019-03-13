@@ -28,6 +28,11 @@
     right: 0;
     bottom: 0;
     z-index: $z-content;
+    background-color: $grey-lighter;
+    background-image: url('../img/icons/loading.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40px;
     .no-js & { position: relative; }
   }
   &__image {

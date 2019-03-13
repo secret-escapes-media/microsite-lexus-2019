@@ -9,7 +9,12 @@ function tdModalOpen(event){
   }
   // disable scrolling on background content
   $('body').addClass('disable-scroll');
-  // open modal
+  // load in test drive iframe when clicked
+  var iframe = tdModal.find('iframe');
+  // has it already been loaded?
+  if (typeof iframe.attr('src') === 'undefined') {
+    iframe.attr('src', iframe.data('src')); // move the url from the data attribute to the iframe src
+  }
   tdModal.fadeIn('250', function(){
     $(this).removeClass('is-closed').addClass('is-open');
   });

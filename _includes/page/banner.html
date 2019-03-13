@@ -1,6 +1,5 @@
 <div class="banner{% if page.id == "overview" %} banner--overview{% endif %}">
   <div class="site-header__offset"></div>
-  {% if page.id == "overview" %}<div class="site-nav__offset"></div>{% endif %}
   <div class="banner__bg" style="background-image: url('{{site.img}}/content/{{page.id}}/bg.jpg')"></div>
   <div class="banner__wrap">
     {% if page.banner.content %}
@@ -19,8 +18,8 @@
   </div>
   {% if page.id == "overview" %}
     <a href="#guides" class="banner__jump-down"></a>
-    <div class="banner__bg-video">
-      <video id="banner-video" src="{{site.video}}/video.mp4" height="100%" playsinline loop muted autoplay></video>
-    </div>
+    <!-- <div class="banner__bg-video"> -->
+      <!-- <video id="banner-video" src="{{site.video}}/video.mp4" height="100%" playsinline loop muted autoplay></video> -->
+    <!-- </div> -->
   {% endif %}
 </div>
