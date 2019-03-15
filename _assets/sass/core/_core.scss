@@ -50,3 +50,10 @@ a {
   text-decoration:none;
   cursor: pointer;
 }
+
+br.desktop-break {
+  display: none;
+  @include bp($xxl){
+    display: block;
+  }
+}

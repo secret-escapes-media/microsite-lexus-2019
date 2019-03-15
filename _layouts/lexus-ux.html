@@ -6,11 +6,11 @@ layout: default
   <div class="container">
     <div class="width--xl">
       <p class="text--xxl">{{page.intro}}</p>
-      <div class="inline-buttons space--md">
-        {% for item in page.intro-links %}
-          <a href="{{item.link | liquify}}" class="btn{% if item.main-cta %} btn--black{% else %} btn--outline btn--outline-black{% endif %}{% if item.td-modal %} js-open-td-modal{% endif %}">{{item.title | liquify}}</a>
-        {% endfor %}
-      </div>
+    </div>
+    <div class="inline-buttons space--md">
+      {% for item in page.intro-links %}
+        <a href="{{item.link | liquify}}" class="btn{% if item.main-cta %} btn--black{% else %} btn--outline btn--outline-black{% endif %}{% if item.td-modal %} js-open-td-modal{% endif %}">{{item.title | liquify}}</a>
+      {% endfor %}
     </div>
   </div>
 </div>
