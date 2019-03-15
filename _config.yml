@@ -22,7 +22,7 @@ sass:
 
 title: Colección De Diseño Lexus
 description: >
-  Descubre un mundo de diseño con Lexus y Secret Escapes. Embárcate en tu propia aventura urbana en el Lexus UX y déjate inspirar por la ciudad. Desde los hoteles de diseño más increíbles del mundo hasta los escenarios más creativos de Barcelona y Bilbao, capaces de traspasar los límites de la modernidad: explora la Colección de Diseño.
+  Descubre un mundo de diseño con Lexus y Secret Escapes. Embárcate en tu propia aventura urbana en el Lexus&nbsp;UX y déjate inspirar por la ciudad. Desde los hoteles de diseño más increíbles del mundo hasta los escenarios más creativos de Barcelona y Bilbao, capaces de traspasar los límites de la modernidad: explora la Colección de Diseño.
 copyright: '© Copyright <span class="js-year">2019</span> Secret Escapes'
 
 # client
@@ -55,8 +55,8 @@ offer-card:
 
 # test drive promo
 test-drive:
-  title: Prueba el nuevo híbrido autorrecargable Lexus UX
-  description: Lánzate a vivir tu propia escapada urbana con una prueba de conducción de 24 horas en el nuevo Lexus UX.
+  title: Prueba el nuevo híbrido autorrecargable Lexus&nbsp;UX
+  description: Lánzate a vivir tu propia escapada urbana con una prueba de conducción de 24 horas en el nuevo Lexus&nbsp;UX.
   cta: Reserva Una Prueba De Conducción
   url: https://www.lexusauto.es/forms/secret-escapes/test-drive-se
 
