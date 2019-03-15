@@ -27,11 +27,10 @@
     text-align: center;
     @include page-padding;
     &--bottom-left {
-      left: $s2;
-      bottom: $s2;
-      padding: 0;
+      padding: $s0;
       align-items: flex-end;
       justify-content: flex-start;
+      @include bp($lg){ padding: $s2; }
     }
   }
   &__bg-overlay {
