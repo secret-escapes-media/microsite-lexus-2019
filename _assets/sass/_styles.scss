@@ -10,3 +10,19 @@
     margin: 5px;
   }
 }
+
+.guide {
+  max-width: 470px;
+  .bold-title {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-align: left;
+  }
+}
+
+// keep the car in the bg image in shot somewhat
+.lexus-ux .banner__bg {
+  background-position-x: 66%;
+  @include bp($xxxl){ background-position-x: 50%; }
+}
