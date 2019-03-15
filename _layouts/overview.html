@@ -4,9 +4,9 @@ layout: default
 banner:
   content: >
     <div class="container container--no-padding">
-      <div class="banner-title__offset">
-        <h1 class="banner-title banner-title--overview">{{page.banner.title}}</h1>
-        <h2 class="banner-sub-title banner-sub-title--overview">{{page.banner.title-sub}}</h2>
+      <div class="banner-title__wrap">
+        <h1 class="banner-title">{{page.banner.title}}</h1>
+        <h2 class="banner-sub-title">{{page.banner.title-sub}}</h2>
       </div>
       <div class="text--normal width--lg space--sm">
         <p class=" text--xxl">{{site.description}}</p>
@@ -24,9 +24,7 @@ banner:
       <p class="text--xxl">{{city-guides-page.intro}}</p>
     </div>
     <div class="width--xxl">
-      <div class="row row--6-6 space--lg">
-        {% include page/guide-nav.html %}
-      </div>
+      {% include page/guide-nav.html %}
     </div>
   </div>
 </div>

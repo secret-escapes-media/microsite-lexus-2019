@@ -10,14 +10,16 @@
   min-height: 450px;
   max-height: 700px;
   color: $white;
-  background-color: $grey;
+  background-color: $l-black;
   overflow: hidden;
+  &--overview {min-height: 600px;}
   @include bp($lg){
     height: 90%;
     min-height: 650px;
     max-height: none;
     &--overview {
       height: 100%;
+      min-height: 680px;
     }
   }
   &__wrap {
@@ -40,18 +42,8 @@
     right: 0;
     bottom: 0;
     z-index: $z-content;
-    background-color: $grey-dark;
+    background-color: $l-black;
     @include background-attributes;
-    // &:before {
-    //   // optional colour overlay on bg image
-    //   content: '';
-    //   position: absolute;
-    //   top: 0;
-    //   left: 0;
-    //   right: 0;
-    //   bottom: 0;
-    //   background-color: rgba($black,.15);
-    // }
   }
   &__nav {
     // optional container for navigation include
