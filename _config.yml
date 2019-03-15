@@ -22,7 +22,7 @@ sass:
 
 title: Lexus Design Collection
 description: >
-  Upptäck en värld av design med Lexus och Secret Escapes. Åk iväg på ditt eget urbana äventyr med Lexus UX och låt städerna inspirera dig. Lexus Design Collection innehåller några av världens finaste designhotell och en del av våra mest banbrytande hotell, från Stockholm till Göteborg.
+  Upptäck en värld av design med Lexus och Secret Escapes. Åk iväg på ditt eget urbana äventyr med Lexus&nbsp;UX och låt städerna inspirera dig. Lexus Design Collection innehåller några av världens finaste designhotell och en del av våra mest banbrytande hotell, från Stockholm till Göteborg.
 copyright: '© Copyright <span class="js-year">2019</span> Secret Escapes'
 
 # client
@@ -57,8 +57,8 @@ offer-card:
 
 # test drive promo
 test-drive:
-  title: Provkör den nya självladdande hybridbilen Lexus UX
-  description: Åk iväg på ett stadsäventyr med ett dygns provkörning av nya Lexus UX.
+  title: Provkör den nya självladdande hybridbilen Lexus&nbsp;UX
+  description: Åk iväg på ett stadsäventyr med ett dygns provkörning av nya Lexus&nbsp;UX.
   cta: Boka en provkörning
   url: https://www.lexus.se/forms/secret-escapes/test-drive-se
 
