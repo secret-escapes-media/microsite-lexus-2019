@@ -10,15 +10,15 @@ layout: default
   </div>
 </div>
 
-<div class="vpad--xxl bg--light">
+<div class="vpad--xxxl bg--light">
   <div class="container">
     {% for feature in page.features %}
-      <h2 class="title title--color title--xl">{{feature.time}} - {{feature.place}}</h2>
-      <div class="sub-title title--color">{{feature.title}}</div>
+      <h2 class="guide-title"><span class="guide-title__time">{{feature.time}}</span> <span class="guide-title__place">{{feature.place}}</span></h2>
+      <div class="guide-title__sub">{{feature.title}}</div>
       <div class="vpad--sm">
         <div class="bg-img bg-img--1-1 bg-img--lg-3-2 bg-img--xxl-16-9" style="background-image: url('{{site.img}}/img.jpg');"></div>
       </div>
-      <p class="text--xl width--xl">{{feature.description}}</p>
+      <p class="text--xxl width--xxl">{{feature.description}}</p>
       {% unless forloop.last %}
         <div class="space--xxxxl"></div>
       {% endunless %}

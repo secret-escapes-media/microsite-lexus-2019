@@ -6,7 +6,7 @@
   line-height: 1;
   letter-spacing: -.025em;
   font-weight: 500;
-  &--color  { color: #1a1a1a; }
+  &--color  { color: $l-black; }
   &--upper  { text-transform: uppercase; }
   // title sizes
   &--xxxl   { font-size: $s8; }
@@ -44,11 +44,14 @@
 .sub-title {
   // custom content headline
   font-family: $font-title-01;
-  font-size: $s2; // default size
+  font-size: $s1; // default size
+  line-height: 1.33;
+  text-transform: uppercase;
+  letter-spacing: .2em;
   &--lg     { font-size: $s4; }
   &--sm     { font-size: $s0; }
   @include bp($lg){
-    font-size: $s3; // default size
+    font-size: $s2; // default size
     &--lg     { font-size: $s5; }
     &--sm     { font-size: $s1; }
   }
@@ -88,20 +91,25 @@
   display: block;
   font-family: $font-title-01;
   text-transform: uppercase;
-  font-size: $s5;
   font-weight: 500;
   letter-spacing: .02em;
   line-height: 1;
-  @include bp($md){ font-size: $s7; }
-  @include bp($xl){ font-size: $s10; }
+  font-size: $s7;
+  margin-left: -.066em; // adjustments so the left edge lines up properly
+  @include bp($lg){ font-size: $s8; }
+  @include bp($xl){ font-size: $s9; }
+  @include bp($xxxl){ font-size: $s10; }
   &--sm {
     font-size: $s3;
     @include bp($md){ font-size: $s6; }
     @include bp($xl){ font-size: $s8; }
   }
-  &--overview {
-    font-size: $s12;
+  .overview & {
     font-weight: 700;
+    font-size: $s9;
+    @include bp($md){ font-size: $s10; }
+    @include bp($lg){ font-size: $s11; }
+    @include bp(1300px){ font-size: $s12; }
   }
 }
 
@@ -109,17 +117,21 @@
   display: block;
   font-family: $font-title-01;
   text-transform: uppercase;
-  font-size: $s4;
+  font-size: $s3;
   font-weight: 400;
   letter-spacing: .25em;
   line-height: 1;
-  &--overview { display: inline-block; }
+  @include bp($lg){ font-size: $s4; }
+  .overview & {
+    display: inline-block;
+    font-size: $s2;
+    @include bp($lg){ font-size: $s3; }
+    @include bp(1300px){ font-size: $s4; }
+  }
 }
 
-// styles for the hr on the sub title, and ajustments for proper alignment
-$banner-sub-title-indent: 0.3em;
+// styles for the hr on the sub title
 .banner-title + .banner-sub-title {
-  padding-left: $banner-sub-title-indent;
   &:before {
     content: '';
     display: block;
@@ -129,5 +141,59 @@ $banner-sub-title-indent: 0.3em;
     margin-bottom: $s-1;
   }
 }
+
+// title adjustments for overiew page
+$banner-sub-title-indent: 0.3em;
 // a wrap to adjust for the sub-title and main title alignment
-.banner-title__offset{ transform: translateX(-($banner-sub-title-indent*2)); }
+.overview .banner-title__wrap{
+  transform: translateX(-($banner-sub-title-indent*2));
+  .banner-title { margin-left: 0; }
+  .banner-sub-title { padding-left: $banner-sub-title-indent; }
+}
+
+// specific titles that appear on the design guide pages
+.guide-title {
+  color: $l-black;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  > * + * { margin-top: $s-3; }
+  @include bp($lg){
+    flex-direction: row;
+    align-items: center;
+    > * + * {
+      margin-top: 0;
+      margin-left: $s-1;
+    }
+  }
+  &__time {
+    display: inline-block;
+    margin-top: .5%;
+    padding: $s-3 $s-2;
+    font-family: $font-title-02;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: .075em;
+    background-color: $white;
+    border-radius: 5px;
+    font-size: $s2;
+    @include bp($lg){ font-size: $s3; }
+  }
+  &__place {
+    font-weight: 500;
+    display: inline-block;
+    line-height: 1;
+    font-family: $font-title-01;
+    letter-spacing: -.04em;
+    font-size: $s6;
+    @include bp($lg){ font-size: $s7; }
+  }
+  &__sub {
+    font-weight: 300;
+    line-height: 1.2;
+    letter-spacing: -.005em;
+    margin-top: .25em;
+    font-size: $s1;
+    @include bp($lg){ font-size: $s2; }
+  }
+}
