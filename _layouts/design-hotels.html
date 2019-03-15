@@ -4,15 +4,13 @@ extra-js: true
 extra-css: true
 ---
 
-<div class="vpad--xl">
+<div class="vpad--xxl">
   <div class="container">
     <div class="width--xl">
       <p class="text--xxl">{{page.intro}}</p>
     </div>
   </div>
 </div>
-
-<div class="space--lg"></div>
 
 {% for feature in page.features %}
   <div class="width width--xxxl">
@@ -31,18 +29,17 @@ extra-css: true
         <span class="js-slider-nav slider__btn slider__btn--left" data-slider-nav-direction="prev"></span><span class="js-slider-nav slider__btn slider__btn--right" data-slider-nav-direction="next"></span>
       </div>
     </div>
-
-    </div>
   </div>
   <div class="container">
     <div class="space--lg width--xl">
-      <h2 class="title title--lg">{{feature.title}}</h2>
-      <div class="space--xs"></div>
-      <h3 class="sub-title">{{feature.location}}</h3>
-      <p class="text--lg">{{feature.description}}</p>
+      <h2 class="title title--xl title--color">{{feature.title}}</h2>
+      <div class="space--xxs"></div>
+      <h3 class="sub-title title--color">{{feature.location}}</h3>
+
+      <p class="text--xl">{{feature.description}}</p>
     </div>
     {% unless forloop.last %}
-      <div class="space--xxxl"></div>
+      <div class="space--xxxxl"></div>
     {% endunless %}
   </div>
 {% endfor %}
