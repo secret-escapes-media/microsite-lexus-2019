@@ -1,6 +1,7 @@
+{% assign offer-link-with-tracking = offer.link | append: "?utm_source=SE_media&utm_medium=LexusDesign&utm_campaign=March2019" %}
 <div class="offer">
 
-  <a class="offer__link" href="{{offer.link}}"><span class="btn btn--orange">{{site.offer-card.view-offer}}</span></a>
+  <a class="offer__link" href="{{offer-link-with-tracking}}"><span class="btn btn--orange">{{site.offer-card.view-offer}}</span></a>
 
   {% if offer.image %}
     <div class="bg-img bg-img--3-2" style="background-image: url('{{offer.image}}')"></div>
