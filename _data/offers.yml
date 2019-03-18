@@ -1,119 +1,188 @@
-- title: Spectacular Oslo & Bergen break with optional fjord tour
-  id: spectacular-oslo-bergen-break-with-optional-fjord-tour
-  location: Scandic St. Olavs plass & Clarion Hotel Admiral, Norway
-  description: A fantastic four-night trip to Norway's Oslo and Bergen, with one of the world's most scenic train journeys between the two cities - including flights and an optional fjord tour
-  price: 459
-  price-description: por persona
-  saved: 37
-  expires: 2020/04/14
-  image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
-  link: https://www.secretescapes.com/spectacular-oslo-and-bergen-break-with-optional-fjord-tour-scandic-st-olavs-plass-and-clarion-hotel-admiral-norway-2/sale?gce_urg=0&utm_source=SE&utm_campaign=7_Norway_201703&utm_medium=Hub
+################################################################################
+# DOMESTIC OFFERS
+################################################################################
+
+- title: Gran Hotel La Florida
+  id: gran-hotel-la-florida
+  location: Barcelona
+  description: Lujo y estilo con unas impresionantes vistas de Barcelona, con desayuno y varios extras
+  price: 213
+  price-description: por habitación por noche
+  saved: 29
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44085/257bb694_6873_4ef1_8369_077385effc08.jpg
+  link: https://es.secretescapes.com/gran-hotel-la-florida-barcelona-es-pa/sale
   domestic: true
 
-- title: Farris Bad
-  id: farris-bad
-  location: Larvik, Norway
-  description: Upscale beachfront stay at the first Nordic balneological health resort, with a supersized spa
-  price: 214
-  price-description: por persona
-  saved: 33
-  expires: 2020/04/20
-  image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
-  link: https://www.secretescapes.com/farris-bad-larvik-norway/sale?gce_urg=1&gce_scp=0&utm_source=SE&utm_medium=Hub&utm_campaign=12_Norway_201703
+- title: Coolrooms Atocha
+  id: coolrooms-atocha
+  location: Madrid
+  description: Distinción y confort en pleno Barrio de las Letras en Madrid, con desayuno y una botella de vino
+  price: 151
+  price-description: por habitación por noche
+  saved: 36
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90650/27727061_9a9d_478c_a239_a96e3b890be2.jpg
+  link: https://es.secretescapes.com/coolrooms-atocha-madrid-es/sale
   domestic: true
 
-- title: First Hotel Marin
-  id: first-hotel-marin
-  location: Bergen, Norway
-  description: A unique stay in the centre of picturesque Bergen, just a stone's throw from the harbour
-  price: 48
-  price-description: por persona
-  saved: 43
-  expires: 2020/04/20
-  image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
-  link: https://www.secretescapes.com/first-hotel-marin-bergen-norway/sale?gce_scp=1&utm_source=SE&utm_medium=Hub&utm_campaign=13_Norway_201704
+- title: Gran Hotel Domine Bilbao
+  id: gran-hotel-domine-bilbao
+  location: Bilbao
+  description: Un cinco estrellas de diseño frente al Museo Guggenheim de Bilbao, con desayuno incluido y extras
+  price: 195
+  price-description: por habitación por noche
+  saved: 28
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/3885/bb679eac_3a53_4967_8e2b_41e599e5532f.jpg
+  link: https://es.secretescapes.com/gran-hotel-domine-bilbao-bilbao-es/sale
   domestic: true
 
-- title: Magic Hotel
-  id: magic-hotel
-  location: Bergen, Norway
-  description: A brand-new hip hotel in the centre of Bergen, designed by a top New York designer
-  price: 73
-  price-description: por persona
-  saved: 55
-  expires: 2020/04/20
-  image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
-  link: https://www.secretescapes.com/magic-hotel-bergen-norway/sale?gce_hpf=1&utm_source=SE&utm_medium=Hub&utm_campaign=14_Norway_201704
+- title: Portals Hills Boutique Hotel
+  id: portals-hills-boutique-hotel
+  location: Mallorca
+  description: Un cinco estrellas en Mallorca, cerca de la playa, con desayuno, late check out y extras exclusivos
+  price: 215
+  price-description: por habitación por noche
+  saved: 58
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90577/3a0e4e68_b76e_47ae_9708_b4b5c5804ae1.jpg
+  link: https://es.secretescapes.com/portals-hills-boutique-hotel-portals-nous-es/sale
   domestic: true
 
-- title: Sola Strand Hotel
-  id: sola-strand-hotel
-  location: Sola, Norway
-  description: Discover one of the world's sixth best beaches on Norway's gorgeous coast, with breakfast and more
+- title: Hard Rock Hotel Tenerife
+  id: hard-rock-hotel-tenerife
+  location: Tenerife
+  description: Lujo cinco estrellas al sur de Tenerife, con opción a desayuno o media pensión
+  price: 132
+  price-description: por habitación por noche
+  saved: 21
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/41212/7fdadcfa_7271_4eac_9ae5_014c5f53d32e.jpg
+  link: https://es.secretescapes.com/hard-rock-hotel-tenerife-tenerife01-es/sale
+  domestic: true
+
+- title: Palladium Hotel Costa del Sol
+  id: palladium-hotel-costa-del-sol
+  location: Costa del Sol (Benalmádena, Málaga)
+  description: Relax y todo incluido en plena Costa del Sol, en Benalmádena
+  price: 130
+  price-description: por habitación por noche
+  saved: 23
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90640/e0d98e02_46f6_4533_b47f_2dda8179527e.jpg
+  link: https://es.secretescapes.com/palladium-hotel-costa-del-sol-costa-del-sol-benalmadena-malaga-esp/sale
+  domestic: true
+
+- title: W Barcelona
+  id: w-barcelona
+  location: Barcelona
+  description: Un deslumbrante  cinco estrellas junto a la playa de Barcelona. Incluye desayuno
+  price: 292
+  price-description: por habitación por noche
+  saved: 30
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63501/26bae93a_368c_4368_a439_0fbb1459afa6.jpg
+  link: https://es.secretescapes.com/w-barcelona-barcelona-esp/sale
+  domestic: true
+
+- title: Bless Hotel Ibiza
+  id: bless-hotel-ibiza
+  location: Es Canar, Ibiza
+  description: Un exclusivo hotel a estrenar en Ibiza, con desayuno y un acceso al circuito de agua&nbsp;
+  price: 213
+  price-description: por habitación por noche
+  saved: 27
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90817/b857bf07_345d_4a47_9799_78bf1715d892.jpg
+  link: https://es.secretescapes.com/bless-hotel-ibiza-es-canar/sale
+  domestic: true
+
+
+################################################################################
+# NON DOMESTIC OFFERS
+################################################################################
+
+- title: Clarion Hotel Sign
+  id: clarion-hotel-sign
+  location: Estocolmo
+  description: Un sofisticado hotel de cuatro estrellas en Estocolmo con desayuno y un acceso al spa
+  price: 151
+  price-description: por habitación por noche
+  saved: 30
+  expires: 2019/03/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/38944/dc82153d_c418_4d47_9ce8_d2ae006b1fae.jpg
+  link: https://es.secretescapes.com/clarion-hotel-sign-estocolmo-es/sale
+  domestic: false
+
+- title: Hotel Regency
+  id: hotel-regency
+  location: Florencia
+  description: Un histórico hotel de cinco estrellas en Florencia, con desayuno, bebida de bienvenida y más
+  price: 215
+  price-description: por habitación por noche
+  saved: 30
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90864/c15d475e_4af2_4be1_a517_7723325919ae.jpg
+  link: https://es.secretescapes.com/hotel-regency-florencia-es/sale
+  domestic: false
+
+- title: Palazzo Montemartini, A Radisson Collection Hotel
+  id: palazzo-montemartini-a-radisson-collection-hotel
+  location: Roma
+  description: Estilo y confort en el centro de Roma, dos opciones a elegir con desayuno incluido y extras
+  price: 205
+  price-description: por habitación por noche
+  saved: 27
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9500/07a373e6_a681_46dd_bb8f_5bd72d0168fa.jpg
+  link: https://es.secretescapes.com/palazzo-montemartini-a-radisson-collection-hotel-roma-es/sale
+  domestic: false
+
+- title: Max Brown Berlin
+  id: max-brown-berlin
+  location: Berlín
+  description: Diseño retro y descanso en el carismático barrio de Charlottenburg, con bebida de bienvenida
+  price: 65
+  price-description: por habitación por noche
+  saved: 42
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/38233/3043c768_3ca7_4956_b155_37ebc5d7eb29.jpg
+  link: https://es.secretescapes.com/max-brown-berlin-berlin-es-pa/sale
+  domestic: false
+
+- title: Hotel Indigo Dresden - Wettiner Platz
+  id: hotel-indigo-dresden---wettiner-platz
+  location: Dresde, Alemania
+  description: Confort y diseño en el corazón de Dresde, con desayuno incluido y extras
   price: 79
-  price-description: por persona
-  saved: 47
-  expires: 2020/04/20
-  image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
-  link: https://www.secretescapes.com/sola-strand-hotel-sola-norway/sale?gce_hpf=1&utm_source=SE&utm_medium=Hub&utm_campaign=15_Norway_201704
+  price-description: por habitación por noche
+  saved: 49
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83287/a12b2f9b_accf_450b_9e9b_3c6fc27d94a2.jpg
+  link: https://es.secretescapes.com/hotel-indigo-dresden-wettiner-platz-dresde-es/sale
   domestic: false
 
-- title: Spectacular Oslo & Bergen break with optional fjord tour
-  id: spectacular-oslo-bergen-break-with-optional-fjord-tour
-  location: Scandic St. Olavs plass & Clarion Hotel Admiral, Norway
-  description: A fantastic four-night trip to Norway's Oslo and Bergen, with one of the world's most scenic train journeys between the two cities - including flights and an optional fjord tour
-  price: 459
-  price-description: por persona
-  saved: 37
-  expires: 2020/04/14
-  image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
-  link: https://www.secretescapes.com/spectacular-oslo-and-bergen-break-with-optional-fjord-tour-scandic-st-olavs-plass-and-clarion-hotel-admiral-norway-2/sale?gce_urg=0&utm_source=SE&utm_campaign=7_Norway_201703&utm_medium=Hub
+- title: Hotel Excelsior Venice Lido Resort
+  id: hotel-excelsior-venice-lido-resort
+  location: Venecia
+  description: Un hotel en la playa del Lido de Venecia, con desayuno incluido y una botella de prosecco
+  price: 244
+  price-description: por habitación por noche
+  saved: 57
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/75630/61686b10_1b72_4453_83dd_4c0ab2b47c91.jpg
+  link: https://es.secretescapes.com/hotel-excelsior-venice-lido-resort-venecia-es/sale
   domestic: false
 
-- title: Farris Bad
-  id: farris-bad
-  location: Larvik, Norway
-  description: Upscale beachfront stay at the first Nordic balneological health resort, with a supersized spa
-  price: 214
-  price-description: por persona
-  saved: 33
-  expires: 2020/04/20
-  image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
-  link: https://www.secretescapes.com/farris-bad-larvik-norway/sale?gce_urg=1&gce_scp=0&utm_source=SE&utm_medium=Hub&utm_campaign=12_Norway_201703
-  domestic: false
-
-- title: First Hotel Marin
-  id: first-hotel-marin
-  location: Bergen, Norway
-  description: A unique stay in the centre of picturesque Bergen, just a stone's throw from the harbour
-  price: 48
-  price-description: por persona
-  saved: 43
-  expires: 2020/04/20
-  image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
-  link: https://www.secretescapes.com/first-hotel-marin-bergen-norway/sale?gce_scp=1&utm_source=SE&utm_medium=Hub&utm_campaign=13_Norway_201704
-  domestic: false
-
-- title: Magic Hotel
-  id: magic-hotel
-  location: Bergen, Norway
-  description: A brand-new hip hotel in the centre of Bergen, designed by a top New York designer
-  price: 73
-  price-description: por persona
-  saved: 55
-  expires: 2020/04/20
-  image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
-  link: https://www.secretescapes.com/magic-hotel-bergen-norway/sale?gce_hpf=1&utm_source=SE&utm_medium=Hub&utm_campaign=14_Norway_201704
-  domestic: false
-
-- title: Sola Strand Hotel
-  id: sola-strand-hotel
-  location: Sola, Norway
-  description: Discover one of the world's sixth best beaches on Norway's gorgeous coast, with breakfast and more
-  price: 79
-  price-description: por persona
-  saved: 47
-  expires: 2020/04/20
-  image: http://m-stg.secretescapes.com/lexus-design-collection/img.jpg
-  link: https://www.secretescapes.com/sola-strand-hotel-sola-norway/sale?gce_hpf=1&utm_source=SE&utm_medium=Hub&utm_campaign=15_Norway_201704
+- title: Story Hotel Riddargatan
+  id: story-hotel-riddargatan
+  location: Estocolmo
+  description: Un hotel de estilo escandinavo en pleno centro de Estocolmo, con desayuno buffet incluido
+  price: 125
+  price-description: por habitación por noche
+  saved: 67
+  expires: 2019/03/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/62203/4cf7c76e_a17c_43e7_8d3f_54314311ee85.jpg
+  link: https://es.secretescapes.com/story-hotel-riddargatan-estocolmo-es-es/sale
   domestic: false
