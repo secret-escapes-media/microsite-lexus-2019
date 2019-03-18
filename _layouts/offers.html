@@ -11,7 +11,7 @@ layout: default
     <h2 class="title title--color title--xl">{{site.offer-page.country}}</h2>
     <div class="space--lg"></div>
     <div class="row row--xl-6-6 row--gutters-lg">
-      {% for offer in uk-offers %}
+      {% for offer in domestic-offers %}
         <div class="col">
           {% include offer/offer.html %}
         </div>
@@ -25,7 +25,7 @@ layout: default
     <h2 class="title title--color title--xl">{{site.offer-page.world}}</h2>
     <div class="space--lg"></div>
     <div class="row row--xl-6-6 row--gutters-lg">
-      {% for offer in world-offers %}
+      {% for offer in non-domestic-offers %}
         <div class="col">
           {% include offer/offer.html %}
         </div>
