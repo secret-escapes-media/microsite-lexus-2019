@@ -123,7 +123,7 @@ gulp.task('build-main-js', function(cb) {
     './_assets/js/_components/standard.js',
     './_assets/js/_components/offer-countdown.js',
     './_assets/js/_components/modal.js',
-    './_assets/js/_components/modal-nav.js',
+    // './_assets/js/_components/modal-nav.js',
     './_assets/js/_components/td-modal.js',
     // './_assets/js/_components/sticky-nav.js',
 
