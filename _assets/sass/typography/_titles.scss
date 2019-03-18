@@ -130,8 +130,20 @@
   }
 }
 
-// styles for the hr on the sub title
-.banner-title + .banner-sub-title {
+// styles for the hr on the sub title, needs to be directly applied to element
+.banner-title--hr{
+  display: inline-block;
+  &:after {
+    content: '';
+    display: block;
+    background-color: $white;
+    height: 2px;
+    margin-top: $s-2;
+    margin-bottom: $s-1;
+  }
+}
+.banner-sub-title--hr {
+  display: inline-block;
   &:before {
     content: '';
     display: block;
