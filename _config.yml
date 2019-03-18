@@ -22,7 +22,7 @@ sass:
 
 title: Lexus Design Collection
 description: >
-  Oppdag en verden av design med Lexus og Secret Escapes. Legg ut på et urbant eventyr i en Lexux UX og la byen inspirere deg. Utforsk Desgin Collection med noen av verdens flotteste designhoteller og finn de kuleste stedene å henge med design i fokus i Bergen og Oslo.
+  Oppdag en verden av design med Lexus og Secret Escapes. Legg ut på et urbant eventyr i en Lexux UX og la byen inspirere deg. Utforsk Design Collection med noen av verdens flotteste designhoteller og finn de kuleste stedene å henge med design i fokus i Bergen og Oslo.
 copyright: '© Copyright <span class="js-year">2019</span> Secret Escapes'
 
 # client
@@ -57,8 +57,8 @@ offer-card:
 
 # test drive promo
 test-drive:
-  title: Prøvekjør den nye selvladende hybridbilen Lexux UX
-  description: Dra på et urbant eventyr med prøvekjøring i den nye Lexus&nbsp;UX.
+  title: Prøvekjør den nye selvladende hybriden Lexus&nbsp;UX
+  description: Dra på et urbant eventyr med nye Lexus&nbsp;UX.
   cta: Bestill prøvekjøring
   url: https://www.lexus.no/forms/secret-escapes/test-drive-se
 
