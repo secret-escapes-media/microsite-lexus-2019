@@ -57,8 +57,8 @@ offer-card:
 
 # test drive promo
 test-drive:
-  title: Prøvekjør den nye selvladende hybriden Lexus&nbsp;UX
-  description: Dra på et urbant eventyr med nye Lexus&nbsp;UX.
+  title: Prøvekjør nye Lexus&nbsp;UX
+  description: Forhåndsbestill prøvekjøring for muligheten til å oppleve den nye selvladende hybriden Lexus&nbsp;UX.
   cta: Bestill prøvekjøring
   url: https://www.lexus.no/forms/secret-escapes/test-drive-se
 
