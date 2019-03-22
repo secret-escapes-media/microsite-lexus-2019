@@ -98,30 +98,6 @@
   link: https://es.secretescapes.com/coolrooms-atocha-madrid-es/sale
   domestic: true
 
-- title: San Gemini Palace
-  id: san-gemini-palace
-  location: San Gemini, Umbría
-  description: Una antigua casa de campo de cinco estrellas en el corazón de Italia, con desayuno y late check out
-  price: 300
-  price-description: por suite por noche
-  saved: 47
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90484/cb003673_7d09_4e35_aa02_ac0f52dc936e.jpg
-  link: https://es.secretescapes.com/san-gemini-palace-san-gemini-umbria-es/sale
-  domestic: true
-
-- title: Royal Hideaway Sancti Petri
-  id: royal-hideaway-sancti-petri
-  location: Chiclana de la Frontera, Cádiz
-  description: Descubre la luz de la costa gaditana, desde este lujoso resort, con desayuno incluido y extras
-  price: 50
-  price-description: por persona
-  saved: 28
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66879/a9549f08_6c60_4f84_b0c8_51c341a56145.jpg
-  link: https://www.secretescapes.com/royal-hideaway-sancti-petri-by-barcelo-cadiz-spain/sale
-  domestic: true
-
 
 ################################################################################
 # NON DOMESTIC OFFERS
@@ -139,6 +115,18 @@
   link: https://es.secretescapes.com/hotel-indigo-dresden-wettiner-platz-dresde-es/sale
   domestic: false
 
+- title: San Gemini Palace
+  id: san-gemini-palace
+  location: San Gemini, Umbría
+  description: Una antigua casa de campo de cinco estrellas en el corazón de Italia, con desayuno y late check out
+  price: 300
+  price-description: por suite por noche
+  saved: 47
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90484/cb003673_7d09_4e35_aa02_ac0f52dc936e.jpg
+  link: https://es.secretescapes.com/san-gemini-palace-san-gemini-umbria-es/sale
+  domestic: false
+
 - title: Max Brown Berlin
   id: max-brown-berlin
   location: Berlín
@@ -154,7 +142,7 @@
 - title: Clarion Hotel Sign
   id: clarion-hotel-sign
   location: Estocolmo
-  description: Un sofisticado hotel de cuatro estrellas en Estocolmo con desayuno y un acceso al spa
+  description: Un sofisticado hotel de cuatro estrellas en Estocolmo, con desayuno y un acceso al spa
   price: 151
   price-description: por habitación por noche
   saved: 30
