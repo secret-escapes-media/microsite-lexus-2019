@@ -1,13 +1,66 @@
 ---
 layout: competition
 id: competition
-nav: false
+nav: true
 nav-order: 4
 no-test-drive-promo: true
 
 title: Competition
 long-title: Win your very own design escape
 intro: Enter below to win a luxurious design break in the UK. You’ll have the chance to choose between two gorgeous hotels – whether you have a penchant for clean, scandi-inspired minimalism or elegant, heritage-meets-modern comfort, match the hotel to your style. You’ll have use of the new Lexus UX Self-Charging Hybrid to complete your design escape.
-iframe-url: https://promotion0000.strutta.me
 enter-cta: Enter Now
+
+competition-form:
+  post-url: https://getform.io/f/a3d29d52-2c3f-4ce4-aab2-53adaef7054d
+  expiry-date: 2019-03-23
+  content:
+    questions:
+      - id: colour
+        question: Which colour do you like?
+        answers:
+          - id: red
+            title: Red
+          - id: blue
+            title: Blue
+        statement: the colour [[result]]
+      - id: size
+        question: Do you like large or small?
+        answers:
+          - id: large
+            title: Large
+          - id: small
+            title: Small
+        statement: a [[result]] size
+      - id: amount
+        question: Do you like 5 or 10?
+        answers:
+          - id: five
+            title: 5
+          - id: ten
+            title: 10
+        statement: an amount of [[result]]
+    or: or
+    statement:
+      start: You like
+      end: Enter all of your details below to get a chance to win.
+    choose-again: choose again?
+    name: Name
+    email: Email
+    qualify:
+      question: Are you a UK resident and over the age of 18?
+      'yes': 'Yes'
+      'no': 'No'
+    opt-in:
+      question: Would you like to hear more from Lexus in the future?
+      'yes': 'Yes'
+      'no': 'No'
+    submit: Submit Entry
+    terms: >
+      By submitting your entry, you agree to the <a href="#" class="js-open-modal link--underlined" data-open-modal="competition-terms">terms and conditions</a> of this competition
+  status-messages:
+    - id: no-js
+      title: Please enable JavaScript in your browser to enter this competition
+    - id: expired
+      title: Competition closed
+      description: This competition is not running and we are no longer accepting new entries.
 ---
