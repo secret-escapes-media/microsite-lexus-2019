@@ -2,28 +2,16 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: Magisk fjordutsikt fra Skybaren
-  id: magisk-fjordutsikt-fra-skybaren
-  location: Clarion Hotel & Congress Trondheim, Trondheim, Norge
-  description: Stilig hotell av ypperste klasse med Skybar, like ved Pirbadet og Rockheim i Trondheim
-  price: 1070
+- title: Eksklusive spaopplevelser på Farris Bad
+  id: eksklusive-spaopplevelser-på-farris-bad
+  location: Farris Bad, Larvik, Vestfold, Norge
+  description: Avslappende opphold på Farris Bad, inkludert frokost og adgang til det 2500 m² store spaet
+  price: 1750
   price-description: per rom per natt
-  saved: 37
+  saved: 30
   expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10431/06368d1a_3eae_4fdc_a62b_4a85276b6b3d.jpg
-  link: https://no.secretescapes.com/magisk-fjordutsikt-fra-skybaren-clarion-hotel-and-congress-trondheim-trondheim-norge-no/sale
-  domestic: true
-
-- title: Lekkert designhotell i Bergen
-  id: lekkert-designhotell-i-bergen
-  location: Magic Hotel Solheimsviken, Bergen, Norge
-  description: Opphold på designhotell i vestlandsbyen Bergen, inkl. frokostbuffet og restaurantrabatt
-  price: 670
-  price-description: per rom per natt
-  saved: 21
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39581/f499d3f8_661d_432b_a719_3311bf4d0fe5.jpg
-  link: https://no.secretescapes.com/lekkert-designhotell-i-bergen-magic-hotel-solheimsviken-bergen-norge/sale
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/45456/83a42c93_3380_4637_b1c5_ff96324e2016.jpg
+  link: https://no.secretescapes.com/eksklusive-spaopplevelser-paa-farris-bad-farris-bad-larvik-vestfold-norge-no/sale
   domestic: true
 
 - title: Lad batteriene på Norefjell
@@ -38,153 +26,56 @@
   link: https://no.secretescapes.com/lad-batteriene-paa-norefjell-norefjell-ski-and-spa-norefjell-buskerud-norge-no/sale
   domestic: true
 
-- title: Eksklusive spaopplevelser på Farris Bad
-  id: eksklusive-spaopplevelser-på-farris-bad
-  location: Farris Bad, Larvik, Vestfold, Norge
-  description: Avslappende opphold på Farris Bad, inkludert frokost og adgang til det 2500 m² store spaet
-  price: 1750
+- title: Lekkert designhotell i Bergen
+  id: lekkert-designhotell-i-bergen
+  location: Magic Hotel Solheimsviken, Bergen, Norge
+  description: Opphold på designhotell i vestlandsbyen Bergen, inkl. frokostbuffet og restaurantrabatt
+  price: 670
   price-description: per rom per natt
-  saved: 30
+  saved: 21
   expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/45456/83a42c93_3380_4637_b1c5_ff96324e2016.jpg
-  link: https://no.secretescapes.com/eksklusive-spaopplevelser-paa-farris-bad-farris-bad-larvik-vestfold-norge-no/sale
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39581/f499d3f8_661d_432b_a719_3311bf4d0fe5.jpg
+  link: https://no.secretescapes.com/lekkert-designhotell-i-bergen-magic-hotel-solheimsviken-bergen-norge/sale
   domestic: true
 
+- title: Magisk fjordutsikt fra Skybaren
+  id: magisk-fjordutsikt-fra-skybaren
+  location: Clarion Hotel & Congress Trondheim, Trondheim, Norge
+  description: Stilig hotell av ypperste klasse med Skybar, like ved Pirbadet og Rockheim i Trondheim
+  price: 1070
+  price-description: per rom per natt
+  saved: 37
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10431/06368d1a_3eae_4fdc_a62b_4a85276b6b3d.jpg
+  link: https://no.secretescapes.com/magisk-fjordutsikt-fra-skybaren-clarion-hotel-and-congress-trondheim-trondheim-norge-no/sale
+  domestic: true
+
+- title: Slående utsikt i Tromsø
+  id: slående-utsikt-i-tromsø
+  location: Clarion Hotel The Edge, Tromsø, Norge
+  description: Moderne, miljøvennlig hotell i Tromsø med byens eneste skybar – inkludert frokost
+  price: 1190
+  price-description: per rom per natt
+  saved: 37
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/33026/d2ec107a_e2a9_469d_9052_e0532d4e4429.jpg
+  link: https://no.secretescapes.com/slaaende-utsikt-i-tromsoe-clarion-hotel-the-edge-tromsoe-norge/sale
+  domestic: true
 
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
 
-- title: Firestjerners opphold i Göteborg
-  id: firestjerners-opphold-i-göteborg
-  location: Elite Plaza Hotel Göteborg, Göteborg, Sverige
-  description: Klassisk firestjerners hotell i hjertet av Göteborg, inkludert frokost
-  price: 414
-  price-description: per person
-  saved: 41
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86915/da3d6be8_af50_48de_be93_b72a6a9e36c8.jpg
-  link: https://no.secretescapes.com/firestjerners-opphold-i-goteborg-elite-plaza-hotel-goteborg-goteborg-sverige-no-no/sale
-  domestic: false
-
-- title: Designhotell i populære Berlin
-  id: designhotell-i-populære-berlin
-  location: Max Brown, Berlin, Tyskland
-  description: Herlig opphold på populært designhotell i Berlin, inkludert velkomstdrink
-  price: 628
+- title: Femstjerners drøm i Venezia
+  id: femstjerners-drøm-i-venezia
+  location: Hotel Excelsior Venice Lido Resort, Venezia, Italia
+  description: Luksuriøst opphold i Venezia, inkludert frokost og en flaske prosecco på rommet
+  price: 2354
   price-description: per rom per natt
-  saved: 42
+  saved: 57
   expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/38233/e76c9353_6e7a_41de_9ef3_3933bb57a50c.jpg
-  link: https://no.secretescapes.com/designhotell-i-populaere-berlin-max-brown-berlin-tyskland/sale
-  domestic: false
-
-- title: La deg forføre av Stockholms utsikt
-  id: la-deg-forføre-av-stockholms-utsikt
-  location: Clarion Hotel Sign, Stockholm, Sverige
-  description: Stilig designhotell med spa i Stockholm, inkludert frokost og en adgang til spaet
-  price: 1470
-  price-description: per rom per natt
-  saved: 30
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90526/e82e2314_8cc9_460f_b88b_15a939bf1f2d.jpg
-  link: https://no.secretescapes.com/la-deg-forfoere-av-stockholms-utsikt-clarion-hotel-sign-stockholm-sverige-no/sale
-  domestic: false
-
-- title: Vin og design i Stockholm
-  id: vin-og-design-i-stockholm
-  location: The Winery Hotel, Stockholm, Sverige
-  description: Svensk designdrøm for vinelskere rett utenfor Stockholm, inkludert frokost og mer
-  price: 970
-  price-description: per rom per natt
-  saved: 42
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/58592/adff5716_dada_4b0a_838d_10b92dbfde5a.jpg
-  link: https://no.secretescapes.com/vin-og-design-i-stockholm-the-winery-hotel-stockholm-sverige-no-no/sale
-  domestic: false
-
-- title: Elegant designhotell på Stureplan
-  id: elegant-designhotell-på-stureplan
-  location: Story Hotel Riddargatan, Stockholm, Sverige
-  description: Elegant og unikt designhotell på Stureplan i Stockholm, inkl. frokostbuffet
-  price: 1222
-  price-description: per rom per natt
-  saved: 67
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/62203/4cf7c76e_a17c_43e7_8d3f_54314311ee85.jpg
-  link: https://no.secretescapes.com/elegant-designhotell-paa-stureplan-story-hotel-riddargatan-stockholm-sverige-no-no/sale
-  domestic: false
-
-- title: Luksuriøst boutiquehotell i Madrid
-  id: luksuriøst-boutiquehotell-i-madrid
-  location: Coolrooms Atocha, Madrid, Spania
-  description: Sentralt boutiquehotell med utendørs basseng, bar og restaurant, inkludert frokost m.m.
-  price: 1461
-  price-description: per rom per natt
-  saved: 36
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90650/27727061_9a9d_478c_a239_a96e3b890be2.jpg
-  link: https://no.secretescapes.com/luksurioest-boutiquehotell-i-madrid-coolrooms-atocha-madrid-spania/sale
-  domestic: false
-
-- title: Femstjerners med utsikt i Barcelona
-  id: femstjerners-med-utsikt-i-barcelona
-  location: Gran Hotel La Florida, Barcelona, Spania
-  description: Luksuriøst opphold med utsikt i utkanten av Barcelona, inkludert frokost og romoppgradering
-  price: 2059
-  price-description: per rom per natt
-  saved: 29
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44085/257bb694_6873_4ef1_8369_077385effc08.jpg
-  link: https://no.secretescapes.com/femstjerners-med-utsikt-i-barcelona-gran-hotel-la-florida-barcelona-spania-no/sale
-  domestic: false
-
-- title: Eksklusivt boutiquehotell i Portal Nous
-  id: eksklusivt-boutiquehotell-i-portal-nous
-  location: Portals Hills Boutique Hotel, Portals Nous, Mallorca, Spania
-  description: Opphold på vakkert og moderne hotell med spa, basseng og nattklubb, inkludert frokost m.m.
-  price: 2077
-  price-description: per suite per natt
-  saved: 58
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90577/3a0e4e68_b76e_47ae_9708_b4b5c5804ae1.jpg
-  link: https://no.secretescapes.com/eksklusivt-boutiquehotell-i-portal-nous-portals-hills-boutique-hotel-portals-nous-mallorca-spania/sale
-  domestic: false
-
-- title: Lev livet som rockestjerne
-  id: lev-livet-som-rockestjerne
-  location: Hard Rock Hotel Tenerife, Tenerife, Spania
-  description: Opphold på femstjerners Hard Rock-hotell på Tenerife, inkl. frokost eller halvpensjon
-  price: 1276
-  price-description: per rom per natt
-  saved: 31
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/41212/7fdadcfa_7271_4eac_9ae5_014c5f53d32e.jpg
-  link: https://no.secretescapes.com/lev-livet-som-rockestjerne-hard-rock-hotel-tenerife-tenerife-spania/sale
-  domestic: false
-
-- title: Luksushotell med panoramautsikt
-  id: luksushotell-med-panoramautsikt
-  location: W Barcelona, Barcelona, Spania
-  description: Kombiner bypuls og strandlek på femstjerners strandhotell med spa og fire restauranter
-  price: 2820
-  price-description: per rom per natt
-  saved: 30
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63501/26bae93a_368c_4368_a439_0fbb1459afa6.jpg
-  link: https://no.secretescapes.com/luksushotell-med-panoramautsikt-w-barcelona-barcelona-spania/sale
-  domestic: false
-
-- title: Fem stjerner ved Guggenheim
-  id: fem-stjerner-ved-guggenheim
-  location: Gran Hotel Domine Bilbao, Bilbao, Spania
-  description: Et designhotell i nærheten av Guggenheim-museet med frokost og ekstragoder
-  price: 1888
-  price-description: per rom per natt
-  saved: 28
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/19032/495d410a_c6c5_4140_81dc_aec30a81cc62.jpg
-  link: https://no.secretescapes.com/fem-stjerner-ved-guggenheim-gran-hotel-domine-bilbao-bilbao-spania/sale
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/75630/6a7896da_96c6_4ece_b71c_f0abf2d4e210.jpg
+  link: https://no.secretescapes.com/femstjerners-droem-i-venezia-hotel-excelsior-venice-lido-resort-venezia-italia-no2/sale
   domestic: false
 
 - title: Italiensk eleganse i hovedstaden
@@ -199,14 +90,170 @@
   link: https://no.secretescapes.com/italiensk-eleganse-i-hovedstaden-palazzo-montemartini-roma-italia/sale
   domestic: false
 
-- title: Femstjerners drøm i Venezia
-  id: femstjerners-drøm-i-venezia
-  location: Hotel Excelsior Venice Lido Resort, Venezia, Italia
-  description: Luksuriøst opphold i Venezia, inkludert frokost og en flaske prosecco på rommet
-  price: 2354
+- title: Fem stjerner ved Guggenheim
+  id: fem-stjerner-ved-guggenheim
+  location: Gran Hotel Domine Bilbao, Bilbao, Spania
+  description: Et designhotell i nærheten av Guggenheim-museet med frokost og ekstragoder
+  price: 1888
   price-description: per rom per natt
-  saved: 57
+  saved: 28
   expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/75630/6a7896da_96c6_4ece_b71c_f0abf2d4e210.jpg
-  link: https://no.secretescapes.com/femstjerners-droem-i-venezia-hotel-excelsior-venice-lido-resort-venezia-italia-no2/sale
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/19032/495d410a_c6c5_4140_81dc_aec30a81cc62.jpg
+  link: https://no.secretescapes.com/fem-stjerner-ved-guggenheim-gran-hotel-domine-bilbao-bilbao-spania/sale
+  domestic: false
+
+- title: Luksushotell med panoramautsikt
+  id: luksushotell-med-panoramautsikt
+  location: W Barcelona, Barcelona, Spania
+  description: Kombiner bypuls og strandlek på femstjerners strandhotell med spa og fire restauranter
+  price: 2663
+  price-description: per rom per natt
+  saved: 34
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63501/26bae93a_368c_4368_a439_0fbb1459afa6.jpg
+  link: https://no.secretescapes.com/luksushotell-med-panoramautsikt-w-barcelona-barcelona-spania/sale
+  domestic: false
+
+- title: Lev livet som rockestjerne
+  id: lev-livet-som-rockestjerne
+  location: Hard Rock Hotel Tenerife, Tenerife, Spania
+  description: Opphold på femstjerners Hard Rock-hotell på Tenerife, inkl. frokost eller halvpensjon
+  price: 1201
+  price-description: per rom per natt
+  saved: 35
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/41212/7fdadcfa_7271_4eac_9ae5_014c5f53d32e.jpg
+  link: https://no.secretescapes.com/lev-livet-som-rockestjerne-hard-rock-hotel-tenerife-tenerife-spania/sale
+  domestic: false
+
+- title: Eksklusivt boutiquehotell i Portal Nous
+  id: eksklusivt-boutiquehotell-i-portal-nous
+  location: Portals Hills Boutique Hotel, Portals Nous, Mallorca, Spania
+  description: Opphold på vakkert og moderne hotell med spa, basseng og nattklubb, inkludert frokost m.m.
+  price: 2077
+  price-description: per suite per natt
+  saved: 58
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90577/3a0e4e68_b76e_47ae_9708_b4b5c5804ae1.jpg
+  link: https://no.secretescapes.com/eksklusivt-boutiquehotell-i-portal-nous-portals-hills-boutique-hotel-portals-nous-mallorca-spania/sale
+  domestic: false
+
+- title: Femstjerners med utsikt i Barcelona
+  id: femstjerners-med-utsikt-i-barcelona
+  location: Gran Hotel La Florida, Barcelona, Spania
+  description: Luksuriøst opphold med utsikt i utkanten av Barcelona, inkludert frokost og romoppgradering
+  price: 2059
+  price-description: per rom per natt
+  saved: 29
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90731/f4548ddb_ce97_44e5_a072_083ce9106bd2.jpg
+  link: https://no.secretescapes.com/femstjerners-med-utsikt-i-barcelona-gran-hotel-la-florida-barcelona-spania-no/sale
+  domestic: false
+
+- title: Luksuriøst boutiquehotell i Madrid
+  id: luksuriøst-boutiquehotell-i-madrid
+  location: Coolrooms Atocha, Madrid, Spania
+  description: Sentralt boutiquehotell med utendørs basseng, bar og restaurant, inkludert frokost m.m.
+  price: 1461
+  price-description: per rom per natt
+  saved: 36
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90650/27727061_9a9d_478c_a239_a96e3b890be2.jpg
+  link: https://no.secretescapes.com/luksurioest-boutiquehotell-i-madrid-coolrooms-atocha-madrid-spania/sale
+  domestic: false
+
+- title: Elegant designhotell på Stureplan
+  id: elegant-designhotell-på-stureplan
+  location: Story Hotel Riddargatan, Stockholm, Sverige
+  description: Elegant og unikt designhotell på Stureplan i Stockholm, inkl. frokostbuffet
+  price: 1102
+  price-description: per rom per natt
+  saved: 67
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/62203/4cf7c76e_a17c_43e7_8d3f_54314311ee85.jpg
+  link: https://no.secretescapes.com/elegant-designhotell-paa-stureplan-story-hotel-riddargatan-stockholm-sverige-no-no/sale
+  domestic: false
+
+- title: Vin og design i Stockholm
+  id: vin-og-design-i-stockholm
+  location: The Winery Hotel, Stockholm, Sverige
+  description: Svensk designdrøm for vinelskere rett utenfor Stockholm, inkludert frokost og mer
+  price: 970
+  price-description: per rom per natt
+  saved: 42
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/58592/adff5716_dada_4b0a_838d_10b92dbfde5a.jpg
+  link: https://no.secretescapes.com/vin-og-design-i-stockholm-the-winery-hotel-stockholm-sverige-no-no/sale
+  domestic: false
+
+- title: La deg forføre av Stockholms utsikt
+  id: la-deg-forføre-av-stockholms-utsikt
+  location: Clarion Hotel Sign, Stockholm, Sverige
+  description: Stilig designhotell med spa i Stockholm, inkludert frokost og en adgang til spaet
+  price: 1470
+  price-description: per rom per natt
+  saved: 30
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90526/e82e2314_8cc9_460f_b88b_15a939bf1f2d.jpg
+  link: https://no.secretescapes.com/la-deg-forfoere-av-stockholms-utsikt-clarion-hotel-sign-stockholm-sverige-no/sale
+  domestic: false
+
+- title: Designhotell i populære Berlin
+  id: designhotell-i-populære-berlin
+  location: Max Brown, Berlin, Tyskland
+  description: Herlig opphold på populært designhotell i Berlin, inkludert velkomstdrink
+  price: 628
+  price-description: per rom per natt
+  saved: 42
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/38233/e76c9353_6e7a_41de_9ef3_3933bb57a50c.jpg
+  link: https://no.secretescapes.com/designhotell-i-populaere-berlin-max-brown-berlin-tyskland/sale
+  domestic: false
+
+- title: Prestisjefylt designhotell i Berlin
+  id: prestisjefylt-designhotell-i-berlin
+  location: Patrick Hellmann Schlosshotel, Berlin, Tyskland
+  description: Tidløs eleganse i sjarmerende villa med spa i nærheten av Ku'Damm, inkl. frokost m.m.
+  price: 1731
+  price-description: per rom per natt
+  saved: 50
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/77585/c3a23f33_a8c4_42d1_98e0_8765d9da33e6.jpg
+  link: https://no.secretescapes.com/prestisjefylt-designhotell-i-berlin-patrick-hellmann-schlosshotel-berlin-tyskland-no/sale
+  domestic: false
+
+- title: Nytt og femstjerners på Tenerife
+  id: nytt-og-femstjerners-på-tenerife
+  location: H10 Atlantic Sunset, Playa Paraiso, Tenerife, Spania
+  description: Opphold på et nyåpnet luksushotell med flotte fasiliteter i fredfylte Playa Paraiso
+  price: 1498
+  price-description: per rom per natt
+  saved: 28
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91198/b57978af_4699_4696_8c4a_741666e30bb8.jpg
+  link: https://no.secretescapes.com/nytt-og-femstjerners-paa-tenerife-h10-atlantic-sunset-playa-paraiso-tenerife-spania/sale
+  domestic: false
+
+- title: Utmerket beliggenhet i Barcelona
+  id: utmerket-beliggenhet-i-barcelona
+  location: Vincci Gala, Barcelona, Spania
+  description: Firestjerners hotell med terrasse i Barcelona – tett på Arc de Triomf, La Rambla og Barri Gòtic
+  price: 1506
+  price-description: per rom per natt
+  saved: 32
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86687/2a692e00_b338_4ca2_804d_964c66f7d26e.jpg
+  link: https://no.secretescapes.com/utmerket-beliggenhet-i-barcelona-vincci-gala-barcelona-spania-no/sale
+  domestic: false
+
+- title: Aktivitetspakket opphold på Gran Canaria
+  id: aktivitetspakket-opphold-på-gran-canaria
+  location: Radisson Blu Resort Gran Canaria, La Playa de Arguineguin, Gran Canaria, Spania
+  description: Førsteklasses strandhotell med et stort utvalg sportsaktiviteter, inkl. frokost eller halvpensjon
+  price: 1499
+  price-description: per rom per natt
+  saved: 35
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91108/09bb4cec_3a47_4b20_8f18_46a3efb0209c.jpg
+  link: https://no.secretescapes.com/aktivitetspakket-opphold-paa-gran-canaria-radisson-blu-resort-gran-canaria-la-playa-de-arguineguin-gran-canaria-spania/sale
   domestic: false
