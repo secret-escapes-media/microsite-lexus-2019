@@ -52,14 +52,14 @@ banner:
         {% for question in form.content.questions %}
         <div class="form__step js-form-step">
           <div class="text--center">
-            <div class="questions__title title title--lg">{{question.question}}</div>
+            <div class="questions__title width width--xl">{{question.question}}</div>
             <div class="questions">
               {% for answer in question.answers %}
                 <div class="questions__option">
                   <div class="bg-img bg-img--3-2 bg-img--sm-16-9 bg-img--lg-1-1 bg-img--xxl-4-3" style="background-image: url('{{site.img}}/content/{{page.id}}/questions/{{question.id}}-{{answer.id}}.jpg');">
                     <a href="#" class="bg-img__link js-option-answer" data-question="{{question.id}}" data-title="{{answer.title | downcase}}" data-value="{{answer.id}}"></a>
                     <div class="bg-img__content">
-                      <div class="title title--xl">{{answer.title}}</div>
+                      <div class="title title--lg">{{answer.title}}</div>
                     </div>
                   </div>
                 </div>

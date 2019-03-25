@@ -258,7 +258,14 @@ $errorbg: #feeaed;
   justify-content: space-between;
   flex-direction: column;
   @include bp($lg){ flex-direction: row; }
-  &__title { padding-bottom: $s4; }
+  &__title {
+    padding-bottom: $s6;
+    font-family: $font-title-01;
+    line-height: 1.15;
+    letter-spacing: -.015em;
+    font-weight: 400;
+    font-size: $s5;
+  }
   &__option {
     width: 100%;
     @include bp($lg){ width: 46.5%; }
