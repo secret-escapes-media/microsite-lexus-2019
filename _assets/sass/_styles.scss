@@ -26,3 +26,8 @@
   background-position-x: 66%;
   @include bp($xxxl){ background-position-x: 50%; }
 }
+
+.link {
+  &:hover { text-decoration: underline; }
+  &--underlined { text-decoration: underline; }
+}
