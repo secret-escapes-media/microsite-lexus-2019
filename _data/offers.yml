@@ -29,7 +29,7 @@
 - title: Palladium Hotel Costa del Sol
   id: palladium-hotel-costa-del-sol
   location: Costa del Sol (Benalmádena, Málaga)
-  description: Relax y todo incluido en plena Costa del Sol, en Benalmádena
+  description: Todo incluido en un imponente hotel de cuatro estrellas en Benalmádena, con vistas al Mediterráneo
   price: 130
   price-description: por habitación por noche
   saved: 23
@@ -42,9 +42,9 @@
   id: w-barcelona
   location: Barcelona
   description: Un deslumbrante  cinco estrellas junto a la playa de Barcelona. Incluye desayuno
-  price: 292
+  price: 276
   price-description: por habitación por noche
-  saved: 30
+  saved: 34
   expires: 2019/03/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63501/26bae93a_368c_4368_a439_0fbb1459afa6.jpg
   link: https://es.secretescapes.com/w-barcelona-barcelona-esp/sale
@@ -54,9 +54,9 @@
   id: hard-rock-hotel-tenerife
   location: Tenerife
   description: Lujo cinco estrellas al sur de Tenerife, con opción a desayuno o media pensión y extras
-  price: 132
+  price: 124
   price-description: por habitación por noche
-  saved: 31
+  saved: 35
   expires: 2019/03/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/41212/7fdadcfa_7271_4eac_9ae5_014c5f53d32e.jpg
   link: https://es.secretescapes.com/hard-rock-hotel-tenerife-tenerife01-es/sale
@@ -77,12 +77,12 @@
 - title: Gran Hotel La Florida
   id: gran-hotel-la-florida
   location: Barcelona
-  description: Lujo y estilo con unas impresionantes vistas de Barcelona, con desayuno y varios extras
+  description: Lujo y estilo con unas impresionantes vistas de Barcelona, con desayuno, acceso al spa y más extras
   price: 213
   price-description: por habitación por noche
   saved: 29
   expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44085/257bb694_6873_4ef1_8369_077385effc08.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90731/f4548ddb_ce97_44e5_a072_083ce9106bd2.jpg
   link: https://es.secretescapes.com/gran-hotel-la-florida-barcelona-es-pa/sale
   domestic: true
 
@@ -98,22 +98,94 @@
   link: https://es.secretescapes.com/coolrooms-atocha-madrid-es/sale
   domestic: true
 
+- title: H10 Atlantic Sunset
+  id: h10-atlantic-sunset
+  location: Santa Cruz de Tenerife
+  description: Media pensión o todo incluido en un resort de ensueño en Playa Paraíso
+  price: 155
+  price-description: por habitación por noche
+  saved: 28
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91198/b57978af_4699_4696_8c4a_741666e30bb8.jpg
+  link: https://es.secretescapes.com/h10-atlantic-sunset-santa-cruz-de-tenerife-es/sale
+  domestic: true
+
+- title: Insotel Fenicia Prestige Suites & Spa
+  id: insotel-fenicia-prestige-suites-and-spa
+  location: Santa Eulalia, Ibiza
+  description: Lujo cinco estrellas en Ibiza, con opción a desayuno o media pensión, acceso al spa y más extras
+  price: 180
+  price-description: por suite por noche
+  saved: 48
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91029/ba4c61c1_59b3_4c5c_8a84_372f3975095a.jpg
+  link: https://es.secretescapes.com/insotel-fenicia-prestige-suites-and-spa-santa-eularia-des-riu-es/sale
+  domestic: true
+
+- title: Hotel Vincci Gala
+  id: hotel-vincci-gala
+  location: Barcelona
+  description: Un cuatro estrellas de alma modernista en pleno Ensanche, con opción a desayuno y extras
+  price: 156
+  price-description: por habitación por noche
+  saved: 32
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86687/2a692e00_b338_4ca2_804d_964c66f7d26e.jpg
+  link: https://es.secretescapes.com/hotel-vincci-gala-barcelona-es-pa/sale
+  domestic: true
+
+- title: NH Collection Eurobuilding
+  id: nh-collection-eurobuilding
+  location: Madrid
+  description: Un moderno hotel en pleno barrio de Chamartín, con desayuno incluido y varios extras
+  price: 92
+  price-description: por habitación por noche
+  saved: 63
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90979/4774c989_d6e1_4ad9_9177_e834de5d48f7.jpg
+  link: https://es.secretescapes.com/nh-collection-eurobuilding-madrid-es-pa/sale
+  domestic: true
+
+- title: Radisson Blu Resort Gran Canaria
+  id: radisson-blu-resort-gran-canaria
+  location: Gran Canaria
+  description: Un cinco estrellas asomado al mar en Gran Canaria, con opción a desayuno o media pensión
+  price: 155
+  price-description: por habitación por noche
+  saved: 35
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91108/785fd84d_103d_4494_9532_3f17c289a872.jpg
+  link: https://es.secretescapes.com/radisson-blu-resort-gran-canaria-gran-canaria-es-pa/sale
+  domestic: true
+
+- title: EME Catedral Hotel
+  id: eme-catedral-hotel
+  location: Sevilla
+  description: Un hotel boutique de cinco estrellas en el centro de Sevilla, con opción a desayuno
+  price: 173
+  price-description: por habitación por noche
+  saved: 35
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91306/13cd32c8_aead_4611_aa4d_e188be767c64.jpg
+  link: https://es.secretescapes.com/eme-catedral-hotel-sevilla-es/sale
+  domestic: true
+
+- title: Royal Hideaway Sancti Petri
+  id: royal-hideaway-sancti-petri
+  location: Chiclana de la Frontera, Cádiz
+  description: Descubre la luz de la costa gaditana, desde este lujoso resort, con desayuno incluido y extras
+  price: 50
+  price-description: por persona
+  saved: 28
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66879/26cf73bf_d677_4d5a_bff0_ac416196b21c.jpg
+  link: https://es.secretescapes.com/royal-hideaway-sancti-petri-chiclana-de-la-frontera-cadiz/sale
+  domestic: true
+
 
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
-
-- title: Hotel Indigo Dresden - Wettiner Platz
-  id: hotel-indigo-dresden---wettiner-platz
-  location: Dresde, Alemania
-  description: Confort y diseño en el corazón de Dresde, con desayuno incluido y extras
-  price: 79
-  price-description: por habitación por noche
-  saved: 49
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83287/a12b2f9b_accf_450b_9e9b_3c6fc27d94a2.jpg
-  link: https://es.secretescapes.com/hotel-indigo-dresden-wettiner-platz-dresde-es/sale
-  domestic: false
 
 - title: San Gemini Palace
   id: san-gemini-palace
@@ -127,52 +199,16 @@
   link: https://es.secretescapes.com/san-gemini-palace-san-gemini-umbria-es/sale
   domestic: false
 
-- title: Max Brown Berlin
-  id: max-brown-berlin
-  location: Berlín
-  description: Diseño retro y descanso en el carismático barrio de Charlottenburg, con bebida de bienvenida
-  price: 65
-  price-description: por habitación por noche
-  saved: 42
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/38233/3043c768_3ca7_4956_b155_37ebc5d7eb29.jpg
-  link: https://es.secretescapes.com/max-brown-berlin-berlin-es-pa/sale
-  domestic: false
-
-- title: Clarion Hotel Sign
-  id: clarion-hotel-sign
-  location: Estocolmo
-  description: Un sofisticado hotel de cuatro estrellas en Estocolmo, con desayuno y un acceso al spa
-  price: 151
+- title: Hotel Regency
+  id: hotel-regency
+  location: Florencia
+  description: Un histórico hotel de cinco estrellas en Florencia, con desayuno, bebida de bienvenida y más
+  price: 215
   price-description: por habitación por noche
   saved: 30
   expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/38944/dc82153d_c418_4d47_9ce8_d2ae006b1fae.jpg
-  link: https://es.secretescapes.com/clarion-hotel-sign-estocolmo-es/sale
-  domestic: false
-
-- title: Story Hotel Riddargatan
-  id: story-hotel-riddargatan
-  location: Estocolmo
-  description: Un hotel de estilo escandinavo en pleno centro de Estocolmo, con desayuno buffet incluido
-  price: 125
-  price-description: por habitación por noche
-  saved: 67
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/62203/4cf7c76e_a17c_43e7_8d3f_54314311ee85.jpg
-  link: https://es.secretescapes.com/story-hotel-riddargatan-estocolmo-es-es/sale
-  domestic: false
-
-- title: Palazzo Montemartini, A Radisson Collection Hotel
-  id: palazzo-montemartini-a-radisson-collection-hotel
-  location: Roma
-  description: Estilo y confort en el centro de Roma, dos opciones a elegir con desayuno incluido y extras
-  price: 205
-  price-description: por habitación por noche
-  saved: 27
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9500/07a373e6_a681_46dd_bb8f_5bd72d0168fa.jpg
-  link: https://es.secretescapes.com/palazzo-montemartini-a-radisson-collection-hotel-roma-es/sale
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90864/5ff69763_5c4c_4538_81dd_a7defb8f9cec.jpg
+  link: https://es.secretescapes.com/hotel-regency-florencia-es/sale
   domestic: false
 
 - title: Hotel Excelsior Venice Lido Resort
@@ -187,14 +223,74 @@
   link: https://es.secretescapes.com/hotel-excelsior-venice-lido-resort-venecia-es/sale
   domestic: false
 
-- title: Hotel Regency
-  id: hotel-regency
-  location: Florencia
-  description: Un histórico hotel de cinco estrellas en Florencia, con desayuno, bebida de bienvenida y más
-  price: 215
+- title: Palazzo Montemartini, A Radisson Collection Hotel
+  id: palazzo-montemartini-a-radisson-collection-hotel
+  location: Roma
+  description: Estilo y confort en el centro de Roma, dos opciones a elegir con desayuno incluido y extras
+  price: 205
+  price-description: por habitación por noche
+  saved: 27
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9500/07a373e6_a681_46dd_bb8f_5bd72d0168fa.jpg
+  link: https://es.secretescapes.com/palazzo-montemartini-a-radisson-collection-hotel-roma-es/sale
+  domestic: false
+
+- title: Story Hotel Riddargatan
+  id: story-hotel-riddargatan
+  location: Estocolmo
+  description: Un hotel de estilo escandinavo en pleno centro de Estocolmo, con desayuno buffet incluido
+  price: 113
+  price-description: por habitación por noche
+  saved: 67
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/62203/461d2da7_fec8_4cf0_9b3d_31f16cc3310a.jpg
+  link: https://es.secretescapes.com/story-hotel-riddargatan-estocolmo-es-es/sale
+  domestic: false
+
+- title: Clarion Hotel Sign
+  id: clarion-hotel-sign
+  location: Estocolmo
+  description: Un sofisticado hotel de cuatro estrellas en Estocolmo, con desayuno y un acceso al spa
+  price: 151
   price-description: por habitación por noche
   saved: 30
   expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90864/5ff69763_5c4c_4538_81dd_a7defb8f9cec.jpg
-  link: https://es.secretescapes.com/hotel-regency-florencia-es/sale
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/38944/dc82153d_c418_4d47_9ce8_d2ae006b1fae.jpg
+  link: https://es.secretescapes.com/clarion-hotel-sign-estocolmo-es/sale
+  domestic: false
+
+- title: Max Brown Berlin
+  id: max-brown-berlin
+  location: Berlín
+  description: Diseño retro y descanso en el carismático barrio de Charlottenburg, con bebida de bienvenida
+  price: 65
+  price-description: por habitación por noche
+  saved: 42
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/38233/3043c768_3ca7_4956_b155_37ebc5d7eb29.jpg
+  link: https://es.secretescapes.com/max-brown-berlin-berlin-es-pa/sale
+  domestic: false
+
+- title: Hotel Indigo Dresden - Wettiner Platz
+  id: hotel-indigo-dresden---wettiner-platz
+  location: Dresde, Alemania
+  description: Confort y diseño en el corazón de Dresde, con desayuno incluido y extras
+  price: 79
+  price-description: por habitación por noche
+  saved: 49
+  expires: 2019/03/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83287/a12b2f9b_accf_450b_9e9b_3c6fc27d94a2.jpg
+  link: https://es.secretescapes.com/hotel-indigo-dresden-wettiner-platz-dresde-es/sale
+  domestic: false
+
+- title: Patrick Hellmann Schlosshotel
+  id: patrick-hellmann-schlosshotel
+  location: Berlín
+  description: Todo el confort en un cinco estrellas de diseño en el centro de Berlín, con desayuno y varios extras
+  price: 179
+  price-description: por habitación por noche
+  saved: 50
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/77585/c3a23f33_a8c4_42d1_98e0_8765d9da33e6.jpg
+  link: https://es.secretescapes.com/patrick-hellmann-schlosshotel-berlin-es-pa/sale
   domestic: false
