@@ -22,7 +22,7 @@ sass:
 
 title: Lexus Design Collection
 description: >
-  Parti per un viaggio nel design con Lexus e Secret Escapes. Mettiti alla guida del nuovo Lexus UX e preparati a vivere un'avventura urbana senza paragoni. Tra hotel di design griffati e location all'ultima moda, Roma e Milano non hanno più segreti per te. Scopri con noi l'esclusiva Design Collection.
+  Parti per un viaggio nel design con Lexus e Secret Escapes. Mettiti alla guida del nuovo Lexus&nbsp;UX Hybrid e preparati a vivere un'avventura urbana senza paragoni. Tra hotel di design griffati e location all'ultima moda, Roma e Milano non hanno più segreti per te. Scopri con noi l'esclusiva Design Collection.
 copyright: '© Copyright <span class="js-year">2019</span> Secret Escapes'
 
 # client
@@ -57,8 +57,8 @@ offer-card:
 
 # test drive promo
 test-drive:
-  title: Prova il nuovo Lexus UX con tecnologia Self Charging Hybrid
-  description: Preparati a vivere un'avventura metropolitana sul primo crossover compatto ibrido elettrificato.
+  title: Prova il nuovo Lexus&nbsp;UX Hybrid con tecnologia Full Hybrid Electric
+  description: Preparati a vivere un'avventura metropolitana sul primo crossover compatto ibrido elettrificato
   cta: Prenota ora il tuo test drive
   url: https://www.lexus.it/forms/secret-escapes/test-drive-se
 
