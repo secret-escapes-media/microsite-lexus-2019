@@ -437,3 +437,15 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91306/13cd32c8_aead_4611_aa4d_e188be767c64.jpg
   link: https://www.secretescapes.se/urbant-boutiquehotell-i-sevilla-eme-catedral-hotel-sevilla-spanien/sale
   domestic: false
+
+- title: Elegant boutiquehotell i centrala Milano
+  id: elegant-boutiquehotell-i-centrala-milano
+  location: TownHouse Galleria, Milano, Italien
+  description: Unikt boende inuti den fashionabla gallerian Vittorio Emanuele II, inkl. frukost och prosecco
+  price: 3460
+  price-description: per rum per natt
+  saved: 36
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91152/874f9f11_1d6a_44fb_a037_3a361ffe004a.jpg
+  link: https://www.secretescapes.se/elegant-boutiquehotell-i-centrala-milano-townhouse-galleria-milano-italien/sale
+  domestic: false
