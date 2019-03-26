@@ -294,3 +294,15 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/77585/c3a23f33_a8c4_42d1_98e0_8765d9da33e6.jpg
   link: https://es.secretescapes.com/patrick-hellmann-schlosshotel-berlin-es-pa/sale
   domestic: false
+
+- title: TownHouse Galleria Milano
+  id: townhouse-galleria-milano
+  location: Milán
+  description: Lujo y estilo en el centro de Milán. Incluye desayuno y una botella de prosecco
+  price: 330
+  price-description: por habitación por noche
+  saved: 36
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91152/3c2d3571_fcdc_466b_a039_fa5102b24849.jpg
+  link: https://es.secretescapes.com/townhouse-galleria-milano-milan-esp/sale
+  domestic: false
