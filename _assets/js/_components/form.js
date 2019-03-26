@@ -54,14 +54,14 @@ $('.js-option-answer').on('click',function(e) {
   e.preventDefault();
   var question = $(this).data('question');
   var chosenValue = $(this).data('value');
-  var chosenTitle = $(this).data('title');
+  var chosenStatement = $(this).data('statement');
   var questionInput = $('.' + formHiddenInputClass + ' #' + question);
   // save selected answer to hidden form input
   questionInput.val(chosenValue);
   // show selected answer in the final step of form
   var statments = $('.' + formResultStatementClass);
   var thisStatement = statments.find('.js-answer-' + question);
-  thisStatement.text(chosenTitle);
+  thisStatement.text(chosenStatement);
   // show the next step and hide current
   var currentStep = $(this).closest('.' + formStepClass);
   var nextStep = currentStep.next('.' + formStepClass);
@@ -74,7 +74,7 @@ $('.js-reset-choices').on('click',function(e) {
   e.preventDefault();
   showFirstStep();
   $('.' + formHiddenInputClass + ' input').each(function() {
-    console.log($(this).val('')); // remove the previous value
+    $(this).val(''); // remove the previous value
   });
 });
 
