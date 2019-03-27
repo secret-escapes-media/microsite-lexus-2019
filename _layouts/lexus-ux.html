@@ -28,7 +28,7 @@ layout: default
           <h2 class="title title--md">{{feature.title}}</h2>
           <p>{{feature.description}}</p>
           <div class="space--sm"></div>
-          <a id="track-lexus-{{feature.id}}-btn" href="{{feature.link}}" class="btn btn--sm btn--outline btn--outline-black"{% if feature.open-in-tab %} target="_blank"{% endif %}>{{page.feature-cta}}</a>
+          <a id="track-lexus-{{feature.id}}-btn" href="{{feature.link}}" class="btn btn--sm btn--outline btn--outline-black"{% if feature.open-in-tab %} target="_blank"{% endif %}>{{feature.cta-label}}</a>
         </div>
       </div>
     {% endfor %}
