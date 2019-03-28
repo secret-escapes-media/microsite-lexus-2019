@@ -9,7 +9,7 @@
   price: 1190
   price-description: per rum per natt
   saved: 67
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/62203/4cf7c76e_a17c_43e7_8d3f_54314311ee85.jpg
   link: https://www.secretescapes.se/boutiquehotell-paa-ostermalm-story-hotel-riddargatan-stockholm01/sale
   domestic: true
@@ -21,31 +21,19 @@
   price: 1050
   price-description: per rum per natt
   saved: 42
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/58592/adff5716_dada_4b0a_838d_10b92dbfde5a.jpg
   link: https://www.secretescapes.se/designhotell-med-vinfokus-i-solna-the-winery-hotel-solna-stockholm/sale
-  domestic: true
-
-- title: Spavistelse på designhotell i Stockholm
-  id: spavistelse-på-designhotell-i-stockholm
-  location: Clarion Hotel Sign, Stockholm
-  description: Snyggt designhotell med spa i närheten av Hötorget, inkl. frukost och spaentré
-  price: 1595
-  price-description: per rum per natt
-  saved: 30
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90526/e82e2314_8cc9_460f_b88b_15a939bf1f2d.jpg
-  link: https://www.secretescapes.se/designsaeker-vistelse-i-centrala-stockholm-clarion-hotel-sign-stockholm/sale
   domestic: true
 
 - title: Vackert boutiquehotell utanför Stockholm
   id: vackert-boutiquehotell-utanför-stockholm
   location: Görvälns Slott, Järfälla, utanför Stockholm
   description: Lev lyxlivet på ett originellt boutiquehotell på anrikt slott, inkl. frukost och fyrarättersmiddag
-  price: 2990
+  price: 2495
   price-description: per rum per natt
   saved: 35
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90811/18b1d890_eb28_461b_9035_c2a1a69e4e83.jpg
   link: https://www.secretescapes.se/vackert-boutiquehotell-utanfor-stockholm-gorvaelns-slott-jaerfaella-utanfor-stockholm-se/sale
   domestic: true
@@ -57,7 +45,7 @@
   price: 890
   price-description: per rum per natt
   saved: 22
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73003/09903476_97eb_4551_a24c_ee62e9fe965a.jpg
   link: https://www.secretescapes.se/prisbelont-designhotell-i-linkoping-quality-hotel-the-box-linkoping/sale
   domestic: true
@@ -69,7 +57,7 @@
   price: 810
   price-description: per rum per natt
   saved: 42
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/18864/981b42be_2400_4009_84f1_85c209e99817.jpg
   link: https://www.secretescapes.se/fina-vyer-fraan-malmos-hogsta-bar-clarion-hotel-and-congress-malmo-live-malmo-se3/sale
   domestic: true
@@ -81,7 +69,7 @@
   price: 2160
   price-description: per rum per natt
   saved: 33
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90471/cb7410d1_515f_4e8e_bac4_d9c070de405a.jpg
   link: https://www.secretescapes.se/elegant-skaanskt-hotell-med-anor-fraan-1600-talet-hoors-gaestgifwaregaard-hoor-skaane/sale
   domestic: true
@@ -93,7 +81,7 @@
   price: 2595
   price-description: per rum per natt
   saved: 25
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/79540/fa2e7a13_baa7_411f_89c6_b0109c656ef2.jpg
   link: https://www.secretescapes.se/skaanskt-boutiquehotell-med-gourmetmat-wanaas-restaurant-hotel-wanaas-skaane/sale
   domestic: true
@@ -121,7 +109,7 @@
   price: 2250
   price-description: per rum per natt
   saved: 30
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90864/5ff69763_5c4c_4538_81dd_a7defb8f9cec.jpg
   link: https://www.secretescapes.se/utforska-florens-enastaaende-charm-hotel-regency-florens-italien-se-1/sale
   domestic: false
@@ -133,7 +121,7 @@
   price: 2550
   price-description: per rum per natt
   saved: 57
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/75630/7ddaaff7_8bc0_4719_aac9_286aada1739c.jpg
   link: https://www.secretescapes.se/ottomanska-influenser-paa-on-lido-hotel-excelsior-venice-venedig-italien-se1/sale
   domestic: false
@@ -145,7 +133,7 @@
   price: 2150
   price-description: per rum per natt
   saved: 27
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9500/07a373e6_a681_46dd_bb8f_5bd72d0168fa.jpg
   link: https://www.secretescapes.se/italiensk-elegans-i-huvudstaden-palazzo-montemartini-rom-italien/sale
   domestic: false
@@ -157,7 +145,7 @@
   price: 3140
   price-description: per svit per natt
   saved: 47
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90484/cb003673_7d09_4e35_aa02_ac0f52dc936e.jpg
   link: https://www.secretescapes.se/njut-av-mat-och-dryck-i-vackra-san-gemini-san-gemini-palace-san-gemini-italien/sale
   domestic: false
@@ -169,21 +157,9 @@
   price: 2050
   price-description: per rum per natt
   saved: 28
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/19032/495d410a_c6c5_4140_81dc_aec30a81cc62.jpg
   link: https://www.secretescapes.se/femstjaernigt-mittemot-guggenheim-gran-hotel-domine-bilbao-spanien-se/sale
-  domestic: false
-
-- title: Femstjärnigt designhotell på Ibiza
-  id: femstjärnigt-designhotell-på-ibiza
-  location: Bless Hotel Ibiza, Cala Nova, Ibiza, Spanien
-  description: Lyxigt boutiquehotell med spa, två pooler och gourmetrestaurang, inkl. frukost
-  price: 2230
-  price-description: per rum per natt
-  saved: 27
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90817/db79d695_25d7_4615_b54f_a0d37cfe2303.jpg
-  link: https://www.secretescapes.se/femstjaernigt-strandhotell-paa-ibiza-bless-hotel-ibiza-cala-nova-ibiza-spanien/sale
   domestic: false
 
 - title: Stilrent boende på Costa del Sol
@@ -193,7 +169,7 @@
   price: 1360
   price-description: per rum per natt
   saved: 23
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90640/e0d98e02_46f6_4533_b47f_2dda8179527e.jpg
   link: https://www.secretescapes.se/toppfraescht-boende-paa-costa-del-sol-palladium-hotel-costa-del-sol-benalmadena-spanien/sale
   domestic: false
@@ -205,33 +181,9 @@
   price: 2890
   price-description: per rum per natt
   saved: 34
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63501/9b7db2b5_9418_46fc_b4f9_38ba20b2e89d.jpg
   link: https://www.secretescapes.se/lyxhotell-med-panoramautsikt-over-barcelona-w-barcelona-barcelona-spanien/sale
-  domestic: false
-
-- title: Strandnära lyxhotell på Teneriffa
-  id: strandnära-lyxhotell-på-teneriffa
-  location: Hard Rock Hotel Tenerife, Adeje, Teneriffa, Spanien
-  description: Femstjärnig semester på hotell vid stranden, med frukost eller halvpension
-  price: 1300
-  price-description: per rum per natt
-  saved: 35
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/41212/7fdadcfa_7271_4eac_9ae5_014c5f53d32e.jpg
-  link: https://www.secretescapes.se/strandnaera-lyxhotell-paa-teneriffa-hard-rock-hotel-tenerife-adeje-teneriffa/sale
-  domestic: false
-
-- title: Exklusivt boutiquehotell i Portals Nous
-  id: exklusivt-boutiquehotell-i-portals-nous
-  location: Portals Hills Boutique Hotel, Portals Nous, Mallorca, Spanien
-  description: Modernt boende med spa, pool och nattklubb samt utsikt över Palmabukten, inkl. frukost
-  price: 2250
-  price-description: per svit per natt
-  saved: 58
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90577/3a0e4e68_b76e_47ae_9708_b4b5c5804ae1.jpg
-  link: https://www.secretescapes.se/exklusivt-boutiquehotell-i-portals-nous-portals-hills-boutique-hotel-portals-nous-mallorca-spanien/sale
   domestic: false
 
 - title: Lyxhotell i utkanten av Barcelona
@@ -241,7 +193,7 @@
   price: 2240
   price-description: per rum per natt
   saved: 29
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44085/257bb694_6873_4ef1_8369_077385effc08.jpg
   link: https://www.secretescapes.se/lyxhotell-i-utkanten-av-barcelona-gran-hotel-la-florida-barcelona-spanien/sale
   domestic: false
@@ -253,7 +205,7 @@
   price: 1590
   price-description: per rum per natt
   saved: 36
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90650/460ffc76_62e7_468c_9543_4640abc19424.jpg
   link: https://www.secretescapes.se/stilrent-boutiquehotell-i-madrid-coolrooms-atocha-madrid-spanien/sale
   domestic: false
@@ -265,7 +217,7 @@
   price: 1900
   price-description: per rum per natt
   saved: 30
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/45456/38aec453_c786_4637_a10f_3caa1f3cb1ef.jpg
   link: https://www.secretescapes.se/exklusivt-spa-vid-havet-i-norge-farris-bad-larvik-norge/sale
   domestic: false
@@ -277,7 +229,7 @@
   price: 1470
   price-description: per rum per natt
   saved: 54
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17936/11992191_db6d_45ca_a87f_7907f06e1146.jpg
   link: https://www.secretescapes.se/prisad-sparesort-i-norska-fjaellen-norefjell-ski-and-spa-norefjell-norge/sale
   domestic: false
@@ -289,7 +241,7 @@
   price: 730
   price-description: per rum per natt
   saved: 21
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39581/907442d2_a1e7_488a_a406_9f9cb5202324.jpg
   link: https://www.secretescapes.se/laeckert-designhotell-i-bergen-magic-hotel-solheimsviken-bergen-norge-se1/sale
   domestic: false
@@ -301,33 +253,9 @@
   price: 1160
   price-description: per rum per natt
   saved: 37
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10431/06368d1a_3eae_4fdc_a62b_4a85276b6b3d.jpg
   link: https://www.secretescapes.se/prisbelont-hotell-i-magiska-trondheim-clarion-hotel-and-congress-trondheim-trondheim-norge/sale
-  domestic: false
-
-- title: Hemtrevligt designhotell i Berlin
-  id: hemtrevligt-designhotell-i-berlin
-  location: Max Brown, Berlin, Tyskland
-  description: Härlig vistelse på populärt designhotell i Berlin, inkl. välkomstdrink
-  price: 680
-  price-description: per rum per natt
-  saved: 42
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/38233/4d7555f7_8322_4603_ad8a_16b0158a2b1c.jpg
-  link: https://www.secretescapes.se/hemtrevligt-designhotell-i-berlin-max-brown-berlin-tyskland/sale
-  domestic: false
-
-- title: Coolt tillhåll mitt i Wien
-  id: coolt-tillhåll-mitt-i-wien
-  location: Hotel Daniel, Wien, Österrike
-  description: Urbant och unikt hotell i hjärtat av Wien, inkl. frukost och sen utcheckning
-  price: 1430
-  price-description: per rum per natt
-  saved: 30
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/57733/6acc9c06_73f8_4784_9972_5de4c26ac8a2.jpg
-  link: https://www.secretescapes.se/coolt-tillhaall-mitt-i-wien-hotel-daniel-wien-osterrike/sale
   domestic: false
 
 - title: Femstjärniga lägenheter i Hamburg
