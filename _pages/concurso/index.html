@@ -1,0 +1,72 @@
+---
+layout: competition
+id: competition
+nav: true
+nav-order: 4
+no-test-drive-promo: true
+
+title: Concurso
+long-title: Gana tu propia escapada de diseño
+intro: Participa más abajo y gana una lujosa escapada de diseño en España. Dinos cómo sería tu aventura urbana ideal y el tipo de estilo que buscas. Tanto si te inclinas por el minimalismo inspirado en el estilo escandinavo o por el elegante confort que combina pasado y modernidad, encuentra el hotel y la escapada urbana que mejor encajan contigo. Además, podrás utilizar el Lexus UX Híbrido Autorrecargable para completar tu experiencia.
+enter-cta: Participa ahora
+
+competition-form:
+  post-url: https://getform.io/f/a8f800a2-c393-45a3-9ca5-8cc9b2270b09
+  expiry-date: 2020-01-01
+  content:
+    questions:
+      - id: city
+        question: Cuando exploras una ciudad, ¿buscas líneas nítidas y modernas o el atractivo atemporal de ciudades antiguas y calles que rezuman historia?
+        answers:
+          - id: modern
+            title: Líneas modernas
+            statement: la escena moderna
+          - id: traditional
+            title: Encanto atemporal
+            statement: la escena vintage
+        statement: "[[answer]]"
+      - id: style
+        question: Llegas a tu hotel de diseño. ¿Sería este un espacio con interiores de estilo boutique o moderno y de líneas escandinavas?
+        answers:
+          - id: boutique
+            title: Estilo boutique
+            statement: el glamour del estilo boutique
+          - id: contemporary
+            title: Estilo moderno escandinavo
+            statement: un estilo de vida contemporáneo
+        statement: con una estancia que representa [[answer]]
+      - id: design
+        question: Una vez en la ciudad, ¿qué sería más probable?, ¿verte hablando con artesanos locales sobre sus increíbles productos o encontrarte en esa terraza en las alturas conocida por sus vistas imbatibles y cócteles de revista?
+        answers:
+          - id: craftsmanship
+            title: Productos de artesanía
+            statement: la búsqueda de los diseñadores locales de la ciudad
+          - id: innovation
+            title: Terrazas en las alturas
+            statement: espacios con diseños innovadores en los que socializar
+        statement: y días marcados por [[answer]]
+    or: o
+    statement:
+      start: Tu escapada urbana tiene que ver con
+      end: Introduce tus datos más abajo para tener la oportunidad de ganar tu escapada de diseño.
+    choose-again: ¿Quieres probar de nuevo?
+    name: Nombre
+    email: Email
+    qualify:
+      question: ¿Eres residente en España y tienes más de 18 años?
+      'yes': 'Sí'
+      'no': 'No'
+    opt-in:
+      question: ¿Te gustaría estar al tanto de las últimas noticias y ofertas de Lexus y recibir invitaciones exclusivas?
+      'yes': 'Sí'
+      'no': 'No'
+    submit: Participar
+    terms: >
+      Al enviar tu participación, aceptas los <a href="#" class="js-open-modal link--underlined" data-open-modal="competition-terms">Términos y Condiciones</a> de este concurso.
+  status-messages:
+    - id: no-js
+      title: Por favor, activa JavaScript en tu navegador para participar en este concurso
+    - id: expired
+      title: Concurso cerrado
+      description: Este concurso ya no está disponible, por lo que no aceptamos más participaciones.
+---

@@ -17,12 +17,12 @@
   var inputErrorClass = 'has-error';
   var inputErrorMessageClass = 'input__error-message';
   var errorMessage = {
-    'text': 'Please fill in',
+    'text': 'Por favor, rellena esta casilla',
     'email': {
-      'blank': 'Please enter your email address',
-      'wrong': 'Please enter a valid email address'
+      'blank': 'Por favor, introduce tu dirección de correo electrónico',
+      'wrong': 'Por favor, introduce una dirección de correo electrónico válida'
     },
-    'radio': 'Please select an answer for this question'
+    'radio': 'Por favor, selecciona una respuesta para esta pregunta'
   };
 
 
