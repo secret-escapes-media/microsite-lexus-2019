@@ -9,21 +9,9 @@
   price: 195
   price-description: por habitación por noche
   saved: 28
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/3885/bb679eac_3a53_4967_8e2b_41e599e5532f.jpg
   link: https://es.secretescapes.com/gran-hotel-domine-bilbao-bilbao-es/sale
-  domestic: true
-
-- title: Bless Hotel Ibiza
-  id: bless-hotel-ibiza
-  location: Es Canar, Ibiza
-  description: Un exclusivo hotel a estrenar en Ibiza, con desayuno y un acceso al circuito de agua&nbsp;
-  price: 213
-  price-description: por habitación por noche
-  saved: 27
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90817/b857bf07_345d_4a47_9799_78bf1715d892.jpg
-  link: https://es.secretescapes.com/bless-hotel-ibiza-es-canar/sale
   domestic: true
 
 - title: Palladium Hotel Costa del Sol
@@ -33,7 +21,7 @@
   price: 130
   price-description: por habitación por noche
   saved: 23
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90640/e0d98e02_46f6_4533_b47f_2dda8179527e.jpg
   link: https://es.secretescapes.com/palladium-hotel-costa-del-sol-costa-del-sol-benalmadena-malaga-esp/sale
   domestic: true
@@ -45,33 +33,9 @@
   price: 276
   price-description: por habitación por noche
   saved: 34
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63501/26bae93a_368c_4368_a439_0fbb1459afa6.jpg
   link: https://es.secretescapes.com/w-barcelona-barcelona-esp/sale
-  domestic: true
-
-- title: Hard Rock Hotel Tenerife
-  id: hard-rock-hotel-tenerife
-  location: Tenerife
-  description: Lujo cinco estrellas al sur de Tenerife, con opción a desayuno o media pensión y extras
-  price: 124
-  price-description: por habitación por noche
-  saved: 35
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/41212/7fdadcfa_7271_4eac_9ae5_014c5f53d32e.jpg
-  link: https://es.secretescapes.com/hard-rock-hotel-tenerife-tenerife01-es/sale
-  domestic: true
-
-- title: Portals Hills Boutique Hotel
-  id: portals-hills-boutique-hotel
-  location: Mallorca
-  description: Un cinco estrellas en Mallorca, cerca de la playa, con desayuno, late check out y extras exclusivos
-  price: 215
-  price-description: por habitación por noche
-  saved: 58
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90577/3a0e4e68_b76e_47ae_9708_b4b5c5804ae1.jpg
-  link: https://es.secretescapes.com/portals-hills-boutique-hotel-portals-nous-es/sale
   domestic: true
 
 - title: Gran Hotel La Florida
@@ -81,7 +45,7 @@
   price: 213
   price-description: por habitación por noche
   saved: 29
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90731/f4548ddb_ce97_44e5_a072_083ce9106bd2.jpg
   link: https://es.secretescapes.com/gran-hotel-la-florida-barcelona-es-pa/sale
   domestic: true
@@ -93,7 +57,7 @@
   price: 151
   price-description: por habitación por noche
   saved: 36
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90650/27727061_9a9d_478c_a239_a96e3b890be2.jpg
   link: https://es.secretescapes.com/coolrooms-atocha-madrid-es/sale
   domestic: true
@@ -170,34 +134,10 @@
   link: https://es.secretescapes.com/eme-catedral-hotel-sevilla-es/sale
   domestic: true
 
-- title: Royal Hideaway Sancti Petri
-  id: royal-hideaway-sancti-petri
-  location: Chiclana de la Frontera, Cádiz
-  description: Descubre la luz de la costa gaditana, desde este lujoso resort, con desayuno incluido y extras
-  price: 50
-  price-description: por persona
-  saved: 28
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66879/26cf73bf_d677_4d5a_bff0_ac416196b21c.jpg
-  link: https://es.secretescapes.com/royal-hideaway-sancti-petri-chiclana-de-la-frontera-cadiz/sale
-  domestic: true
-
 
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
-
-- title: San Gemini Palace
-  id: san-gemini-palace
-  location: San Gemini, Umbría
-  description: Una antigua casa de campo de cinco estrellas en el corazón de Italia, con desayuno y late check out
-  price: 300
-  price-description: por suite por noche
-  saved: 47
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90484/cb003673_7d09_4e35_aa02_ac0f52dc936e.jpg
-  link: https://es.secretescapes.com/san-gemini-palace-san-gemini-umbria-es/sale
-  domestic: false
 
 - title: Hotel Regency
   id: hotel-regency
@@ -206,7 +146,7 @@
   price: 215
   price-description: por habitación por noche
   saved: 30
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90864/5ff69763_5c4c_4538_81dd_a7defb8f9cec.jpg
   link: https://es.secretescapes.com/hotel-regency-florencia-es/sale
   domestic: false
@@ -218,7 +158,7 @@
   price: 244
   price-description: por habitación por noche
   saved: 57
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/75630/61686b10_1b72_4453_83dd_4c0ab2b47c91.jpg
   link: https://es.secretescapes.com/hotel-excelsior-venice-lido-resort-venecia-es/sale
   domestic: false
@@ -230,7 +170,7 @@
   price: 205
   price-description: por habitación por noche
   saved: 27
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9500/07a373e6_a681_46dd_bb8f_5bd72d0168fa.jpg
   link: https://es.secretescapes.com/palazzo-montemartini-a-radisson-collection-hotel-roma-es/sale
   domestic: false
@@ -242,33 +182,9 @@
   price: 113
   price-description: por habitación por noche
   saved: 67
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/62203/461d2da7_fec8_4cf0_9b3d_31f16cc3310a.jpg
   link: https://es.secretescapes.com/story-hotel-riddargatan-estocolmo-es-es/sale
-  domestic: false
-
-- title: Clarion Hotel Sign
-  id: clarion-hotel-sign
-  location: Estocolmo
-  description: Un sofisticado hotel de cuatro estrellas en Estocolmo, con desayuno y un acceso al spa
-  price: 151
-  price-description: por habitación por noche
-  saved: 30
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/38944/dc82153d_c418_4d47_9ce8_d2ae006b1fae.jpg
-  link: https://es.secretescapes.com/clarion-hotel-sign-estocolmo-es/sale
-  domestic: false
-
-- title: Max Brown Berlin
-  id: max-brown-berlin
-  location: Berlín
-  description: Diseño retro y descanso en el carismático barrio de Charlottenburg, con bebida de bienvenida
-  price: 65
-  price-description: por habitación por noche
-  saved: 42
-  expires: 2019/03/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/38233/3043c768_3ca7_4956_b155_37ebc5d7eb29.jpg
-  link: https://es.secretescapes.com/max-brown-berlin-berlin-es-pa/sale
   domestic: false
 
 - title: Hotel Indigo Dresden - Wettiner Platz
@@ -278,7 +194,7 @@
   price: 79
   price-description: por habitación por noche
   saved: 49
-  expires: 2019/03/25
+  expires: 2019/04/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83287/a12b2f9b_accf_450b_9e9b_3c6fc27d94a2.jpg
   link: https://es.secretescapes.com/hotel-indigo-dresden-wettiner-platz-dresde-es/sale
   domestic: false
@@ -295,8 +211,20 @@
   link: https://es.secretescapes.com/patrick-hellmann-schlosshotel-berlin-es-pa/sale
   domestic: false
 
-- title: TownHouse Galleria Milano
-  id: townhouse-galleria-milano
+- title: San Gemini Palace
+  id: san-gemini-palace
+  location: San Gemini, Umbría
+  description: Una antigua casa de campo de cinco estrellas en el corazón de Italia, con desayuno y late check out
+  price: 300
+  price-description: por suite por noche
+  saved: 47
+  expires: 2019/04/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90484/cb003673_7d09_4e35_aa02_ac0f52dc936e.jpg
+  link: https://es.secretescapes.com/san-gemini-palace-san-gemini-umbria-es/sale
+  domestic: false
+
+- title: Galleria Vik Milano
+  id: galleria-vik-milano
   location: Milán
   description: Lujo y estilo en el centro de Milán. Incluye desayuno y una botella de prosecco
   price: 330
