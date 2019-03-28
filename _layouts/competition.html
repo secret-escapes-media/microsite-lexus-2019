@@ -5,7 +5,7 @@ extra-css: true
 banner:
   content: >
     <div class="container container--no-padding">
-      <div class="width--xl">
+      <div class="width--xxl">
         <h1 class="banner-title banner-title--sm">{{page.long-title}}</h1>
         <div class="space--sm"></div>
         <a href="#entry-form" class="btn btn--white">{{page.enter-cta}}</a>
@@ -22,13 +22,13 @@ banner:
     <div class="space--xl"></div>
     <div class="row row--constant-4-4-4 row--gutters-sm">
       <div class="col">
-        <div class="bg-img bg-img--1-1 bg-img--lg-4-3 bg-img--xxl-3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/bg.jpg');"></div>
+        <div class="bg-img bg-img--1-1 bg-img--lg-4-3 bg-img--xxl-3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/01.jpg');"></div>
       </div>
       <div class="col">
-        <div class="bg-img bg-img--1-1 bg-img--lg-4-3 bg-img--xxl-3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/bg.jpg');"></div>
+        <div class="bg-img bg-img--1-1 bg-img--lg-4-3 bg-img--xxl-3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/02.jpg');"></div>
       </div>
       <div class="col">
-        <div class="bg-img bg-img--1-1 bg-img--lg-4-3 bg-img--xxl-3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/bg.jpg');"></div>
+        <div class="bg-img bg-img--1-1 bg-img--lg-4-3 bg-img--xxl-3-2" style="background-image: url('{{site.img}}/content/{{page.id}}/03.jpg');"></div>
       </div>
     </div>
     <div class="space--xxl"></div>
@@ -85,7 +85,7 @@ banner:
                   {% assign element = '<span class="js-answer-#"></span>' %}
                   {% assign element-with-id = element | replace: '#', question.id %}
                   {% assign statement-with-element = question.statement | replace: '[[answer]]', element-with-id | strip %}
-                  {% if forloop.last %}and {% endif %}{{statement-with-element}}{% unless forloop.last %}, {% else %}.{% endunless %}
+                  {{statement-with-element}}{% unless forloop.last %}, {% else %}.{% endunless %}
                 {% endfor %}
                 {{form.content.statement.end}}
             </div>
