@@ -17,12 +17,12 @@
   var inputErrorClass = 'has-error';
   var inputErrorMessageClass = 'input__error-message';
   var errorMessage = {
-    'text': 'Please fill in',
+    'text': 'Fyll inn',
     'email': {
-      'blank': 'Please enter your email address',
-      'wrong': 'Please enter a valid email address'
+      'blank': 'Fyll inn din e-postadresse',
+      'wrong': 'Fyll inn en gyldig e-postadresse'
     },
-    'radio': 'Please select an answer for this question'
+    'radio': 'Velg ett svar på dette spørsmålet'
   };
 
 
