@@ -28,3 +28,8 @@
 }
 
 .overflow-hidden { overflow: hidden; }
+
+.link {
+  &:hover { text-decoration: underline; }
+  &--underlined { text-decoration: underline; }
+}
