@@ -85,7 +85,7 @@ banner:
                   {% assign element = '<span class="js-answer-#"></span>' %}
                   {% assign element-with-id = element | replace: '#', question.id %}
                   {% assign statement-with-element = question.statement | replace: '[[answer]]', element-with-id | strip %}
-                  {{statement-with-element}}{% unless forloop.last %}, {% else %}.{% endunless %}
+                  {{statement-with-element}}{% if forloop.first %},{% endif %}{% if forloop.last %}.{% endif %}
                 {% endfor %}
                 {{form.content.statement.end}}
             </div>
