@@ -146,6 +146,7 @@ $mobile-nav-width: 75%;
   color: $grey-lighter;
   overflow-y: auto;
   background-color: rgba($grey-darker,.9);
+  text-align: left;
   @include transition;
 
   // spacing for logos in mobile core nav

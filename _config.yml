@@ -22,13 +22,13 @@ sass:
 
 title: Lexus Design Collection
 description: >
-  Discover a world of design with Lexus and Secret Escapes. Embark on your own urban adventure in the Lexus UX and let the city inspire you. From the world’s finest design hotels to the trendiest, urban design hangouts in London and Edinburgh, discover the Design Collection.
+  Discover a world of design with Lexus and Secret Escapes. Embark on your own urban adventure in the Lexus UX and let the city inspire you. From the world’s finest design hotels to the trendiest, urban design hangouts, discover the Design Collection.
 copyright: '© Copyright <span class="js-year">2019</span> Secret Escapes'
 
 # client
 client:
   name: Lexus
-  link: https://www.lexus.co.uk/
+  link: https://www.lexus.eu/
 
 # secret escapes
 secret-escapes:

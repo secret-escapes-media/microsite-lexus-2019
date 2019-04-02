@@ -1,33 +1,42 @@
 // general styles for the project that wouldn't be a reuseable component
 
-.width {
-  &--title { max-width: 580px; }
+.home {
+  min-height: 100%;
+  text-align: center;
+  color: white;
+  background-color: $l-black;
+  background-image: url('../img/content/home/bg.jpg');
+  @include background-attributes;
 }
 
-.inline-buttons {
-  margin: -5px;
-  > .btn {
-    margin: 5px;
+.country-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+  margin-top: $s0;
+  width: 100%;
+  max-width: 600px;
+}
+
+.country {
+  position: relative;
+  display: inline-block;
+  margin-left: 0;
+  width: 50%;
+  max-width: 125px;
+  padding: $s1;
+  @include bp($md){
+    width: 33.33%;
+    max-width: 200px;
   }
-}
-
-.guide {
-  max-width: 470px;
-  .bold-title {
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    text-align: left;
+  &__link {
+    position: absolute;
+    z-index: $z-content-upper;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
   }
-}
-
-// keep the car in the bg image in shot somewhat
-.lexus-ux .banner__bg {
-  background-position-x: 66%;
-  @include bp($xxxl){ background-position-x: 50%; }
-}
-
-.link {
-  &:hover { text-decoration: underline; }
-  &--underlined { text-decoration: underline; }
 }

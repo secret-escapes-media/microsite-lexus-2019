@@ -1,12 +1,50 @@
 ---
-layout: overview
-id: overview
-nav: true
-nav-order: 1
+layout: home
+id: home
+title: Lexus Design Collection
 
-title: Overview
+country-list:
 
-banner:
-  title: Lexus
-  title-sub: The Design Collection
+  - id: de
+    title: Deutschland
+    link: https://www.secretescapes.com/lexus-design-collection/de/
+
+  - id: es
+    title: España
+    link: https://www.secretescapes.com/lexus-design-collection/es/
+
+  - id: it
+    title: Italia
+    link: https://www.secretescapes.com/lexus-design-collection/it/
+
+  - id: "no"
+    title: Norge
+    link: https://www.secretescapes.com/lexus-design-collection/no/
+
+  - id: se
+    title: Sverige
+    link: https://www.secretescapes.com/lexus-design-collection/se/
+
+  # - id: uk
+  #   title: United Kingdom
+  #   link: https://www.secretescapes.com/lexus-design-collection/uk/
 ---
+
+<div class="home">
+  <div class="site-header__offset"></div>
+  <div class="container">
+    <div class="vpad--xl">
+      <h1 class="title title--md">Please select a country</h1>
+      <ul class="country-list">
+        {% for item in page.country-list %}
+          <li class="country">
+            <a class="country__link" href="{{item.link}}"></a>
+            <div class="bg-img bg-img--circle" style="background-image: url('{{site.img}}/content/{{page.id}}/{{item.id}}.png');"></div>
+            <div class="space--xs"></div>
+            <h2 class="title title--xxs">{{item.title}}</h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
