@@ -110,6 +110,30 @@
   link: https://es.secretescapes.com/fergus-style-bahamas-ibiza-es/sale
   domestic: true
 
+- title: Iberostar Grand El Mirador
+  id: iberostar-grand-el-mirador
+  location: Tenerife
+  description: Un cinco estrellas solo para adultos en Tenerife, con desayuno o media pensión y extras de lujo
+  price: 200
+  price-description: por suite por noche
+  saved: 39
+  expires: 2019/04/09
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/85655/4ae7ba35_95a2_460f_a029_0479eb23f362.jpg
+  link: https://es.secretescapes.com/iberostar-grand-hotel-mirador-tenerife241-es/sale
+  domestic: true
+
+- title: Lopesan Costa Meloneras
+  id: lopesan-costa-meloneras
+  location: Gran Canaria
+  description: Un oasis de paz en Gran Canaria, en régimen de media pensión y con oferta especial en el spa
+  price: 167
+  price-description: por habitación por noche
+  saved: 32
+  expires: 2019/04/09
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/25648/3966a632_bdd5_4dde_8cdd_18fc32336098.jpg
+  link: https://es.secretescapes.com/lopesan-costa-meloneras-gran-canaria214-es/sale
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -208,4 +232,16 @@
   expires: 2019/04/09
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91468/36c7c59c_9828_4fe0_8ed1_a41d17151db6.jpg
   link: https://es.secretescapes.com/iberostar-selection-lagos-algarve-algarve-lagos-portugal-es/sale
+  domestic: false
+
+- title: VIE Hotel Bangkok - MGallery by Sofitel
+  id: vie-hotel-bangkok---mgallery-by-sofitel
+  location: Bangkok
+  description: Un hotel boutique en el centro de Bangkok, con desayuno y extras
+  price: 105
+  price-description: por habitación por noche
+  saved: 44
+  expires: 2019/04/09
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90460/1a599d76_56c9_4690_a1b7_0f41975ce3b2.jpg
+  link: https://es.secretescapes.com/vie-hotel-bangkok-mgallery-by-sofitel-bangkok-es/sale
   domestic: false
