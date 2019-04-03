@@ -389,3 +389,15 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/79408/42982d93_baf6_4147_a155_9f1d4c7564a2.jpg
   link: https://www.secretescapes.se/spa-och-gourmetmat-i-travemuende-a-rosa-travemuende-travemuende-tyskland-se/sale
   domestic: false
+
+- title: Boende med utsikt över Taormina
+  id: boende-med-utsikt-över-taormina
+  location: NH Collection Taormina, Taormina, Italien
+  description: Klassisk arkitektur, modern design och fantastiskt utsikt, inkl. frukost eller halvpension
+  price: 1630
+  price-description: per rum per natt
+  saved: 45
+  expires: 2019/04/09
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/37770/7869da57_fcf7_4531_9e46_73296f9be162.jpg
+  link: https://www.secretescapes.se/boende-med-utsikt-over-taormina-nh-collection-taormina-taormina-italien/sale
+  domestic: false
