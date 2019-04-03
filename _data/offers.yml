@@ -50,6 +50,17 @@
   link: https://it.secretescapes.com/palazzo-montemartini-a-radisson-collection-hotel-roma-lazio/sale
   domestic: true
 
+- title: NH Collection Taormina
+  id: nh-collection-taormina
+  location: Taormina, Sicilia
+  description: Viste mozzafiato, relax e charme a 5* nel cuore di Taormina
+  price: 155
+  price-description: per camera per notte
+  saved: 45
+  expires: 2019/04/09
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/37770/7869da57_fcf7_4531_9e46_73296f9be162.jpg
+  link: https://it.secretescapes.com/nh-collection-taormina-taormina-sicilia1/sale
+  domestic: true
 
 ################################################################################
 # NON DOMESTIC OFFERS
