@@ -9,7 +9,7 @@
   price: 195
   price-description: por habitación por noche
   saved: 28
-  expires: 2019/04/09
+  expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/3885/bb679eac_3a53_4967_8e2b_41e599e5532f.jpg
   link: https://es.secretescapes.com/gran-hotel-domine-bilbao-bilbao-es/sale
   domestic: true
@@ -21,21 +21,9 @@
   price: 143
   price-description: por habitación por noche
   saved: 48
-  expires: 2019/04/09
+  expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91198/b57978af_4699_4696_8c4a_741666e30bb8.jpg
   link: https://es.secretescapes.com/h10-atlantic-sunset-santa-cruz-de-tenerife-es/sale
-  domestic: true
-
-- title: Hotel Vincci Gala
-  id: hotel-vincci-gala
-  location: Barcelona
-  description: Un cuatro estrellas de alma modernista en pleno Ensanche, con opción a desayuno y extras
-  price: 156
-  price-description: por habitación por noche
-  saved: 32
-  expires: 2019/04/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86687/2a692e00_b338_4ca2_804d_964c66f7d26e.jpg
-  link: https://es.secretescapes.com/hotel-vincci-gala-barcelona-es-pa/sale
   domestic: true
 
 - title: NH Collection Eurobuilding
@@ -45,44 +33,20 @@
   price: 92
   price-description: por habitación por noche
   saved: 63
-  expires: 2019/04/09
+  expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90979/4774c989_d6e1_4ad9_9177_e834de5d48f7.jpg
   link: https://es.secretescapes.com/nh-collection-eurobuilding-madrid-es-pa/sale
   domestic: true
 
-- title: Radisson Blu Resort Gran Canaria
-  id: radisson-blu-resort-gran-canaria
-  location: Gran Canaria
-  description: Un cinco estrellas asomado al mar en Gran Canaria, con opción a desayuno o media pensión
-  price: 155
-  price-description: por habitación por noche
-  saved: 35
-  expires: 2019/04/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91108/785fd84d_103d_4494_9532_3f17c289a872.jpg
-  link: https://es.secretescapes.com/radisson-blu-resort-gran-canaria-gran-canaria-es-pa/sale
-  domestic: true
-
-- title: EME Catedral Hotel
-  id: eme-catedral-hotel
-  location: Sevilla
-  description: Un hotel boutique de cinco estrellas en el centro de Sevilla, con opción a desayuno
-  price: 173
-  price-description: por habitación por noche
-  saved: 35
-  expires: 2019/04/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91306/13cd32c8_aead_4611_aa4d_e188be767c64.jpg
-  link: https://es.secretescapes.com/eme-catedral-hotel-sevilla-es/sale
-  domestic: true
-
-- title: Higuerón Hotel Curio Collection by Hilton Resort & Spa Reserva del Higueron
-  id: higuerón-hotel-curio-collection-by-hilton-resort-and-spa-reserva-del-higueron
+- title: Higuerón Hotel Curio Collection by Hilton
+  id: higuerón-hotel-curio-collection-by-hilton
   location: Costa del Sol (Fuengirola, Málaga)
-  description: Estilo e innovación frente al Mediterráneo, en Fuengirola, en régimen de media pensión.&nbsp;
+  description: Estilo e innovación frente al Mediterráneo, en Fuengirola, en régimen de media pensión
   price: 160
   price-description: por habitación por noche
   saved: 32
-  expires: 2019/04/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91795/b933a055_245c_4e22_bd6a_4c3f0bb1bcf7.jpg
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91795/369acde2_2773_4309_b0bc_24850fc0a219.jpg
   link: https://es.secretescapes.com/higueron-hotel-curio-collection-by-hilton-resort-and-spa-reserva-del-higueron-costa-del-sol-fuengirola-malaga-es/sale
   domestic: true
 
@@ -93,7 +57,7 @@
   price: 108
   price-description: por habitación por noche
   saved: 38
-  expires: 2019/04/09
+  expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70624/e4ede240_9af5_42b3_8521_24cff9f626f6.jpg
   link: https://es.secretescapes.com/fergus-style-palmanova-mallorca-es-pa/sale
   domestic: true
@@ -102,10 +66,10 @@
   id: fergus-style-bahamas
   location: Ibiza
   description: Todo incluido en un cuatro estrellas en Ibiza, con una bebida de bienvenida y una botella de cava
-  price: 93
+  price: 88
   price-description: por habitación por noche
-  saved: 61
-  expires: 2019/04/09
+  saved: 63
+  expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88312/26d8619d_c642_4139_a1f5_ce9f47558d5c.jpg
   link: https://es.secretescapes.com/fergus-style-bahamas-ibiza-es/sale
   domestic: true
@@ -117,7 +81,7 @@
   price: 200
   price-description: por suite por noche
   saved: 39
-  expires: 2019/04/09
+  expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/85655/4ae7ba35_95a2_460f_a029_0479eb23f362.jpg
   link: https://es.secretescapes.com/iberostar-grand-hotel-mirador-tenerife241-es/sale
   domestic: true
@@ -129,9 +93,57 @@
   price: 167
   price-description: por habitación por noche
   saved: 32
-  expires: 2019/04/09
+  expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/25648/3966a632_bdd5_4dde_8cdd_18fc32336098.jpg
   link: https://es.secretescapes.com/lopesan-costa-meloneras-gran-canaria214-es/sale
+  domestic: true
+
+- title: Hospes Maricel & Spa
+  id: hospes-maricel-and-spa
+  location: Mallorca
+  description: Un cinco estrellas a orillas del mar, con opción a media pensión, acceso al spa y más
+  price: 177
+  price-description: por habitación por noche
+  saved: 35
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/6917/78e43e85_87b7_41b9_a813_ae328cbeab0b.jpg
+  link: https://es.secretescapes.com/hospes-maricel-and-spa-mallorca-es-pa/sale
+  domestic: true
+
+- title: Bohemia Suites & Spa
+  id: bohemia-suites-and-spa
+  location: Gran Canaria
+  description: Un hotel de diseño en Gran Canaria, con opción a desayuno o media pensión
+  price: 146
+  price-description: por habitación por noche
+  saved: 38
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9362/d78fa349_24c1_4f72_addd_b401bc657013.jpg
+  link: https://es.secretescapes.com/bohemia-suites-and-spa-gran-canaria-espa-espa/sale
+  domestic: true
+
+- title: Hesperia Playa Dorada
+  id: hesperia-playa-dorada
+  location: Lanzarote
+  description: Todo incluido o media pensión en este cuatro estrellas con vistas al mar en Lanzarote
+  price: 99
+  price-description: por habitación por noche
+  saved: 34
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92097/7657686a_2d45_4778_bb09_cf13dfdd72c1.jpg
+  link: https://es.secretescapes.com/hesperia-playa-dorada-lanzarote-es/sale
+  domestic: true
+
+- title: Hospes Palacio del Bailío
+  id: hospes-palacio-del-bailío
+  location: Córdoba
+  description: Un palacio histórico en el centro de Córdoba, con desayuno, acceso diario al spa y más extras
+  price: 150
+  price-description: por habitación por noche
+  saved: 35
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/26471/50df1177_3d2b_4905_bd07_b810b9dcf1f8.jpg
+  link: https://es.secretescapes.com/hospes-palacio-del-bailio-cordoba01-es/sale
   domestic: true
 
 ################################################################################
@@ -145,21 +157,33 @@
   price: 215
   price-description: por habitación por noche
   saved: 30
-  expires: 2019/04/09
+  expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90864/5ff69763_5c4c_4538_81dd_a7defb8f9cec.jpg
   link: https://es.secretescapes.com/hotel-regency-florencia-es/sale
   domestic: false
 
-- title: Hotel Indigo Dresden - Wettiner Platz
-  id: hotel-indigo-dresden---wettiner-platz
-  location: Dresde, Alemania
-  description: Confort y diseño en el corazón de Dresde, con desayuno incluido y extras
-  price: 79
+- title: Hotel Excelsior Venice Lido Resort
+  id: hotel-excelsior-venice-lido-resort
+  location: Venecia
+  description: Un hotel en la playa del Lido de Venecia, con desayuno incluido y una botella de prosecco
+  price: 244
   price-description: por habitación por noche
-  saved: 49
-  expires: 2019/04/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83287/a12b2f9b_accf_450b_9e9b_3c6fc27d94a2.jpg
-  link: https://es.secretescapes.com/hotel-indigo-dresden-wettiner-platz-dresde-es/sale
+  saved: 57
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/75630/da3afdac_49a3_4f8d_8764_342094151f15.jpg
+  link: https://es.secretescapes.com/hotel-excelsior-venice-lido-resort-venecia-es/sale
+  domestic: false
+
+- title: Palazzo Montemartini, A Radisson Collection Hotel
+  id: palazzo-montemartini-a-radisson-collection-hotel
+  location: Roma
+  description: Estilo y confort en el centro de Roma, dos opciones a elegir, con desayuno incluido y extras
+  price: 205
+  price-description: por habitación por noche
+  saved: 27
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9500/07a373e6_a681_46dd_bb8f_5bd72d0168fa.jpg
+  link: https://es.secretescapes.com/palazzo-montemartini-a-radisson-collection-hotel-roma-es/sale
   domestic: false
 
 - title: Patrick Hellmann Schlosshotel
@@ -169,7 +193,7 @@
   price: 179
   price-description: por habitación por noche
   saved: 50
-  expires: 2019/04/09
+  expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/77585/c3a23f33_a8c4_42d1_98e0_8765d9da33e6.jpg
   link: https://es.secretescapes.com/patrick-hellmann-schlosshotel-berlin-es-pa/sale
   domestic: false
@@ -181,33 +205,9 @@
   price: 330
   price-description: por habitación por noche
   saved: 36
-  expires: 2019/04/09
+  expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91152/3c2d3571_fcdc_466b_a039_fa5102b24849.jpg
   link: https://es.secretescapes.com/townhouse-galleria-milano-milan-esp/sale
-  domestic: false
-
-- title: Hotel Excelsior Venice Lido Resort
-  id: hotel-excelsior-venice-lido-resort
-  location: Venecia
-  description: Un hotel en la playa del Lido de Venecia, con desayuno incluido y una botella de prosecco
-  price: 244
-  price-description: por habitación por noche
-  saved: 57
-  expires: 2019/04/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/75630/61686b10_1b72_4453_83dd_4c0ab2b47c91.jpg
-  link: https://es.secretescapes.com/hotel-excelsior-venice-lido-resort-venecia-es/sale
-  domestic: false
-
-- title: Palazzo Montemartini, A Radisson Collection Hotel
-  id: palazzo-montemartini-a-radisson-collection-hotel
-  location: Roma
-  description: Estilo y confort en el centro de Roma, dos opciones a elegir con desayuno incluido y extras
-  price: 205
-  price-description: por habitación por noche
-  saved: 27
-  expires: 2019/04/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9500/07a373e6_a681_46dd_bb8f_5bd72d0168fa.jpg
-  link: https://es.secretescapes.com/palazzo-montemartini-a-radisson-collection-hotel-roma-es/sale
   domestic: false
 
 - title: Maritim ProArte Hotel Berlin
@@ -217,7 +217,7 @@
   price: 109
   price-description: por habitación por noche
   saved: 38
-  expires: 2019/04/09
+  expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63439/1bc52496_43bd_4644_a933_deabf034170f.jpg
   link: https://es.secretescapes.com/maritim-proarte-hotel-berlin-berlin-esp/sale
   domestic: false
@@ -229,19 +229,67 @@
   price: 193
   price-description: por habitación por noche
   saved: 20
-  expires: 2019/04/09
+  expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91468/36c7c59c_9828_4fe0_8ed1_a41d17151db6.jpg
   link: https://es.secretescapes.com/iberostar-selection-lagos-algarve-algarve-lagos-portugal-es/sale
   domestic: false
 
-- title: VIE Hotel Bangkok - MGallery by Sofitel
-  id: vie-hotel-bangkok---mgallery-by-sofitel
-  location: Bangkok
-  description: Un hotel boutique en el centro de Bangkok, con desayuno y extras
-  price: 105
+- title: Longevity Health & Wellness Hotel
+  id: longevity-health-and-wellness-hotel
+  location: Algarve (Alvor, Portugal)
+  description: Un cinco estrellas dedicado al bienestar en el Algarve, con desayuno y varios extras de lujo
+  price: 135
   price-description: por habitación por noche
-  saved: 44
-  expires: 2019/04/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90460/1a599d76_56c9_4690_a1b7_0f41975ce3b2.jpg
-  link: https://es.secretescapes.com/vie-hotel-bangkok-mgallery-by-sofitel-bangkok-es/sale
+  saved: 56
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92158/41c20005_7b8b_4878_99c6_20b98e4b5e54.jpg
+  link: https://es.secretescapes.com/longevity-health-and-wellness-hotel-algarve-alvor-portugal-es/sale
+  domestic: false
+
+- title: Regency Country Club
+  id: regency-country-club
+  location: Tenerife
+  description: Un resort de estilo balinés en Tenerife, en régimen de media pensión y con una botella de cava
+  price: 183
+  price-description: por suite por noche
+  saved: 28
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14358/03011881_c274_447e_82f8_cb466ecbff8d.jpg
+  link: https://es.secretescapes.com/regency-country-club-tenerife-es-pa/sale
+  domestic: false
+
+- title: Quinta Splendida Wellness & Botanical Garden
+  id: quinta-splendida-wellness-and-botanical-garden
+  location: Madeira
+  description: Media pensión en un precioso hotel en Madeira con jardines botánicos, con extras de bienestar
+  price: 200
+  price-description: por estudio por noche
+  saved: 33
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91654/e0ed3e7f_dfe2_4ca9_93b5_b9aa69168439.jpg
+  link: https://es.secretescapes.com/quinta-splendida-wellness-and-botanical-garden-madeira214-es/sale
+  domestic: false
+
+- title: Park Hyatt Hamburg
+  id: park-hyatt-hamburg
+  location: Hamburgo
+  description: Un cinco estrellas en pleno centro de Hamburgo, con desayuno y acceso a la zona de bienestar
+  price: 169
+  price-description: por habitación por noche
+  saved: 48
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42673/8f084a44_fc4a_41bd_b0cb_db5494ff4bba.jpg
+  link: https://es.secretescapes.com/park-hyatt-hamburg-hamburgo-es-es/sale
+  domestic: false
+
+
+- title: Blique by Nobis
+  location: Estocolmo
+  description: Un flamante hotel de diseño en la capital sueca, con desayuno incluido
+  price: 40
+  price-description: por persona. Basado en 2 personas, por habitación
+  saved: 58
+  expires: 2019/04/15
+  image: https://d1x3cbuht6sy0f.cloudfront.net/hotels/146/d5dbd8f1_a9b8_4181_b871_ea24046a31b9.jpg
+  link: https://es.secretescapes.com/blique-by-nobis-stockholm-suecia-es/sale-hotel
   domestic: false
