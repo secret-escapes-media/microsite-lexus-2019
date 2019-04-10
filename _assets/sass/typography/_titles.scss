@@ -100,9 +100,9 @@
   @include bp($xl){ font-size: $s9; }
   @include bp($xxxl){ font-size: $s10; }
   &--sm {
-    font-size: $s3;
-    @include bp($md){ font-size: $s6; }
-    @include bp($xl){ font-size: $s8; }
+    font-size: $s6;
+    @include bp($md){ font-size: $s8; }
+    @include bp($xl){ font-size: $s9; }
   }
   .overview & {
     font-weight: 700;
