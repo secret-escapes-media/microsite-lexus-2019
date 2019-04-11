@@ -50,6 +50,18 @@
   link: https://it.secretescapes.com/palazzo-montemartini-a-radisson-collection-hotel-roma-lazio/sale
   domestic: true
 
+- title: San Gemini Palace
+  id: san-gemini-palace
+  location: San Gemini, Umbria
+  description: Un antico casale a 5* nel cuore dell’Umbria, con ristorante gourmet
+  price: 300
+  price-description: per camera per notte
+  saved: 47
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90484/1ed97f1f_ed7b_4f29_aa12_ff6538b5ac46.jpg
+  link: https://it.secretescapes.com/san-gemini-palace-san-gemini-umbria/sale
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
