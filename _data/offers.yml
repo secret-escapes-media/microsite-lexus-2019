@@ -267,3 +267,39 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/hotels/146/dcc056ed_efa2_4887_b4f3_1dd905e933b9.jpg
   link: https://no.secretescapes.com/blique-by-nobis-stockholm-sweden/sale-hotel
   domestic: false
+
+- title: Forelsk deg i eventyrlige Sardinia
+  id: forelsk-deg-i-eventyrlige-sardinia
+  location: Colonna Grand Hotel Capo Testa, Santa Teresa Gallura, Sardinia, Italia
+  description: Femstjerners opphold ved havet med spa og privat strand, inkl. frokost m.m.
+  price: 1546
+  price-description: per rom per natt
+  saved: 22
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91997/3359939e_7c20_43c5_9fcd_f6af8220003a.jpg
+  link: https://no.secretescapes.com/forelsk-deg-i-eventyrlige-sardinia-colonna-grand-hotel-capo-testa-santa-teresa-gallura-sardinia-italia/sale
+  domestic: false
+
+- title: Klassisk luksus på Via Veneto
+  id: klassisk-luksus-på-via-veneto
+  location: Grand Hotel Palace, Rom, Italia
+  description: Luksuriøst boutiquehotell beliggende i en av Italias mest glamorøse gater, inkl. frokost
+  price: 2485
+  price-description: per rom per natt
+  saved: 49
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68210/e100ceda_acf8_4714_b3d7_21386766eb7c.jpg
+  link: https://no.secretescapes.com/klassisk-luksus-paa-via-veneto-grand-hotel-palace-rom-italia-no/sale
+  domestic: false
+
+- title: Trendy og eksklusivt i Lisboa
+  id: trendy-og-eksklusivt-i-lisboa
+  location: Myriad by SANA Hotels, Lissabon, Portugal
+  description: Moderne hotell med treningsstudio og spa ved elven Tajo, inkl. frokost og ekstragoder
+  price: 2029
+  price-description: per rom per natt
+  saved: 23
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91802/f94a7d0e_6c51_4121_b617_1c2089140f86.jpg
+  link: https://no.secretescapes.com/trendy-og-eksklusivt-i-lisboa-myriad-by-sana-hotels-lissabon-portugal/sale
+  domestic: false
