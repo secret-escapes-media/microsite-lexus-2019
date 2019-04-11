@@ -33,7 +33,7 @@ function modalOpen(event, modalId){
     var video     = activeModal.find('.js-modal-video'),
         youtubeId = activeModal.data('youtube-id');
     // insert the code into the target with the id and autoplay
-    video.html('<div class="video__wrap"><iframe class="video" src="https://www.youtube.com/embed/' + youtubeId + '?rel=0;color=white;hl=en;modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>');
+    video.html('<div class="video__wrap"><iframe class="video" src="https://www.youtube.com/embed/' + youtubeId + '?rel=0;color=white;hl=no;modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>');
   }
 
   // reveal the specific modal content
