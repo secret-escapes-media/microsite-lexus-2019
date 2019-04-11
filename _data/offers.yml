@@ -282,7 +282,6 @@
   link: https://es.secretescapes.com/park-hyatt-hamburg-hamburgo-es-es/sale
   domestic: false
 
-
 - title: Blique by Nobis
   location: Estocolmo
   description: Un flamante hotel de diseño en la capital sueca, con desayuno incluido
@@ -292,4 +291,16 @@
   expires: 2019/04/15
   image: https://d1x3cbuht6sy0f.cloudfront.net/hotels/146/d5dbd8f1_a9b8_4181_b871_ea24046a31b9.jpg
   link: https://es.secretescapes.com/blique-by-nobis-stockholm-suecia-es/sale-hotel
+  domestic: false
+
+- title: San Gemini Palace
+  id: san-gemini-palace
+  location: Umbría (San Gemini, Italia)
+  description: Una antigua casa de campo de cinco estrellas en el corazón de Italia, con desayuno y late check out
+  price: 300
+  price-description: por suite por noche
+  saved: 47
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90484/1ed97f1f_ed7b_4f29_aa12_ff6538b5ac46.jpg
+  link: https://es.secretescapes.com/san-gemini-palace-san-gemini-umbria-es/sale
   domestic: false
