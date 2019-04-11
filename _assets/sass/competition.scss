@@ -293,6 +293,7 @@ $errorbg: #feeaed;
   font-weight: 400;
   font-size: $s1;
   @include bp(lg){ font-size: $s3; }
+  > * { display: none; }
 }
 
 .radio-button {

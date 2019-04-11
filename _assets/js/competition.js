@@ -9,20 +9,21 @@
   // setting global variables
   var form = $('.form'); // single form focus
   var unvalidInputs = false; // status for at least one required element missing
+  var chosenAnswers = []; // stores the selected answers
+  var chosenPrize; // stores the selected prize
   var formInputClass = 'js-form-input';
   var formStepClass = 'js-form-step';
   var formHiddenInputClass = 'js-hidden-inputs';
-  var formResultStatementClass = 'js-result-statements';
   var radioButtonClass = 'js-radio-button';
   var inputErrorClass = 'has-error';
   var inputErrorMessageClass = 'input__error-message';
   var errorMessage = {
-    'text': 'Please fill in',
+    'text': 'Bitte ausfüllen',
     'email': {
-      'blank': 'Please enter your email address',
-      'wrong': 'Please enter a valid email address'
+      'blank': 'Bitte tragen Sie hier Ihre E-Mail-Adresse ein',
+      'wrong': 'Bitte tragen Sie hier eine gültige E-Mail-Adresse ein'
     },
-    'radio': 'Please select an answer for this question'
+    'radio': 'Bitte wählen Sie eine Antwort aus'
   };
 
 
@@ -55,16 +56,20 @@
   // action for selecting an answer
   $('.js-option-answer').on('click',function(e) {
     e.preventDefault();
-    var question = $(this).data('question');
     var chosenValue = $(this).data('value');
-    var chosenStatement = $(this).data('statement');
-    var questionInput = $('.' + formHiddenInputClass + ' #' + question);
-    // save selected answer to hidden form input
-    questionInput.val(chosenValue);
-    // show selected answer in the final step of form
-    var statments = $('.' + formResultStatementClass);
-    var thisStatement = statments.find('.js-answer-' + question);
-    thisStatement.text(chosenStatement);
+    var amountOfQuestions = ($('.' + formStepClass).length) - 1;
+    // save chosen answer
+    chosenAnswers.push(chosenValue);
+    // is this the final answer?
+    if (chosenAnswers.length === amountOfQuestions) {
+      // calculate a final result for the prize
+      chosenPrize = mode(chosenAnswers);
+      // show prize message
+      $('.js-message#' + chosenPrize).show();
+      // save selected prize to hidden form input
+      var prizeInput = $('.' + formHiddenInputClass + ' #prize');
+      prizeInput.val(chosenPrize);
+    }
     // show the next step and hide current
     var currentStep = $(this).closest('.' + formStepClass);
     var nextStep = currentStep.next('.' + formStepClass);
@@ -74,11 +79,37 @@
     if ( window.innerWidth <= 650 ) {
       $('html,body').animate({scrollTop: (form.offset().top - 30)}, 500);
     }
+
+    // finds the most common (or mode) value in array
+    function mode(array) {
+      if(array.length == 0) {
+        return null;
+      }
+      var modeMap = {};
+      var maxEl = array[0], maxCount = 1;
+      for( var i = 0; i < array.length; i++ ) {
+        var el = array[i];
+        if( modeMap[el] == null ) {
+          modeMap[el] = 1;
+        } else {
+          modeMap[el]++;
+        }
+        if( modeMap[el] > maxCount ) {
+          maxEl = el;
+          maxCount = modeMap[el];
+        }
+      }
+      return maxEl;
+    }
+
   });
 
   // choose again functions
   $('.js-reset-choices').on('click',function(e) {
     e.preventDefault();
+    chosenAnswers = []; // reset previously chosen answers
+    chosenPrize = undefined; // reset previously chosen prize
+    $('.js-message').hide(); // hide previous prize message
     showFirstStep();
     $('.' + formHiddenInputClass + ' input').each(function() {
       $(this).val(''); // remove the previous value
