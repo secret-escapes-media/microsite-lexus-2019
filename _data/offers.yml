@@ -494,3 +494,51 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/hotels/146/dcc056ed_efa2_4887_b4f3_1dd905e933b9.jpg
   link: https://www.secretescapes.de/blique-by-nobis-stockholm-schweden-de/sale-hotel
   domestic: false
+
+- title: Rom für Genießer
+  id: rom-für-genießer
+  location: Grand Hotel Palace, Rom, Italien
+  description: Luxuriös logieren im Herzen der italienischen Hauptstadt – inkl. Frühstück &amp; Extras
+  price: 257
+  price-description: pro Zimmer pro Nacht
+  saved: 49
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68210/e100ceda_acf8_4714_b3d7_21386766eb7c.jpg
+  link: https://www.secretescapes.de/rom-fuer-geniesser-grand-hotel-palace-rome-rom-italien/sale
+  domestic: false
+
+- title: Vor den Toren Lissabons das Panorama überblicken
+  id: vor-den-toren-lissabons-das-panorama-überblicken
+  location: Myriad by SANA Hotels, Lissabon, Portugal
+  description: Designhotel mit Weitblick über das Wasser – inkl. Frühstück, Begrüßungsgetränk &amp; Vergünstigungen
+  price: 210
+  price-description: pro Zimmer pro Nacht
+  saved: 23
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91802/f94a7d0e_6c51_4121_b617_1c2089140f86.jpg
+  link: https://www.secretescapes.de/vor-den-toren-lissabons-das-panorama-ueberblicken-myriad-by-sana-hotels-lissabon-portugal1/sale
+  domestic: false
+
+- title: Extravagantes Stadt-Hotel in Spaniens Hauptstadt
+  id: extravagantes-stadt-hotel-in-spaniens-hauptstadt
+  location: Vincci The Mint, Madrid, Spanien
+  description: Design-Hotel mit Dachterrasse im Herzen von Madrid – inkl. Frühstück &amp; Begrüßungsgetränk
+  price: 150
+  price-description: pro Junior-Suite pro Nacht
+  saved: 62
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/30391/761e5c79_0476_4be2_92ed_783c1f697bb6.jpg
+  link: https://www.secretescapes.de/extravagantes-stadt-hotel-in-spaniens-hauptstadt-vincci-the-mint-madrid-spanien/sale
+  domestic: false
+
+- title: Natur, Kultur & Kulinarik in Nordspanien
+  id: natur-kultur-and-kulinarik-in-nordspanien
+  location: Hotel Arima, San Sebastián, Baskenland, Spanien
+  description: Inkl. Frühstück, Willkommenspräsent, optionalem Dinner &amp; Parkplatz
+  price: 77
+  price-description: pro Zimmer pro Nacht
+  saved: 48
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91933/735f01d8_f58c_4efe_982e_2babbc8f8cd0.jpg
+  link: https://www.secretescapes.de/natur-kultur-and-kulinarik-in-nordspanien-hotel-arima-san-sebastian-baskenland-spanien/sale
+  domestic: false
