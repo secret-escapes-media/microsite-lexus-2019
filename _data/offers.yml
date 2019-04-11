@@ -400,3 +400,39 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90484/1ed97f1f_ed7b_4f29_aa12_ff6538b5ac46.jpg
   link: https://www.secretescapes.se/njut-av-mat-och-dryck-i-vackra-san-gemini-san-gemini-palace-san-gemini-italien/sale
   domestic: false
+
+- title: Elegant hotell på norra Sardinien
+  id: elegant-hotell-på-norra-sardinien
+  location: Colonna Grand Hotel Capo Testa, Santa Teresa Gallura, Sardinien, Italien
+  description: Boende med spa och en privat strand vid havet nära Santa Teresa di Gallura, inkl. frukost
+  price: 1670
+  price-description: per rum per natt
+  saved: 22
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91997/3359939e_7c20_43c5_9fcd_f6af8220003a.jpg
+  link: https://www.secretescapes.se/elegant-hotell-paa-norra-sardinien-colonna-grand-hotel-capo-testa-santa-teresa-gallura-sardinien-italien/sale
+  domestic: false
+
+- title: Klassisk lyx i Rom
+  id: klassisk-lyx-i-rom
+  location: Grand Hotel Palace, Rom, Italien
+  description: Boende på femstjärnigt hotell mitt i hjärtat av Rom, inkl. frukost och ett glas prosecco
+  price: 2680
+  price-description: per rum per natt
+  saved: 49
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68210/e100ceda_acf8_4714_b3d7_21386766eb7c.jpg
+  link: https://www.secretescapes.se/klassisk-lyx-i-rom-grand-hotel-palace-rom-italien/sale
+  domestic: false
+
+- title: Trendigt hotell med bra läge i Lissabon
+  id: trendigt-hotell-med-bra-läge-i-lissabon
+  location: Myriad by SANA Hotels, Lissabon, Portugal
+  description: Modernt boende med gym och spa intill floden, inkl. frukost, spaentré, m.m.
+  price: 2200
+  price-description: per rum per natt
+  saved: 23
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91802/f94a7d0e_6c51_4121_b617_1c2089140f86.jpg
+  link: https://www.secretescapes.se/trendigt-hotell-med-bra-laege-i-lissabon-myriad-by-sana-hotels-lissabon-portugal/sale
+  domestic: false
