@@ -146,6 +146,30 @@
   link: https://es.secretescapes.com/hospes-palacio-del-bailio-cordoba01-es/sale
   domestic: true
 
+- title: Vincci The Mint
+  id: vincci-the-mint
+  location: Madrid
+  description: Alójate en un hotel de diseño en plena Gran Vía, con desayuno y una bebida de bienvenida
+  price: 150
+  price-description: por suite por noche
+  saved: 62
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/30391/761e5c79_0476_4be2_92ed_783c1f697bb6.jpg
+  link: https://es.secretescapes.com/vincci-the-mint-madrid-esp/sale
+  domestic: true
+
+- title: Arima Hotel
+  id: arima-hotel
+  location: San Sebastián
+  description: Un hotel chic integrado en la naturaleza en San Sebastián, con desayuno y extras
+  price: 77
+  price-description: por habitación por noche
+  saved: 48
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91933/735f01d8_f58c_4efe_982e_2babbc8f8cd0.jpg
+  link: https://es.secretescapes.com/arima-hotel-san-sebastian-es-es/sale
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -303,4 +327,28 @@
   expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90484/1ed97f1f_ed7b_4f29_aa12_ff6538b5ac46.jpg
   link: https://es.secretescapes.com/san-gemini-palace-san-gemini-umbria-es/sale
+  domestic: false
+
+- title: Grand Hotel Palace
+  id: grand-hotel-palace
+  location: Roma
+  description: Un cinco estrellas con mucho encanto en el corazón de la Ciudad Eterna, con desayuno y extras
+  price: 257
+  price-description: por habitación por noche
+  saved: 49
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68210/e100ceda_acf8_4714_b3d7_21386766eb7c.jpg
+  link: https://es.secretescapes.com/grand-hotel-palace-roma-es/sale
+  domestic: false
+
+- title: Myriad by SANA Hotels
+  id: myriad-by-sana-hotels
+  location: Lisboa
+  description: Diseño y vistas de ensueño en Lisboa, a orillas del río Tajo, con desayuno, acceso al spa y más
+  price: 210
+  price-description: por habitación por noche
+  saved: 23
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91802/f94a7d0e_6c51_4121_b617_1c2089140f86.jpg
+  link: https://es.secretescapes.com/myriad-by-sana-hotels-lisbon-portugal2-es-pa/sale
   domestic: false
