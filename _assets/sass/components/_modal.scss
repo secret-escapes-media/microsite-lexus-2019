@@ -1,8 +1,8 @@
 .modal {
   $icon-size: 3em;
   position: relative;
-  margin-top: ($icon-size*1.5);
-  margin-bottom: ($icon-size*1.5);
+  margin-top: ($icon-size * 1.5);
+  margin-bottom: ($icon-size * 1.5);
   margin-left: ($icon-size / 2.5);
   margin-right: ($icon-size / 2.5);
   cursor: auto;
@@ -14,7 +14,6 @@
     align-items: center;
     justify-content: center;
     min-height: 100%;
-    margin-bottom: ($icon-size * 6);
   }
   &__bg {
     position: fixed;
@@ -50,7 +49,7 @@
     cursor: pointer;
     z-index: $z-overlay-upper;
     transition: background-color $transition-time ease;
-    &:hover{ background-color: $black; }
+    &:hover { background-color: $black; }
   }
   &__nav {
     position: fixed;
@@ -89,7 +88,7 @@
         right: -($icon-size);
         border-left: 0;
       }
-      &:hover     { background-color: $black; }
+      &:hover { background-color: $black; }
     }
   }
   &--standard { max-width: $xl; }
@@ -119,10 +118,8 @@
     }
   }
   @include bp($md) {
-
     margin-left: $icon-size;
     margin-right: $icon-size;
-    &__wrap { margin-bottom: 0; }
   }
   @include bp($lg){
     &__content {
