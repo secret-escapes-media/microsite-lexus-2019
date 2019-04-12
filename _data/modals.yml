@@ -27,10 +27,73 @@
 
 - id: competition-terms
   pages:
-    - id: all
+    - id: competition
   content: >
     <div class="content-spacing">
-      <h3 class="core-title core-title--lg">Competition terms & conditions</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-      <p>Quos non sit omnis cum facilis, laborum culpa natus totam quae animi magnam minima aspernatur, harum dolorem nostrum maxime distinctio! Facilis hic exercitationem, blanditiis, saepe iusto minus libero unde amet molestiae, nemo id! Dolores aperiam commodi dolore neque ipsum rerum error, eum. Ratione rem maxime incidunt quam nostrum, voluptas alias soluta accusamus magni quibusdam, tempore numquam! Unde nemo a optio dolore sunt ex repellat molestiae quisquam quas. Fugiat, eligendi ullam. Exercitationem sapiente neque debitis omnis commodi cumque illo magni quam.</p>
+      <h3 class="core-title core-title--md">Teilnahmebedingungen Gewinnspiel Lexus &amp; Secret Escapes</h3>
+      <p>Die Online-Gewinnspiele und Verlosungen auf secretescapes.de werden von der Secret Escapes Ltd., 120 Holborn, London EC1N 2TD, Großbritannien veranstaltet. Sofern ein Kooperationspartner von Secret Escapes Mitveranstalter ist, wird er explizit benannt.</p>
+      <p>Mit der Teilnahme erkennen Sie die Teilnahmebedingungen an.</p>
+
+      <h4 class="core-title core-title--xs space--lg">Teilnahme</h4>
+      <p>Teilnahmeberechtigt sind ausschließlich volljährige natürliche Personen mit Wohnsitz in Deutschland und Österreich. Pro Person ist nur eine einmalige Teilnahme am Gewinnspiel erlaubt.</p>
+      <p>Die Teilnahme am Gewinnspiel ist kostenlos und unabhängig von dem Erwerb einer Ware oder Dienstleistung.</p>
+      <p>Die Teilnahme erfolgt durch das Beantworten der Gewinnspielfragen auf https://www.secretescapes.com/lexus-design-collection/de/gewinnspiel/ unter Angabe von Vor- und Zuname sowie einer gültigen E-Mail Adresse. Secret Escapes behält sich das Recht vor, bei Verstoß gegen diese Teilnahmebedingungen, Teilnehmer vom Gewinnspiel auszuschließen. Gegebenenfalls wird der Gewinn nachträglich aberkannt und zurückgefordert.</p>
+      <p>Mitarbeiter von Secret Escapes, ihrer verbundenen Unternehmen sowie Gewinnspielpartner, einschließlich Angehörige der vorgenannten Gruppen, sind von der Teilnahme ausgeschlossen.</p>
+
+      <h4 class="core-title core-title--xs space--lg">Gewinnspiel/Verlosung</h4>
+      <p>Das Gewinnspiel endet am 19.05.2019 um 23:59 Uhr</p>
+      <p>Der Gewinner wird per Losverfahren ermittelt und anschließend per E-Mail informiert.</p>
+      <p>Zur Verlosung stehen diverse Sach- und Wertpreise wie unten aufgeführt. Eine Angabe von Präferenzen ist ausgeschlossen.</p>
+      <p>Secret Escapes behält sich das Recht vor, das Gewinnspiel zu jedem Zeitpunkt ohne Vorankündigung zu beenden, wenn aus technischen oder rechtlichen Gründen eine ordnungsgemäße Durchführung nicht gewährleistet werden kann.</p>
+
+      <h4 class="core-title core-title--xs space--lg">Der Gewinn</h4>
+      <p>Es gibt zwei (2) Gewinner. Jeder der beiden Gewinner erhält folgenden Preis:</p>
+      <ol>
+        <li>Einen Hotel-Aufenthalt in einem Hotel in Deutschland für 1 Nacht inklusive Frühstück für 2 Personen.</li>
+        <li>Die Nutzung eines Lexus UX für die Dauer des Wochenendtrips.</li>
+      </ol>
+      <p>Mögliche Reisezeit: Bis 30.04.2020, nach Verfügbarkeit. Ausschlussdaten gelten.</p>
+      <p>Weitere Bedingungen gelten:</p>
+
+      <h4 class="core-title core-title--xs space--lg">Fahrer</h4>
+      <ol>
+        <li>Die Teilnehmer bestätigen, dass sie im Besitz eines gültigen deutschen Führerscheins sind, mit dem sie auf deutschen Autobahnen motorisierte Fahrzeuge fahren dürfen.</li>
+        <li>Die Fahrer müssen seit mindestens 2 Jahren in Besitz eines gültigen Führerscheins sein. Fahrer, die mehr als 9 Punkte in Flensburg haben oder in den vergangenen 2 Jahren ein schweres Verkehrsvergehen begangen haben, dürfen nicht an der Preisverlosung teilnehmen. Die Fahrer verpflichten sich, die deutsche Straßenverkehrsordnung stets zu befolgen.</li>
+        <li>Die Fahrer bestätigen hiermit, dass sie guter Gesundheit sind, dass ihre Sehkraft dem für die deutsche Führerscheinprüfung erforderlichen Standard entspricht und dass sie nicht an Krankheiten oder Behinderungen leiden, durch die ihre Fahrtüchtigkeit beeinträchtigt wird.</li>
+        <li>Die Fahrer erkennen an, dass sie allein für jegliche Entscheidungen bezüglich ihrer Fahrtüchtigkeit verantwortlich sind und dass sie das Fahren sofort einstellen, sollten sie jemals fahruntüchtig werden. Die Fahrer verpflichten sich, beim Fahren des Mietwagens den aktuell in Deutschland geltenden Grenzwert für Alkohol am Steuer bzw. für Drogen, die ihre Fahrtüchtigkeit einschränken können, nicht zu überschreiten.</li>
+        <li>Die Fahrer verpflichten sich, jegliche Bedenken bezüglich der Verkehrstüchtigkeit bzw. Sicherheit des Fahrzeugs umgehend einem Vertreter der Toyota Deutschland GmbH zu melden.</li>
+        <li>Für das Fahrzeug besteht bei der AIOI Nissay Dowa Insurance Company of Europe Ltd., Niederlassung für Deutschland, Carl-Zeiss-Ring 25, 85737 Ismaning, Tel.: 01 80/3 32 42 43 (24 Stunden) eine Kfz-Haftpflichtversicherung mit einer maximalen Deckungssumme von 100 Mio. € für Sach-, Vermögens- und Personenschäden, bei Personenschäden jedoch höchstens 8 Mio. € pro Person. Des Weiteren besteht eine Teilkaskoversicherung mit 1.000,-€ Selbstbeteiligung ohne Glas. Es besteht keine Vollkaskoversicherung. Im Schadensfall ist der Lexus Partner unverzüglich zu informieren, um die weitere Vorgehensweise abzustimmen.</li>
+        <li>Bei Unfallschäden, Verlust, Diebstahl oder unsachgemäßer Bedienung des Fahrzeugs haftet der Entleiher für Schäden, die er fahrlässig verursacht, mit einer Selbstbeteiligung in Höhe von maximal 1.000 €. Für Schäden, die der Entleiher grob fahrlässig oder vorsätzlich verursacht, haftet er unbeschränkt.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Überprüfung des Führerscheins</h4>
+      <ol>
+        <li>Der Preis kann nur in Anspruch genommen werden, wenn die Fahrer eine Kopie der Vorder- und Rückseite ihres Führerscheins vorlegen.</li>
+        <li>Das Fahrzeug darf von maximal zwei Fahrern gefahren werden.</li>
+        <li>Sämtliche Führerscheine müssen für Versicherungszwecke gültig und auf dem aktuellsten Stand sein (d.h. richtige Adresse, Strafpunkte, die nicht länger gültig sind, wurden entfernt). Zudem muss es sich um einen vollwertigen und nicht um einen vorläufigen Führerschein handeln.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Fahrzeug</h4>
+      <ol>
+        <li>Die Vermietung des Lexus UX unterliegt gewissen Mietwagenbestimmungen der Toyota Deutschland GmbH. Vor Inanspruchnahme des Fahrzeugs muss der Gewinner diesen Bestimmungen zustimmen.</li>
+        <li>Den Gewinnern der Preisverlosung steht als Gewinn ein Lexus UX zu. Die Toyota Deutschland GmbH behält sich das Recht vor, ein alternatives Fahrzeug zu stellen, falls aus irgendwelchen Gründen kein Lexus UX verfügbar sein sollte. Zudem behält sie sich das Recht vor, die Teilnahme von Fahrern an der Vermietung des Lexus zu jeder Zeit und aus jedem Grund unverzüglich zu kündigen.</li>
+        <li>Das Fahrzeug kann maximal von Freitag bis Montag zur Verfügung gestellt werden. Das Auto muss innerhalb Deutschlands bleiben.</li>
+        <li>Das Fahrzeug darf ausschließlich vom Gewinner/der Gewinnerin sowie einem weiteren angegebenen Fahrer gefahren werden und zwar ausschließlich zu privaten Zwecken. Unter keinen Umständen darf es für geschäftliche Zwecke oder Autorennen verwendet werden.</li>
+        <li>Nach der Abholung wird das Fahrzeug einer eingehenden Kontrolle unterzogen. Der Gewinner/die Gewinnerin ist für jegliche Schäden verantwortlich, die entstehen, weil er/sie die angemessene Sorgfalt hat vermissen lassen.</li>
+        <li>Im Fahrzeug sind Rauchen und Haustiere nicht gestattet.</li>
+        <li>Das Auto wird mit einem gefüllten Tank ausgeliefert, muss aber nicht mit einem gefüllten Tank zurückgegeben werden.</li>
+      </ol>
+      <p>Je nach Gewinn werden diese in elektronischer Form als PDF Datei per E-Mail oder auf dem Postweg übermittelt.</p>
+      <p>Meldet sich der Gewinner nicht innerhalb von 14 Tagen nach dem Absenden der Benachrichtigung, so verfällt der Anspruch auf den Gewinn und es wird per Los ein neuer Gewinner ermittelt.</p>
+      <p>Secret Escapes wird mit der Aushändigung des Gewinns von allen Verpflichtungen freigestellt. Bei Gutscheinen für Leistungen der Kooperationspartner von Secret Escapes haftet ausschließlich der genannte Partner, nicht Secret Escapes, für die Erbringung der Dienstleistung. Bei Gutscheinen für Leistungen, die von einem Dritten (z.B. Hotel oder Reiseveranstalter) erbracht werden, unterliegt die Gültigkeit und Einlösung des Gutscheins ggf. separaten AGB des jeweiligen Partners.</p>
+      <p>Der Gewinn wird ohne Rechnung ausgeliefert und es wird auch auf Wunsch keine Rechnung angefertigt.</p>
+
+      <h4 class="core-title core-title--xs space--lg">Datenschutz &amp; E-Mail Werbung</h4>
+      <p>Alle personenbezogenen Daten des Teilnehmers werden ausschließlich zum Zwecke der Durchführung und Abwicklung des Gewinnspiels verarbeitet. Secret Escapes ist berechtigt, die Daten der Gewinner an die Kooperationspartner zu übermitteln, um den Versand oder die Leistungserbringung der Gewinne zu ermöglichen.</p>
+      <p>Es steht dem Teilnehmer jederzeit frei, seine Teilnahme am Gewinnspiel/ an der Verlosung zu widerrufen.</p>
+
+      <h4 class="core-title core-title--xs space--lg">Schlussbestimmungen / anwendbares Recht</h4>
+      <p>Eine Barauszahlung der Gewinne oder eines etwaigen Gewinnersatzes ist ausgeschlossen.</p>
+      <p>Der Rechtsweg ist ausgeschlossen.</p>
+      <p>Sollten einzelne dieser Bestimmungen ungültig sein oder werden, bleibt die Gültigkeit der übrigen Nutzungsbedingungen hiervon unberührt.</p>
     </div>
