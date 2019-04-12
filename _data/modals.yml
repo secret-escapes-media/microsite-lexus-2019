@@ -30,7 +30,7 @@
     - id: competition
   content: >
     <div class="content-spacing">
-      <h4 class="core-title core-title--xs">Promotor Y Participantes</h3>
+      <h4 class="core-title core-title--xs">Promotor Y Participantes</h4>
       <ol class="continuing-list continuing-list--start">
         <li>El promotor es Secret Escapes Ltd, 120 Holborn, London, EC1N 2TD.</li>
         <li>Todos los candidatos («participantes») deben ser mayores de 21 años y residentes en Suecia.</li>
