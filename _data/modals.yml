@@ -27,10 +27,99 @@
 
 - id: competition-terms
   pages:
-    - id: all
+    - id: competition
   content: >
     <div class="content-spacing">
-      <h3 class="core-title core-title--lg">Competition terms & conditions</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-      <p>Quos non sit omnis cum facilis, laborum culpa natus totam quae animi magnam minima aspernatur, harum dolorem nostrum maxime distinctio! Facilis hic exercitationem, blanditiis, saepe iusto minus libero unde amet molestiae, nemo id! Dolores aperiam commodi dolore neque ipsum rerum error, eum. Ratione rem maxime incidunt quam nostrum, voluptas alias soluta accusamus magni quibusdam, tempore numquam! Unde nemo a optio dolore sunt ex repellat molestiae quisquam quas. Fugiat, eligendi ullam. Exercitationem sapiente neque debitis omnis commodi cumque illo magni quam.</p>
+      <h4 class="core-title core-title--xs">Arrangør Og Deltakere</h4>
+      <ol class="continuing-list continuing-list--start">
+        <li>Arrangøren er Secret Escapes Ltd, 120 Holborn, London, EC1N 2TD.</li>
+        <li>Alle deltakere (&quot;Deltakere&quot;) må være norske innbyggere 21 år eller eldre.</li>
+        <li>Ansatte i Secret Escapes, og Lexus eller deres tilknyttede selskaper, deres familier, agenter og andre parter som er direkte involvert i denne kampanjen og sponsorskapet, er ikke kvalifisert til å delta.</li>
+        <li>Ved å delta i denne premietrekningen, anses alle deltakere for å være enige om å være bundet av disse vilkårene, med mindre man er skriftlig informert om annet.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Premietrekningen</h4>
+      <ol class="continuing-list">
+        <li>For å delta i denne premietrekningen, blir deltagerne bedt om å fylle ut et kort spørreskjema mellom kl. 07.00 den XX/04/2019 (&quot;Deltakningsdato&quot;) og kl. 23.59 den XX/05/2019 (&quot;Avslutningsdato&quot;).</li>
+        <li>Ingen kjøp er nødvendig; det er gratis å delta i denne premietrekningen.</li>
+        <li>Ufullstendige, ugyldige eller upassende deltakninger, eller deltakninger mottatt etter sluttdatoen, vil ikke være kvalifisert til å vinne.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Hvordan Delta</h4>
+      <ol class="continuing-list">
+        <li>For å delta i denne trekningen, må deltakerne fylle ut skjemaet på arrangørens nettside for premietrekning og gi informasjon om navn og e-postadresse.</li>
+        <li>Alle deltakninger må være mottatt mellom deltakningsdato og avslutningsdato (britisk tid).</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Krav For Premietrekning</h4>
+      <ol class="continuing-list">
+        <li>Deltakerne er enige om å bli kontaktet av arrangøren med det formål å administrere premietrekningen.</li>
+        <li>Arrangøren forbeholder seg retten til å diskvalifisere ufullstendige eller ugyldige deltakninger eller som ellers ikke oppfyller kravene.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Premien</h4>
+      <ol class="continuing-list">
+        <li>Det blir to (2) vinnere. Premien for vinnerne vil være a) To netters opphold med frokost på for to (2) på et 4/5* hotell i Norge. B) Bruk av Lexus UX for varigheten av ditt weekendopphold.
+        </li>
+        <ol class="ol--nested ol--letters">
+          <li>Oppholdet må være tatt innen 30. april 2020. Det er underlagt tilgjengelighet og det inkluderer datoer som er opptatte</li>
+          <li>Vilkår og betingelser gjelder - og er beskrevet på slutten av vilkår og betingelser</li>
+        </ol>
+        <li>Ved omstendigheter utenfor vår kontroll er arrangøren ikke ansvarlig for forsinkelser i reise eller levering.</li>
+        <li>Arrangør forbeholder seg retten til å publisere vinnerens navn, by og fylke eller å offentliggjøre hvilken som helst presentasjon av premieoverrekning etter datoen for premietrekningen. Om vinneren ikke ønsker at slike detaljer skal publiseres, må de si fra til arrangøren når de blir informert om at de har vunnet.</li>
+        <li>Premiene er ikke overførbare og ingen kontanter eller kreditt alternativer vil bli erstattet av premiene som tilbys. I tilfelle premiene som tilbys er utilgjengelige på grunn av omstendigheter utenfor vår kontroll, forbeholder arrangøren seg retten til å tilby en alternativ premie med samme eller større verdi.</li>
+        <li>Vinneren må hente premien senest 7 dager etter at vinneren er informert.</li>
+        <li>Dersom vinneren avviser eller ikke henter premien i tide i henhold til punkt 17, kan premien bli tildelt til andre deltakere absolutt etter arrangørens eget skjønn.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Trekning</h4>
+      <ol class="continuing-list">
+        <li>Vinneren vil bli trukket tilfeldig av Secret Escapes mellom alle deltakninger mottatt mellom deltakningsdato og avslutningsdato.</li>
+        <li>Vinneren vil bli kontaktet via en direkte melding fra Secret Escapes til vinnerenes e-postadresse.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Ansvarsfraskrivelse</h4>
+      <ol class="continuing-list">
+        <li>Arrangøren forbeholder seg retten til å nekte å respektere noen deltakning, eller kreve tilbake hele verdien av en premie dersom den anser at det har vært misbruk eller brudd på vilkårene i denne Premietrekningen.</li>
+        <li>Arrangøren er ikke ansvarlig for tap eller skade av noe slag, uansett hva som oppstår med enhver deltaker under denne kampanjen. Intet i disse reglene skal imidlertid utelukke eller begrense arrangørens ansvar for personskade eller død som skyldes den bevisste forsømmelsen til sine ansatte eller ansatte med kontrakt.</li>
+        <li>I tilfelle en tvist om tolkning eller gjennomføring av reglene i alle saker som er relatert til premietrekningen, er direktørens beslutning endelig og ingen korrespondanse om saken vil forekomme.</li>
+      </ol>
+
+      <div class="space--sm"></div>
+      <hr>
+      <div class="space--xxs"></div>
+
+      <h3 class="core-title core-title--sm">Lexus UX Vilkår og Betingelser</h3>
+      <div class="space--xs"></div>
+      <h4 class="core-title core-title--xs">Sjåfør</h4>
+      <ol>
+        <li>Deltakeren bekrefter at han eller hun er innehaver av et nåværende norsk førerkort som tillater ham eller henne å kjøre bil på norske motorveier og at han eller hun er over 25 år og ikke eldre enn 75 år.</li>
+        <li>Førere må ha hatt gyldig førerkort i minst 2 år. Førere med 9 poeng eller mer på sitt førerkort eller førere som har hatt en alvorlig trafikkovertredelse i løpet av de siste 2 årene, vil ikke kunne delta i denne premietrekningen. Føreren er enig i å overholde Norges Veitrafikklover [MOU1] til enhver tid.</li>
+        <li>Sjåføren erklærer herved at han eller hun har god helse, at deres syn er av tilfredsstillende standard som kreves for norske kjøretester, og at de ikke har noen sykdom eller funksjonshemming som kan gjøre det utrygt for dem å kjøre bil.</li>
+        <li>Føreren aksepterer at han eller hun alene skal være ansvarlig for eventuelle beslutninger angående helse og bilkjøring, og at hvis de på et hvilket som helst tidspunkt ikke er egnet til å gjøre det, skal kjøring opphøres umiddelbart. Føreren bekrefter at han eller hun på ingen tidspunkt når han eller hun har ansvaret for lånebilen, ikke er over gjeldende norske lovgrenser for kjøring i forhold til å være påvirket av alkohol eller narkotika som kan påvirke kjøringsevnen.</li>
+        <li>Føreren bekrefter at hvis han eller hun har noen grunn til bekymring med hensyn til trafikk eller sikkerhet for et kjøretøy, skal de umiddelbart underrette om det til en Lexus Norway-representant.
+        </li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Førerkortkontroll</h4>
+      <ol>
+        <li>Premien kan kun gis når føreren leverer en kopi av forsiden og baksiden av førerkortet.</li>
+        <li>Maksimalt to førere har lov til å kjøre kjøretøyet.</li>
+        <li>Alle førerkort må være gyldige for forsikringsformål og oppdatert (dvs. korrekt adresse, poeng fjernet der de ikke lenger er gyldige) og må være varige, ikke midlertidige.
+        </li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Kjøretøy</h4>
+      <ol>
+        <li>Lånet av Lexus UX er underlagt visse lånevilkår fra Lexus Norway. Vinneren må godta disse vilkårene før han eller hun tar i bruk kjøretøyet.</li>
+        <li>Kjøretøyene som er tilgjengelig for vinnerne av denne premietrekningen er en Lexus UX. Lexus Norge forbeholder seg retten til å levere et alternativt kjøretøy om Lexus UX av en eller annen grunn ikke er tilgjengelig, og til enhver tid og med hvilken som helst grunn, å avslutte førers lån av Lexus bilen.</li>
+        <li>Maksimal varighet der kjøretøyet kan være tilgjengelig er fredag ​​- mandag. Bilen må ikke tas ut av Norge</li>
+        <li>Kjøretøyet må kun kjøres av vinneren og en ytterligere nominert sjåfør, kun for privat bruk og ikke for forretningsformål eller noen form for racing.</li>
+        <li>Ved henting av kjøretøyet vil det bli gjennomgått en grundig inspeksjon. Vinneren vil være ansvarlig for eventuelle skader som oppstår ved at han ikke utviser rimelig forsiktighet.</li>
+        <li>Vinneren er ansvarlig for bøter, overbelastning eller andre avgifter som oppstår som følge av bruk av bilen og for eventuelle skader som oppstår som følge av manglende forsiktighet. Bilen er forsikret med en forsikring på over €XX for hvert krav under €XX; €XX for hvert krav på over €XX. Vær oppmerksom på at disse beløpene er i tillegg til det beløpet som skal betales som følge av påfylling av feil drivstoff og/eller motorskade på grunn av navigering gjennom oversvømmede områder. For klarhet i slike tilfeller vil et ekstra overskudd til verdien av 10% av reparasjonskostnadene bli belastet. Forsikringen dekker ikke personlige eiendeler. [MOU2]</li>
+        <li>Røyking er ikke tillatt i kjøretøyet.</li>
+        <li>Bilen vil ha en full tank med drivstoff. Bilen trenger ikke å bli returnert med en full tank med drivstoff.</li>
+        <li>Kjøretøyet leveres og hentes fra din valgte adresse.</li>
+      </ol>
+
     </div>
