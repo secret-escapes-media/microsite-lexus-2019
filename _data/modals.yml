@@ -27,10 +27,95 @@
 
 - id: competition-terms
   pages:
-    - id: all
+    - id: competition
   content: >
     <div class="content-spacing">
-      <h3 class="core-title core-title--lg">Competition terms & conditions</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-      <p>Quos non sit omnis cum facilis, laborum culpa natus totam quae animi magnam minima aspernatur, harum dolorem nostrum maxime distinctio! Facilis hic exercitationem, blanditiis, saepe iusto minus libero unde amet molestiae, nemo id! Dolores aperiam commodi dolore neque ipsum rerum error, eum. Ratione rem maxime incidunt quam nostrum, voluptas alias soluta accusamus magni quibusdam, tempore numquam! Unde nemo a optio dolore sunt ex repellat molestiae quisquam quas. Fugiat, eligendi ullam. Exercitationem sapiente neque debitis omnis commodi cumque illo magni quam.</p>
+      <h4 class="core-title core-title--xs">Promotor Y Participantes</h3>
+      <ol class="continuing-list continuing-list--start">
+        <li>El promotor es Secret Escapes Ltd, 120 Holborn, London, EC1N 2TD.</li>
+        <li>Todos los candidatos («participantes») deben ser mayores de 21 años y residentes en Suecia.</li>
+        <li>No podrán participar en este sorteo los empleados de Secret Escapes y de Lexus o sus empresas asociadas, así como sus familias, representantes o terceros involucrados directamente en esta promoción.</li>
+        <li>Al participar en este sorteo, todos los participantes aceptan hallarse sujetos a estos términos y condiciones a menos que les sea notificado lo contrario por escrito.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">El Sorteo</h4>
+      <ol class="continuing-list">
+        <li>Para participar en este sorteo es necesario que los participantes rellenen un breve cuestionario entre las 7:00 del 12/04/2019 («fecha de inscripción») y las 23:59 del 31/05/2019 («fecha de finalización»).</li>
+        <li>La participación en este sorteo es gratuita y no exige realizar ninguna compra.</li>
+        <li>No podrán resultar ganadoras las inscripciones incompletas, no válidas o indebidas, ni tampoco las recibidas tras la fecha de finalización.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Cómo Participar</h4>
+      <ol class="continuing-list">
+        <li>Para participar en este sorteo, los participantes deben rellenar el cuestionario disponible en la página del sorteo del sitio web del promotor, aportando su nombre y su dirección de correo electrónico.</li>
+        <li>Todas las inscripciones deberán ser recibidas entre la fecha de inscripción y la fecha de finalización (hora del Reino Unido).</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Requisitos Del Sorteo</h4>
+      <ol class="continuing-list">
+        <li>Los participantes aceptan ser contactados por el promotor a efectos de la administración del sorteo.</li>
+        <li>El promotor se reserva el derecho a descalificar a inscripciones incompletas, ilegibles o que no cumplan los requisitos.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">El Premio</h4>
+      <ol class="continuing-list">
+        <li>Habrá dos (2) ganadores. El premio para cada ganador será a) dos noches con alojamiento y desayuno para dos (2) en un hotel de 4*/5* en España; b) el disfrute de un Lexus UX durante su fin de semana.</li>
+        <ol class="ol--nested ol--letters">
+          <li>La estancia deberá reservarse entre el 1 de octubre de 2019 y el 30 de abril de 2020. Está sujeta a disponibilidad y excluye las fechas restringidas.</li>
+          <li>Sujeto a los términos y condiciones incluidos en el apartado «Términos y Condiciones».</li>
+        </ol>
+        <li>En caso de ocurrir circunstancias fuera de nuestro control, el promotor no será responsable por demoras en el viaje o la entrega del premio.</li>
+        <li>El promotor se reserva el derecho de publicar el nombre, el municipio y el país del ganador, así como de publicitar la entrega del premio con posterioridad a la fecha del sorteo. Si los ganadores no desean que tales datos sean publicados, deberán comunicárselo al promotor al momento de ser informados de que han ganado.</li>
+        <li>Los premios son intransferibles y no canjeables por dinero u otras alternativas de crédito. En el caso de que los premios ofertados no se hallasen disponibles debido a circunstancias fuera de nuestro control, el promotor se reserva el derecho de ofrecer un premio alternativo de igual o superior valor.</li>
+        <li>El ganador deberá reclamar el premio en los 7 días posteriores a la notificación del mismo.</li>
+        <li>En el caso de que el ganador rechazase o no reclamase el premio en el plazo establecido de conformidad con el punto 17, el premio podrá ser adjudicado a otros participantes a discreción absoluta del promotor.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Elección</h4>
+      <ol class="continuing-list">
+        <li>El ganador será escogido por sorteo por parte de Secret Escapes entre todas las inscripciones recibidas entre la fecha de inscripción y la fecha de finalización.</li>
+        <li>Secret Escapes contactará con el ganador a través de un correo electrónico enviado a la dirección del ganador.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Exención De Responsabilidad</h4>
+      <ol class="continuing-list">
+        <li>El promotor se reserva el derecho a rechazar una inscripción o a recuperar el valor total de cualquier premio si considera que ha habido una violación o quebrantamiento de los términos y condiciones de este sorteo.</li>
+        <li>El promotor no será responsable de pérdidas, daños o lesiones de cualquier naturaleza que los participantes pudieran sufrir en el marco de la presente promoción. Sin embargo, ningún apartado en estas normas excluye o limita la responsabilidad del promotor por posibles daños personales o fallecimiento resultantes de la negligencia probada de sus empleados o colaboradores.</li>
+        <li>En caso de que existieran discrepancias acerca de la interpretación o ejecución de las normas o de cualquier otro asunto relacionado con el sorteo, la decisión de los directores del promotor será concluyente y no se atenderán reclamaciones al respecto de la misma.</li>
+      </ol>
+
+      <div class="space--sm"></div>
+      <hr>
+      <div class="space--xxs"></div>
+
+      <h3 class="core-title core-title--sm">Términos y Condiciones Lexus UX</h3>
+      <div class="space--xs"></div>
+      <h4 class="core-title core-title--xs">Conductor</h4>
+      <ol>
+        <li>El participante confirma estar en posesión de un permiso de conducción español que le autorice a conducir automóviles en las carreteras españolas.</li>
+        <li>Los conductores deberán tener un permiso de conducir en vigor con al menos 2 años de antigüedad. Los conductores con 9 puntos o más en su carnet, así como aquellos que hayan incurrido en infracciones graves de circulación en los últimos 2 años, no serán aptos para participar en este sorteo. El conductor acepta atenerse a la normativa de tráfico de España en todo momento.</li>
+        <li>El conductor declara por la presente que se encuentra en buen estado de salud, que su vista se encuentra dentro de los niveles exigidos en los exámenes de conducción españoles y que no padece ninguna enfermedad o discapacidad que le impida conducir con seguridad.</li>
+        <li>El conductor acepta ser el/la único/a responsable de cualquier decisión acerca de su capacidad para conducir y se compromete también a que, si en algún momento no se encontrase en condiciones de conducir, dejará de hacerlo inmediatamente. El conductor confirma que en ningún momento mientras esté a cargo del automóvil prestado se encontrará bajo la influencia de alcohol o drogas que puedan afectar a su capacidad para conducir por encima de los límites legales actualmente vigentes en Suecia.</li>
+        <li>El conductor confirma que en caso de tener algún motivo de sospecha acerca de la aptitud para la circulación o la seguridad de cualquier vehículo, informará de ello inmediatamente a un representante de Toyota.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Comprobación del permiso de conducción</h4>
+      <ol>
+        <li>El premio solo podrá ser otorgado una vez que el conductor haya aportado una copia del anverso y el reverso de su permiso de conducción.</li>
+        <li>Solo se permitirá conducir el vehículo a un máximo de dos conductores.</li>
+        <li>Todos los permisos de conducción deberán hallarse en vigor y ser válidos a efectos del seguro (esto es, incluir la dirección correcta, tener retirados los puntos que no se hallen vigentes). Los permisos no podrán ser provisionales.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Vehículo</h4>
+      <ol>
+        <li>El préstamo del Lexus UX se halla sujeto a ciertos términos de préstamo de vehículos establecidos por Toyota. El ganador deberá aceptar estos términos antes de hacerse cargo del vehículo.</li>
+        <li>El vehículo disponible para los ganadores de este concurso es un Lexus UX. Toyota se reserva el derecho de suministrar un vehículo alternativo si por alguna razón no se hallase disponible un Lexus UX, así como de suspender el préstamo del Lexus a cualquier conductor por cualquier motivo y en cualquier momento.</li>
+        <li>El vehículo no podrá abandonar el territorio de España.</li>
+        <li>El vehículo solo podrá ser conducido por el ganador y otro conductor designado y solo estará destinado a su uso privado, no a propósitos comerciales o de negocio ni a ninguna clase de carrera.</li>
+        <li>El vehículo será objeto de una revisión minuciosa al momento de su devolución. El ganador será responsable de cualquier daño ocasionado con motivo de no haber tomado las medidas de precaución razonables.</li>
+        <li>El ganador será responsable de cualquier multa, tasa de congestión u otras tasas resultantes de uso del vehículo, así como de cualquier daño ocasionado con motivo de no haber tomado las medidas de precaución razonables. El vehículo se encuentra asegurado con una franquicia de 500 € para cualquier reclamación inferior a 5.000 € y de 1.000 € para cualquier reclamación superior a 5.000 €. Tenga en cuenta que a estas franquicias se sumará cualquier cantidad pagadera como resultado del uso de combustible inadecuado y/o de daños ocasionados al motor fruto de la conducción en áreas inundadas. Para mayor claridad: en tales circunstancias se cobrará una franquicia adicional del 10% de los costes de reparación. El seguro no cubre las pertenencias personales.</li>
+        <li>No está permitido fumar dentro del vehículo.</li>
+        <li>El vehículo será entregado con el depósito lleno de combustible. Sin embargo, no será necesario que el vehículo sea devuelto con el depósito lleno de combustible.</li>
+        <li>El vehículo será entregado y recogido en la dirección que usted elija.</li>
+      </ol>
     </div>
