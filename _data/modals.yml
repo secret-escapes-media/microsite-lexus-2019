@@ -30,7 +30,93 @@
     - id: all
   content: >
     <div class="content-spacing">
-      <h3 class="core-title core-title--lg">Competition terms & conditions</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-      <p>Quos non sit omnis cum facilis, laborum culpa natus totam quae animi magnam minima aspernatur, harum dolorem nostrum maxime distinctio! Facilis hic exercitationem, blanditiis, saepe iusto minus libero unde amet molestiae, nemo id! Dolores aperiam commodi dolore neque ipsum rerum error, eum. Ratione rem maxime incidunt quam nostrum, voluptas alias soluta accusamus magni quibusdam, tempore numquam! Unde nemo a optio dolore sunt ex repellat molestiae quisquam quas. Fugiat, eligendi ullam. Exercitationem sapiente neque debitis omnis commodi cumque illo magni quam.</p>
+      <h4 class="core-title core-title--xs">Arrangör Och Deltagare</h4>
+      <ol class="continuing-list continuing-list--start">
+        <li>Arrangören är Secret Escapes Ltd, 120 Holborn, London, EC1N 2TD.</li>
+        <li>Alla deltagare (”deltagare”) måste vara bosatta i Sverige och vara 21 år eller äldre.</li>
+        <li>Anställda på Secret Escapes och Lexus eller deras närstående bolag, deras familjer, ombud och andra parter som är direkt inblandade i denna kampanj och sponsring är inte berättigade att delta.</li>
+        <li>Genom att delta i utlottningen, anses alla deltagare ha samtyckt till att vara bundna av dessa villkor, om inte något annat meddelas skriftligen.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Utlottningen</h4>
+      <ol class="continuing-list">
+        <li>För att delta i denna utlottning, uppmanas deltagarna att fylla i ett kort frågeformulär mellan 2019-04-15 07:00 (”startdatum”) och 2019-05-31 23:59 (”slutdatum”).</li>
+        <li>Inget köp är nödvändigt, det är gratis att delta i den här utlottningen.</li>
+        <li>Ofullständiga, ogiltiga eller olämpliga bidrag, eller bidrag som inkommer efter slutdatum kommer inte att vara berättigade att vinna.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Hur Man Deltar</h4>
+      <ol class="continuing-list">
+        <li>För att delta i denna utlottning måste deltagarna fylla i formuläret på utlottningssidan på arrangörens webbplats och ange sitt namn och sin e-postadress.</li>
+        <li>Alla bidrag måste ha inkommit mellan startdatum och slutdatum (brittisk tid).</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Utlottningskrav</h4>
+
+      <ol class="continuing-list">
+        <li>Deltagarna godkänner att bli kontaktade av arrangören i syfte att administrera utlottningen.</li>
+        <li>Arrangören förbehåller sig rätten att diskvalificera ofullständiga eller oläsliga bidrag, eller bidrag som i övrigt inte uppfyller kraven.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Priset</h4>
+      <ol class="continuing-list">
+        <li>Det kommer att finnas två (2) vinnare. Priset för varje vinnare kommer att vara a) Två nätters vistelse med övernattning och frukost för två (2) personer på ett 4/5* hotell i Sverige b) Användning av en Lexus UX under hela din helgvistelse.</li>
+        <ol class="ol--nested ol--letters">
+          <li>Vistelsen måste ske innan den 30 april 2020. Den är beroende av tillgänglighet och inkluderar undantagna datum</li>
+          <li>Allmänna villkor gäller och finns längst ner i dokumentet under Lexus UX allmänna villkor</li>
+        </ol>
+        <li>I händelse av omständigheter utanför vår kontroll är arrangören inte ansvarig för förseningar avseende resor eller leverans.</li>
+        <li>Arrangören förbehåller sig rätten att publicera vinnarens namn, stad och län eller att offentliggöra en eventuell prisutdelningspresentation efter det att dragningen har skett. Om vinnaren inte vill att sådana uppgifter ska offentliggöras, måste han/hon meddela arrangören vid tidpunkten för underrättandet om att han/hon har vunnit.</li>
+        <li>Priserna är inte överlåtbara och inga kontanter eller kreditalternativ kommer att ersätta de priser som erbjuds. I händelse av att priserna som erbjuds är otillgängliga på grund av omständigheter utanför vår kontroll, förbehåller sig arrangören rätten att erbjuda ett alternativt pris av samma eller högre värde.</li>
+        <li>Vinnaren måste göra anspråk på vinsten senast 7 dagar efter att vinnaren har informerats.</li>
+        <li>Om vinnaren avvisar eller inte gör anspråk på priset i tid i enlighet med klausul 17 får priset tilldelas andra deltagare enligt arrangörens absoluta gottfinnande.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Urval</h4>
+      <ol class="continuing-list">
+        <li>Vinnaren kommer att dras slumpmässigt av Secret Escapes från alla bidrag som mottagits mellan startdatum och slutdatum.</li>
+        <li>Vinnaren kommer att kontaktas via ett direktmeddelande från Secret Escapes till vinnarens e-postadress.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Ansvarsfriskrivning</h4>
+      <ol class="continuing-list">
+        <li>Arrangören förbehåller sig rätten att neka ett bidrag eller att återta det fulla värdet av ett pris, om denne anser att det har förekommit ett missbruk av eller ett brott mot villkoren i denna utlottning.</li>
+        <li>Arrangören kan inte hållas ansvarig för förlust eller skada av något slag oavsett orsak, som en deltagare i detta arrangemang har drabbats av. Dock skall ingenting i dessa regler utesluta eller begränsa arrangörens ansvar för personskada eller dödsfall som orsakats av den bevisade försummelsen av dess anställda eller entreprenörer.</li>
+        <li>I händelse av en tvist om tolkningen eller genomförandet av reglerna om alla frågor som rör utlottningen, är beslutet som arrangörens styrelse fattar slutgiltigt och ingen korrespondens kommer att föras.</li>
+      </ol>
+
+      <div class="space--sm"></div>
+      <hr>
+      <div class="space--xxs"></div>
+
+      <h3 class="core-title core-title--sm">Lexus UX allmänna villkor</h3>
+      <div class="space--xs"></div>
+      <h4 class="core-title core-title--xs">Förare</h4>
+      <ol>
+        <li>Deltagaren bekräftar att han eller hon är innehavare av ett giltigt brittiskt körkort som tillåter honom eller henne att köra bil på svenska vägar.</li>
+        <li>Föraren måste ha haft giltigt körkort i minst två år. Förare med nio prickar eller mer på sitt körkort eller som har gjort sig skyldig till ett grovt trafikbrott under de senaste två åren kommer inte att kunna delta i denna utlottning. Föraren förbinder sig att följa svenska vägtrafiklagar hela tiden.</li>
+        <li>Föraren förklarar härmed att han eller hon är vid god hälsa, att hans/hennes syn uppfyller kraven för det svenska förarprovet och att han/hon inte lider av någon sjukdom eller något funktionshinder som kan göra det osäkert för honom/henne att köra.</li>
+        <li>Föraren accepterar att han eller hon ska vara ensam ansvarig för eventuella beslut om hans/hennes lämplighet att köra bil och att om han/hon vid någon tidpunkt inte är lämpliga att göra det, då skall han/hon upphöra att köra direkt. Föraren bekräftar att han/hon inte vid något tillfälle när han eller hon är ansvarig för lånebilen kommer att överskrida den nuvarande svenska lagliga gränsen för att köra under påverkan av alkohol eller droger som kan påverka deras förmåga att köra bil.</li>
+        <li>Föraren bekräftar att om han eller hon har någon anledning till oro för trafiksäkerheten eller säkerheten gällande något fordon kommer han/hon att ta upp detta med en representant för Toyota omedelbart.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Körkortskontroll</h4>
+      <ol>
+        <li>Priset kan bara hämtas ut om föraren levererar en kopia av fram- och baksidan av sitt körkort.</li>
+        <li>Högst två förare tillåts att köra fordonet.</li>
+        <li>Alla körkort måste vara giltiga för försäkringsändamål och aktuella (dvs. rätt adress, prickar borttagna när de inte längre gäller) och måste vara kompletta, inte provisoriska.</li>
+      </ol>
+
+      <h4 class="core-title core-title--xs space--lg">Fordon</h4>
+      <ol>
+        <li>Lånet av Lexus UX är föremål för vissa lånebilsvillkor hos Toyota. Vinnaren måste godkänna dessa villkor innan han/hon tar fordonet i besittning.</li>
+        <li>Fordonet som är tillgängligt för vinnarna i denna utlottning är en Lexus UX. Toyota förbehåller sig rätten att tillhandahålla ett alternativt fordon om av någon anledning Lexus UX inte är tillgänglig och att genast avsluta en förares engagemang i Lexus billån när som helst och oavsett anledning.</li>
+        <li>Bilen får inte föras ut ur Sverige.</li>
+        <li>Fordonet får endast köras av vinnaren och en utsedd ytterligare förare, endast för privat bruk och inte för yrkesmässigt bruk eller någon form av racing.</li>
+        <li>Vid inlämning av fordonet kommer det att bli föremål för en grundlig inspektion. Vinnaren kommer att ansvara för eventuella skador som uppstår till följd av hans underlåtenhet att vidta rimliga försiktighetsåtgärder.</li>
+        <li>Vinnaren är ansvarig för eventuella böter, trängsel- eller andra avgifter till följd av användningen av bilen och för eventuella skador som uppstår av underlåtenhet att vidta rimliga försiktighetsåtgärder; bilen är försäkrad med en självrisk på 500 EUR för varje fordran under 5 000 EUR; 1 000 EUR för varje fordran över 5 000 EUR. Observera att dessa självrisker är utöver alla belopp som skall betalas till följd av fel bränsle och/eller motorskada på grund av körning genom översvämmade områden. För tydlighetens skull blir i sådana fall en ytterligare självrisk till ett värde av 10 % av reparationskostnaderna debiterad. Försäkringen täcker inte personliga tillhörigheter.</li>
+        <li>Rökning är inte tillåtet i fordonet.</li>
+        <li>Bilen kommer att förses med en full tank. Bilen behöver emellertid inte returneras med en full tank.</li>
+        <li>Fordonet kommer att levereras och hämtas från valfri adress.</li>
+      </ol>
     </div>
