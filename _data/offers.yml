@@ -508,3 +508,63 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
   link: https://www.secretescapes.se/modern-vistelse-i-vackra-stavanger-radisson-blu-royal-hotel-stavanger-norge/sale
   domestic: false
+
+- title: Grandiost hotell med takterrass i Wien
+  id: grandiost-hotell-med-takterrass-i-wien
+  location: Grand Ferdinand, Wien, Österrike
+  description: Stil och elegans på ett vackert hotell i Wien, inkl. frukost
+  price: 1770
+  price-description: per rum per natt
+  saved: 48
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/28909/d68f7986_d810_4983_a361_38ebdf4af902.jpg
+  link: https://www.secretescapes.se/grandiost-hotell-med-takterrass-grand-ferdinand-wien-osterrike01/sale
+  domestic: false
+
+- title: Spahotell med Michelinrestaurang i Berlin
+  id: spahotell-med-michelinrestaurang-i-berlin
+  location: The Mandala Hotel, Berlin, Tyskland
+  description: Femstjärnigt hotell med prisbelönt restaurang och spa på elfte våningen, inkl. frukost
+  price: 1780
+  price-description: per svit per natt
+  saved: 37
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/18957/30b31771_3ba7_476e_9dbc_578dd07d4993.jpg
+  link: https://www.secretescapes.se/spahotell-med-michelinrestaurang-i-berlin-the-mandala-hotel-berlin-tyskland/sale
+  domestic: false
+
+- title: Stilsäker tillflyktsort i München
+  id: stilsäker-tillflyktsort-i-münchen
+  location: Ruby Lilly, München, Tyskland
+  description: Ultra-hipp vistelse på urbant stadshotell nära Münchens stadskärna, inkl. frukost
+  price: 1040
+  price-description: per rum per natt
+  saved: 45
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/46766/538e3883_bb9f_4f2e_8b0c_89f14eed5db6.jpg
+  link: https://www.secretescapes.se/stilsaeker-tillflyktsort-i-muenchen-ruby-lilly-muenchen-tyskland-se/sale
+  domestic: false
+
+- title: Fräscht lägenhetshotell på tyska Usedom
+  id: fräscht-lägenhetshotell-på-tyska-usedom
+  location: Nadler Hof, Ahlbeck, Usedom, Tyskland
+  description: Självhushåll med närhet till havet och restauranger, inkl. vin m.m.
+  price: 950
+  price-description: per lägenhet per natt
+  saved: 32
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92399/698935d6_825c_4447_a8bd_dc2b209d8a31.jpg
+  link: https://www.secretescapes.se/fraescht-laegenhetshotell-paa-tyska-usedom-nadler-hof-ahlbeck-usedom-tyskland/sale
+  domestic: false
+
+- title: Spännande storstadsvistelse i Frankfurt
+  id: spännande-storstadsvistelse-i-frankfurt
+  location: Scandic Frankfurt Museumsufer, Frankfurt am Main, Tyskland
+  description: Kultur möter design på förstklassigt cityhotell, inkl. frukost med extra förmåner&nbsp;
+  price: 1040
+  price-description: per rum per natt
+  saved: 47
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66916/5b60ff85_9d9c_422a_88ac_b6c9ac711229.jpg
+  link: https://www.secretescapes.se/spaennande-storstadsvistelse-i-frankfurt-scandic-frankfurt-museumsufer-frankfurt-am-main-tyskland/sale
+  domestic: false
