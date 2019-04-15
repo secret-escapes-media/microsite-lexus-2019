@@ -18,8 +18,9 @@
   </div>
   {% if page.id == "overview" %}
     <a href="#guides" class="banner__jump-down"></a>
-    <!-- <div class="banner__bg-video"> -->
-      <!-- <video id="banner-video" src="{{site.video}}/video.mp4" height="100%" playsinline loop muted autoplay></video> -->
-    <!-- </div> -->
+    <div class="banner__bg-video">
+      <div class="banner__bg-video-overlay"></div>
+      <video id="banner-video" src="{{site.video}}/video.mp4" height="100%" playsinline loop muted autoplay></video>
+    </div>
   {% endif %}
 </div>
