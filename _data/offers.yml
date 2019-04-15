@@ -41,7 +41,7 @@
 - title: Palazzo Montemartini, A Radisson Collection Hotel
   id: palazzo-montemartini-a-radisson-collection-hotel
   location: Roma, Lazio
-  description: Un 5* dal design ultramoderno nel cuore di Roma</span>
+  description: Un 5* dal design ultramoderno nel cuore di Roma
   price: 205
   price-description: per camera per notte
   saved: 27
@@ -412,4 +412,76 @@
   expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/97e0ad09_2290_442d_adf1_616478d0465b.jpg
   link: https://it.secretescapes.com/clarion-hotel-the-hub-oslo-it/sale
+  domestic: false
+
+- title: Löwen Hotel Montafon
+  id: löwen-hotel-montafon
+  location: Schruns, Austria
+  description: Alpi austriache a 4* per un soggiorno tra benessere e ottima cucina regionale
+  price: 246
+  price-description: per camera per notte
+  saved: 30
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/35490/6c790723_b2ff_48a3_bef4_157cffee81e8.jpg
+  link: https://it.secretescapes.com/lowen-hotel-montafon-schruns-austria-italia/sale
+  domestic: false
+
+- title: Grand Ferdinand
+  id: grand-ferdinand
+  location: Vienna
+  description: City break a Vienna in un sofisticato 5* nel cuore della città
+  price: 169
+  price-description: per camera per notte
+  saved: 48
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/23938/49341686_96af_4928_abeb_d449eb2becbe.jpg
+  link: https://it.secretescapes.com/grand-ferdinand-vienna-italia/sale
+  domestic: false
+
+- title: The Mandala Hotel
+  id: the-mandala-hotel
+  location: Berlino
+  description: Splendido hotel a 5* con ristorante Michelin nel cuore di Berlino
+  price: 170
+  price-description: per camera per notte
+  saved: 37
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/18957/30b31771_3ba7_476e_9dbc_578dd07d4993.jpg
+  link: https://it.secretescapes.com/the-mandala-hotel-berlino-italia/sale
+  domestic: false
+
+- title: Ruby Lilly Hotel Munich
+  id: ruby-lilly-hotel-munich
+  location: Monaco di Baviera
+  description: Un soggiorno da rockstar in un hotel di design a Monaco di Baviera
+  price: 99
+  price-description: per camera per notte
+  saved: 45
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/46766/836f4648_037a_4550_9ecf_a0d35b5bd906.jpg
+  link: https://it.secretescapes.com/ruby-lilly-hotel-munich-monaco-di-baviera-italia/sale
+  domestic: false
+
+- title: STAGE 47 Design-Hotel
+  id: stage-47-design-hotel
+  location: Düsseldorf, Germania
+  description: City break glamour in un boutique hotel a 4* a Düsseldorf
+  price: 88
+  price-description: per camera per notte
+  saved: 49
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66115/475365d4_6d69_4fcd_854c_d5d155c19a9b.jpg
+  link: https://it.secretescapes.com/stage-47-design-hotel-duesseldorf-germania-it2/sale
+  domestic: false
+
+- title: Scandic Frankfurt Museumsufer
+  id: scandic-frankfurt-museumsufer
+  location: Francoforte sul Meno, Germania
+  description: Un hotel dallo charme nordico con vista sullo skyline di Francoforte
+  price: 99
+  price-description: per camera per notte
+  saved: 47
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66916/5b60ff85_9d9c_422a_88ac_b6c9ac711229.jpg
+  link: https://it.secretescapes.com/scandic-frankfurt-museumsufer-francoforte-sul-meno-germania/sale
   domestic: false
