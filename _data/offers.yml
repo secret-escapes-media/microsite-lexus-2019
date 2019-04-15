@@ -62,32 +62,34 @@
   link: https://no.secretescapes.com/slaaende-utsikt-i-tromsoe-clarion-hotel-the-edge-tromsoe-norge/sale
   domestic: true
 
-- title: Norsk eventyrhotell fra 1894
-  id: norsk-eventyrhotell-fra-1894
-  location: Dalen Hotel, Dalen, Telemark
-  description: Historisk hotell med utmerket aktivitetsmangfold, inkl. frokost og femretters middag
-  price: 3900
+- title: Splitter nytt og sentralt i Oslo
+  id: splitter-nytt-og-sentralt-i-oslo
+  location: Clarion Hotel The Hub, Oslo, Norge
+  description: Vær blant de første som sjekker inn på trendy designhotell i Oslo – åpnet dørene i mars 2019!&nbsp;
+  price: 1050
   price-description: per rom per natt
-  saved: 24
-  expires: 2019/04/15
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91715/4013cc74_499e_4d27_86f5_169bda4a9178.jpg
-  link: https://no.secretescapes.com/norsk-eventyrhotell-fra-1894-dalen-hotel-dalen-telemark/sale
+  saved: 32
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3b1d2886_cf0c_46cc_84cc_e9fcddcd7764.jpg
+  link: https://no.secretescapes.com/splitter-nytt-og-sentralt-i-oslo-clarion-hotel-the-hub-oslo-norge-no-no/sale
   domestic: true
+
+- title: Basseng, trening og restauranter i Stavanger
+  id: basseng-trening-og-restauranter-i-stavanger
+  location: Radisson Blu Royal Hotel Stavanger, Stavanger
+  description: Moderne og komfortable rom på sentralt Stavanger-hotell med basseng, badstu og restauranter&nbsp;
+  price: 950
+  price-description: per rom per natt
+  saved: 42
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
+  link: https://no.secretescapes.com/basseng-trening-og-restauranter-i-stavanger-radisson-blu-royal-hotel-stavanger-stavanger/sale
+  domestic: true
+
 
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
-
-- title: Quinta Splendida Wellness & Botanical Garden
-  location: Madeira, Portugal
-  description: Opphold på et vakkert spahotell med botaniske hager på Madeira, inkludert frokost
-  price: 967
-  price-description: per person. Basert på 2 personer per rom
-  saved: 33
-  expires: 2019/04/15
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/49998/783ed5c7_31dd_4dcd_bbce_dca3096a4e1c.jpg
-  link: https://no.secretescapes.com/quinta-splendida-wellness-and-botanical-garden-madeira-portugal/sale
-  domestic: false
 
 - title: Italiensk eleganse i hovedstaden
   id: italiensk-eleganse-i-hovedstaden
@@ -235,7 +237,7 @@
 
 - title: Velgjørende opphold på Marstrand
   id: velgjørende-opphold-på-marstrand
-  location: Marstrands Havsbad, Marstrand, Sverige
+  location: Marstrands Havshotell, Marstrand, Sverige
   description: Nyt livet fra en badestamp ved havet på koselige Marstrand Havshotell, inkludert halvpensjon
   price: 1991
   price-description: per rom per natt
@@ -243,29 +245,6 @@
   expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91985/0a6df9ee_c786_4b91_85c7_7f865d0fa913.jpg
   link: https://no.secretescapes.com/velgjoerende-opphold-i-sverige-marstrands-havsbad-marstrand-sverige/sale
-  domestic: false
-
-- title: Forelsk deg i eventyrlige Sardinia
-  id: forelsk-deg-i-eventyrlige-sardinia
-  location: Colonna Grand Hotel Capo Testa, Santa Teresa Gallura, Sardinia, Italia
-  description: Femstjerners opphold ved havet med spa og privat strand, inkl. frokost m.m.
-  price: 1546
-  price-description: per rom per natt
-  saved: 22
-  expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91997/3359939e_7c20_43c5_9fcd_f6af8220003a.jpg
-  link: https://no.secretescapes.com/forelsk-deg-i-eventyrlige-sardinia-colonna-grand-hotel-capo-testa-santa-teresa-gallura-sardinia-italia/sale
-  domestic: false
-
-- title: Splitternytt designhotell i Stockholm
-  location: Blique by Nobis, Hagastaden, Stockholm, Sverige
-  description: Vær blant de første gjestene på Stockholms nyeste designhotell, inkl. frokost
-  price: 372
-  price-description: per person. Basert på 2 personer per rom
-  saved: 58
-  expires: 2019/04/15
-  image: https://d1x3cbuht6sy0f.cloudfront.net/hotels/146/dcc056ed_efa2_4887_b4f3_1dd905e933b9.jpg
-  link: https://no.secretescapes.com/blique-by-nobis-stockholm-sweden/sale-hotel
   domestic: false
 
 - title: Forelsk deg i eventyrlige Sardinia
@@ -302,4 +281,51 @@
   expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91802/f94a7d0e_6c51_4121_b617_1c2089140f86.jpg
   link: https://no.secretescapes.com/trendy-og-eksklusivt-i-lisboa-myriad-by-sana-hotels-lissabon-portugal/sale
+  domestic: false
+
+- title: Femstjerners luksushotell ved havet
+  id: femstjerners-luksushotell-ved-havet
+  location: Miramare e Castello, Ischia, Italia
+  description: Opphold på femstjerners hotell ved sjøsiden på Ischia, inkludert frokost og ekstragoder
+  price: 1223
+  price-description: per rom per natt
+  saved: 53
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/61124/2ed7c6f0_a945_439f_9893_4a8b9e207dfb.jpg
+  link: https://no.secretescapes.com/femstjerners-luksushotell-ved-havet-miramare-e-castello-ischia-italia-no1/sale
+  domestic: false
+
+- title: Nyt solstrålene på Fuerteventura
+  id: nyt-solstrålene-på-fuerteventura
+  location: Vik Suite Hotel Risco del Gato, Costa Calma, Fuerteventura, Spania
+  description: Solfylt opphold ved flott boutiquehotell på Fuerteventura, inkl. halvpensjon og ekstragoder
+  price: 1080
+  price-description: per suite per natt
+  saved: 48
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/60587/9e6122c3_6ad9_48b5_ae7e_3458c275a896.jpg
+  link: https://no.secretescapes.com/nyt-solstraalene-paa-fuerteventura-vik-suite-hotel-risco-del-gato-costa-calma-fuerteventura-spania-no2/sale
+  domestic: false
+
+- title: Femstjerners luksus ved stranden på Mallorca
+  id: femstjerners-luksus-ved-stranden-på-mallorca
+  location: FERGUS Style Tobago, Mallorca, Spania
+  description: Moderne femstjernes hotell like ved stranden i Magaluf, med utendørsbasseng og spennende gastronomi
+  price: 1224
+  price-description: per room per natt
+  saved: 60
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/f725f953_5e7e_4791_81fd_ab4102067d71.jpg
+  link: https://no.secretescapes.com/femstjerners-luksus-ved-stranden-paa-mallorca-fergus-style-tobago-mallorca-spania/sale
+  domestic: false
+
+- title: Splitternytt designhotell i Stockholm
+  location: Blique by Nobis, Hagastaden, Stockholm, Sverige
+  description: Vær blant de første gjestene på Stockholms nyeste designhotell, inkl. frokost
+  price: 372
+  price-description: per person. Basert på 2 personer per rom
+  saved: 58
+  expires: 2019/04/15
+  image: https://d1x3cbuht6sy0f.cloudfront.net/hotels/146/dcc056ed_efa2_4887_b4f3_1dd905e933b9.jpg
+  link: https://no.secretescapes.com/blique-by-nobis-stockholm-sweden/sale-hotel
   domestic: false
