@@ -41,7 +41,7 @@
 - title: Palazzo Montemartini, A Radisson Collection Hotel
   id: palazzo-montemartini-a-radisson-collection-hotel
   location: Roma, Lazio
-  description: Un 5* dal design ultramoderno nel cuore di Roma
+  description: <span style=""font-size:13px;font-family:Arial;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;"" id=""docs-internal-guid-4672f165-2503-1b0b-d2ce-96d74c7472af"">Un 5* dal design ultramoderno nel cuore di Roma</span>
   price: 205
   price-description: per camera per notte
   saved: 27
@@ -65,13 +65,49 @@
 - title: Grand Hotel Palace
   id: grand-hotel-palace
   location: Roma, Lazio
-  description: <div>Un 5* di charme nel cuore della Città Eterna</div><div><br></div><div><br></div>
+  description: Un 5* di charme nel cuore della Città Eterna
   price: 257
   price-description: per camera per notte
   saved: 49
   expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68210/e100ceda_acf8_4714_b3d7_21386766eb7c.jpg
   link: https://it.secretescapes.com/grand-hotel-palace-roma-lazio/sale
+  domestic: true
+
+- title: Hotel Helvetia & Bristol
+  id: hotel-helvetia-and-bristol
+  location: Firenze, Toscana
+  description: Soggiorno nel cuore di Firenze in uno storico 5* scelto da Pirandello e D’Annunzio
+  price: 315
+  price-description: per camera per notte
+  saved: 26
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/ad3860d2_2643_4f48_89f7_f757dd7a84d0.jpg
+  link: https://it.secretescapes.com/hotel-helvetia-and-bristol-firenze-toscana/sale
+  domestic: true
+
+- title: Seiser Alm Urthaler
+  id: seiser-alm-urthaler
+  location: Alpe di Siusi, Trentino-Alto Adige
+  description: Relax, ecosostenibilità e buona cucina in un 5* tra le Dolomiti
+  price: 249
+  price-description: per camera per notte
+  saved: 24
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/48368/dca763de_8d5d_47a7_954c_fffac29b3881.jpg
+  link: https://it.secretescapes.com/seiser-alm-urthaler-alpe-di-siusi-trentino-alto-adige/sale
+  domestic: true
+
+- title: Miramare e Castello
+  id: miramare-e-castello
+  location: Ischia, Campania
+  description: Un paradiso del benessere a 5* nell’incantevole Ischia
+  price: 127
+  price-description: per camera per notte
+  saved: 53
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/61124/2ed7c6f0_a945_439f_9893_4a8b9e207dfb.jpg
+  link: https://it.secretescapes.com/miramare-e-castello-ischia-campania-it123/sale
   domestic: true
 
 ################################################################################
@@ -302,6 +338,78 @@
   price-description: per camera per notte
   saved: 62
   expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/30391/761e5c79_0476_4be2_92ed_783c1f697bb6.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92164/b3819d97_3214_4901_aa37_dc64d61060cc.jpg
   link: https://it.secretescapes.com/vincci-the-mint-madrid1/sale
+  domestic: false
+
+- title: Elba Premium Suites
+  id: elba-premium-suites
+  location: Lanzarote, Isole Canarie
+  description: Un hotel 4* per soli adulti, sull’isola più sognata delle Canarie&nbsp;
+  price: 123
+  price-description: per camera per notte
+  saved: 33
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50530/f3bc006c_1b9b_4cba_9b79_294ebb910ad1.jpg
+  link: https://it.secretescapes.com/elba-premium-suites-lanzarote-isole-canarie-italia/sale
+  domestic: false
+
+- title: Risco del Gato Suites THe Senses Collection
+  id: risco-del-gato-suites-the-senses-collection
+  location: Fuerteventura
+  description: Estate a 4* in un raffinato hotel a Fuerteventura, in mezza pensione
+  price: 113
+  price-description: per camera per notte
+  saved: 48
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/60587/9e6122c3_6ad9_48b5_ae7e_3458c275a896.jpg
+  link: https://it.secretescapes.com/risco-del-gato-suites-the-senses-collection-fuerteventura/sale
+  domestic: false
+
+- title: FERGUS Style Tobago
+  id: fergus-style-tobago
+  location: Maiorca
+  description: Fuga all inclusive in un 5* di Maiorca, con viste mozzafiato sul mare
+  price: 128
+  price-description: per camera per notte
+  saved: 60
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/4c46adf7_a562_4793_9ad4_dce72e9f340b.jpg
+  link: https://it.secretescapes.com/fergus-style-tobago-maiorca-it/sale
+  domestic: false
+
+- title: Casa Cook Sa Torre
+  id: casa-cook-sa-torre
+  location: Maiorca, Spagna
+  description: Un 5* appena rinnovato in una residenza del XIV secolo, a pochi minuti dalla costa di Maiorca
+  price: 163
+  price-description: per camera per notte
+  saved: 42
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92612/82c0c341_c73c_4353_ba39_e1c417c3304c.jpg
+  link: https://it.secretescapes.com/casa-cook-sa-torre-maiorca-spagna/sale
+  domestic: false
+
+- title: Sir Victor Hotel
+  id: sir-victor-hotel
+  location: Barcellona, Spagna
+  description: Un hotel di design con piscina sul tetto nel cuore di Barcellona
+  price: 162
+  price-description: per camera per notte
+  saved: 44
+  expires: 2019/04/23
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92339/828c60b9_056e_475f_b939_d2709920aedc.jpg
+  link: https://it.secretescapes.com/sir-victor-hotel-barcellona-spagna/sale
+  domestic: false
+
+- title: Clarion Hotel The Hub
+  id: clarion-hotel-the-hub
+  location: Oslo
+  description: Nuovissimo hotel nel cuore di Oslo dall’animo urban-chic ed eco-friendly
+  price: 109
+  price-description: per camera per notte
+  saved: 32
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/97e0ad09_2290_442d_adf1_616478d0465b.jpg
+  link: https://it.secretescapes.com/clarion-hotel-the-hub-oslo-it/sale
   domestic: false
