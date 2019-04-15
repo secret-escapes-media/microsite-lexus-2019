@@ -28,7 +28,7 @@
 
 - title: Välgörande vistelse på Marstrand
   id: välgörande-vistelse-på-marstrand
-  location: Marstrands Havsbad, Marstrand
+  location: Marstrands Havshotell, Marstrand
   description: Spahotell i Bohuslän med restaurang och bastuflotte, inkl. frukost, trerätters och spaentré
   price: 2150
   price-description: per rum per natt
@@ -245,18 +245,6 @@
   link: https://www.secretescapes.se/all-inclusive-paa-playa-den-bossa-fergus-style-bahamas-playa-den-bossa-ibiza-spanien/sale
   domestic: false
 
-- title: Unikt äventyrshotell i natursköna Norge
-  id: unikt-äventyrshotell-i-natursköna-norge
-  location: Dalen Hotel, Dalen, Norge
-  description: En norsk pärla med fridfullt läge vid Telemarkskanalen, inkl. frukost och femrättersmiddag
-  price: 4210
-  price-description: per rum per natt
-  saved: 24
-  expires: 2019/04/15
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91715/4013cc74_499e_4d27_86f5_169bda4a9178.jpg
-  link: https://www.secretescapes.se/unikt-aeventyrshotell-i-naturskona-norge-dalen-hotel-dalen-norge/sale
-  domestic: false
-
 - title: Centralt hotell med takterrass i Wien
   id: centralt-hotell-med-takterrass-i-wien
   location: Ruby Marie Hotel Vienna, Wien, Österrike
@@ -377,18 +365,6 @@
   link: https://www.secretescapes.se/boutiquehotell-med-spa-i-hamburg-park-hyatt-hamburg-hamburg-tyskland-se-1/sale
   domestic: false
 
-- title: Elegant hotell på norra Sardinien
-  id: elegant-hotell-på-norra-sardinien
-  location: Colonna Grand Hotel Capo Testa, Santa Teresa Gallura, Sardinien, Italien
-  description: Boende med spa och en privat strand vid havet nära Santa Teresa di Gallura, inkl. frukost
-  price: 1670
-  price-description: per rum per natt
-  saved: 22
-  expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91997/3359939e_7c20_43c5_9fcd_f6af8220003a.jpg
-  link: https://www.secretescapes.se/elegant-hotell-paa-norra-sardinien-colonna-grand-hotel-capo-testa-santa-teresa-gallura-sardinien-italien/sale
-  domestic: false
-
 - title: Femstjärnig vistelse i vackra San Gemini
   id: femstjärnig-vistelse-i-vackra-san-gemini
   location: San Gemini Palace, San Gemini, Italien
@@ -435,4 +411,100 @@
   expires: 2019/04/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91802/f94a7d0e_6c51_4121_b617_1c2089140f86.jpg
   link: https://www.secretescapes.se/trendigt-hotell-med-bra-laege-i-lissabon-myriad-by-sana-hotels-lissabon-portugal/sale
+  domestic: false
+
+- title: Femstjärnig vistelse i Florens
+  id: femstjärnig-vistelse-i-florens
+  location: Hotel Helvetia & Bristol, Florens, Italien
+  description: Centralt beläget boende i historiska Florens, inkl. frukost
+  price: 3300
+  price-description: per rum per natt
+  saved: 26
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/e2e157e9_54e7_42e9_aff2_34ac91b4fc68.jpg
+  link: https://www.secretescapes.se/femstjaernig-vistelse-i-florens-hotel-helvetia-and-bristol-florens-italien/sale
+  domestic: false
+
+- title: Exklusiv tillflyktsort på Ischia
+  id: exklusiv-tillflyktsort-på-ischia
+  location: Miramare e Castello, Ischia, Italien
+  description: Ett femstjärnigt Ischia-hotell vid vattnet, inkl. frukost, spaentré och mer
+  price: 1340
+  price-description: per rum per natt
+  saved: 53
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/61124/2ed7c6f0_a945_439f_9893_4a8b9e207dfb.jpg
+  link: https://www.secretescapes.se/exklusiv-tillflyktsort-paa-ischia-miramare-e-castello-ischia-italien-se1/sale
+  domestic: false
+
+- title: Lyxigt vuxenhotell på Lanzarote
+  id: lyxigt-vuxenhotell-på-lanzarote
+  location: Elba Premium Suites, Playa Blanca, Lanzarote, Spanien
+  description: Fyrstjärnigt boende i lyxig svit på boutiquehotell för vuxna, inkl. halvpension eller all-inclusive
+  price: 1290
+  price-description: per svit per natt
+  saved: 33
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50530/8310e1f3_8485_4687_ae12_6c56b9215765.jpg
+  link: https://www.secretescapes.se/lyxigt-vuxenhotell-paa-lanzarote-elba-premium-suites-playa-blanca-lanzarote-spanien-se/sale
+  domestic: false
+
+- title: Havsnära hotell på Kanarieöarna
+  id: havsnära-hotell-på-kanarieöarna
+  location: VIK Suite Hotel Risco del Gato, Fuerteventura, Spanien
+  description: Boende i svit på vackra Fuerteventura, inkl. halvpension, spaentré och mer
+  price: 1180
+  price-description: per svit per natt
+  saved: 48
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/60587/9e6122c3_6ad9_48b5_ae7e_3458c275a896.jpg
+  link: https://www.secretescapes.se/tjusigt-paa-kanarieoarna-vik-suite-hotel-risco-del-gato-fuerteventura-spanien-se-4/sale
+  domestic: false
+
+- title: Femstjärnig all-inclusive på Mallorca
+  id: femstjärnig-all-inclusive-på-mallorca
+  location: Fergus Style Tobago, Palmanova, Spanien
+  description: Förstklassigt hotell på Mallorca, med barer och restaurang, med all-inclusive
+  price: 1340
+  price-description: per rum per natt
+  saved: 60
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/b8b1d99f_4389_45ec_9808_c593f040320c.jpg
+  link: https://www.secretescapes.se/femstjaernig-all-inclusive-paa-skona-mallorca-fergus-style-tobago-palmanova-spanien/sale
+  domestic: false
+
+- title: Elegant boutiquehotell på Mallorca
+  id: elegant-boutiquehotell-på-mallorca
+  location: Hotel Sa Torre Mallorca Resort, Llucmajor, Mallorca, Spanien
+  description: Exklusivt boende i en historisk byggnad, med spa, pool och strandklubb, inkl. frukost och spaentré
+  price: 1710
+  price-description: per rum per natt
+  saved: 42
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92612/27957713_0a69_43e2_a3f8_7c36f7937c51.jpg
+  link: https://www.secretescapes.se/elegant-boutiquehotell-paa-mallorca-hotel-sa-torre-mallorca-resort-llucmajor-mallorca-spanien/sale
+  domestic: false
+
+- title: Splitternytt designhotell i Oslo
+  id: splitternytt-designhotell-i-oslo
+  location: Clarion Hotel The Hub, Oslo, Norge
+  description: Oslos senaste designhotell öppnar dörrarna våren 2019, inkl. frukost&nbsp;
+  price: 1150
+  price-description: per rum per natt
+  saved: 32
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3b1d2886_cf0c_46cc_84cc_e9fcddcd7764.jpg
+  link: https://www.secretescapes.se/splitternytt-designhotell-i-oslo-clarion-hotel-the-hub-oslo-norge-se-1/sale
+  domestic: false
+
+- title: Modern vistelse i vackra Stavanger
+  id: modern-vistelse-i-vackra-stavanger
+  location: Radisson Blu Royal Hotel, Stavanger, Norge
+  description: Bo på modernt hotell i centrala Stavanger med restaurang och spa, inkl. frukost
+  price: 1040
+  price-description: per rum per natt
+  saved: 42
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
+  link: https://www.secretescapes.se/modern-vistelse-i-vackra-stavanger-radisson-blu-royal-hotel-stavanger-norge/sale
   domestic: false
