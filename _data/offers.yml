@@ -146,6 +146,89 @@
   link: https://es.secretescapes.com/hospes-palacio-del-bailio-cordoba01-es/sale
   domestic: true
 
+- title: Vincci The Mint
+  id: vincci-the-mint
+  location: Madrid
+  description: Alójate en un hotel de diseño en plena Gran Vía, con desayuno y una bebida de bienvenida
+  price: 150
+  price-description: por suite por noche
+  saved: 62
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92164/b3819d97_3214_4901_aa37_dc64d61060cc.jpg
+  link: https://es.secretescapes.com/vincci-the-mint-madrid-esp/sale
+  domestic: true
+
+- title: Arima Hotel
+  id: arima-hotel
+  location: San Sebastián
+  description: Un hotel chic integrado en la naturaleza en San Sebastián, con desayuno y extras
+  price: 77
+  price-description: por habitación por noche
+  saved: 48
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91933/735f01d8_f58c_4efe_982e_2babbc8f8cd0.jpg
+  link: https://es.secretescapes.com/arima-hotel-san-sebastian-es-es/sale
+  domestic: true
+
+- title: Elba Premium Suites
+  id: elba-premium-suites
+  location: Lanzarote
+  description: Todo incluido o media pensión en un hotel solo para adultos en Lanzarote, con un acceso al spa y más
+  price: 123
+  price-description: por suite por noche
+  saved: 33
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50530/809ad9a1_14c2_4cd0_b2cb_768eb2734706.jpg
+  link: https://es.secretescapes.com/elba-premium-suites-lanzarote-es-pa/sale
+  domestic: true
+
+- title: FERGUS Style Tobago
+  id: fergus-style-tobago
+  location: Mallorca
+  description: Todo incluido y playas de ensueño en un hotel de cinco estrellas en Palmanova, Mallorca
+  price: 128
+  price-description: por habitación por noche
+  saved: 60
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/b8b1d99f_4389_45ec_9808_c593f040320c.jpg
+  link: https://es.secretescapes.com/fergus-style-tobago-mallorca-es-pa/sale
+  domestic: true
+
+- title: Casa Cook Sa Torre
+  id: casa-cook-sa-torre
+  location: Llucmajor, Mallorca
+  description: Relax cinco estrellas en el interior de Mallorca, con desayuno y extras
+  price: 163
+  price-description: por habitación por noche
+  saved: 42
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92612/82c0c341_c73c_4353_ba39_e1c417c3304c.jpg
+  link: https://es.secretescapes.com/casa-cook-sa-torre-llucmajor-mallorca-es/sale
+  domestic: true
+
+- title: Sir Victor Hotel Barcelona
+  id: sir-victor-hotel-barcelona
+  location: Barcelona
+  description: Diseño y confort en pleno centro de Barcelona, con extras y late check out
+  price: 162
+  price-description: por habitación por noche
+  saved: 44
+  expires: 2019/04/23
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92339/828c60b9_056e_475f_b939_d2709920aedc.jpg
+  link: https://es.secretescapes.com/sir-victor-hotel-barcelona-barcelona-es/sale
+  domestic: true
+
+- title: VIK Suite Hotel Risco del Gato
+  location: Fuerteventura
+  description: Media pensión y varios extras en este oasis de calma en Fuerteventura
+  price: 56
+  price-description: por persona. Basado en 2 personas, por suite
+  saved: 48
+  expires: 2019/04/23
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14641/3364ed40_b5ff_482b_86bb_7205cb34a756.jpg
+  link: https://es.secretescapes.com/vik-suite-hotel-risco-del-gato-fuerteventura012/sale
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -282,6 +365,65 @@
   link: https://es.secretescapes.com/park-hyatt-hamburg-hamburgo-es-es/sale
   domestic: false
 
+- title: San Gemini Palace
+  id: san-gemini-palace
+  location: Umbría (San Gemini, Italia)
+  description: Una antigua casa de campo de cinco estrellas en el corazón de Italia, con desayuno y late check out
+  price: 300
+  price-description: por suite por noche
+  saved: 47
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90484/1ed97f1f_ed7b_4f29_aa12_ff6538b5ac46.jpg
+  link: https://es.secretescapes.com/san-gemini-palace-san-gemini-umbria-es/sale
+  domestic: false
+
+- title: Grand Hotel Palace
+  id: grand-hotel-palace
+  location: Roma
+  description: Un cinco estrellas con mucho encanto en el corazón de la Ciudad Eterna, con desayuno y extras
+  price: 257
+  price-description: por habitación por noche
+  saved: 49
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68210/e100ceda_acf8_4714_b3d7_21386766eb7c.jpg
+  link: https://es.secretescapes.com/grand-hotel-palace-roma-es/sale
+  domestic: false
+
+- title: Myriad by SANA Hotels
+  id: myriad-by-sana-hotels
+  location: Lisboa
+  description: Diseño y vistas de ensueño en Lisboa, a orillas del río Tajo, con desayuno, acceso al spa y más
+  price: 210
+  price-description: por habitación por noche
+  saved: 23
+  expires: 2019/04/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91802/f94a7d0e_6c51_4121_b617_1c2089140f86.jpg
+  link: https://es.secretescapes.com/myriad-by-sana-hotels-lisbon-portugal2-es-pa/sale
+  domestic: false
+
+- title: Hotel Helvetia & Bristol
+  id: hotel-helvetia-and-bristol
+  location: Florencia
+  description: Un exquisito cinco estrellas en el centro histórico de Florencia, con desayuno y varios extras
+  price: 315
+  price-description: por habitación por noche
+  saved: 26
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/e2e157e9_54e7_42e9_aff2_34ac91b4fc68.jpg
+  link: https://es.secretescapes.com/hotel-helvetia-and-bristol-florencia-es-pa/sale
+  domestic: false
+
+- title: Clarion Hotel The Hub
+  id: clarion-hotel-the-hub
+  location: Oslo
+  description: Un contemporáneo hotel de cuatro estrellas recién abierto en el corazón de Oslo, con desayuno
+  price: 109
+  price-description: por habitación por noche
+  saved: 32
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/97e0ad09_2290_442d_adf1_616478d0465b.jpg
+  link: https://es.secretescapes.com/clarion-hotel-the-hub-oslo-esp/sale
+  domestic: false
 
 - title: Blique by Nobis
   location: Estocolmo
