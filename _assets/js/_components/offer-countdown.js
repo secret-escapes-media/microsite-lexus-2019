@@ -18,7 +18,7 @@ $('.js-offer-expires').each(function() {
       $(this).html(event.strftime('Scade <strong>oggi</strong>'));
     } else {
       // there are days left, outputs with either day or days
-      $(this).html(event.strftime('Scade tra <strong>%-D %!d:giorno,giorni;</strong>'));
+      $(this).html(event.strftime('Scade tra <strong>%-D %!D:giorno,giorni;</strong>'));
     }
   });
 });
