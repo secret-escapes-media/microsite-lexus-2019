@@ -18,7 +18,7 @@ $('.js-offer-expires').each(function() {
       $(this).html(event.strftime('Slutar <strong>idag</strong>'));
     } else {
       // there are days left, outputs with either day or days
-      $(this).html(event.strftime('Slutar om <strong>%-D %!d:dag,dagar;</strong>'));
+      $(this).html(event.strftime('Slutar om <strong>%-D %!D:dag,dagar;</strong>'));
     }
   });
 });
