@@ -2,54 +2,6 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: Galleria Vik Milano
-  id: galleria-vik-milano
-  location: Milano, Lombardia
-  description: Soggiorno 5* in un lussuoso hotel nella Galleria Vittorio Emanuele II di Milano
-  price: 330
-  price-description: per camera per notte
-  saved: 36
-  expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91152/3c2d3571_fcdc_466b_a039_fa5102b24849.jpg
-  link: https://it.secretescapes.com/townhouse-galleria-milano-milano-lombardia/sale
-  domestic: true
-
-- title: Hotel Regency
-  id: hotel-regency
-  location: Firenze, Toscana
-  description: Una sfarzosa villa a 5* nel pieno centro di Firenze
-  price: 215
-  price-description: per camera per notte
-  saved: 30
-  expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90864/5ff69763_5c4c_4538_81dd_a7defb8f9cec.jpg
-  link: https://it.secretescapes.com/hotel-regency-firenze-toscana2/sale
-  domestic: true
-
-- title: Hotel Excelsior - Lido di Venezia
-  id: hotel-excelsior---lido-di-venezia
-  location: Venezia
-  description: Un soggiorno a 5* sull’isola del Lido di Venezia, a pochi minuti da piazza San Marco
-  price: 244
-  price-description: per camera per notte
-  saved: 57
-  expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/75630/6a7896da_96c6_4ece_b71c_f0abf2d4e210.jpg
-  link: https://it.secretescapes.com/hotel-excelsior-lido-di-venezia-venezia-it/sale
-  domestic: true
-
-- title: Palazzo Montemartini, A Radisson Collection Hotel
-  id: palazzo-montemartini-a-radisson-collection-hotel
-  location: Roma, Lazio
-  description: Un 5* dal design ultramoderno nel cuore di Roma
-  price: 205
-  price-description: per camera per notte
-  saved: 27
-  expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9500/43e8a2de_56ad_41ff_87b2_459f55839766.jpg
-  link: https://it.secretescapes.com/palazzo-montemartini-a-radisson-collection-hotel-roma-lazio/sale
-  domestic: true
-
 - title: San Gemini Palace
   id: san-gemini-palace
   location: San Gemini, Umbria
@@ -57,7 +9,7 @@
   price: 300
   price-description: per camera per notte
   saved: 47
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90484/1ed97f1f_ed7b_4f29_aa12_ff6538b5ac46.jpg
   link: https://it.secretescapes.com/san-gemini-palace-san-gemini-umbria/sale
   domestic: true
@@ -66,10 +18,10 @@
   id: grand-hotel-palace
   location: Roma, Lazio
   description: Un 5* di charme nel cuore della Città Eterna
-  price: 257
+  price: 181
   price-description: per camera per notte
   saved: 49
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68210/e100ceda_acf8_4714_b3d7_21386766eb7c.jpg
   link: https://it.secretescapes.com/grand-hotel-palace-roma-lazio/sale
   domestic: true
@@ -114,30 +66,6 @@
 # NON DOMESTIC OFFERS
 ################################################################################
 
-- title: Patrick Hellmann Schlosshotel
-  id: patrick-hellmann-schlosshotel
-  location: Berlino
-  description: Lusso e design di tendenza by Karl Lagerfeld in una villa d'epoca a Berlino
-  price: 179
-  price-description: per camera per notte
-  saved: 50
-  expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/77585/c3a23f33_a8c4_42d1_98e0_8765d9da33e6.jpg
-  link: https://it.secretescapes.com/patrick-hellmann-schlosshotel-berlino-ita/sale
-  domestic: false
-
-- title: H10 Atlantic Sunset
-  id: h10-atlantic-sunset
-  location: Tenerife, Spagna
-  description: Nuovo 5* di lusso con vista oceano vicino la Costa Adeje a Tenerife, con apertura a giugno 2019
-  price: 143
-  price-description: per camera per notte
-  saved: 48
-  expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91198/b57978af_4699_4696_8c4a_741666e30bb8.jpg
-  link: https://it.secretescapes.com/h10-atlantic-sunset-tenerife-spagna/sale
-  domestic: false
-
 - title: NH Collection Eurobuilding
   id: nh-collection-eurobuilding
   location: Madrid, Spagna
@@ -145,21 +73,9 @@
   price: 92
   price-description: per camera per notte
   saved: 63
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90979/84e481b0_2d88_45a3_9507_18b395178665.jpg
   link: https://it.secretescapes.com/nh-collection-eurobuilding-madrid-spagna/sale
-  domestic: false
-
-- title: Iberostar Selection Lagos Algarve
-  id: iberostar-selection-lagos-algarve
-  location: Lagos, Portogallo
-  description: Una fuga all inclusive nell’Algarve in un 5* di design
-  price: 193
-  price-description: per camera per notte
-  saved: 20
-  expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91468/36c7c59c_9828_4fe0_8ed1_a41d17151db6.jpg
-  link: https://it.secretescapes.com/iberostar-selection-lagos-algarve-lagos-portogallo/sale
   domestic: false
 
 - title: FERGUS Style Bahamas
@@ -169,7 +85,7 @@
   price: 88
   price-description: per camera per notte
   saved: 63
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88312/3df765da_70b5_4101_bb17_42ac6d0b91b8.jpg
   link: https://it.secretescapes.com/fergus-style-bahamas-ibiza-it/sale
   domestic: false
@@ -178,24 +94,12 @@
   id: das.goldberg-bad-hofgastein
   location: Bad Hofgastein, Austria
   description: Soggiorno in un  moderno 4* affacciato sulle Alpi austriache, in mezza pensione
-  price: 279
+  price: 298
   price-description: per camera per notte
   saved: 43
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9444/687def21_dc40_4ecd_922b_0e8e7daba936.jpg
   link: https://it.secretescapes.com/dasgoldberg-bad-hofgastein-bad-hofgastein-austria-it/sale
-  domestic: false
-
-- title: Ruby Marie Hotel Vienna
-  id: ruby-marie-hotel-vienna
-  location: Vienna
-  description: Design hotel a 4* nel centro storico di Vienna con rooftop terrace
-  price: 99
-  price-description: per camera per notte
-  saved: 48
-  expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39291/ad3a28d2_bb4d_4df9_8241_11121e648729.jpg
-  link: https://it.secretescapes.com/ruby-marie-hotel-vienna-vienna12/sale
   domestic: false
 
 - title: Maritim proArte Hotel Berlin
@@ -205,33 +109,9 @@
   price: 109
   price-description: per camera per notte
   saved: 38
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63439/1bc52496_43bd_4644_a933_deabf034170f.jpg
   link: https://it.secretescapes.com/maritim-proarte-hotel-berlin-berlino1/sale
-  domestic: false
-
-- title: Excelsior Hotel Ernst Köln
-  id: excelsior-hotel-ernst-köln
-  location: Colonia, Germania
-  description: Grandioso 5* con area benessere nel centro storico di Colonia
-  price: 189
-  price-description: per camera per notte
-  saved: 41
-  expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39037/8b89c7b8_f07b_4b97_b0ae_11b31d969ddd.jpg
-  link: https://it.secretescapes.com/excelsior-hotel-ernst-koln-colonia-germania-ita/sale
-  domestic: false
-
-- title: Citadines Michel Hamburg
-  id: citadines-michel-hamburg
-  location: Amburgo, Germania
-  description: Vivi l'incanto di Amburgo in moderni appartamenti nel centro della città
-  price: 99
-  price-description: per camera per notte
-  saved: 55
-  expires: 2019/04/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/56761/657d11d8_8a9b_4ac5_841d_badf307b93dd.jpg
-  link: https://it.secretescapes.com/citadines-michel-hamburg-amburgo-germania-italia/sale
   domestic: false
 
 - title: Hospes Maricel & Spa
@@ -241,7 +121,7 @@
   price: 177
   price-description: per camera per notte
   saved: 35
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/6917/78e43e85_87b7_41b9_a813_ae328cbeab0b.jpg
   link: https://it.secretescapes.com/hospes-maricel-and-spa-palma-di-maiorca1/sale
   domestic: false
@@ -253,7 +133,7 @@
   price: 183
   price-description: per camera per notte
   saved: 28
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14358/6b826e14_d685_43c3_bf87_f81127f69131.jpg
   link: https://it.secretescapes.com/regency-country-club-tenerife-italia/sale
   domestic: false
@@ -265,7 +145,7 @@
   price: 146
   price-description: per camera per notte
   saved: 38
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9362/d78fa349_24c1_4f72_addd_b401bc657013.jpg
   link: https://it.secretescapes.com/bohemia-suites-and-spa-maspalomas-gran-canaria13/sale
   domestic: false
@@ -277,7 +157,7 @@
   price: 99
   price-description: per camera per notte
   saved: 34
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92097/7657686a_2d45_4778_bb09_cf13dfdd72c1.jpg
   link: https://it.secretescapes.com/hesperia-playa-dorada-las-palmas-lanzarote/sale
   domestic: false
@@ -289,7 +169,7 @@
   price: 150
   price-description: per camera per notte
   saved: 35
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/26471/50df1177_3d2b_4905_bd07_b810b9dcf1f8.jpg
   link: https://it.secretescapes.com/hospes-palacio-del-bailio-cordoba-spagna-it2/sale
   domestic: false
@@ -301,7 +181,7 @@
   price: 88
   price-description: per camera per notte
   saved: 42
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66477/2dcaf230_2684_4804_bc23_7ef4c279c577.jpg
   link: https://it.secretescapes.com/burns-fair-and-more-colonia-germania-ita/sale
   domestic: false
@@ -313,7 +193,7 @@
   price: 169
   price-description: per camera per notte
   saved: 48
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42673/8f084a44_fc4a_41bd_b0cb_db5494ff4bba.jpg
   link: https://it.secretescapes.com/park-hyatt-hamburg-amburgo-germania3/sale
   domestic: false
@@ -325,7 +205,7 @@
   price: 210
   price-description: per camera per notte
   saved: 23
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91802/f94a7d0e_6c51_4121_b617_1c2089140f86.jpg
   link: https://it.secretescapes.com/myriad-by-sana-lisbona-portogallo-ita/sale
   domestic: false
@@ -337,7 +217,7 @@
   price: 150
   price-description: per camera per notte
   saved: 62
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92164/b3819d97_3214_4901_aa37_dc64d61060cc.jpg
   link: https://it.secretescapes.com/vincci-the-mint-madrid1/sale
   domestic: false
@@ -445,7 +325,7 @@
   price: 170
   price-description: per camera per notte
   saved: 37
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/18957/30b31771_3ba7_476e_9dbc_578dd07d4993.jpg
   link: https://it.secretescapes.com/the-mandala-hotel-berlino-italia/sale
   domestic: false
@@ -481,7 +361,7 @@
   price: 99
   price-description: per camera per notte
   saved: 47
-  expires: 2019/04/16
+  expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66916/5b60ff85_9d9c_422a_88ac_b6c9ac711229.jpg
   link: https://it.secretescapes.com/scandic-frankfurt-museumsufer-francoforte-sul-meno-germania/sale
   domestic: false
