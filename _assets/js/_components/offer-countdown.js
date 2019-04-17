@@ -18,7 +18,7 @@ $('.js-offer-expires').each(function() {
       $(this).html(event.strftime('Termina <strong>hoy</strong>'));
     } else {
       // there are days left, outputs with either day or days
-      $(this).html(event.strftime('Termina en <strong>%-D %!d:día,días;</strong>'));
+      $(this).html(event.strftime('Termina en <strong>%-D %!D:día,días;</strong>'));
     }
   });
 });
