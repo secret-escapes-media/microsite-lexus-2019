@@ -36,6 +36,17 @@
   link: https://www.secretescapes.se/blique-by-nobis-stockholm-sweden/sale-hotel
   domestic: true
 
+- title: Trendigt koncepthotell i Malmö
+  location: Story Hotel Studio Malmö, Malmö
+  description: Lekfullt och kreativt designat hotell nära centralstationen, inkl. frukost
+  price: 425
+  price-description: per person. Baserat på 2 personer per rum
+  saved: 38
+  expires: 2019/04/23
+  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/70367/0ad2838e_a60a_4367_b92c_b480008825e2.jpg
+  link: https://www.secretescapes.se/trendigt-koncepthotell-i-malmo-story-hotel-studio-malmo-malmo-se-1/sale
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -373,4 +384,15 @@
   expires: 2019/04/23
   image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
   link: https://www.secretescapes.se/modern-vistelse-i-vackra-stavanger-radisson-blu-royal-hotel-stavanger-norge/sale
+  domestic: false
+
+- title: Unikt äventyrshotell i natursköna Norge
+  location: Dalen Hotel, Dalen, Norge
+  description: En norsk pärla med fridfullt läge vid Telemarkskanalen, inkl. frukost och femrättersmiddag
+  price: 2105
+  price-description: per person. Baserat på 2 personer per rum
+  saved: 24
+  expires: 2019/04/23
+  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/91715/4013cc74_499e_4d27_86f5_169bda4a9178.jpg
+  link: https://www.secretescapes.se/unikt-aeventyrshotell-i-naturskona-norge-dalen-hotel-dalen-norge/sale
   domestic: false
