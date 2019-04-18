@@ -14,18 +14,6 @@
   link: https://www.secretescapes.de/cityhotel-direkt-an-der-friedrichstrasse-maritim-proarte-hotel-berlin-deutschland-de/sale
   domestic: true
 
-- title: Küstenliebe & Genuss in Travemünde
-  id: küstenliebe-and-genuss-in-travemünde
-  location: A-Rosa Travemünde, Lübeck, Ostsee, Schleswig-Holstein, Deutschland
-  description: Inkl. Halbpension, Zugang zum 4.500 qm großen SPA-ROSA, Aktivprogramm &amp; Extras
-  price: 238
-  price-description: pro Zimmer pro Nacht
-  saved: 31
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/79408/42982d93_baf6_4147_a155_9f1d4c7564a2.jpg
-  link: https://www.secretescapes.de/kuestenliebe-and-genuss-in-travemuende-a-rosa-travemuende-luebeck-ostsee-schleswig-holstein-deutschland/sale
-  domestic: true
-
 - title: Anspruchsvolles Design in der Rheinmetropole Köln
   id: anspruchsvolles-design-in-der-rheinmetropole-köln
   location: BURNS fair and more, Köln, Nordrhein-Westfalen, Deutschland
@@ -475,4 +463,15 @@
   expires: 2019/04/23
   image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/91933/735f01d8_f58c_4efe_982e_2babbc8f8cd0.jpg
   link: https://www.secretescapes.de/natur-kultur-and-kulinarik-in-nordspanien-hotel-arima-san-sebastian-baskenland-spanien/sale
+  domestic: false
+
+- title: Puristisches Cityhotel mit Panorama in Malmö
+  location: Story Hotel Studio, Malmö, Skåne län, Schweden
+  description: Unterkunft in einem Ocean-King-Zimmer mit Meerblick – inkl. Frühstück
+  price: 40
+  price-description: pro Person. basierend auf 2 Personen pro Zimmer
+  saved: 38
+  expires: 2019/04/23
+  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/41799/1319b56f_d1b3_4ec5_805b_2cf6e6fe652a.jpg
+  link: https://www.secretescapes.de/puristisches-cityhotel-mit-panorama-in-malmo-story-hotel-studio-malmo-skaane-laen-schweden/sale
   domestic: false
