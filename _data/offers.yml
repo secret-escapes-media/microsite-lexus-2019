@@ -110,6 +110,78 @@
   link: https://www.secretescapes.de/aufwachen-mit-skylineblick-in-frankfurt-scandic-frankfurt-museumsufer-frankfurt-am-main-hessen-deutschland/sale
   domestic: true
 
+- title: Designhotel in Hamburger Neustadt
+  id: designhotel-in-hamburger-neustadt
+  location: SIDE Design Hotel, Hamburg, Deutschland
+  description: Deluxe-Zimmer im puristischen Design – inkl Frühstücksbuffet &amp; Extras
+  price: 169
+  price-description: pro Zimmer pro Nacht
+  saved: 39
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/84399/408286a6_bd8a_4ecd_8419_39ec2e021480.jpg
+  link: https://www.secretescapes.de/designhotel-in-hamburger-neustadt-side-design-hotel-hamburg-deutschland1/sale
+  domestic: true
+
+- title: Exklusives Glamping im Saarland
+  id: exklusives-glamping-im-saarland
+  location: Glamping Resorts, Kleinblittersdorf, Saarland, Deutschland
+  description: Romantische Glamping-Hütte mit Frühstück &amp; 1 Flasche Wein oder Crémant
+  price: 107
+  price-description: pro Glamping-Hütte pro Nacht
+  saved: 36
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/72831/ad1d0cb6_39e1_4bff_a7cc_2f9ceb3030cb.jpg
+  link: https://www.secretescapes.de/exklusives-glamping-im-saarland-glamping-resorts-kleinblittersdorf-saarland-deutschland/sale
+  domestic: true
+
+- title: Urbanes Design & Suiten-Flair in Leipzig
+  id: urbanes-design-and-suiten-flair-in-leipzig
+  location: Felix im Lebendigen Haus Leipzig, Sachsen, Deutschland
+  description: Residieren in der Universitätsstadt Leipzig – inkl. Frühstück, Begrüßungsgetränk &amp; Extras
+  price: 85
+  price-description: pro Suite pro Nacht
+  saved: 41
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/85518/e420726a_0381_49cc_a8d3_3b9e3b730900.jpg
+  link: https://www.secretescapes.de/urbanes-design-and-suiten-flair-in-leipzig-felix-im-lebendigen-haus-leipzig-sachsen-deutschland/sale
+  domestic: true
+
+- title: Historische Löwenstadt Braunschweig
+  id: historische-löwenstadt-braunschweig
+  location: pentahotel Braunschweig, Niedersachsen, Deutschland
+  description: Design-Cityhotel am Rande der malerischen Altstadt – inkl. Frühstück &amp; WLAN
+  price: 72
+  price-description: pro Zimmer pro Nacht
+  saved: 50
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/34255/c15602dc_ef43_4da5_8f06_e55f5708c84f.jpg
+  link: https://www.secretescapes.de/historische-lowenstadt-braunschweig-pentahotel-braunschweig-niedersachsen-deutschland-de/sale
+  domestic: true
+
+- title: "Neu in Berlin: Design-Flair über den Dächern"
+  id: neu-in-berlin:-design-flair-über-den-dächern
+  location: niu Hide, Berlin, Deutschland
+  description: "Brandneu: Urbanes Design im Osten Berlins – inkl. Frühstück &amp; Begrüßungsgetränk"
+  price: 64
+  price-description: pro Zimmer pro Nacht
+  saved: 41
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92115/baa78ea2_962a_4727_9e12_5774a8781754.jpg
+  link: https://www.secretescapes.de/neu-in-berlin-design-flair-ueber-den-daechern-niu-hide-berlin-deutschland/sale
+  domestic: true
+
+- title: "Ahoi Hamburg: Neueröffnung in der Hafenmetropole"
+  id: ahoi-hamburg:-neueröffnung-in-der-hafenmetropole
+  location: niu Keg Hamburg, Deutschland
+  description: Frisches Design mit Industrialtouch nahe der Innenstadt – inkl. Frühstück &amp; Begrüßungsgetränk
+  price: 74
+  price-description: pro Zimmer pro Nacht
+  saved: 31
+  expires: 2019/04/24
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92544/5e9ab5d7_8428_4687_a913_3034862eda1a.jpg
+  link: https://www.secretescapes.de/hamburgs-hanseflair-auf-die-moderne-art-niu-keg-hamburg-deutschland-1/sale
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -474,4 +546,52 @@
   expires: 2019/04/23
   image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/41799/1319b56f_d1b3_4ec5_805b_2cf6e6fe652a.jpg
   link: https://www.secretescapes.de/puristisches-cityhotel-mit-panorama-in-malmo-story-hotel-studio-malmo-skaane-laen-schweden/sale
+  domestic: false
+
+- title: 5*-Strandurlaub auf Lanzarote
+  id: 5-strandurlaub-auf-lanzarote
+  location: Arrecife Gran Hotel & Spa, Arrecife, Lanzarote, Kanaren, Spanien
+  description: Inkl. Halbpension, 1x Spa-Zugang &amp; Ermäßigung auf Spa-Behandlungen
+  price: 170
+  price-description: pro Suite pro Nacht
+  saved: 28
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69886/7b710f30_5188_4826_aa0f_d763699bcfa2.jpg
+  link: https://www.secretescapes.de/5-star-strandurlaub-auf-lanzarote-arrecife-gran-hotel-and-spa-arrecife-lanzarote-kanaren-spanien/sale
+  domestic: false
+
+- title: Sonniges Bergrefugium auf Gran Canaria
+  id: sonniges-bergrefugium-auf-gran-canaria
+  location: Hotel Casa León, Gran Canaria, Kanaren, Spanien
+  description: Inkl. Frühstück, Shuttle-Service, Aktivangebot &amp; Extras
+  price: 175
+  price-description: pro Zimmer pro Nacht
+  saved: 61
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42035/f197fa74_267d_4672_96e2_06f18ec3168b.jpg
+  link: https://www.secretescapes.de/sonniges-bergrefugium-auf-gran-canaria-hotel-casa-leon-gran-canaria-kanaren-spanien/sale
+  domestic: false
+
+- title: Lifestyle-Holzhotel im Salzburger Land
+  id: lifestyle-holzhotel-im-salzburger-land
+  location: Holzhotel Forsthofalm, Leogang, Salzburg, Österreich
+  description: Inkl. Frühstück oder 3/4-Pension, Spa-Zugang, Massage-Gutschein  &amp; weiteren Extras
+  price: 218
+  price-description: pro Zimmer pro Nacht
+  saved: 47
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74138/b992ddeb_7a06_43df_8107_d26086dcf972.jpg
+  link: https://www.secretescapes.de/lifestyle-holzhotel-im-salzburger-land-holzhotel-forsthofalm-leogang-salzburg-osterreich/sale
+  domestic: false
+
+- title: Spa-Schmuckstück direkt am Bodensee
+  id: spa-schmuckstück-direkt-am-bodensee
+  location: SENTIDO Seehotel Am Kaiserstrand, Lochau, Bodensee, Vorarlberg, Österreich
+  description: Inkl. Frühstücksbuffet, Spa-Zugang, Restaurant- und Spa-Gutschein &amp; Extras
+  price: 155
+  price-description: pro Unterkunft pro Nacht
+  saved: 57
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42637/05d7e38e_41ec_4459_bd9e_2e3642b47bcd.jpg
+  link: https://www.secretescapes.de/spa-schmuckstueck-direkt-am-bodensee-sentido-seehotel-am-kaiserstrand-lochau-bodensee-vorarlberg-osterreich/sale
   domestic: false
