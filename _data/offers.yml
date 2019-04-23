@@ -37,6 +37,18 @@
   link: https://no.secretescapes.com/norsk-eventyrhotell-fra-1894-dalen-hotel-dalen-telemark/sale
   domestic: true
 
+- title: Bare minutter unna Bryggen
+  id: bare-minutter-unna-bryggen
+  location: First Hotel Marin, Bergen, Norge
+  description: Beliggenheten midt i smørøyet i Norges vakreste by – inkludert frokost
+  price: 1250
+  price-description: per rom per natt
+  saved: 37
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/12765/052a5d9e_4ebe_4dc0_93a1_1b22f47feb7d.jpg
+  link: https://no.secretescapes.com/bare-minutter-unna-bryggen-first-hotel-marin-bergen-norge-no1/sale
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -206,4 +218,16 @@
   expires: 2019/04/23
   image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/hotels/146/dcc056ed_efa2_4887_b4f3_1dd905e933b9.jpg
   link: https://no.secretescapes.com/blique-by-nobis-stockholm-sweden/sale-hotel
+  domestic: false
+
+- title: Nyt de varme solstrålene
+  id: nyt-de-varme-solstrålene
+  location: Arrecife Gran Hotel & Spa, Lanzarote, Spania
+  description: Suite på femstjerners strandhotell på Lanzarote, inkludert halvpensjon og adgang til spa
+  price: 1627
+  price-description: per suite per natt
+  saved: 28
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69886/7b710f30_5188_4826_aa0f_d763699bcfa2.jpg
+  link: https://no.secretescapes.com/nyt-de-varme-solstraalene-arrecife-gran-hotel-and-spa-lanzarote-spania-no/sale
   domestic: false
