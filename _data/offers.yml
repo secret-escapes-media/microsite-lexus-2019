@@ -396,3 +396,63 @@
   image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/91715/4013cc74_499e_4d27_86f5_169bda4a9178.jpg
   link: https://www.secretescapes.se/unikt-aeventyrshotell-i-naturskona-norge-dalen-hotel-dalen-norge/sale
   domestic: false
+
+- title: Toscanskt hotell med gourmetfokus
+  id: toscanskt-hotell-med-gourmetfokus
+  location: Grand Hotel Principe di Piemonte, Toscana, Italien
+  description: Femstjärnig vistelse med gourmetmat och vackra vyer på Toscanas kust, inkl. frukost, m.m.
+  price: 1150
+  price-description: per rum per natt
+  saved: 46
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10181/6e6e6210_3c76_4c07_9e43_75d257e0f881.jpg
+  link: https://www.secretescapes.se/toscanskt-hotell-med-gourmetfokus-grand-hotel-principe-di-piemonte-toscana-italien/sale
+  domestic: false
+
+- title: Solig vistelse på Costa Adeje
+  id: solig-vistelse-på-costa-adeje
+  location: Royal Garden Villas, Costa Adeje, Teneriffa, Spanien
+  description: Boende i poolvilla på Teneriffa, inkl. frukost, massage och en flaska cava
+  price: 6080
+  price-description: per villa per natt
+  saved: 41
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/29514/0ccc2a56_492c_48d1_a361_f98b76ad87dc.jpg
+  link: https://www.secretescapes.se/solig-vistelse-paa-costa-adeje-royal-garden-villas-costa-adeje-teneriffa-spanien/sale
+  domestic: false
+
+- title: Snygg designvistelse på Lanzarote
+  id: snygg-designvistelse-på-lanzarote
+  location: Arrecife Gran Hotel & Spa Lanzarote, Kanarieöarna, Spanien
+  description: Femstjärnig tillflyktsort på Lanzarote, inkl. halvpension och spaentré
+  price: 1780
+  price-description: per svit per natt
+  saved: 28
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69886/7b710f30_5188_4826_aa0f_d763699bcfa2.jpg
+  link: https://www.secretescapes.se/snygg-designvistelse-paa-lanzarote-arrecife-gran-hotel-and-spa-lanzarote-kanarieoarna-spanien/sale
+  domestic: false
+
+- title: Romantiskt hotell på Gran Canaria
+  id: romantiskt-hotell-på-gran-canaria
+  location: Hotel Casa Leon, Gran Canaria, Spanien
+  description: Njut av solen och värmen på Gran Canarias vackra berg Monte Leon, inkl. halvpension och mer
+  price: 1830
+  price-description: per rum per natt
+  saved: 61
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42035/680bde89_46f6_49a5_9f42_e700d53ea078.jpg
+  link: https://www.secretescapes.se/romantiskt-hotell-paa-gran-canaria-hotel-casa-leon-gran-canaria-spanien/sale
+  domestic: false
+
+- title: Klassiskt hotell på historiska Bryggen
+  id: klassiskt-hotell-på-historiska-bryggen
+  location: First Hotel Marin, Bergen, Norge
+  description: Bo på en världsarvslistad plats i centrala Bergen, inkl. frukost
+  price: 1370
+  price-description: per rum per natt
+  saved: 37
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/67482/2014d755_3312_4fc6_9d5f_7954c8c0c8bb.jpg
+  link: https://www.secretescapes.se/klassiskt-hotell-paa-historiska-bryggen-first-hotel-marin-bergen-norge/sale
+  domestic: false
