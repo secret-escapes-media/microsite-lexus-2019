@@ -204,6 +204,30 @@
   link: https://es.secretescapes.com/vik-suite-hotel-risco-del-gato-fuerteventura012/sale
   domestic: true
 
+- title: Aguas de Ibiza Lifestyle & Spa GL
+  id: aguas-de-ibiza-lifestyle-and-spa-gl
+  location: Ibiza
+  description: Un lujoso cinco estrellas en Ibiza, con vistas al mar. Incluye desayuno, acceso al spa y un cóctel
+  price: 279
+  price-description: por habitación por noche
+  saved: 35
+  expires: 2019/04/29
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/75638/227d2486_b09e_4788_a50d_b62c97817a7e.jpg
+  link: https://es.secretescapes.com/aguas-de-ibiza-lifestyle-and-spa-gl-ibiza214-es/sale
+  domestic: true
+
+- title: Arrecife Gran Hotel & Spa
+  id: arrecife-gran-hotel-and-spa
+  location: Lanzarote
+  description: Relax a todo lujo en un hotel en Lanzarote, en régimen de media pensión y con un acceso al spa
+  price: 170
+  price-description: por suite por noche
+  saved: 28
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69886/7b710f30_5188_4826_aa0f_d763699bcfa2.jpg
+  link: https://es.secretescapes.com/arrecife-gran-hotel-and-spa-lanzarote-esp-esp/sale
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -325,4 +349,16 @@
   expires: 2019/04/23
   image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/hotels/146/d5dbd8f1_a9b8_4181_b871_ea24046a31b9.jpg
   link: https://es.secretescapes.com/blique-by-nobis-stockholm-suecia-es/sale-hotel
+  domestic: false
+
+- title: Grand Hotel Principe di Piemonte
+  id: grand-hotel-principe-di-piemonte
+  location: Toscana (Viareggio, Italia)
+  description: Un cinco estrellas en la ciudad toscana de Viareggio, con desayuno incluido y extras
+  price: 110
+  price-description: por habitación por noche
+  saved: 46
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10181/6e6e6210_3c76_4c07_9e43_75d257e0f881.jpg
+  link: https://es.secretescapes.com/grand-hotel-principe-di-piemonte-toscana-viareggio-italia-esp-esp/sale
   domestic: false
