@@ -62,6 +62,18 @@
   link: https://it.secretescapes.com/miramare-e-castello-ischia-campania-it123/sale
   domestic: true
 
+- title: Grand Hotel Principe di Piemonte
+  id: grand-hotel-principe-di-piemonte
+  location: Viareggio, Toscana
+  description: L'autentico fascino della Versilia in un 5* con spa e ristorante stellato Michelin
+  price: 110
+  price-description: per camera per notte
+  saved: 46
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10181/6e6e6210_3c76_4c07_9e43_75d257e0f881.jpg
+  link: https://it.secretescapes.com/grand-hotel-principe-di-piemonte-viareggio-toscana12/sale
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -364,4 +376,40 @@
   expires: 2019/04/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66916/5b60ff85_9d9c_422a_88ac_b6c9ac711229.jpg
   link: https://it.secretescapes.com/scandic-frankfurt-museumsufer-francoforte-sul-meno-germania/sale
+  domestic: false
+
+- title: Royal Garden Villas
+  id: royal-garden-villas
+  location: Tenerife
+  description: Soggiorno benessere in un magnifico 5* in Costa Adeje a Tenerife
+  price: 581
+  price-description: per camera per notte
+  saved: 41
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/29514/0ccc2a56_492c_48d1_a361_f98b76ad87dc.jpg
+  link: https://it.secretescapes.com/royal-garden-villas-tenerife-it2/sale
+  domestic: false
+
+- title: Arrecife Gran Hotel & Spa
+  id: arrecife-gran-hotel-and-spa
+  location: Lanzarote, Isole Canarie
+  description: Soggiorno sotto il sole delle Canarie in 5* da favola
+  price: 170
+  price-description: per camera per notte
+  saved: 28
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69886/7b710f30_5188_4826_aa0f_d763699bcfa2.jpg
+  link: https://it.secretescapes.com/arrecife-gran-hotel-and-spa-lanzarote-isole-canarie-ita/sale
+  domestic: false
+
+- title: Casa León
+  id: casa-león
+  location: Gran Canaria, Spagna
+  description: Benessere, lusso e sole splendente sulla più grande delle Isole Canarie
+  price: 175
+  price-description: per camera per notte
+  saved: 61
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42035/390a76ed_4e01_4211_83c7_2e1f7f886686.jpg
+  link: https://it.secretescapes.com/casa-leon-gran-canaria-spagna1/sale
   domestic: false
