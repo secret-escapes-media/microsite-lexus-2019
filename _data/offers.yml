@@ -1,49 +1,16 @@
 ################################################################################
 # DOMESTIC OFFERS
 ################################################################################
-- title: Snyggt designhotell i Malmö
-  id: snyggt-designhotell-i-malmö
-  location: Elite Hotel Esplanade, Malmö
-  description: Boende med asiatisk fusionrestaurang, ett stenkast från Lilla Torg, inkl. frukost
-  price: 920
-  price-description: per rum per natt
-  saved: 47
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63815/54fb58c7_20ef_401f_81f6_e1c7d2141ea3.jpg
-  link: https://www.secretescapes.se/snyggt-designhotell-i-malmo-elite-hotel-esplanade-malmo/sale
-  domestic: true
-
-- title: Välgörande vistelse på Marstrand
-  id: välgörande-vistelse-på-marstrand
-  location: Marstrands Havshotell, Marstrand
-  description: Spahotell i Bohuslän med restaurang och bastuflotte, inkl. frukost, trerätters och spaentré
-  price: 2150
-  price-description: per rum per natt
-  saved: 20
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91985/0a6df9ee_c786_4b91_85c7_7f865d0fa913.jpg
-  link: https://www.secretescapes.se/vaelgorande-vistelse-paa-marstrand-marstrands-havsbad-marstrand/sale
-  domestic: true
-
-- title: Splitternytt designhotell i Stockholm
-  location: Blique by Nobis, Stockholm
-  description: Läckert hotell med kreativ atmosfär i Vasastan, inkl. frukost
-  price: 400
-  price-description: per person. Baserat på 2 personer per rum
-  saved: 58
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/hotels/146/dcc056ed_efa2_4887_b4f3_1dd905e933b9.jpg
-  link: https://www.secretescapes.se/blique-by-nobis-stockholm-sweden/sale-hotel
-  domestic: true
 
 - title: Trendigt koncepthotell i Malmö
+  id: trendigt-koncepthotell-i-malmö
   location: Story Hotel Studio Malmö, Malmö
   description: Lekfullt och kreativt designat hotell nära centralstationen, inkl. frukost
-  price: 425
-  price-description: per person. Baserat på 2 personer per rum
+  price: 850
+  price-description: per rum per natt
   saved: 38
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/70367/0ad2838e_a60a_4367_b92c_b480008825e2.jpg
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70367/0ad2838e_a60a_4367_b92c_b480008825e2.jpg
   link: https://www.secretescapes.se/trendigt-koncepthotell-i-malmo-story-hotel-studio-malmo-malmo-se-1/sale
   domestic: true
 
@@ -51,17 +18,6 @@
 # NON DOMESTIC OFFERS
 ################################################################################
 
-- title: Femstjärnigt mittemot Guggenheim
-  id: femstjärnigt-mittemot-guggenheim
-  location: Gran Hotel Domine, Bilbao, Spanien
-  description: Utforska Bilbao med boende på designhotell vid Guggenheim, inkl. frukost
-  price: 2050
-  price-description: per rum per natt
-  saved: 28
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/19032/495d410a_c6c5_4140_81dc_aec30a81cc62.jpg
-  link: https://www.secretescapes.se/femstjaernigt-mittemot-guggenheim-gran-hotel-domine-bilbao-spanien-se/sale
-  domestic: false
 
 - title: Exklusivt spa vid havet i Norge
   id: exklusivt-spa-vid-havet-i-norge
@@ -70,81 +26,9 @@
   price: 1900
   price-description: per rum per natt
   saved: 30
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/45456/38aec453_c786_4637_a10f_3caa1f3cb1ef.jpg
   link: https://www.secretescapes.se/exklusivt-spa-vid-havet-i-norge-farris-bad-larvik-norge/sale
-  domestic: false
-
-- title: Stilrent Madrid-hotell med Michelinrestaurang
-  id: stilrent-madrid-hotell-med-michelinrestaurang
-  location: NH Collection Madrid Eurobuilding, Madrid, Spanien
-  description: Modernt hotell med Michelinrestaurang och cocktailbar beläget nära tunnelbanan, inkl. frukost
-  price: 970
-  price-description: per rum per natt
-  saved: 63
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90979/e201ba7d_8a8a_4044_989a_b4dd231c4591.jpg
-  link: https://www.secretescapes.se/stilrent-madrid-hotell-med-michelinrestaurang-nh-collection-madrid-eurobuilding-madrid-spanien/sale
-  domestic: false
-
-- title: Fyrstjärnigt boutiquehotell på Mallis
-  id: fyrstjärnigt-boutiquehotell-på-mallis
-  location: Fergus Style Palmanova, Palmanova, Mallorca, Spanien
-  description: Njut av turkosfärgade vågor på Mallorca, inkl. halvpension, välkomstdrink och mer
-  price: 1120
-  price-description: per rum per natt
-  saved: 38
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70624/e4ede240_9af5_42b3_8521_24cff9f626f6.jpg
-  link: https://www.secretescapes.se/fyrstjaernigt-boutiquehotell-paa-mallis-fergus-style-palmanova-palmanova-mallorca-spanien-se/sale
-  domestic: false
-
-- title: All-inclusive på Playa d’en Bossa
-  id: all-inclusive-på-playa-den-bossa
-  location: Fergus Style Bahamas, Playa d’en Bossa, Ibiza, Spanien
-  description: Hotell vid en härlig strand nära partyvimlet i Playa d’en Bossa, med all-inclusive
-  price: 920
-  price-description: per rum per natt
-  saved: 63
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88312/3df765da_70b5_4101_bb17_42ac6d0b91b8.jpg
-  link: https://www.secretescapes.se/all-inclusive-paa-playa-den-bossa-fergus-style-bahamas-playa-den-bossa-ibiza-spanien/sale
-  domestic: false
-
-- title: Toppenläge på Berlins shoppingstråk
-  id: toppenläge-på-berlins-shoppingstråk
-  location: Maritim proArte Hotel Berlin, Berlin, Tyskland
-  description: Klassiskt hotell på Friedrichstrasse, inkl. frukost
-  price: 1140
-  price-description: per rum per natt
-  saved: 38
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63439/1bc52496_43bd_4644_a933_deabf034170f.jpg
-  link: https://www.secretescapes.se/toppenlaege-paa-berlins-shoppingstraak-maritim-proarte-hotel-berlin-berlin-tyskland-sv/sale
-  domestic: false
-
-- title: Lyxhotell med spa vid havet på Mallis
-  id: lyxhotell-med-spa-vid-havet-på-mallis
-  location: Hospes Maricel & Spa, Mallorca, Spanien
-  description: Ett unikt femstjärnigt retreat vid havet, inkl. frukost eller halvpension
-  price: 1850
-  price-description: per rum per natt
-  saved: 35
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/6917/78e43e85_87b7_41b9_a813_ae328cbeab0b.jpg
-  link: https://www.secretescapes.se/lyxhotell-med-spa-vid-havet-paa-mallis-hospes-maricel-and-spa-mallorca-spanien/sale
-  domestic: false
-
-- title: Resort med havsutsikt på Teneriffa
-  id: resort-med-havsutsikt-på-teneriffa
-  location: Regency Country Club, Teneriffa, Spanien
-  description: En svit på en läcker resort i balinesisk stil, inkl. halvpension och en flaska cava
-  price: 1910
-  price-description: per svit per natt
-  saved: 28
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14358/6b826e14_d685_43c3_bf87_f81127f69131.jpg
-  link: https://www.secretescapes.se/resort-med-havsutsikt-paa-teneriffa-regency-country-club-teneriffa-spanien/sale
   domestic: false
 
 - title: Femstjärnig vuxenlyx på Gran Canaria
@@ -154,7 +38,7 @@
   price: 1520
   price-description: per rum per natt
   saved: 38
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9362/d78fa349_24c1_4f72_addd_b401bc657013.jpg
   link: https://www.secretescapes.se/femstjaernig-vuxenlyx-paa-gran-canaria-bohemia-suites-and-spa-gran-canaria-spanien/sale
   domestic: false
@@ -166,33 +50,9 @@
   price: 1570
   price-description: per rum per natt
   saved: 35
-  expires: 2019/04/24
+  expires: 2019/04/27
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/26471/50df1177_3d2b_4905_bd07_b810b9dcf1f8.jpg
   link: https://www.secretescapes.se/hojden-av-elegans-i-cordoba-hospes-palacio-del-bailio-cordoba-spanien01/sale
-  domestic: false
-
-- title: Boutiquehotell med spa i Hamburg
-  id: boutiquehotell-med-spa-i-hamburg
-  location: Park Hyatt Hamburg, Hamburg, Tyskland
-  description: Boende på ett femstjärnigt boutiquehotell med spa i hippa Hamburg, inkl. frukost
-  price: 1770
-  price-description: per rum per natt
-  saved: 48
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42673/8f084a44_fc4a_41bd_b0cb_db5494ff4bba.jpg
-  link: https://www.secretescapes.se/boutiquehotell-med-spa-i-hamburg-park-hyatt-hamburg-hamburg-tyskland-se-1/sale
-  domestic: false
-
-- title: Femstjärnig vistelse i vackra San Gemini
-  id: femstjärnig-vistelse-i-vackra-san-gemini
-  location: San Gemini Palace, San Gemini, Italien
-  description: Njut av mat och dryck i en mysig stad i Umbrien, inkl. frukost
-  price: 3140
-  price-description: per svit per natt
-  saved: 47
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90484/1ed97f1f_ed7b_4f29_aa12_ff6538b5ac46.jpg
-  link: https://www.secretescapes.se/njut-av-mat-och-dryck-i-vackra-san-gemini-san-gemini-palace-san-gemini-italien/sale
   domestic: false
 
 - title: Elegant hotell på norra Sardinien
@@ -202,7 +62,7 @@
   price: 1670
   price-description: per rum per natt
   saved: 22
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91997/3359939e_7c20_43c5_9fcd_f6af8220003a.jpg
   link: https://www.secretescapes.se/elegant-hotell-paa-norra-sardinien-colonna-grand-hotel-capo-testa-santa-teresa-gallura-sardinien-italien/sale
   domestic: false
@@ -214,21 +74,9 @@
   price: 1890
   price-description: per rum per natt
   saved: 49
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68210/e100ceda_acf8_4714_b3d7_21386766eb7c.jpg
   link: https://www.secretescapes.se/klassisk-lyx-i-rom-grand-hotel-palace-rom-italien/sale
-  domestic: false
-
-- title: Trendigt hotell med bra läge i Lissabon
-  id: trendigt-hotell-med-bra-läge-i-lissabon
-  location: Myriad by SANA Hotels, Lissabon, Portugal
-  description: Modernt boende med gym och spa intill floden, inkl. frukost, spaentré, m.m.
-  price: 2200
-  price-description: per rum per natt
-  saved: 23
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91802/f94a7d0e_6c51_4121_b617_1c2089140f86.jpg
-  link: https://www.secretescapes.se/trendigt-hotell-med-bra-laege-i-lissabon-myriad-by-sana-hotels-lissabon-portugal/sale
   domestic: false
 
 - title: Femstjärnig vistelse i Florens
@@ -238,7 +86,7 @@
   price: 3300
   price-description: per rum per natt
   saved: 26
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/e2e157e9_54e7_42e9_aff2_34ac91b4fc68.jpg
   link: https://www.secretescapes.se/femstjaernig-vistelse-i-florens-hotel-helvetia-and-bristol-florens-italien/sale
   domestic: false
@@ -250,7 +98,7 @@
   price: 1340
   price-description: per rum per natt
   saved: 53
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/61124/2ed7c6f0_a945_439f_9893_4a8b9e207dfb.jpg
   link: https://www.secretescapes.se/exklusiv-tillflyktsort-paa-ischia-miramare-e-castello-ischia-italien-se1/sale
   domestic: false
@@ -262,21 +110,9 @@
   price: 1290
   price-description: per svit per natt
   saved: 33
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50530/8310e1f3_8485_4687_ae12_6c56b9215765.jpg
   link: https://www.secretescapes.se/lyxigt-vuxenhotell-paa-lanzarote-elba-premium-suites-playa-blanca-lanzarote-spanien-se/sale
-  domestic: false
-
-- title: Havsnära hotell på Kanarieöarna
-  id: havsnära-hotell-på-kanarieöarna
-  location: VIK Suite Hotel Risco del Gato, Fuerteventura, Spanien
-  description: Boende i svit på vackra Fuerteventura, inkl. halvpension, spaentré och mer
-  price: 1180
-  price-description: per svit per natt
-  saved: 48
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/60587/9e6122c3_6ad9_48b5_ae7e_3458c275a896.jpg
-  link: https://www.secretescapes.se/tjusigt-paa-kanarieoarna-vik-suite-hotel-risco-del-gato-fuerteventura-spanien-se-4/sale
   domestic: false
 
 - title: Femstjärnig all-inclusive på Mallorca
@@ -286,7 +122,7 @@
   price: 1340
   price-description: per rum per natt
   saved: 60
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/b8b1d99f_4389_45ec_9808_c593f040320c.jpg
   link: https://www.secretescapes.se/femstjaernig-all-inclusive-paa-skona-mallorca-fergus-style-tobago-palmanova-spanien/sale
   domestic: false
@@ -298,7 +134,7 @@
   price: 1710
   price-description: per rum per natt
   saved: 42
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92612/27957713_0a69_43e2_a3f8_7c36f7937c51.jpg
   link: https://www.secretescapes.se/elegant-boutiquehotell-paa-mallorca-hotel-sa-torre-mallorca-resort-llucmajor-mallorca-spanien/sale
   domestic: false
@@ -310,9 +146,21 @@
   price: 1150
   price-description: per rum per natt
   saved: 32
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3b1d2886_cf0c_46cc_84cc_e9fcddcd7764.jpg
   link: https://www.secretescapes.se/splitternytt-designhotell-i-oslo-clarion-hotel-the-hub-oslo-norge-se-1/sale
+  domestic: false
+
+- title: Modern vistelse i vackra Stavanger
+  id: modern-vistelse-i-vackra-stavanger
+  location: Radisson Blu Royal Hotel, Stavanger, Norge
+  description: Bo på modernt hotell i centrala Stavanger med restaurang och spa, inkl. frukost
+  price: 1040
+  price-description: per rum per natt
+  saved: 42
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
+  link: https://www.secretescapes.se/modern-vistelse-i-vackra-stavanger-radisson-blu-royal-hotel-stavanger-norge/sale
   domestic: false
 
 - title: Grandiost hotell med takterrass i Wien
@@ -322,7 +170,7 @@
   price: 1770
   price-description: per rum per natt
   saved: 48
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/28909/d68f7986_d810_4983_a361_38ebdf4af902.jpg
   link: https://www.secretescapes.se/grandiost-hotell-med-takterrass-grand-ferdinand-wien-osterrike01/sale
   domestic: false
@@ -334,7 +182,7 @@
   price: 1780
   price-description: per svit per natt
   saved: 37
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/18957/30b31771_3ba7_476e_9dbc_578dd07d4993.jpg
   link: https://www.secretescapes.se/spahotell-med-michelinrestaurang-i-berlin-the-mandala-hotel-berlin-tyskland/sale
   domestic: false
@@ -346,55 +194,9 @@
   price: 1040
   price-description: per rum per natt
   saved: 45
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/46766/538e3883_bb9f_4f2e_8b0c_89f14eed5db6.jpg
   link: https://www.secretescapes.se/stilsaeker-tillflyktsort-i-muenchen-ruby-lilly-muenchen-tyskland-se/sale
-  domestic: false
-
-- title: Fräscht lägenhetshotell på tyska Usedom
-  id: fräscht-lägenhetshotell-på-tyska-usedom
-  location: Nadler Hof, Ahlbeck, Usedom, Tyskland
-  description: Självhushåll med närhet till havet och restauranger, inkl. vin m.m.
-  price: 950
-  price-description: per lägenhet per natt
-  saved: 32
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92399/698935d6_825c_4447_a8bd_dc2b209d8a31.jpg
-  link: https://www.secretescapes.se/fraescht-laegenhetshotell-paa-tyska-usedom-nadler-hof-ahlbeck-usedom-tyskland/sale
-  domestic: false
-
-- title: Spännande storstadsvistelse i Frankfurt
-  id: spännande-storstadsvistelse-i-frankfurt
-  location: Scandic Frankfurt Museumsufer, Frankfurt am Main, Tyskland
-  description: Kultur möter design på förstklassigt cityhotell, inkl. frukost med extra förmåner&nbsp;
-  price: 1040
-  price-description: per rum per natt
-  saved: 47
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66916/5b60ff85_9d9c_422a_88ac_b6c9ac711229.jpg
-  link: https://www.secretescapes.se/spaennande-storstadsvistelse-i-frankfurt-scandic-frankfurt-museumsufer-frankfurt-am-main-tyskland/sale
-  domestic: false
-
-- title: Modern vistelse i vackra Stavanger
-  location: Radisson Blu Royal Hotel, Stavanger, Norge
-  description: Bo på modernt hotell i centrala Stavanger med restaurang och spa, inkl. frukost
-  price: 520
-  price-description: per person. Baserat på 2 personer per rum
-  saved: 42
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
-  link: https://www.secretescapes.se/modern-vistelse-i-vackra-stavanger-radisson-blu-royal-hotel-stavanger-norge/sale
-  domestic: false
-
-- title: Unikt äventyrshotell i natursköna Norge
-  location: Dalen Hotel, Dalen, Norge
-  description: En norsk pärla med fridfullt läge vid Telemarkskanalen, inkl. frukost och femrättersmiddag
-  price: 2105
-  price-description: per person. Baserat på 2 personer per rum
-  saved: 24
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/91715/4013cc74_499e_4d27_86f5_169bda4a9178.jpg
-  link: https://www.secretescapes.se/unikt-aeventyrshotell-i-naturskona-norge-dalen-hotel-dalen-norge/sale
   domestic: false
 
 - title: Toscanskt hotell med gourmetfokus
@@ -413,7 +215,7 @@
   id: solig-vistelse-på-costa-adeje
   location: Royal Garden Villas, Costa Adeje, Teneriffa, Spanien
   description: Boende i poolvilla på Teneriffa, inkl. frukost, massage och en flaska cava
-  price: 6080
+  price: 5630
   price-description: per villa per natt
   saved: 41
   expires: 2019/04/30
@@ -455,4 +257,15 @@
   expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/67482/2014d755_3312_4fc6_9d5f_7954c8c0c8bb.jpg
   link: https://www.secretescapes.se/klassiskt-hotell-paa-historiska-bryggen-first-hotel-marin-bergen-norge/sale
+  domestic: false
+
+- title: Havsnära hotell på Kanarieöarna
+  location: VIK Suite Hotel Risco del Gato, Fuerteventura, Spanien
+  description: Boende i svit på vackra Fuerteventura, inkl. halvpension, spaentré och mer
+  price: 590
+  price-description: per person. Baserat på 2 personer per svit
+  saved: 48
+  expires: 2019/04/29
+  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/60587/9e6122c3_6ad9_48b5_ae7e_3458c275a896.jpg
+  link: https://www.secretescapes.se/tjusigt-paa-kanarieoarna-vik-suite-hotel-risco-del-gato-fuerteventura-spanien-se-4/sale
   domestic: false
