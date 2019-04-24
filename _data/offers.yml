@@ -2,66 +2,6 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: Cityhotel direkt an der Friedrichstraße
-  id: cityhotel-direkt-an-der-friedrichstraße
-  location: Maritim proArte Hotel Berlin, Deutschland
-  description: Inkl. Frühstück, täglich 2 Softgetränken aus der Minibar, Pool-Zugang &amp; WLAN
-  price: 109
-  price-description: pro Zimmer pro Nacht
-  saved: 38
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63439/1bc52496_43bd_4644_a933_deabf034170f.jpg
-  link: https://www.secretescapes.de/cityhotel-direkt-an-der-friedrichstrasse-maritim-proarte-hotel-berlin-deutschland-de/sale
-  domestic: true
-
-- title: Anspruchsvolles Design in der Rheinmetropole Köln
-  id: anspruchsvolles-design-in-der-rheinmetropole-köln
-  location: BURNS fair and more, Köln, Nordrhein-Westfalen, Deutschland
-  description: Kunst &amp; Design in stilvoller Wohnkultur – inkl. Frühstücksbuffet &amp; spätem Check-out
-  price: 88
-  price-description: pro Zimmer pro Nacht
-  saved: 42
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66477/38097634_6e05_4706_974a_baa3339f350b.jpg
-  link: https://www.secretescapes.de/anspruchsvolles-design-in-der-rheinmetropole-koln-burns-fair-and-more-koln-nordrhein-westfalen-deutschland/sale
-  domestic: true
-
-- title: Exklusiver Aufenthalt in Hamburg
-  id: exklusiver-aufenthalt-in-hamburg
-  location: Park Hyatt Hamburg, Deutschland
-  description: Inkl. Frühstück, Zugang zum Wellnessbereich &amp; WLAN
-  price: 169
-  price-description: pro Zimmer pro Nacht
-  saved: 48
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42673/8f084a44_fc4a_41bd_b0cb_db5494ff4bba.jpg
-  link: https://www.secretescapes.de/exklusiver-aufenthalt-in-hamburg-park-hyatt-hamburg-hamburg-deutschland/sale
-  domestic: true
-
-- title: Wohlfühlgenuss in der Therme Erding
-  id: wohlfühlgenuss-in-der-therme-erding
-  location: Hotel Victory Therme Erding, Bayern, Deutschland
-  description: Sanfte Erholung und großer Freizeitspaß – inkl. Frühstück, Thermen-Zugang &amp; Extras
-  price: 245
-  price-description: pro Kabine pro Nacht
-  saved: 33
-  expires: 2019/04/23
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91756/ccf31066_4233_4e2b_a039_31bc2c8dd8e3.jpg
-  link: https://www.secretescapes.de/wohlfuehlgenuss-in-der-therme-erding-victory-therme-erding-erding-bayern-deutschland/sale
-  domestic: true
-
-- title: Schlosshotel-Romantik am Fleesensee
-  id: schlosshotel-romantik-am-fleesensee
-  location: SCHLOSS Fleesensee, Göhren-Lebbin, Mecklenburg-Vorpommern, Deutschland
-  description: Inkl. Frühstücksbuffet, Spa-Nutzung, Kursprogramm, Begrüßungsgetränk, Parkplatz &amp; Extras
-  price: 148
-  price-description: pro Zimmer pro Nacht
-  saved: 38
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/40575/e4c2242a_74ff_432f_9934_b62fee1f62e3.jpg
-  link: https://www.secretescapes.de/schloss-fleesensee-gohren-lebbin-deutschland2/sale
-  domestic: true
-
 - title: Junges Designhotel in München
   id: junges-designhotel-in-münchen
   location: Ruby Lilly Hotel Munich, München, Bayern, Deutschland
@@ -69,33 +9,9 @@
   price: 99
   price-description: pro Zimmer pro Nacht
   saved: 45
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/46766/538e3883_bb9f_4f2e_8b0c_89f14eed5db6.jpg
   link: https://www.secretescapes.de/junges-designhotel-in-muenchen-ruby-lilly-hotel-munich-muenchen-bayern-deutschland/sale
-  domestic: true
-
-- title: Auf Usedom den Sonnenuntergang genießen
-  id: auf-usedom-den-sonnenuntergang-genießen
-  location: Nadler Hof, Ahlbeck, Usedom, Ostsee, Mecklenburg-Vorpommern, Deutschland
-  description: Strandkorb-Harmonie auf Usedom - inkl. 1 Flasche Wein &amp; Extras
-  price: 90
-  price-description: pro Apartment pro Nacht
-  saved: 32
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92399/54959c03_e632_4d35_9fe9_ca4870dede98.jpg
-  link: https://www.secretescapes.de/auf-usedom-den-sonnenuntergang-geniessen-nadler-hof-ahlberg-usedom-ostsee-mecklenburg-vorpommern-deutschland/sale
-  domestic: true
-
-- title: Beliebtes Künstler-Domizil in Düsseldorf
-  id: beliebtes-künstler-domizil-in-düsseldorf
-  location: STAGE 47 Design-Hotel, Düsseldorf, Nordrhein-Westfalen, Deutschland
-  description: Inkl. Frühstücksbuffet, spätem Check-out, Begrüßungsgetränk &amp; Extras
-  price: 88
-  price-description: pro Zimmer pro Nacht
-  saved: 49
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/40465/2216788b_2531_4071_8f83_bbf37a90895d.jpg
-  link: https://www.secretescapes.de/beliebtes-kuenstler-domizil-in-duesseldorf-stage-47-design-hotel-duesseldorf-nordrhein-westfalen-deutschland/sale
   domestic: true
 
 - title: Aufwachen mit Skylineblick in Frankfurt
@@ -105,7 +21,7 @@
   price: 99
   price-description: pro Zimmer pro Nacht
   saved: 47
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66916/5b60ff85_9d9c_422a_88ac_b6c9ac711229.jpg
   link: https://www.secretescapes.de/aufwachen-mit-skylineblick-in-frankfurt-scandic-frankfurt-museumsufer-frankfurt-am-main-hessen-deutschland/sale
   domestic: true
@@ -158,18 +74,6 @@
   link: https://www.secretescapes.de/historische-lowenstadt-braunschweig-pentahotel-braunschweig-niedersachsen-deutschland-de/sale
   domestic: true
 
-- title: "Neu in Berlin: Design-Flair über den Dächern"
-  id: neu-in-berlin:-design-flair-über-den-dächern
-  location: niu Hide, Berlin, Deutschland
-  description: "Brandneu: Urbanes Design im Osten Berlins – inkl. Frühstück &amp; Begrüßungsgetränk"
-  price: 64
-  price-description: pro Zimmer pro Nacht
-  saved: 41
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92115/baa78ea2_962a_4727_9e12_5774a8781754.jpg
-  link: https://www.secretescapes.de/neu-in-berlin-design-flair-ueber-den-daechern-niu-hide-berlin-deutschland/sale
-  domestic: true
-
 - title: "Ahoi Hamburg: Neueröffnung in der Hafenmetropole"
   id: ahoi-hamburg:-neueröffnung-in-der-hafenmetropole
   location: niu Keg Hamburg, Deutschland
@@ -177,50 +81,26 @@
   price: 74
   price-description: pro Zimmer pro Nacht
   saved: 31
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92544/5e9ab5d7_8428_4687_a913_3034862eda1a.jpg
   link: https://www.secretescapes.de/hamburgs-hanseflair-auf-die-moderne-art-niu-keg-hamburg-deutschland-1/sale
+  domestic: true
+
+- title: The Mandala Berlin
+  id: the-mandala-berlin
+  location: The Mandala Berlin, Deutschland
+  description: Exklusives Designhotel in Berliner Bestlage inkl. Frühstücksbuffet, spätem Check-out &amp; WLAN
+  price: 170
+  price-description: pro Suite pro Nacht
+  saved: 37
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/18957/30b31771_3ba7_476e_9dbc_578dd07d4993.jpg
+  link: https://www.secretescapes.de/the-mandala-berlin-the-mandala-berlin-deutschland-potsdamer-platz/sale
   domestic: true
 
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
-
-- title: Stilvolle Mallorca-Auszeit nahe Palma
-  id: stilvolle-mallorca-auszeit-nahe-palma
-  location: FERGUS Style Palmanova, Mallorca, Balearen, Spanien
-  description: Schickes Design-Zimmer – inkl. Halbpension, Begrüßungscocktail, 1 Flasche Wein &amp; Schokolade
-  price: 108
-  price-description: pro Zimmer pro Nacht
-  saved: 38
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70624/e4ede240_9af5_42b3_8521_24cff9f626f6.jpg
-  link: https://www.secretescapes.de/stilvolle-mallorca-auszeit-nahe-palma-fergus-style-palmanova-mallorca-balearen-spanien-2/sale
-  domestic: false
-
-- title: "Ibiza: Party & Entspannung auf der weißen Insel"
-  id: ibiza:-party-and-entspannung-auf-der-weißen-insel
-  location: Fergus Style Bahamas, Platja d'en Bossa, Ibiza, Balearen, Spanien
-  description: Inkl. All-inclusive, Begrüßungsgetränk &amp; 1 Flasche Cava
-  price: 88
-  price-description: pro Zimmer pro Nacht
-  saved: 63
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88312/e3164ed2_3df7_4c3b_850f_d52e7aa812c7.jpg
-  link: https://www.secretescapes.de/ibiza-party-and-entspannung-auf-der-weissen-insel-fergus-style-bahamas-platja-den-bossa-ibiza-balearen-spanien/sale
-  domestic: false
-
-- title: Alpen de luxe im schönen Salzburger Land
-  id: alpen-de-luxe-im-schönen-salzburger-land
-  location: DAS.GOLDBERG, Bad Hofgastein, Pongau, Salzburger Land, Österreich
-  description: Inkl. 3/4-Pension, Wellnessgutschein, täglichem Spa-Zugang, Aktivprogramm  &amp; Extras
-  price: 298
-  price-description: pro Unterkunft pro Nacht
-  saved: 43
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9444/687def21_dc40_4ecd_922b_0e8e7daba936.jpg
-  link: https://www.secretescapes.de/alpen-deluxe-im-schonen-salzburger-land-dasgoldberg-bad-hofgastein-land-salzburg-pongau-osterreich-de/sale
-  domestic: false
 
 - title: Spa und Meeresluft im Süden Portugals
   id: spa-und-meeresluft-im-süden-portugals
@@ -229,7 +109,7 @@
   price: 135
   price-description: pro Zimmer pro Nacht
   saved: 56
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92158/41c20005_7b8b_4878_99c6_20b98e4b5e54.jpg
   link: https://www.secretescapes.de/spa-und-meeresluft-im-sueden-portugals-longevity-health-and-wellness-hotel-alvor-algarve-portugal/sale
   domestic: false
@@ -241,7 +121,7 @@
   price: 146
   price-description: pro Unterkunft pro Nacht
   saved: 25
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9362/d78fa349_24c1_4f72_addd_b401bc657013.jpg
   link: https://www.secretescapes.de/sonnentage-auf-gran-canaria-bohemia-suites-and-spa-maspalomas-kanaren-spanien/sale
   domestic: false
@@ -253,7 +133,7 @@
   price: 160
   price-description: pro room pro Nacht
   saved: 22
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91997/3359939e_7c20_43c5_9fcd_f6af8220003a.jpg
   link: https://www.secretescapes.de/mediterraner-strandurlaub-auf-sardinien-colonna-grand-hotel-capo-testa-santa-teresa-gallura-sardinien-italien/sale
   domestic: false
@@ -265,7 +145,7 @@
   price: 181
   price-description: pro Zimmer pro Nacht
   saved: 48
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68210/e100ceda_acf8_4714_b3d7_21386766eb7c.jpg
   link: https://www.secretescapes.de/rom-fuer-geniesser-grand-hotel-palace-rome-rom-italien/sale
   domestic: false
@@ -277,7 +157,7 @@
   price: 150
   price-description: pro Junior-Suite pro Nacht
   saved: 62
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92164/b3819d97_3214_4901_aa37_dc64d61060cc.jpg
   link: https://www.secretescapes.de/extravagantes-stadt-hotel-in-spaniens-hauptstadt-vincci-the-mint-madrid-spanien/sale
   domestic: false
@@ -289,7 +169,7 @@
   price: 315
   price-description: pro Unterkunft pro Nacht
   saved: 26
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/e2e157e9_54e7_42e9_aff2_34ac91b4fc68.jpg
   link: https://www.secretescapes.de/mondaenes-5-star-hotel-im-herzen-von-florenz-helvetia-and-bristol-florenz-toskana-italien/sale
   domestic: false
@@ -298,10 +178,10 @@
   id: natur-and-spa-erholung-in-den-dolomiten
   location: Seiser Alm Urthaler, Seis am Schlern, Südtirol, Italien
   description: Inkl. Halbpension, 1 Flasche Prosecco, Wellness-Gutschein &amp; weiteren Extras
-  price: 249
+  price: 239
   price-description: pro Zimmer pro Nacht
-  saved: 31
-  expires: 2019/04/24
+  saved: 34
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/48368/dca763de_8d5d_47a7_954c_fffac29b3881.jpg
   link: https://www.secretescapes.de/natur-and-spa-erholung-in-den-dolomiten-seiser-alm-urthaler-seis-am-schlern-suedtirol-italien/sale
   domestic: false
@@ -313,7 +193,7 @@
   price: 127
   price-description: pro Zimmer pro Nacht
   saved: 53
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/89105/0e741681_00a1_476e_a2f6_cdd7daac8e88.jpg
   link: https://www.secretescapes.de/beste-aussichten-am-golf-von-neapel-hotel-miramare-e-castello-ischia-kampanien-italien/sale
   domestic: false
@@ -325,21 +205,9 @@
   price: 123
   price-description: pro Suite pro Nacht
   saved: 33
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50530/8310e1f3_8485_4687_ae12_6c56b9215765.jpg
   link: https://www.secretescapes.de/suiten-urlaub-auf-lanzarote-elba-premium-suites-playa-blanca-lanzarote-kanaren-spanien2/sale
-  domestic: false
-
-- title: Fuerteventuras Traumstrände entdecken
-  id: fuerteventuras-traumstrände-entdecken
-  location: Risco del Gato Suites THe Senses Collection Hotel, Fuerteventura, Kanaren, Spanien
-  description: Inkl. Halbpension, Begrüßungsgetränk, Zugang zum Spa &amp; Tennisplatz&nbsp;
-  price: 113
-  price-description: pro Suite pro Nacht
-  saved: 48
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/60587/9e6122c3_6ad9_48b5_ae7e_3458c275a896.jpg
-  link: https://www.secretescapes.de/fuerteventuras-traumstraende-entdecken-risco-del-gato-suites-the-senses-collection-hotel-fuerteventura-kanaren-spanien/sale
   domestic: false
 
 - title: "Mallorca: 5*-Panorama in Palmanova"
@@ -349,8 +217,8 @@
   price: 128
   price-description: pro Zimmer pro Nacht
   saved: 60
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/4c46adf7_a562_4793_9ad4_dce72e9f340b.jpg
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/f725f953_5e7e_4791_81fd_ab4102067d71.jpg
   link: https://www.secretescapes.de/mallorca-5-star-panorama-in-palmanova-fergus-style-tobago-palmanova-mallorca-balearen-spanien/sale
   domestic: false
 
@@ -361,7 +229,7 @@
   price: 163
   price-description: pro Unterkunft pro Nacht
   saved: 42
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92612/27957713_0a69_43e2_a3f8_7c36f7937c51.jpg
   link: https://www.secretescapes.de/mallorca-fuer-romantiker-hotel-sa-torre-mallorca-resort-llucmajor-mallorca-balearen-spanien/sale
   domestic: false
@@ -370,10 +238,10 @@
   id: stilvolles-boutiquehotel-im-herzen-von-barcelona
   location: Sir Victor, Barcelona, Spanien
   description: Minimalismus &amp; Nachhaltigkeit – inkl. Spa-Zugang oder Tapas, Begrüßungsgetränk &amp; Extra
-  price: 221
+  price: 222
   price-description: pro Zimmer pro Nacht
   saved: 44
-  expires: 2019/04/23
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92339/828c60b9_056e_475f_b939_d2709920aedc.jpg
   link: https://www.secretescapes.de/stilvolles-boutiquehotel-im-herzen-von-barcelona-sir-victor-barcelona-spanien/sale
   domestic: false
@@ -385,45 +253,21 @@
   price: 109
   price-description: pro Zimmer pro Nacht
   saved: 32
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3b1d2886_cf0c_46cc_84cc_e9fcddcd7764.jpg
   link: https://www.secretescapes.de/brandneuer-skandinavien-chic-mit-blick-ueber-oslo-clarion-hotel-the-hub-oslo-norwegen/sale
   domestic: false
 
-- title: Design-Chic in steirischer Weinlandschaft
-  id: design-chic-in-steirischer-weinlandschaft
+- title: Sommerfrische in steirischer Weinlandschaft
+  id: sommerfrische-in-steirischer-weinlandschaft
   location: LOISIUM Wine & Spa Hotel Südsteiermark, Ehrenhausen, Steiermark, Österreich
   description: Naturnahe Wohlfühltage inkl. Halbpension, Spa-Zugang, Weinprobe &amp; Extras
   price: 222
   price-description: pro Zimmer pro Nacht
   saved: 37
-  expires: 2019/04/24
+  expires: 2019/04/27
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/87267/be0dee22_e083_4b57_b2d5_44d0c73f2dfb.jpg
   link: https://www.secretescapes.de/design-chic-in-steirischer-weinlandschaft-loisium-wine-and-spa-hotel-suedsteiermark-ehrenhausen-steiermark-osterreich/sale
-  domestic: false
-
-- title: Modernes Wellnesshotel im Kleinwalsertal
-  id: modernes-wellnesshotel-im-kleinwalsertal
-  location: Travel Charme Ifen Hotel, Hirschegg, Vorarlberg, Österreich
-  description: Doppelzimmer oder Junior-Suite mit Frühstücksbuffet, Spa-Nutzung &amp; Extras
-  price: 199
-  price-description: pro Zimmer pro Nacht
-  saved: 50
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/45132/112a304a_e4ac_4701_a072_15bebd0a8f31.jpg
-  link: https://www.secretescapes.de/modernes-wellnesshotel-im-kleinwalsertal-travel-charme-ifen-hotel-hirschegg-kleinwalsertal-vorarlberg-osterreich/sale
-  domestic: false
-
-- title: Wohlfühl-Ambiente im österreichischen Vorarlberg
-  id: wohlfühl-ambiente-im-österreichischen-vorarlberg
-  location: Löwen Hotel Montafon, Schruns, Vorarlberg, Österreich
-  description: Inkl. 3/4-Pension, 1 Glas Prosecco zur Begrüßung, täglichem Spa-Zugang &amp; Extras
-  price: 246
-  price-description: pro Zimmer pro Nacht
-  saved: 30
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/35490/5f8ba5c2_4610_4783_a997_19c511d6e64c.jpg
-  link: https://www.secretescapes.de/wohlfuehl-ambiente-im-osterreichischen-vorarlberg-lowen-hotel-montafon-schruns-vorarlberg-osterreich/sale
   domestic: false
 
 - title: Residieren in Wiens 1. Bezirk mit Rooftop-Pool
@@ -433,118 +277,20 @@
   price: 169
   price-description: pro Zimmer pro Nacht
   saved: 48
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/23938/49341686_96af_4928_abeb_d449eb2becbe.jpg
   link: https://www.secretescapes.de/residieren-in-wiens-1-bezirk-mit-rooftop-pool-grand-ferdinand-wien-osterreich/sale
   domestic: false
 
-- title: "Neueröffnung: Designperle im royalen Stockholm"
-  location: Blique by Nobis, Stockholm, Schweden
-  description: Als einer der ersten Gäste das visionäre Flair des Hauses genießen – inkl. Frühstück
-  price: 40
-  price-description: pro Person. basierend auf 2 Personen pro Unterkunft
-  saved: 58
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/hotels/146/dcc056ed_efa2_4887_b4f3_1dd905e933b9.jpg
-  link: https://www.secretescapes.de/blique-by-nobis-stockholm-schweden-de/sale-hotel
-  domestic: false
-
-- title: Vorhang auf für Bilbaos Kunstwelten
-  location: Gran Hotel Domine Bilbao, Bilbao, Baskenland, Spanien
-  description: 5*-Designhotel direkt gegenüber dem Guggenheim – inkl. Frühstück, Wellness-Zugang & Extras
-  price: 98
-  price-description: pro Person. basierend auf 2 Personen pro Zimmer
-  saved: 25
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/3885/bb679eac_3a53_4967_8e2b_41e599e5532f.jpg
-  link: https://www.secretescapes.de/vorhang-auf-fuer-bilbaos-kunstwelten-gran-hotel-domine-bilbao-bilbao-baskenland-spanien/sale
-  domestic: false
-
-- title: Designhotel in Malmös Altstadt
-  location: Elite Hotel Esplanade, Malmö, Schonen, Schweden
-  description: Residieren in Malmö unweit von Sehenswürdigkeiten & dem Bahnhof – inkl. Frühstück
-  price: 44
-  price-description: pro Person. basierend auf 2 Personen pro Zimmer
-  saved: 47
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/63815/54fb58c7_20ef_401f_81f6_e1c7d2141ea3.jpg
-  link: https://www.secretescapes.de/designhotel-in-malmos-altstadt-elite-hotel-esplanade-malmo-schonen-schweden/sale
-  domestic: false
-
-- title: Komfortabler Citytrip nach Madrid
-  location: NH Collection Madrid Eurobuilding, Madrid, Spanien
-  description: Modernes Hotel mit Wellnessbereich und guter Anbindung – inkl. Frühstück & Extras
-  price: 46
-  price-description: pro Person. basierend auf 2 Personen pro Zimmer
-  saved: 63
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/90979/e201ba7d_8a8a_4044_989a_b4dd231c4591.jpg
-  link: https://www.secretescapes.de/komfortabler-citytrip-nach-madrid-nh-collection-madrid-eurobuilding-madrid-spanien/sale
-  domestic: false
-
-- title: Exquisites 5*-Hotel mit Panorama auf Mallorca
-  location: Hospes Maricel & Spa, Cas Català, Mallorca, Balearen, Spanien
-  description: Inkl. Frühstück oder Halbpension, Spa-Zugang, Spa-Gutschein & Begrüßungsgetränk
-  price: 123
-  price-description: pro Person. basierend auf 2 Personen pro Zimmer
-  saved: 35
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/6917/78e43e85_87b7_41b9_a813_ae328cbeab0b.jpg
-  link: https://www.secretescapes.de/exquisites-5-star-hotel-mit-panorama-auf-mallorca-hospes-maricel-and-spa-cas-catala-mallorca-balearen-spanien-0/sale
-  domestic: false
-
-- title: Idyllische Auszeit auf Teneriffa
-  location: Regency Country Club, Teneriffa, Kanaren, Spanien
-  description: Apartment-Suite mit 1 Schlafzimmer – inkl. Halbpension, 1 Flasche Cava & Obst
-  price: 92
-  price-description: pro Person. basierend auf 2 Personen pro Suite
-  saved: 28
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/14358/6b826e14_d685_43c3_bf87_f81127f69131.jpg
-  link: https://www.secretescapes.de/idyllische-auszeit-auf-teneriffa-regency-country-club-teneriffa-kanarische-inseln-spanien/sale
-  domestic: false
-
-- title: Spanien-Urlaub mit historischem Flair
-  location: Hospes Palacio del Bailío, Córdoba, Andalusien, Spanien
-  description: Herrenhaus mit 5*-Luxus-Spa – inkl. Frühstück, Wellness-Gutschein & Spa-Zugang
-  price: 75
-  price-description: pro Person. basierend auf 2 Personen pro Zimmer
-  saved: 35
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/26471/50df1177_3d2b_4905_bd07_b810b9dcf1f8.jpg
-  link: https://www.secretescapes.de/spanien-urlaub-mit-historischem-flair-hospes-palacio-del-bailio-cordoba-andalusien-spanien/sale
-  domestic: false
-
-- title: Vor den Toren Lissabons das Panorama überblicken
-  location: Myriad by SANA Hotels, Lissabon, Portugal
-  description: Designhotel mit Weitblick über das Wasser – inkl. Frühstück, Begrüßungsgetränk & Vergünstigungen
-  price: 105
-  price-description: pro Person. basierend auf 2 Personen pro Zimmer
-  saved: 23
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/91802/f94a7d0e_6c51_4121_b617_1c2089140f86.jpg
-  link: https://www.secretescapes.de/vor-den-toren-lissabons-das-panorama-ueberblicken-myriad-by-sana-hotels-lissabon-portugal1/sale
-  domestic: false
-
-- title: Natur, Kultur & Kulinarik in Nordspanien
-  location: Hotel Arima, San Sebastián, Baskenland, Spanien
-  description: Inkl. Frühstück, Willkommenspräsent, optionalem Dinner & Parkplatz
-  price: 38
-  price-description: pro Person. basierend auf 2 Personen pro Zimmer
-  saved: 48
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/91933/735f01d8_f58c_4efe_982e_2babbc8f8cd0.jpg
-  link: https://www.secretescapes.de/natur-kultur-and-kulinarik-in-nordspanien-hotel-arima-san-sebastian-baskenland-spanien/sale
-  domestic: false
-
 - title: Puristisches Cityhotel mit Panorama in Malmö
+  id: puristisches-cityhotel-mit-panorama-in-malmö
   location: Story Hotel Studio, Malmö, Skåne län, Schweden
   description: Unterkunft in einem Ocean-King-Zimmer mit Meerblick – inkl. Frühstück
-  price: 40
-  price-description: pro Person. basierend auf 2 Personen pro Zimmer
+  price: 81
+  price-description: pro Zimmer pro Nacht
   saved: 38
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/41799/1319b56f_d1b3_4ec5_805b_2cf6e6fe652a.jpg
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70367/0ad2838e_a60a_4367_b92c_b480008825e2.jpg
   link: https://www.secretescapes.de/puristisches-cityhotel-mit-panorama-in-malmo-story-hotel-studio-malmo-skaane-laen-schweden/sale
   domestic: false
 
@@ -572,6 +318,18 @@
   link: https://www.secretescapes.de/sonniges-bergrefugium-auf-gran-canaria-hotel-casa-leon-gran-canaria-kanaren-spanien/sale
   domestic: false
 
+- title: Spa-Schmuckstück direkt am Bodensee
+  id: spa-schmuckstück-direkt-am-bodensee
+  location: SENTIDO Seehotel Am Kaiserstrand, Lochau, Bodensee, Vorarlberg, Österreich
+  description: Inkl. Frühstücksbuffet, Spa-Zugang, Restaurant- und Spa-Gutschein &amp; Extras
+  price: 155
+  price-description: pro Unterkunft pro Nacht
+  saved: 57
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42637/05d7e38e_41ec_4459_bd9e_2e3642b47bcd.jpg
+  link: https://www.secretescapes.de/spa-schmuckstueck-direkt-am-bodensee-sentido-seehotel-am-kaiserstrand-lochau-bodensee-vorarlberg-osterreich/sale
+  domestic: false
+
 - title: Lifestyle-Holzhotel im Salzburger Land
   id: lifestyle-holzhotel-im-salzburger-land
   location: Holzhotel Forsthofalm, Leogang, Salzburg, Österreich
@@ -584,14 +342,108 @@
   link: https://www.secretescapes.de/lifestyle-holzhotel-im-salzburger-land-holzhotel-forsthofalm-leogang-salzburg-osterreich/sale
   domestic: false
 
-- title: Spa-Schmuckstück direkt am Bodensee
-  id: spa-schmuckstück-direkt-am-bodensee
-  location: SENTIDO Seehotel Am Kaiserstrand, Lochau, Bodensee, Vorarlberg, Österreich
-  description: Inkl. Frühstücksbuffet, Spa-Zugang, Restaurant- und Spa-Gutschein &amp; Extras
-  price: 155
-  price-description: pro Unterkunft pro Nacht
-  saved: 57
+- title: Über Barcelonas Dächern
+  id: über-barcelonas-dächern
+  location: B-Hotel, Barcelona, Katalonien, Spanien
+  description: City-Chic mit Rooftop-Pool inkl. Frühstücksermäßigung, Begrüßungsgetränk &amp; Extras
+  price: 133
+  price-description: pro Zimmer pro Nacht
+  saved: 47
   expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42637/05d7e38e_41ec_4459_bd9e_2e3642b47bcd.jpg
-  link: https://www.secretescapes.de/spa-schmuckstueck-direkt-am-bodensee-sentido-seehotel-am-kaiserstrand-lochau-bodensee-vorarlberg-osterreich/sale
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39982/504874fc_d2c2_4826_9e36_17ae21696702.jpg
+  link: https://www.secretescapes.de/uber-barcelonas-daechern-b-hotel-barcelona-katalonien-spanien/sale
+  domestic: false
+
+- title: Barcelona in all seinen Facetten
+  id: barcelona-in-all-seinen-facetten
+  location: Vincci Maritimo, Barcelona, Katalonien, Spanien
+  description: Designhotel am ruhigen Stadtstrand – inkl. Begrüßungsgetränk &amp; Extras
+  price: 146
+  price-description: pro Zimmer pro Nacht
+  saved: 33
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93004/420ae37d_351a_4f05_9129_da0f549205d3.jpg
+  link: https://www.secretescapes.de/barcelona-in-all-seinen-facetten-vincci-maritimo-barcelona-katalonien-spanien/sale
+  domestic: false
+
+- title: Mediterrane Erholung auf Ibiza
+  id: mediterrane-erholung-auf-ibiza
+  location: Aguas de Ibiza Lifestyle & Spa Gran lujo, Santa Eulalia del Rio, Ibiza, Balearen, Spanien
+  description: Inkl. Frühstück, spätem Check-out, täglichem Spa-Zugang &amp; Extras
+  price: 279
+  price-description: pro Suite pro Nacht
+  saved: 35
+  expires: 2019/04/29
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/75638/227d2486_b09e_4788_a50d_b62c97817a7e.jpg
+  link: https://www.secretescapes.de/mediterrane-erholung-auf-ibiza-aguas-de-ibiza-lifestyle-and-spa-gran-lujo-santa-eulalia-del-rio-ibiza-balearen-spanien1/sale
+  domestic: false
+
+- title: Inselurlaub an der Bucht von Palmanova
+  id: inselurlaub-an-der-bucht-von-palmanova
+  location: Hotel Son Caliu Spa Oasis, Palmanova, Mallorca, Balearen, Spanien
+  description: Inkl. Frühstück oder Halbpension, Begrüßungsgetränk, spätem Check-out &amp; Extras
+  price: 123
+  price-description: pro Zimmer pro Nacht
+  saved: 29
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/76539/667d33ba_d0dc_43be_a3a8_2612bc83bd4b.jpg
+  link: https://www.secretescapes.de/inselurlaub-an-der-bucht-von-palmanova-hotel-son-caliu-spa-oasis-palmanova-mallorca-balearen-spanien-2/sale
+  domestic: false
+
+- title: Cityhotel in Stavanger
+  id: cityhotel-in-stavanger
+  location: Radisson Blu Royal, Stavanger, Rogaland, Norwegen
+  description: Moderne Superior-Zimmer – inkl. Frühstück
+  price: 99
+  price-description: pro Zimmer pro Nacht
+  saved: 42
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
+  link: https://www.secretescapes.de/cityhotel-in-stavanger-radisson-blu-royal-stavanger-norwegen/sale
+  domestic: false
+
+- title: Stylisch in Stockholm
+  id: stylisch-in-stockholm
+  location: Mornington Hotel Stockholm City, Stockholm, Schweden
+  description: Charmantes Superior-Zimmer – inkl. Frühstück
+  price: 92
+  price-description: pro Zimmer pro Nacht
+  saved: 20
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92808/9f6a49d5_02c1_45ad_911a_d5e26ad51a81.jpg
+  link: https://www.secretescapes.de/stylisch-in-stockholm-mornington-hotel-stockholm-city-stockholm-schweden/sale
+  domestic: false
+
+- title: Scandi-Chic für Weinkenner
+  id: scandi-chic-für-weinkenner
+  location: The Winery, Solna, Stockholm, Schweden
+  description: Urbane Weinkelterei mit Dachterrasse nahe Stockholm – inkl. Frühstück und Weinverkostung
+  price: 105
+  price-description: pro Zimmer pro Nacht
+  saved: 46
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92791/9e08b0de_ac52_4b81_b333_fe12ae3a960a.jpg
+  link: https://www.secretescapes.de/scandi-chic-bei-stockholm-fuer-weinkenner-the-winery-solna-stockholm-schweden/sale
+  domestic: false
+
+- title: Spanien-Urlaub mit historischem Flair
+  location: Hospes Palacio del Bailío, Córdoba, Andalusien, Spanien
+  description: Herrenhaus mit 5*-Luxus-Spa – inkl. Frühstück, Wellness-Gutschein & Spa-Zugang
+  price: 66
+  price-description: pro Person. basierend auf 2 Personen pro Zimmer
+  saved: 35
+  expires: 2019/04/26
+  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/26471/50df1177_3d2b_4905_bd07_b810b9dcf1f8.jpg
+  link: https://www.secretescapes.de/spanien-urlaub-mit-historischem-flair-hospes-palacio-del-bailio-cordoba-andalusien-spanien/sale
+  domestic: false
+
+- title: Fuerteventuras Traumstrände entdecken
+  location: Risco del Gato Suites THe Senses Collection Hotel, Fuerteventura, Kanaren, Spanien
+  description: Inkl. Halbpension, Begrüßungsgetränk, Zugang zum Spa & Tennisplatz
+  price: 49
+  price-description: pro Person. basierend auf 2 Personen pro Suite
+  saved: 48
+  expires: 2019/04/29
+  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/60587/9e6122c3_6ad9_48b5_ae7e_3458c275a896.jpg
+  link: https://www.secretescapes.de/fuerteventuras-traumstraende-entdecken-risco-del-gato-suites-the-senses-collection-hotel-fuerteventura-kanaren-spanien/sale
   domestic: false
