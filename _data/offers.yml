@@ -9,7 +9,7 @@
   price: 1750
   price-description: per rom per natt
   saved: 30
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/45456/83a42c93_3380_4637_b1c5_ff96324e2016.jpg
   link: https://no.secretescapes.com/eksklusive-spaopplevelser-paa-farris-bad-farris-bad-larvik-vestfold-norge-no/sale
   domestic: true
@@ -21,20 +21,9 @@
   price: 1050
   price-description: per rom per natt
   saved: 32
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3b1d2886_cf0c_46cc_84cc_e9fcddcd7764.jpg
   link: https://no.secretescapes.com/splitter-nytt-og-sentralt-i-oslo-clarion-hotel-the-hub-oslo-norge-no-no/sale
-  domestic: true
-
-- title: Norsk eventyrhotell fra 1894
-  location: Dalen Hotel, Dalen, Telemark
-  description: Historisk hotell med utmerket aktivitetsmangfold, inkl. frokost og femretters middag
-  price: 1950
-  price-description: per person. Basert på 2 personer per rom
-  saved: 24
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/91715/dee23a5c_2f61_49f3_b533_7ebafc2e281d.jpg
-  link: https://no.secretescapes.com/norsk-eventyrhotell-fra-1894-dalen-hotel-dalen-telemark/sale
   domestic: true
 
 - title: Bare minutter unna Bryggen
@@ -53,66 +42,6 @@
 # NON DOMESTIC OFFERS
 ################################################################################
 
-- title: Fem stjerner ved Guggenheim
-  id: fem-stjerner-ved-guggenheim
-  location: Gran Hotel Domine Bilbao, Bilbao, Spania
-  description: Et designhotell i nærheten av Guggenheim-museet med frokost og ekstragoder
-  price: 1888
-  price-description: per rom per natt
-  saved: 28
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/19032/495d410a_c6c5_4140_81dc_aec30a81cc62.jpg
-  link: https://no.secretescapes.com/fem-stjerner-ved-guggenheim-gran-hotel-domine-bilbao-bilbao-spania/sale
-  domestic: false
-
-- title: Mallorca slår aldri feil
-  id: mallorca-slår-aldri-feil
-  location: Fergus Style Palmanova, Palmanova, Mallorca
-  description: Skap gode minner på firestjerners boutiquehotell på Mallorca, inkludert halvpensjon
-  price: 1040
-  price-description: per rom per natt
-  saved: 38
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70624/e4ede240_9af5_42b3_8521_24cff9f626f6.jpg
-  link: https://no.secretescapes.com/mallorca-slaar-aldri-feil-fergus-style-palmanova-palmanova-mallorca-no1/sale
-  domestic: false
-
-- title: Strandhotell på Middelhavsøya Ibiza
-  id: strandhotell-på-middelhavsøya-ibiza
-  location: Fergus Style Bahamas, Platja d'en Bossa, Ibiza, Spania
-  description: Hotell med nydelig beliggenhet i nærheten av Ibiza natteliv og Ibiza by, med all-inclusive
-  price: 863
-  price-description: per rom per natt
-  saved: 63
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88312/e3164ed2_3df7_4c3b_850f_d52e7aa812c7.jpg
-  link: https://no.secretescapes.com/strandhotell-paa-middelhavsoeya-ibiza-fergus-style-bahamas-platja-den-bossa-ibiza-spania/sale
-  domestic: false
-
-- title: Luksus av høyeste kvalitet på Mallorca
-  id: luksus-av-høyeste-kvalitet-på-mallorca
-  location: Hospes Maricel & Spa, Mallorca, Spania
-  description: Unikt, femstjerners  resorthotell med havutsikt, inkludert frokost eller halvpensjon
-  price: 1708
-  price-description: per rom per natt
-  saved: 35
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/6917/78e43e85_87b7_41b9_a813_ae328cbeab0b.jpg
-  link: https://no.secretescapes.com/luksus-av-hoeyeste-kvalitet-paa-mallorca-hospes-maricel-and-spa-mallorca-spania-no1/sale
-  domestic: false
-
-- title: Nyt solrike dager på Tenerife
-  id: nyt-solrike-dager-på-tenerife
-  location: Regency Country Club, Tenerife, Spania
-  description: Et herlig, eksklusivt opphold på Tenerife – inkludert frokost, middag og en flaske cava
-  price: 1763
-  price-description: per suite per natt
-  saved: 28
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14358/6b826e14_d685_43c3_bf87_f81127f69131.jpg
-  link: https://no.secretescapes.com/nyt-solrike-dager-paa-tenerife-regency-country-club-tenerife-spania-no/sale
-  domestic: false
-
 - title: Femstjerners luksus på Gran Canaria
   id: femstjerners-luksus-på-gran-canaria
   location: Bohemia Suites & Spa, Gran Canaria, Spania
@@ -120,21 +49,9 @@
   price: 1406
   price-description: per rom per natt
   saved: 38
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9362/d78fa349_24c1_4f72_addd_b401bc657013.jpg
   link: https://no.secretescapes.com/femstjerners-luksus-paa-gran-canaria-bohemia-suites-and-spa-gran-canaria-spania-no/sale
-  domestic: false
-
-- title: Velgjørende opphold på Marstrand
-  id: velgjørende-opphold-på-marstrand
-  location: Marstrands Havshotell, Marstrand, Sverige
-  description: Nyt livet fra en badestamp ved havet på koselige Marstrand Havshotell, inkludert halvpensjon
-  price: 1991
-  price-description: per rom per natt
-  saved: 20
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91985/0a6df9ee_c786_4b91_85c7_7f865d0fa913.jpg
-  link: https://no.secretescapes.com/velgjoerende-opphold-i-sverige-marstrands-havsbad-marstrand-sverige/sale
   domestic: false
 
 - title: Forelsk deg i eventyrlige Sardinia
@@ -144,7 +61,7 @@
   price: 1546
   price-description: per rom per natt
   saved: 22
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91997/3359939e_7c20_43c5_9fcd_f6af8220003a.jpg
   link: https://no.secretescapes.com/forelsk-deg-i-eventyrlige-sardinia-colonna-grand-hotel-capo-testa-santa-teresa-gallura-sardinia-italia/sale
   domestic: false
@@ -156,21 +73,9 @@
   price: 1750
   price-description: per rom per natt
   saved: 49
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68210/e100ceda_acf8_4714_b3d7_21386766eb7c.jpg
   link: https://no.secretescapes.com/klassisk-luksus-paa-via-veneto-grand-hotel-palace-rom-italia-no/sale
-  domestic: false
-
-- title: Trendy og eksklusivt i Lisboa
-  id: trendy-og-eksklusivt-i-lisboa
-  location: Myriad by SANA Hotels, Lissabon, Portugal
-  description: Moderne hotell med treningsstudio og spa ved elven Tajo, inkl. frokost og ekstragoder
-  price: 2029
-  price-description: per rom per natt
-  saved: 23
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91802/f94a7d0e_6c51_4121_b617_1c2089140f86.jpg
-  link: https://no.secretescapes.com/trendy-og-eksklusivt-i-lisboa-myriad-by-sana-hotels-lissabon-portugal/sale
   domestic: false
 
 - title: Femstjerners luksushotell ved havet
@@ -180,21 +85,9 @@
   price: 1223
   price-description: per rom per natt
   saved: 53
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/61124/2ed7c6f0_a945_439f_9893_4a8b9e207dfb.jpg
   link: https://no.secretescapes.com/femstjerners-luksushotell-ved-havet-miramare-e-castello-ischia-italia-no1/sale
-  domestic: false
-
-- title: Nyt solstrålene på Fuerteventura
-  id: nyt-solstrålene-på-fuerteventura
-  location: Vik Suite Hotel Risco del Gato, Costa Calma, Fuerteventura, Spania
-  description: Solfylt opphold ved flott boutiquehotell på Fuerteventura, inkl. halvpensjon og ekstragoder
-  price: 1080
-  price-description: per suite per natt
-  saved: 48
-  expires: 2019/04/24
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/60587/9e6122c3_6ad9_48b5_ae7e_3458c275a896.jpg
-  link: https://no.secretescapes.com/nyt-solstraalene-paa-fuerteventura-vik-suite-hotel-risco-del-gato-costa-calma-fuerteventura-spania-no2/sale
   domestic: false
 
 - title: Femstjerners luksus ved stranden på Mallorca
@@ -204,20 +97,9 @@
   price: 1224
   price-description: per room per natt
   saved: 60
-  expires: 2019/04/24
+  expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/f725f953_5e7e_4791_81fd_ab4102067d71.jpg
   link: https://no.secretescapes.com/femstjerners-luksus-ved-stranden-paa-mallorca-fergus-style-tobago-mallorca-spania/sale
-  domestic: false
-
-- title: Splitternytt designhotell i Stockholm
-  location: Blique by Nobis, Hagastaden, Stockholm, Sverige
-  description: Vær blant de første gjestene på Stockholms nyeste designhotell, inkl. frokost
-  price: 372
-  price-description: per person. Basert på 2 personer per rom
-  saved: 58
-  expires: 2019/04/23
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/hotels/146/dcc056ed_efa2_4887_b4f3_1dd905e933b9.jpg
-  link: https://no.secretescapes.com/blique-by-nobis-stockholm-sweden/sale-hotel
   domestic: false
 
 - title: Nyt de varme solstrålene
@@ -230,4 +112,15 @@
   expires: 2019/04/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69886/7b710f30_5188_4826_aa0f_d763699bcfa2.jpg
   link: https://no.secretescapes.com/nyt-de-varme-solstraalene-arrecife-gran-hotel-and-spa-lanzarote-spania-no/sale
+  domestic: false
+
+- title: Nyt solstrålene på Fuerteventura
+  location: Vik Suite Hotel Risco del Gato, Costa Calma, Fuerteventura, Spania
+  description: Solfylt opphold ved flott boutiquehotell på Fuerteventura, inkl. halvpensjon og ekstragoder
+  price: 540
+  price-description: per person. Basert på 2 personer per suite
+  saved: 48
+  expires: 2019/04/29
+  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/60587/9e6122c3_6ad9_48b5_ae7e_3458c275a896.jpg
+  link: https://no.secretescapes.com/nyt-solstraalene-paa-fuerteventura-vik-suite-hotel-risco-del-gato-costa-calma-fuerteventura-spania-no2/sale
   domestic: false
