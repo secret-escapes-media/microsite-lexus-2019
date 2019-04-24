@@ -69,7 +69,7 @@
   price: 163
   price-description: por habitación por noche
   saved: 42
-  expires: 2019/04/30
+  expires: 2019/04/29
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92612/82c0c341_c73c_4353_ba39_e1c417c3304c.jpg
   link: https://es.secretescapes.com/casa-cook-sa-torre-llucmajor-mallorca-es/sale
   domestic: true
@@ -130,17 +130,6 @@
   expires: 2019/04/29
   image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/60587/9e6122c3_6ad9_48b5_ae7e_3458c275a896.jpg
   link: https://es.secretescapes.com/vik-suite-hotel-risco-del-gato-fuerteventura012/sale
-  domestic: true
-
-- title: Casa Cook Sa Torre
-  location: Llucmajor, Mallorca
-  description: Relax cinco estrellas en el interior de Mallorca, con desayuno y extras
-  price: 82
-  price-description: por persona. Basado en 2 personas, por habitación
-  saved: 42
-  expires: 2019/04/29
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/92612/82c0c341_c73c_4353_ba39_e1c417c3304c.jpg
-  link: https://es.secretescapes.com/casa-cook-sa-torre-llucmajor-mallorca-es/sale
   domestic: true
 
 ################################################################################
