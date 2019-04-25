@@ -14,6 +14,42 @@
   link: https://www.secretescapes.se/trendigt-koncepthotell-i-malmo-story-hotel-studio-malmo-malmo-se-1/sale
   domestic: true
 
+- title: Nyöppnat designhotell i Helsingborg
+  id: nyöppnat-designhotell-i-helsingborg
+  location: The Vault Hotel, Helsingborg
+  description: Bankpalats i modern skrud i hjärtat av sundets pärla, inkl. frukost
+  price: 950
+  price-description: per rum per natt
+  saved: 23
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/87481/4333fda9_4ccf_4c3f_be5e_64ac126a275f.jpg
+  link: https://www.secretescapes.se/nyoppnat-designhotell-i-helsingborg-the-vault-hotel-helsingborg/sale
+  domestic: true
+
+- title: Elegant vistelse på Östermalm
+  id: elegant-vistelse-på-östermalm
+  location: Mornington Hotel Stockholm City, Stockholm
+  description: Stilrent boende med bastu och restaurang, inkl. frukostbuffé
+  price: 960
+  price-description: per rum per natt
+  saved: 20
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92808/9f6a49d5_02c1_45ad_911a_d5e26ad51a81.jpg
+  link: https://www.secretescapes.se/elegant-vistelse-paa-ostermalm-mornington-hotel-stockholm-city-stockholm/sale
+  domestic: true
+
+- title: Designhotell med vinfokus i Solna
+  id: designhotell-med-vinfokus-i-solna
+  location: The Winery Hotel, Solna, Stockholm
+  description: Urban design och takpool strax utanför Stockholm city, inkl. frukost och tvårätters som tillval
+  price: 1100
+  price-description: per rum per natt
+  saved: 46
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92791/9e08b0de_ac52_4b81_b333_fe12ae3a960a.jpg
+  link: https://www.secretescapes.se/designhotell-med-vinfokus-i-solna-the-winery-hotel-solna-stockholm-se/sale
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
