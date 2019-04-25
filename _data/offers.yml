@@ -38,6 +38,30 @@
   link: https://no.secretescapes.com/bare-minutter-unna-bryggen-first-hotel-marin-bergen-norge-no1/sale
   domestic: true
 
+- title: Mellom fjell og fjord
+  id: mellom-fjell-og-fjord
+  location: Magic Hotel Korskirken, Bergen, Norge
+  description: Moderne designhotell i Bergens historiske sentrum, inkludert frokost og restaurantrabatt
+  price: 990
+  price-description: per rom per natt
+  saved: 27
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74332/ed3a511b_23de_4af9_829a_cac9a16c7f85.jpg
+  link: https://no.secretescapes.com/mellom-fjell-og-fjord-magic-hotel-korskirken-bergen-norge-no-no/sale
+  domestic: true
+
+- title: Basseng, trening og restauranter i Stavanger
+  id: basseng-trening-og-restauranter-i-stavanger
+  location: Radisson Blu Royal Hotel Stavanger, Stavanger
+  description: Moderne og komfortable rom på sentralt Stavanger-hotell med basseng, badstu og restauranter&nbsp;
+  price: 950
+  price-description: per rom per natt
+  saved: 42
+  expires: 2019/04/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
+  link: https://no.secretescapes.com/basseng-trening-og-restauranter-i-stavanger-radisson-blu-royal-hotel-stavanger-stavanger/sale
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -121,6 +145,6 @@
   price-description: per person. Basert på 2 personer per suite
   saved: 48
   expires: 2019/04/29
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/60587/9e6122c3_6ad9_48b5_ae7e_3458c275a896.jpg
+  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/21705/7ced1c38_83a5_4da2_b273_2e414c986b6e.jpg
   link: https://no.secretescapes.com/nyt-solstraalene-paa-fuerteventura-vik-suite-hotel-risco-del-gato-costa-calma-fuerteventura-spania-no2/sale
   domestic: false
