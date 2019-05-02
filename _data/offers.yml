@@ -2,17 +2,6 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: Eksklusive spaopplevelser på Farris Bad
-  id: eksklusive-spaopplevelser-på-farris-bad
-  location: Farris Bad, Larvik, Vestfold, Norge
-  description: Avslappende opphold på Farris Bad, inkludert frokost og adgang til det 2500 m² store spaet
-  price: 1750
-  price-description: per rom per natt
-  saved: 30
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/45456/83a42c93_3380_4637_b1c5_ff96324e2016.jpg
-  link: https://no.secretescapes.com/eksklusive-spaopplevelser-paa-farris-bad-farris-bad-larvik-vestfold-norge-no/sale
-  domestic: true
 
 - title: Splitter nytt og sentralt i Oslo
   id: splitter-nytt-og-sentralt-i-oslo
@@ -21,9 +10,10 @@
   price: 1050
   price-description: per rom per natt
   saved: 32
-  expires: 2019/04/30
+  expires: 2019/05/07
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3b1d2886_cf0c_46cc_84cc_e9fcddcd7764.jpg
   link: https://no.secretescapes.com/splitter-nytt-og-sentralt-i-oslo-clarion-hotel-the-hub-oslo-norge-no-no/sale
+  sale-id: 92425
   domestic: true
 
 - title: Bare minutter unna Bryggen
@@ -33,21 +23,23 @@
   price: 1250
   price-description: per rom per natt
   saved: 37
-  expires: 2019/04/30
+  expires: 2019/05/07
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/12765/052a5d9e_4ebe_4dc0_93a1_1b22f47feb7d.jpg
   link: https://no.secretescapes.com/bare-minutter-unna-bryggen-first-hotel-marin-bergen-norge-no1/sale
+  sale-id: 92771
   domestic: true
 
 - title: Mellom fjell og fjord
   id: mellom-fjell-og-fjord
   location: Magic Hotel Korskirken, Bergen, Norge
   description: Moderne designhotell i Bergens historiske sentrum, inkludert frokost og restaurantrabatt
-  price: 990
+  price: 1090
   price-description: per rom per natt
   saved: 27
-  expires: 2019/04/30
+  expires: 2019/05/07
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74332/ed3a511b_23de_4af9_829a_cac9a16c7f85.jpg
   link: https://no.secretescapes.com/mellom-fjell-og-fjord-magic-hotel-korskirken-bergen-norge-no-no/sale
+  sale-id: 92745
   domestic: true
 
 - title: Basseng, trening og restauranter i Stavanger
@@ -57,38 +49,15 @@
   price: 950
   price-description: per rom per natt
   saved: 42
-  expires: 2019/04/30
+  expires: 2019/05/07
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
   link: https://no.secretescapes.com/basseng-trening-og-restauranter-i-stavanger-radisson-blu-royal-hotel-stavanger-stavanger/sale
+  sale-id: 92455
   domestic: true
 
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
-
-- title: Femstjerners luksus på Gran Canaria
-  id: femstjerners-luksus-på-gran-canaria
-  location: Bohemia Suites & Spa, Gran Canaria, Spania
-  description: Lad batteriene på et fantastisk femstjerners designhotell i Kanariøyenes paradisiske landskap
-  price: 1406
-  price-description: per rom per natt
-  saved: 38
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9362/d78fa349_24c1_4f72_addd_b401bc657013.jpg
-  link: https://no.secretescapes.com/femstjerners-luksus-paa-gran-canaria-bohemia-suites-and-spa-gran-canaria-spania-no/sale
-  domestic: false
-
-- title: Forelsk deg i eventyrlige Sardinia
-  id: forelsk-deg-i-eventyrlige-sardinia
-  location: Colonna Grand Hotel Capo Testa, Santa Teresa Gallura, Sardinia, Italia
-  description: Femstjerners opphold ved havet med spa og privat strand, inkl. frokost m.m.
-  price: 1546
-  price-description: per rom per natt
-  saved: 22
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91997/3359939e_7c20_43c5_9fcd_f6af8220003a.jpg
-  link: https://no.secretescapes.com/forelsk-deg-i-eventyrlige-sardinia-colonna-grand-hotel-capo-testa-santa-teresa-gallura-sardinia-italia/sale
-  domestic: false
 
 - title: Klassisk luksus på Via Veneto
   id: klassisk-luksus-på-via-veneto
@@ -97,21 +66,10 @@
   price: 1750
   price-description: per rom per natt
   saved: 49
-  expires: 2019/04/30
+  expires: 2019/05/08
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68210/e100ceda_acf8_4714_b3d7_21386766eb7c.jpg
   link: https://no.secretescapes.com/klassisk-luksus-paa-via-veneto-grand-hotel-palace-rom-italia-no/sale
-  domestic: false
-
-- title: Femstjerners luksushotell ved havet
-  id: femstjerners-luksushotell-ved-havet
-  location: Miramare e Castello, Ischia, Italia
-  description: Opphold på femstjerners hotell ved sjøsiden på Ischia, inkludert frokost og ekstragoder
-  price: 1223
-  price-description: per rom per natt
-  saved: 53
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/61124/2ed7c6f0_a945_439f_9893_4a8b9e207dfb.jpg
-  link: https://no.secretescapes.com/femstjerners-luksushotell-ved-havet-miramare-e-castello-ischia-italia-no1/sale
+  sale-id: 91466
   domestic: false
 
 - title: Femstjerners luksus ved stranden på Mallorca
@@ -121,30 +79,21 @@
   price: 1224
   price-description: per room per natt
   saved: 60
-  expires: 2019/04/30
+  expires: 2019/05/08
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/f725f953_5e7e_4791_81fd_ab4102067d71.jpg
   link: https://no.secretescapes.com/femstjerners-luksus-ved-stranden-paa-mallorca-fergus-style-tobago-mallorca-spania/sale
+  sale-id: 92349
   domestic: false
 
 - title: Nyt de varme solstrålene
   id: nyt-de-varme-solstrålene
   location: Arrecife Gran Hotel & Spa, Lanzarote, Spania
   description: Suite på femstjerners strandhotell på Lanzarote, inkludert halvpensjon og adgang til spa
-  price: 1627
+  price: 1464
   price-description: per suite per natt
-  saved: 28
-  expires: 2019/04/30
+  saved: 35
+  expires: 2019/05/08
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69886/7b710f30_5188_4826_aa0f_d763699bcfa2.jpg
   link: https://no.secretescapes.com/nyt-de-varme-solstraalene-arrecife-gran-hotel-and-spa-lanzarote-spania-no/sale
-  domestic: false
-
-- title: Nyt solstrålene på Fuerteventura
-  location: Vik Suite Hotel Risco del Gato, Costa Calma, Fuerteventura, Spania
-  description: Solfylt opphold ved flott boutiquehotell på Fuerteventura, inkl. halvpensjon og ekstragoder
-  price: 540
-  price-description: per person. Basert på 2 personer per suite
-  saved: 48
-  expires: 2019/04/29
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/21705/7ced1c38_83a5_4da2_b273_2e414c986b6e.jpg
-  link: https://no.secretescapes.com/nyt-solstraalene-paa-fuerteventura-vik-suite-hotel-risco-del-gato-costa-calma-fuerteventura-spania-no2/sale
+  sale-id: 92916
   domestic: false
