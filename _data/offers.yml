@@ -9,9 +9,10 @@
   price: 315
   price-description: per camera per notte
   saved: 26
-  expires: 2019/04/30
+  expires: 2019/05/08
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/ad3860d2_2643_4f48_89f7_f757dd7a84d0.jpg
   link: https://it.secretescapes.com/hotel-helvetia-and-bristol-firenze-toscana/sale
+  sale-id: 92223
   domestic: true
 
 - title: Seiser Alm Urthaler
@@ -21,33 +22,23 @@
   price: 239
   price-description: per camera per notte
   saved: 34
-  expires: 2019/04/30
+  expires: 2019/05/08
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/48368/dca763de_8d5d_47a7_954c_fffac29b3881.jpg
   link: https://it.secretescapes.com/seiser-alm-urthaler-alpe-di-siusi-trentino-alto-adige/sale
-  domestic: true
-
-- title: Miramare e Castello
-  id: miramare-e-castello
-  location: Ischia, Campania
-  description: Un paradiso del benessere a 5* nell’incantevole Ischia
-  price: 127
-  price-description: per camera per notte
-  saved: 53
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/61124/2ed7c6f0_a945_439f_9893_4a8b9e207dfb.jpg
-  link: https://it.secretescapes.com/miramare-e-castello-ischia-campania-it123/sale
+  sale-id: 92276
   domestic: true
 
 - title: Grand Hotel Principe di Piemonte
   id: grand-hotel-principe-di-piemonte
   location: Viareggio, Toscana
   description: L'autentico fascino della Versilia in un 5* con spa e ristorante stellato Michelin
-  price: 110
+  price: 100
   price-description: per camera per notte
-  saved: 46
-  expires: 2019/04/30
+  saved: 52
+  expires: 2019/05/03
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10181/6e6e6210_3c76_4c07_9e43_75d257e0f881.jpg
   link: https://it.secretescapes.com/grand-hotel-principe-di-piemonte-viareggio-toscana12/sale
+  sale-id: 92886
   domestic: true
 
 - title: Grand Hotel Palace
@@ -56,62 +47,15 @@
   price: 90
   price-description: a persona. Basato su 2 persone per camera
   saved: 49
-  expires: 2019/04/29
+  expires: 2019/05/07
   image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/68210/e100ceda_acf8_4714_b3d7_21386766eb7c.jpg
   link: https://it.secretescapes.com/grand-hotel-palace-roma-lazio/sale
+  sale-id: 91466
   domestic: true
 
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
-
-- title: Bohemia Suites & Spa
-  id: bohemia-suites-and-spa
-  location: Gran Canaria
-  description: Uno splendido 5* con spa a due passi da Playa del Inglés, per soli adulti
-  price: 146
-  price-description: per camera per notte
-  saved: 38
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9362/d78fa349_24c1_4f72_addd_b401bc657013.jpg
-  link: https://it.secretescapes.com/bohemia-suites-and-spa-maspalomas-gran-canaria13/sale
-  domestic: false
-
-- title: Hospes Palacio del Bailío
-  id: hospes-palacio-del-bailío
-  location: Cordoba, Spagna
-  description: Fascino a 5* in un boutique hotel tra le meraviglie esotiche di Cordoba
-  price: 150
-  price-description: per camera per notte
-  saved: 35
-  expires: 2019/04/27
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/26471/50df1177_3d2b_4905_bd07_b810b9dcf1f8.jpg
-  link: https://it.secretescapes.com/hospes-palacio-del-bailio-cordoba-spagna-it2/sale
-  domestic: false
-
-- title: Vincci The Mint
-  id: vincci-the-mint
-  location: Madrid
-  description: Hotel di design con terrazza affacciata sulla Gran Vía di Madrid
-  price: 150
-  price-description: per camera per notte
-  saved: 62
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92164/b3819d97_3214_4901_aa37_dc64d61060cc.jpg
-  link: https://it.secretescapes.com/vincci-the-mint-madrid1/sale
-  domestic: false
-
-- title: Elba Premium Suites
-  id: elba-premium-suites
-  location: Lanzarote, Isole Canarie
-  description: Un hotel 4* per soli adulti, sull’isola più sognata delle Canarie&nbsp;
-  price: 123
-  price-description: per camera per notte
-  saved: 33
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50530/f3bc006c_1b9b_4cba_9b79_294ebb910ad1.jpg
-  link: https://it.secretescapes.com/elba-premium-suites-lanzarote-isole-canarie-italia/sale
-  domestic: false
 
 - title: FERGUS Style Tobago
   id: fergus-style-tobago
@@ -120,33 +64,10 @@
   price: 128
   price-description: per camera per notte
   saved: 60
-  expires: 2019/04/30
+  expires: 2019/05/08
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/4c46adf7_a562_4793_9ad4_dce72e9f340b.jpg
   link: https://it.secretescapes.com/fergus-style-tobago-maiorca-it/sale
-  domestic: false
-
-- title: Casa Cook Sa Torre
-  id: casa-cook-sa-torre
-  location: Maiorca, Spagna
-  description: Un 5* appena rinnovato in una residenza del XIV secolo, a pochi minuti dalla costa di Maiorca
-  price: 163
-  price-description: per camera per notte
-  saved: 42
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92612/82c0c341_c73c_4353_ba39_e1c417c3304c.jpg
-  link: https://it.secretescapes.com/casa-cook-sa-torre-maiorca-spagna/sale
-  domestic: false
-
-- title: Sir Victor Hotel
-  id: sir-victor-hotel
-  location: Barcellona, Spagna
-  description: Un hotel di design con piscina sul tetto nel cuore di Barcellona
-  price: 170
-  price-description: per camera per notte
-  saved: 44
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92339/828c60b9_056e_475f_b939_d2709920aedc.jpg
-  link: https://it.secretescapes.com/sir-victor-hotel-barcellona-spagna/sale
+  sale-id: 92349
   domestic: false
 
 - title: Clarion Hotel The Hub
@@ -156,9 +77,10 @@
   price: 109
   price-description: per camera per notte
   saved: 32
-  expires: 2019/04/30
+  expires: 2019/05/07
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/97e0ad09_2290_442d_adf1_616478d0465b.jpg
   link: https://it.secretescapes.com/clarion-hotel-the-hub-oslo-it/sale
+  sale-id: 92425
   domestic: false
 
 - title: Grand Ferdinand
@@ -168,21 +90,10 @@
   price: 169
   price-description: per camera per notte
   saved: 48
-  expires: 2019/04/30
+  expires: 2019/05/08
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/23938/49341686_96af_4928_abeb_d449eb2becbe.jpg
   link: https://it.secretescapes.com/grand-ferdinand-vienna-italia/sale
-  domestic: false
-
-- title: The Mandala Hotel
-  id: the-mandala-hotel
-  location: Berlino
-  description: Splendido hotel a 5* con ristorante Michelin nel cuore di Berlino
-  price: 170
-  price-description: per camera per notte
-  saved: 37
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/18957/30b31771_3ba7_476e_9dbc_578dd07d4993.jpg
-  link: https://it.secretescapes.com/the-mandala-hotel-berlino-italia/sale
+  sale-id: 92599
   domestic: false
 
 - title: Ruby Lilly Hotel Munich
@@ -192,66 +103,59 @@
   price: 99
   price-description: per camera per notte
   saved: 45
-  expires: 2019/04/30
+  expires: 2019/05/08
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/46766/836f4648_037a_4550_9ecf_a0d35b5bd906.jpg
   link: https://it.secretescapes.com/ruby-lilly-hotel-munich-monaco-di-baviera-italia/sale
-  domestic: false
-
-- title: Scandic Frankfurt Museumsufer
-  id: scandic-frankfurt-museumsufer
-  location: Francoforte sul Meno, Germania
-  description: Un hotel dallo charme nordico con vista sullo skyline di Francoforte
-  price: 99
-  price-description: per camera per notte
-  saved: 47
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66916/5b60ff85_9d9c_422a_88ac_b6c9ac711229.jpg
-  link: https://it.secretescapes.com/scandic-frankfurt-museumsufer-francoforte-sul-meno-germania/sale
-  domestic: false
-
-- title: Royal Garden Villas
-  id: royal-garden-villas
-  location: Tenerife
-  description: Soggiorno benessere in un magnifico 5* in Costa Adeje a Tenerife
-  price: 538
-  price-description: per camera per notte
-  saved: 41
-  expires: 2019/04/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/29514/0ccc2a56_492c_48d1_a361_f98b76ad87dc.jpg
-  link: https://it.secretescapes.com/royal-garden-villas-tenerife-it2/sale
+  sale-id: 92439
   domestic: false
 
 - title: Arrecife Gran Hotel & Spa
   id: arrecife-gran-hotel-and-spa
   location: Lanzarote, Isole Canarie
   description: Soggiorno sotto il sole delle Canarie in 5* da favola
-  price: 170
+  price: 153
   price-description: per camera per notte
-  saved: 28
-  expires: 2019/04/30
+  saved: 35
+  expires: 2019/05/08
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69886/7b710f30_5188_4826_aa0f_d763699bcfa2.jpg
   link: https://it.secretescapes.com/arrecife-gran-hotel-and-spa-lanzarote-isole-canarie-ita/sale
+  sale-id: 92916
   domestic: false
 
 - title: Casa León
   id: casa-león
   location: Gran Canaria, Spagna
   description: Benessere, lusso e sole splendente sulla più grande delle Isole Canarie
-  price: 175
+  price: 158
   price-description: per camera per notte
   saved: 61
-  expires: 2019/04/30
+  expires: 2019/05/08
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42035/390a76ed_4e01_4211_83c7_2e1f7f886686.jpg
   link: https://it.secretescapes.com/casa-leon-gran-canaria-spagna1/sale
+  sale-id: 92865
   domestic: false
 
-- title: Risco del Gato Suites THe Senses Collection
-  location: Fuerteventura
-  description: Estate a 4* in un raffinato hotel a Fuerteventura, in mezza pensione
-  price: 56
-  price-description: a persona. Basato su 2 persone per suite
-  saved: 48
-  expires: 2019/04/29
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/60587/9e6122c3_6ad9_48b5_ae7e_3458c275a896.jpg
-  link: https://it.secretescapes.com/risco-del-gato-suites-the-senses-collection-fuerteventura/sale
+- title: CPH Pevero Hotel
+  id: cph-pevero-hotel
+  location: Porto Cervo, Sardegna
+  description: Sole e relax in Sardegna in uno splendido 5* sul Golfo del Pevero
+  price: 218
+  price-description: per camera per notte
+  saved: 62
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17278/e43ecae6_3668_4fec_bb58_361a8589f81c.jpg
+  link: https://it.secretescapes.com/cph-pevero-hotel-porto-cervo-sardegna-italia/sale
+  sale-id: 93454
+  domestic: false
+
+- title: Casa Cook Sa Torre
+  location: Maiorca, Spagna
+  description: Un 5* appena rinnovato in una residenza del XIV secolo, a pochi minuti dalla costa di Maiorca
+  price: 82
+  price-description: a persona. Basato su 2 persone per room
+  saved: 42
+  expires: 2019/05/07
+  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/92612/27957713_0a69_43e2_a3f8_7c36f7937c51.jpg
+  link: https://it.secretescapes.com/casa-cook-sa-torre-maiorca-spagna/sale
+  sale-id: 92612
   domestic: false
