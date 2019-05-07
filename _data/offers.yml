@@ -54,17 +54,17 @@
   sale-id: 92964
   domestic: true
 
-- title: Modernes Designhotel mit Spa im grünen Würzburg
-  id: modernes-designhotel-mit-spa-im-grünen-würzburg
-  location: Hotel Melchior Park, Würzburg, Bayern, Deutschland
-  description: Stilvoll übernachten – inkl. Frühstück, Spa-Zugang &amp; Extras
+- title: Modernes Design in Hamburger Bestlage
+  id: modernes-design-in-hamburger-bestlage
+  location: Ruby Lotti Hamburg, Hamburg, Deutschland
+  description: Cosy-Zimmer im zentral gelegenen, neuen Hotel – inkl. Frühstück &amp; WLAN-Nutzung
   price: 99
   price-description: pro Zimmer pro Nacht
-  saved: 42
+  saved: 43
   expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86122/6ff74859_fd23_42d9_9883_4c36ef6a9814.jpg
-  link: https://www.secretescapes.de/wellness-and-erholung-wuerzburg-im-gruenen-hotel-melchior-park-wuerzburg-bayern-deutschland/sale
-  sale-id: 93047
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/87349/13e6a611_a0ae_4c4d_a50e_0f5f4a5825eb.jpg
+  link: https://www.secretescapes.de/modernes-design-in-hamburger-bestlage-ruby-lotti-hamburg-hamburg-deutschland/sale
+  sale-id: 93239
   domestic: true
 
 - title: 25hours Hotel The Goldman
@@ -78,19 +78,6 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93061/1e6aaca0_eafa_4026_a4b2_d142a8788a3f.jpg
   link: https://www.secretescapes.de/25hours-hotel-the-goldman-frankfurt-hessen-deutschland/sale
   sale-id: 93061
-  domestic: true
-
-- title: Modernes Design in Hamburger Bestlage
-  id: modernes-design-in-hamburger-bestlage
-  location: Ruby Lotti Hamburg, Hamburg, Deutschland
-  description: Cosy-Zimmer im zentral gelegenen, neuen Hotel – inkl. Frühstück &amp; WLAN-Nutzung
-  price: 99
-  price-description: pro Zimmer pro Nacht
-  saved: 43
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/87349/13e6a611_a0ae_4c4d_a50e_0f5f4a5825eb.jpg
-  link: https://www.secretescapes.de/modernes-design-in-hamburger-bestlage-ruby-lotti-hamburg-hamburg-deutschland/sale
-  sale-id: 93239
   domestic: true
 
 - title: Suitenurlaub mit exklusivem Design in Oberbayern
@@ -119,22 +106,87 @@
   sale-id: 93433
   domestic: true
 
+- title: Modernes Designhotel mit Spa im grünen Würzburg
+  id: modernes-designhotel-mit-spa-im-grünen-würzburg
+  location: Hotel Melchior Park, Würzburg, Bayern, Deutschland
+  description: Stilvoll übernachten – inkl. Frühstück, Spa-Zugang &amp; Extras
+  price: 99
+  price-description: pro Zimmer pro Nacht
+  saved: 42
+  expires: 2019/05/08
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86122/6ff74859_fd23_42d9_9883_4c36ef6a9814.jpg
+  link: https://www.secretescapes.de/wellness-and-erholung-wuerzburg-im-gruenen-hotel-melchior-park-wuerzburg-bayern-deutschland/sale
+  sale-id: 93047
+  domestic: true
+
+- title: Steigenberger Hotel Metropolitan
+  id: steigenberger-hotel-metropolitan
+  location: Steigenberger Hotel Metropolitan, Frankfurt am Main, Hessen, Deutschland
+  description: Superior-Zimmer mit Frühstück, Erstbefüllung der Minibar &amp; Extras
+  price: 126
+  price-description: pro Zimmer pro Nacht
+  saved: 21
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/37484/a8c934d0_c8f7_4ed5_ab87_ffd972908c92.jpg
+  link: https://www.secretescapes.de/klassik-and-eleganz-mitten-in-frankfurt-steigenberger-hotel-metropolitan-frankfurt-am-main-hessen-deutschland/sale
+  sale-id: 93738
+  domestic: true
+
+- title: Luxusapartments im Park Hyatt Hamburg
+  id: luxusapartments-im-park-hyatt-hamburg
+  location: Park Hyatt Hamburg, Deutschland
+  description: Inkl. Frühstück, Spa-Zugang, WLAN-Nutzung &amp; Extra
+  price: 179
+  price-description: pro Apartment pro Nacht
+  saved: 42
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44332/02e8af20_e479_46ed_b02d_f5c90972bcfa.jpg
+  link: https://www.secretescapes.de/luxusapartments-im-park-hyatt-hamburg-park-hyatt-hamburg-deutschland1/sale
+  sale-id: 93706
+  domestic: true
+
+- title: Ostsee-Glanzstunden auf Usedom
+  id: ostsee-glanzstunden-auf-usedom
+  location: Ostseehotel –  Villen im Park, Seebad Bansin, Usedom, Ostsee, Mecklenburg-Vorpommern, Deutschland
+  description: An der Ostsee in Usedoms grüner Natur –  inkl. Frühstück, 1x Dinner, Spa-Zugang &amp; Extras
+  price: 139
+  price-description: pro Zimmer pro Nacht
+  saved: 41
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/24752/80d67271_4696_4dd6_a04f_1fd69850bf0a.jpg
+  link: https://www.secretescapes.de/ostsee-glanzstunden-auf-usedom-ostseehotel-villen-im-park-seebad-bansin-usedom-ostsee-mecklenburg-vorpommern-deutschland/sale
+  sale-id: 93286
+  domestic: true
+
+- title: Königliche Aussichten in Mainz
+  id: königliche-aussichten-in-mainz
+  location: Hyatt Regency Mainz, Rheinland-Pfalz, Deutschland
+  description: Zimmer mit Blick auf den Rhein – inkl. Frühstücksbuffet, Begrüßungsgetränk &amp; Extras
+  price: 159
+  price-description: pro Zimmer pro Nacht
+  saved: 48
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/29029/3ebab631_712b_4629_9fb9_70a86571f656.jpg
+  link: https://www.secretescapes.de/konigliche-aussichten-in-mainz-hyatt-regency-mainz-rheinland-pfalz-deutschland/sale
+  sale-id: 93687
+  domestic: true
+
+- title: Entspannt die Vielfältigkeit Berlins entdecken
+  id: entspannt-die-vielfältigkeit-berlins-entdecken
+  location: Michelberger Berlin, Deutschland
+  description: Angesagtes Hotel mit Zimmern in ideenreichem Design – inkl. Frühstücksbuffet &amp; spätem Check-out
+  price: 158
+  price-description: pro Zimmer pro Nacht
+  saved: 46
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93496/6902f0a4_e790_4e96_bc18_118a35540daa.jpg
+  link: https://www.secretescapes.de/entspannt-die-vielfaeltigkeit-berlins-entdecken-michelberger-berlin-deutschland/sale
+  sale-id: 93496
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
-
-- title: Mondänes 5*-Hotel im Herzen von Florenz
-  id: mondänes-5-hotel-im-herzen-von-florenz
-  location: Helvetia & Bristol, Florenz, Toskana, Italien
-  description: Florentiner Stadtplast mit exklusiver Ausstattung und Lage – inkl. Frühstück &amp; Extras
-  price: 315
-  price-description: pro Unterkunft pro Nacht
-  saved: 26
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/e2e157e9_54e7_42e9_aff2_34ac91b4fc68.jpg
-  link: https://www.secretescapes.de/mondaenes-5-star-hotel-im-herzen-von-florenz-helvetia-and-bristol-florenz-toskana-italien/sale
-  sale-id: 92223
-  domestic: false
 
 - title: Natur & Spa-Erholung in den Dolomiten
   id: natur-and-spa-erholung-in-den-dolomiten
@@ -162,45 +214,6 @@
   sale-id: 92349
   domestic: false
 
-- title: Brandneuer Skandinavien-Chic mit Blick über Oslo
-  id: brandneuer-skandinavien-chic-mit-blick-über-oslo
-  location: Clarion Hotel The Hub, Oslo, Norwegen
-  description: Modernes Eco-Design mitten im Zentrum – inkl. Frühstück
-  price: 109
-  price-description: pro Zimmer pro Nacht
-  saved: 32
-  expires: 2019/05/07
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3b1d2886_cf0c_46cc_84cc_e9fcddcd7764.jpg
-  link: https://www.secretescapes.de/brandneuer-skandinavien-chic-mit-blick-ueber-oslo-clarion-hotel-the-hub-oslo-norwegen/sale
-  sale-id: 92425
-  domestic: false
-
-- title: Cityhotel in Stavanger
-  id: cityhotel-in-stavanger
-  location: Radisson Blu Royal, Stavanger, Rogaland, Norwegen
-  description: Moderne Superior-Zimmer – inkl. Frühstück
-  price: 99
-  price-description: pro Zimmer pro Nacht
-  saved: 42
-  expires: 2019/05/07
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
-  link: https://www.secretescapes.de/cityhotel-in-stavanger-radisson-blu-royal-stavanger-norwegen/sale
-  sale-id: 92455
-  domestic: false
-
-- title: Puristisches Cityhotel mit Panorama in Malmö
-  id: puristisches-cityhotel-mit-panorama-in-malmö
-  location: Story Hotel Studio, Malmö, Skåne län, Schweden
-  description: Unterkunft in einem Ocean-King-Zimmer mit Meerblick – inkl. Frühstück
-  price: 81
-  price-description: pro Zimmer pro Nacht
-  saved: 38
-  expires: 2019/05/07
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70367/0ad2838e_a60a_4367_b92c_b480008825e2.jpg
-  link: https://www.secretescapes.de/puristisches-cityhotel-mit-panorama-in-malmo-story-hotel-studio-malmo-skaane-laen-schweden/sale
-  sale-id: 92459
-  domestic: false
-
 - title: Residieren in Wiens 1. Bezirk mit Rooftop-Pool
   id: residieren-in-wiens-1.-bezirk-mit-rooftop-pool
   location: Grand Ferdinand, Wien, Österreich
@@ -216,7 +229,7 @@
 
 - title: Lifestyle-Holzhotel im Salzburger Land
   id: lifestyle-holzhotel-im-salzburger-land
-  location: Holzhotel Forsthofalm, Leogang, Salzburg, Österreich
+  location: Holzhotel Forsthofalm, Leogang, Salzburger Land, Österreich
   description: Inkl. Frühstück oder 3/4-Pension, Spa-Zugang, Massage-Gutschein  &amp; weiteren Extras
   price: 218
   price-description: pro Zimmer pro Nacht
@@ -225,19 +238,6 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74138/b992ddeb_7a06_43df_8107_d26086dcf972.jpg
   link: https://www.secretescapes.de/lifestyle-holzhotel-im-salzburger-land-holzhotel-forsthofalm-leogang-salzburg-osterreich/sale
   sale-id: 92609
-  domestic: false
-
-- title: Mallorca für Romantiker
-  id: mallorca-für-romantiker
-  location: Hotel Sa Torre Mallorca Resort, Llucmajor, Mallorca, Balearen, Spanien
-  description: Landhauscharme &amp; Wellness in Llucmajor – inkl. Frühstück, Begrüßungsgetränk &amp; Spa-Zugang
-  price: 163
-  price-description: pro Unterkunft pro Nacht
-  saved: 42
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92612/27957713_0a69_43e2_a3f8_7c36f7937c51.jpg
-  link: https://www.secretescapes.de/mallorca-fuer-romantiker-hotel-sa-torre-mallorca-resort-llucmajor-mallorca-balearen-spanien/sale
-  sale-id: 92612
   domestic: false
 
 - title: Spa-Schmuckstück direkt am Bodensee
@@ -260,30 +260,17 @@
   price: 105
   price-description: pro Zimmer pro Nacht
   saved: 46
-  expires: 2019/05/07
+  expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92791/9e08b0de_ac52_4b81_b333_fe12ae3a960a.jpg
   link: https://www.secretescapes.de/scandi-chic-bei-stockholm-fuer-weinkenner-the-winery-solna-stockholm-schweden/sale
   sale-id: 92791
-  domestic: false
-
-- title: Stylisch in Stockholm
-  id: stylisch-in-stockholm
-  location: Mornington Hotel Stockholm City, Stockholm, Schweden
-  description: Charmantes Superior-Zimmer – inkl. Frühstück
-  price: 92
-  price-description: pro Zimmer pro Nacht
-  saved: 20
-  expires: 2019/05/07
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92808/9f6a49d5_02c1_45ad_911a_d5e26ad51a81.jpg
-  link: https://www.secretescapes.de/stylisch-in-stockholm-mornington-hotel-stockholm-city-stockholm-schweden/sale
-  sale-id: 92808
   domestic: false
 
 - title: Sonniges Bergrefugium auf Gran Canaria
   id: sonniges-bergrefugium-auf-gran-canaria
   location: Hotel Casa León, Gran Canaria, Kanaren, Spanien
   description: Inkl. Frühstück, Shuttle-Service, Aktivangebot &amp; Extras
-  price: 158
+  price: 171
   price-description: pro Zimmer pro Nacht
   saved: 61
   expires: 2019/05/08
@@ -292,37 +279,11 @@
   sale-id: 92865
   domestic: false
 
-- title: 5*-Strandurlaub auf Lanzarote
-  id: 5-strandurlaub-auf-lanzarote
-  location: Arrecife Gran Hotel & Spa, Arrecife, Lanzarote, Kanaren, Spanien
-  description: Inkl. Halbpension, 1x Spa-Zugang &amp; Ermäßigung auf Spa-Behandlungen
-  price: 153
-  price-description: pro Suite pro Nacht
-  saved: 35
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69886/7b710f30_5188_4826_aa0f_d763699bcfa2.jpg
-  link: https://www.secretescapes.de/5-star-strandurlaub-auf-lanzarote-arrecife-gran-hotel-and-spa-arrecife-lanzarote-kanaren-spanien/sale
-  sale-id: 92916
-  domestic: false
-
-- title: Barcelona in all seinen Facetten
-  id: barcelona-in-all-seinen-facetten
-  location: Vincci Maritimo, Barcelona, Katalonien, Spanien
-  description: Designhotel am ruhigen Stadtstrand – inkl. Begrüßungsgetränk &amp; Extras
-  price: 146
-  price-description: pro Zimmer pro Nacht
-  saved: 33
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93004/420ae37d_351a_4f05_9129_da0f549205d3.jpg
-  link: https://www.secretescapes.de/barcelona-in-all-seinen-facetten-vincci-maritimo-barcelona-katalonien-spanien/sale
-  sale-id: 93004
-  domestic: false
-
 - title: Über Barcelonas Dächern
   id: über-barcelonas-dächern
   location: B-Hotel, Barcelona, Katalonien, Spanien
   description: City-Chic mit Rooftop-Pool inkl. Frühstücksermäßigung, Begrüßungsgetränk &amp; Extras
-  price: 138
+  price: 136
   price-description: pro Zimmer pro Nacht
   saved: 47
   expires: 2019/05/08
@@ -368,4 +329,115 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88211/2fc5ced5_07e0_4a42_9aec_c34a35aa0944.jpg
   link: https://www.secretescapes.de/so-vienna-wien-osterreich/sale
   sale-id: 93170
+  domestic: false
+
+- title: Design & Liebe zum Detail im 1. Wiener Bezirk
+  id: design-and-liebe-zum-detail-im-1.-wiener-bezirk
+  location: Ruby Lissi Hotel, Wien, Österreich
+  description: Designhotel in Wien – inkl. Bio-Frühstücksbuffet &amp; WLAN-Nutzung
+  price: 99
+  price-description: pro Zimmer pro Nacht
+  saved: 43
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/89284/d0294215_6631_4cbc_b111_23aeb899eb3d.jpg
+  link: https://www.secretescapes.de/design-and-liebe-zum-detail-im-1-wiener-bezirk-ruby-lissi-hotel-wien-osterreich/sale
+  sale-id: 93717
+  domestic: false
+
+- title: Kuschelige Chalets im Bergsteigerdorf
+  id: kuschelige-chalets-im-bergsteigerdorf
+  location: Chaletdorf Auszeit, Hüttschlag, Salzburger Land, Österreich
+  description: Exklusive Chalets mit Privatsauna – inkl. Frühstück, Wellness-Ermäßigung &amp; Extras
+  price: 365
+  price-description: pro Chalet pro Nacht
+  saved: 21
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/34313/fb77870c_f4ab_40a3_896f_cf8242190085.jpg
+  link: https://www.secretescapes.de/kuschelige-chalets-im-bergsteigerdorf-chaletdorf-auszeit-huettschlag-salzburger-land-osterreich/sale
+  sale-id: 93542
+  domestic: false
+
+- title: Stilvolle Alpen-Auszeit in Kitzbühel
+  id: stilvolle-alpen-auszeit-in-kitzbühel
+  location: Q! Resort Kitzbühel, Tirol, Österreich
+  description: Inkl. Frühstück o. Halbpension, täglichem Spa-Zugang, Aktivprogramm &amp; Extras
+  price: 119
+  price-description: pro Zimmer pro Nacht
+  saved: 44
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/16381/a9248ad7_e499_47ac_8e12_37fd565e9ac4.jpg
+  link: https://www.secretescapes.de/stilvolle-alpen-auszeit-in-kitzbuehel-q-resort-kitzbuehel-tirol-osterreich/sale
+  sale-id: 93438
+  domestic: false
+
+- title: Mondänes 5*-Hotel im Herzen von Florenz
+  location: Helvetia & Bristol, Florenz, Toskana, Italien
+  description: Florentiner Stadtplast mit exklusiver Ausstattung und Lage – inkl. Frühstück & Extras
+  price: 158
+  price-description: pro Person. basierend auf 2 Personen pro Unterkunft
+  saved: 26
+  expires: 2019/05/08
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/2acef42f_464c_4274_bb84_d020f568b015.jpg
+  link: https://www.secretescapes.de/mondaenes-5-star-hotel-im-herzen-von-florenz-helvetia-and-bristol-florenz-toskana-italien/sale
+  sale-id: 92223
+  domestic: false
+
+- title: Brandneuer Skandinavien-Chic mit Blick über Oslo
+  location: Clarion Hotel The Hub, Oslo, Norwegen
+  description: Modernes Eco-Design mitten im Zentrum – inkl. Frühstück
+  price: 54
+  price-description: pro Person. basierend auf 2 Personen pro Zimmer
+  saved: 32
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3f0df5c3_44c0_4eaf_b537_7f4545402d2e.jpg
+  link: https://www.secretescapes.de/brandneuer-skandinavien-chic-mit-blick-ueber-oslo-clarion-hotel-the-hub-oslo-norwegen/sale
+  sale-id: 92425
+  domestic: false
+
+- title: Cityhotel in Stavanger
+  location: Radisson Blu Royal, Stavanger, Rogaland, Norwegen
+  description: Moderne Superior-Zimmer – inkl. Frühstück
+  price: 50
+  price-description: pro Person. basierend auf 2 Personen pro Zimmer
+  saved: 42
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
+  link: https://www.secretescapes.de/cityhotel-in-stavanger-radisson-blu-royal-stavanger-norwegen/sale
+  sale-id: 92455
+  domestic: false
+
+- title: Mallorca für Romantiker
+  location: Hotel Sa Torre Mallorca Resort, Llucmajor, Mallorca, Balearen, Spanien
+  description: Landhauscharme & Wellness in Llucmajor – inkl. Frühstück, Begrüßungsgetränk & Spa-Zugang
+  price: 82
+  price-description: pro Person. basierend auf 2 Personen pro Unterkunft
+  saved: 42
+  expires: 2019/05/08
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92612/27957713_0a69_43e2_a3f8_7c36f7937c51.jpg
+  link: https://www.secretescapes.de/mallorca-fuer-romantiker-hotel-sa-torre-mallorca-resort-llucmajor-mallorca-balearen-spanien/sale
+  sale-id: 92612
+  domestic: false
+
+- title: 5*-Strandurlaub auf Lanzarote
+  location: Arrecife Gran Hotel & Spa, Arrecife, Lanzarote, Kanaren, Spanien
+  description: Inkl. Halbpension, 1x Spa-Zugang & Ermäßigung auf Spa-Behandlungen
+  price: 76
+  price-description: pro Person. basierend auf 2 Personen pro Suite
+  saved: 35
+  expires: 2019/05/08
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69886/7b710f30_5188_4826_aa0f_d763699bcfa2.jpg
+  link: https://www.secretescapes.de/5-star-strandurlaub-auf-lanzarote-arrecife-gran-hotel-and-spa-arrecife-lanzarote-kanaren-spanien/sale
+  sale-id: 92916
+  domestic: false
+
+- title: Barcelona in all seinen Facetten
+  location: Vincci Maritimo, Barcelona, Katalonien, Spanien
+  description: Designhotel am ruhigen Stadtstrand – inkl. Begrüßungsgetränk & Extras
+  price: 78
+  price-description: pro Person. basierend auf 2 Personen pro Zimmer
+  saved: 33
+  expires: 2019/05/08
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93004/420ae37d_351a_4f05_9129_da0f549205d3.jpg
+  link: https://www.secretescapes.de/barcelona-in-all-seinen-facetten-vincci-maritimo-barcelona-katalonien-spanien/sale
+  sale-id: 93004
   domestic: false
