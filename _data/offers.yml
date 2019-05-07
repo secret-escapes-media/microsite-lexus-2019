@@ -91,18 +91,6 @@
   sale-id: 93479
   domestic: true
 
-- title: Iberostar Grand Hotel Portals Nous
-  location: Calviá, Mallorca
-  description: Lujo frente al Mediterráneo en Mallorca, dos tipos de habitación para elegir y extras de lujo
-  price: 120
-  price-description: por persona. Basado en 2 personas, por habitación
-  saved: 28
-  expires: 2019/05/08
-  image: https://d2xb1gb82lp62v.cloudfront.net/image/upload/f_auto,q_auto:best/a/sales/87915/c4bef75f_efaf_499f_bcaf_f6e6681d4ec3.jpg
-  link: https://es.secretescapes.com/iberostar-grand-hotel-portals-nous-calvia-mallorca214/sale
-  sale-id: 93420
-  domestic: true
-
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
