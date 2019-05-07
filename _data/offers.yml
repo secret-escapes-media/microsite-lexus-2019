@@ -53,6 +53,19 @@
   sale-id: 91466
   domestic: true
 
+- title: CPH Pevero Hotel
+  id: cph-pevero-hotel
+  location: Porto Cervo, Sardegna
+  description: Sole e relax in Sardegna in uno splendido 5* sul Golfo del Pevero
+  price: 218
+  price-description: per camera per notte
+  saved: 62
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17278/e43ecae6_3668_4fec_bb58_361a8589f81c.jpg
+  link: https://it.secretescapes.com/cph-pevero-hotel-porto-cervo-sardegna-italia/sale
+  sale-id: 93454
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -133,19 +146,6 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42035/390a76ed_4e01_4211_83c7_2e1f7f886686.jpg
   link: https://it.secretescapes.com/casa-leon-gran-canaria-spagna1/sale
   sale-id: 92865
-  domestic: false
-
-- title: CPH Pevero Hotel
-  id: cph-pevero-hotel
-  location: Porto Cervo, Sardegna
-  description: Sole e relax in Sardegna in uno splendido 5* sul Golfo del Pevero
-  price: 218
-  price-description: per camera per notte
-  saved: 62
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17278/e43ecae6_3668_4fec_bb58_361a8589f81c.jpg
-  link: https://it.secretescapes.com/cph-pevero-hotel-porto-cervo-sardegna-italia/sale
-  sale-id: 93454
   domestic: false
 
 - title: Casa Cook Sa Torre
