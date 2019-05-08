@@ -2,19 +2,6 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: Junges Designhotel in München
-  id: junges-designhotel-in-münchen
-  location: Ruby Lilly Hotel Munich, München, Bayern, Deutschland
-  description: Unterkunft in einem Cosy-Zimmer – inkl. Frühstücksbuffet &amp; WLAN-Nutzung
-  price: 99
-  price-description: pro Zimmer pro Nacht
-  saved: 45
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/46766/538e3883_bb9f_4f2e_8b0c_89f14eed5db6.jpg
-  link: https://www.secretescapes.de/junges-designhotel-in-muenchen-ruby-lilly-hotel-munich-muenchen-bayern-deutschland/sale
-  sale-id: 92439
-  domestic: true
-
 - title: Designhotel in Hamburger Neustadt
   id: designhotel-in-hamburger-neustadt
   location: SIDE Design Hotel, Hamburg, Deutschland
@@ -22,23 +9,10 @@
   price: 169
   price-description: pro Zimmer pro Nacht
   saved: 39
-  expires: 2019/05/08
+  expires: 2019/05/11
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/84399/408286a6_bd8a_4ecd_8419_39ec2e021480.jpg
   link: https://www.secretescapes.de/designhotel-in-hamburger-neustadt-side-design-hotel-hamburg-deutschland1/sale
   sale-id: 92712
-  domestic: true
-
-- title: Historische Löwenstadt Braunschweig
-  id: historische-löwenstadt-braunschweig
-  location: pentahotel Braunschweig, Niedersachsen, Deutschland
-  description: Design-Cityhotel am Rande der malerischen Altstadt – inkl. Frühstück &amp; WLAN
-  price: 72
-  price-description: pro Zimmer pro Nacht
-  saved: 50
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/34255/c15602dc_ef43_4da5_8f06_e55f5708c84f.jpg
-  link: https://www.secretescapes.de/historische-lowenstadt-braunschweig-pentahotel-braunschweig-niedersachsen-deutschland-de/sale
-  sale-id: 92735
   domestic: true
 
 - title: Stylisches Boutiquehotel in der Domstadt
@@ -48,7 +22,7 @@
   price: 85
   price-description: pro Zimmer pro Nacht
   saved: 48
-  expires: 2019/05/08
+  expires: 2019/05/11
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70596/0db0dcf6_390d_486b_b866_88d0dbe266f7.jpg
   link: https://www.secretescapes.de/stylisches-boutiquehotel-in-der-domstadt-koln-deutschland/sale
   sale-id: 92964
@@ -61,7 +35,7 @@
   price: 99
   price-description: pro Zimmer pro Nacht
   saved: 43
-  expires: 2019/05/08
+  expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/87349/13e6a611_a0ae_4c4d_a50e_0f5f4a5825eb.jpg
   link: https://www.secretescapes.de/modernes-design-in-hamburger-bestlage-ruby-lotti-hamburg-hamburg-deutschland/sale
   sale-id: 93239
@@ -74,23 +48,10 @@
   price: 79
   price-description: pro Zimmer pro Nacht
   saved: 41
-  expires: 2019/05/08
+  expires: 2019/05/11
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93061/1e6aaca0_eafa_4026_a4b2_d142a8788a3f.jpg
   link: https://www.secretescapes.de/25hours-hotel-the-goldman-frankfurt-hessen-deutschland/sale
   sale-id: 93061
-  domestic: true
-
-- title: Suitenurlaub mit exklusivem Design in Oberbayern
-  id: suitenurlaub-mit-exklusivem-design-in-oberbayern
-  location: City Suites Murnau am Staffelsee, Bayern, Deutschland
-  description: Auszeit für Romantiker direkt am See&nbsp; – inkl. Endreinigung &amp; optionalem Parkplatz
-  price: 105
-  price-description: pro Suite pro Nacht
-  saved: 46
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88134/4834fd47_c59c_4f04_9d82_44e1ce6738ab.jpg
-  link: https://www.secretescapes.de/suitenurlaub-mit-exklusivem-design-in-oberbayern-city-suites-murnau-am-staffelsee-bayern-deutschland/sale
-  sale-id: 93285
   domestic: true
 
 - title: Bodensee-Ambiente mit See- & Alpenpanorama
@@ -100,7 +61,7 @@
   price: 145
   price-description: pro Zimmer pro Nacht
   saved: 23
-  expires: 2019/05/08
+  expires: 2019/05/11
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/37121/c62f834f_76ca_4923_8966_7e0ddd841148.jpg
   link: https://www.secretescapes.de/bodensee-ambiente-mit-see-and-alpenpanorama-hotel-k99-radolfzell-am-bodensee-baden-wuerttemberg-deutschland/sale
   sale-id: 93433
@@ -113,7 +74,7 @@
   price: 99
   price-description: pro Zimmer pro Nacht
   saved: 42
-  expires: 2019/05/08
+  expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86122/6ff74859_fd23_42d9_9883_4c36ef6a9814.jpg
   link: https://www.secretescapes.de/wellness-and-erholung-wuerzburg-im-gruenen-hotel-melchior-park-wuerzburg-bayern-deutschland/sale
   sale-id: 93047
@@ -166,20 +127,20 @@
   price-description: pro Zimmer pro Nacht
   saved: 48
   expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/29029/3ebab631_712b_4629_9fb9_70a86571f656.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/51644/9d2366bc_f2d6_4f43_a232_cc3942d6fa9d.jpg
   link: https://www.secretescapes.de/konigliche-aussichten-in-mainz-hyatt-regency-mainz-rheinland-pfalz-deutschland/sale
   sale-id: 93687
   domestic: true
 
-- title: Entspannt die Vielfältigkeit Berlins entdecken
-  id: entspannt-die-vielfältigkeit-berlins-entdecken
+- title: Individueller Luxus im angesagten Berlin
+  id: individueller-luxus-im-angesagten-berlin
   location: Michelberger Berlin, Deutschland
-  description: Angesagtes Hotel mit Zimmern in ideenreichem Design – inkl. Frühstücksbuffet &amp; spätem Check-out
+  description: Zwischen Spree und East Side Gallery – inkl. Frühstücksbuffet &amp; spätem Check-out
   price: 158
   price-description: pro Zimmer pro Nacht
   saved: 46
   expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93496/6902f0a4_e790_4e96_bc18_118a35540daa.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93496/e3f9c827_6600_4e6c_9630_418bf188e831.jpg
   link: https://www.secretescapes.de/entspannt-die-vielfaeltigkeit-berlins-entdecken-michelberger-berlin-deutschland/sale
   sale-id: 93496
   domestic: true
@@ -195,7 +156,7 @@
   price: 239
   price-description: pro Zimmer pro Nacht
   saved: 34
-  expires: 2019/05/08
+  expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/48368/dca763de_8d5d_47a7_954c_fffac29b3881.jpg
   link: https://www.secretescapes.de/natur-and-spa-erholung-in-den-dolomiten-seiser-alm-urthaler-seis-am-schlern-suedtirol-italien/sale
   sale-id: 92276
@@ -208,23 +169,10 @@
   price: 128
   price-description: pro Zimmer pro Nacht
   saved: 60
-  expires: 2019/05/08
+  expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/b8b1d99f_4389_45ec_9808_c593f040320c.jpg
   link: https://www.secretescapes.de/mallorca-5-star-panorama-in-palmanova-fergus-style-tobago-palmanova-mallorca-balearen-spanien/sale
   sale-id: 92349
-  domestic: false
-
-- title: Residieren in Wiens 1. Bezirk mit Rooftop-Pool
-  id: residieren-in-wiens-1.-bezirk-mit-rooftop-pool
-  location: Grand Ferdinand, Wien, Österreich
-  description: Designhotel an der Prachtstraße – inkl. Frühstücksbuffet, Rooftop-Pool &amp; spätem Check-out
-  price: 169
-  price-description: pro Zimmer pro Nacht
-  saved: 48
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/23938/49341686_96af_4928_abeb_d449eb2becbe.jpg
-  link: https://www.secretescapes.de/residieren-in-wiens-1-bezirk-mit-rooftop-pool-grand-ferdinand-wien-osterreich/sale
-  sale-id: 92599
   domestic: false
 
 - title: Lifestyle-Holzhotel im Salzburger Land
@@ -234,7 +182,7 @@
   price: 218
   price-description: pro Zimmer pro Nacht
   saved: 47
-  expires: 2019/05/08
+  expires: 2019/05/11
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74138/b992ddeb_7a06_43df_8107_d26086dcf972.jpg
   link: https://www.secretescapes.de/lifestyle-holzhotel-im-salzburger-land-holzhotel-forsthofalm-leogang-salzburg-osterreich/sale
   sale-id: 92609
@@ -247,7 +195,7 @@
   price: 195
   price-description: pro Unterkunft pro Nacht
   saved: 57
-  expires: 2019/05/08
+  expires: 2019/05/11
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42637/05d7e38e_41ec_4459_bd9e_2e3642b47bcd.jpg
   link: https://www.secretescapes.de/spa-schmuckstueck-direkt-am-bodensee-sentido-seehotel-am-kaiserstrand-lochau-bodensee-vorarlberg-osterreich/sale
   sale-id: 92776
@@ -273,23 +221,10 @@
   price: 171
   price-description: pro Zimmer pro Nacht
   saved: 61
-  expires: 2019/05/08
+  expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42035/f197fa74_267d_4672_96e2_06f18ec3168b.jpg
   link: https://www.secretescapes.de/sonniges-bergrefugium-auf-gran-canaria-hotel-casa-leon-gran-canaria-kanaren-spanien/sale
   sale-id: 92865
-  domestic: false
-
-- title: Über Barcelonas Dächern
-  id: über-barcelonas-dächern
-  location: B-Hotel, Barcelona, Katalonien, Spanien
-  description: City-Chic mit Rooftop-Pool inkl. Frühstücksermäßigung, Begrüßungsgetränk &amp; Extras
-  price: 136
-  price-description: pro Zimmer pro Nacht
-  saved: 47
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39982/504874fc_d2c2_4826_9e36_17ae21696702.jpg
-  link: https://www.secretescapes.de/uber-barcelonas-daechern-b-hotel-barcelona-katalonien-spanien/sale
-  sale-id: 93088
   domestic: false
 
 - title: Modern Alpines Design Hotel inmitten der Kitzbüheler Alpen
@@ -299,7 +234,7 @@
   price: 153
   price-description: pro Zimmer pro Nacht
   saved: 39
-  expires: 2019/05/08
+  expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/12351/1079f5ff_292a_4f92_b452_0d040c34e4fe.jpg
   link: https://www.secretescapes.de/urig-charmantes-alpenresort-in-tirol-hotel-kitzhof-mountain-design-resort-kitzbuehel-tirol-osterreich/sale
   sale-id: 93133
@@ -312,7 +247,7 @@
   price: 260
   price-description: pro Zimmer pro Nacht
   saved: 36
-  expires: 2019/05/08
+  expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/20551/ee995089_af1b_4120_9eb2_7b9c2db7bc24.jpg
   link: https://www.secretescapes.de/unvergessliche-verwohntage-am-achensee-in-tirol-entners-am-see-pertisau-achensee-tirol-osterreich/sale
   sale-id: 93138
@@ -325,7 +260,7 @@
   price: 199
   price-description: pro Zimmer pro Nacht
   saved: 29
-  expires: 2019/05/08
+  expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88211/2fc5ced5_07e0_4a42_9aec_c34a35aa0944.jpg
   link: https://www.secretescapes.de/so-vienna-wien-osterreich/sale
   sale-id: 93170
@@ -376,8 +311,8 @@
   price: 158
   price-description: pro Person. basierend auf 2 Personen pro Unterkunft
   saved: 26
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/2acef42f_464c_4274_bb84_d020f568b015.jpg
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/e2e157e9_54e7_42e9_aff2_34ac91b4fc68.jpg
   link: https://www.secretescapes.de/mondaenes-5-star-hotel-im-herzen-von-florenz-helvetia-and-bristol-florenz-toskana-italien/sale
   sale-id: 92223
   domestic: false
@@ -389,7 +324,7 @@
   price-description: pro Person. basierend auf 2 Personen pro Zimmer
   saved: 32
   expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3f0df5c3_44c0_4eaf_b537_7f4545402d2e.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3b1d2886_cf0c_46cc_84cc_e9fcddcd7764.jpg
   link: https://www.secretescapes.de/brandneuer-skandinavien-chic-mit-blick-ueber-oslo-clarion-hotel-the-hub-oslo-norwegen/sale
   sale-id: 92425
   domestic: false
@@ -404,40 +339,4 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
   link: https://www.secretescapes.de/cityhotel-in-stavanger-radisson-blu-royal-stavanger-norwegen/sale
   sale-id: 92455
-  domestic: false
-
-- title: Mallorca für Romantiker
-  location: Hotel Sa Torre Mallorca Resort, Llucmajor, Mallorca, Balearen, Spanien
-  description: Landhauscharme & Wellness in Llucmajor – inkl. Frühstück, Begrüßungsgetränk & Spa-Zugang
-  price: 82
-  price-description: pro Person. basierend auf 2 Personen pro Unterkunft
-  saved: 42
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92612/27957713_0a69_43e2_a3f8_7c36f7937c51.jpg
-  link: https://www.secretescapes.de/mallorca-fuer-romantiker-hotel-sa-torre-mallorca-resort-llucmajor-mallorca-balearen-spanien/sale
-  sale-id: 92612
-  domestic: false
-
-- title: 5*-Strandurlaub auf Lanzarote
-  location: Arrecife Gran Hotel & Spa, Arrecife, Lanzarote, Kanaren, Spanien
-  description: Inkl. Halbpension, 1x Spa-Zugang & Ermäßigung auf Spa-Behandlungen
-  price: 76
-  price-description: pro Person. basierend auf 2 Personen pro Suite
-  saved: 35
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69886/7b710f30_5188_4826_aa0f_d763699bcfa2.jpg
-  link: https://www.secretescapes.de/5-star-strandurlaub-auf-lanzarote-arrecife-gran-hotel-and-spa-arrecife-lanzarote-kanaren-spanien/sale
-  sale-id: 92916
-  domestic: false
-
-- title: Barcelona in all seinen Facetten
-  location: Vincci Maritimo, Barcelona, Katalonien, Spanien
-  description: Designhotel am ruhigen Stadtstrand – inkl. Begrüßungsgetränk & Extras
-  price: 78
-  price-description: pro Person. basierend auf 2 Personen pro Zimmer
-  saved: 33
-  expires: 2019/05/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93004/420ae37d_351a_4f05_9129_da0f549205d3.jpg
-  link: https://www.secretescapes.de/barcelona-in-all-seinen-facetten-vincci-maritimo-barcelona-katalonien-spanien/sale
-  sale-id: 93004
   domestic: false
