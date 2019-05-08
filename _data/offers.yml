@@ -340,3 +340,94 @@
   link: https://www.secretescapes.de/cityhotel-in-stavanger-radisson-blu-royal-stavanger-norwegen/sale
   sale-id: 92455
   domestic: false
+
+- title: 5*-Hotel an Sardiniens Smaragdküste
+  id: 5-hotel-an-sardiniens-smaragdküste
+  location: Colonna Pevero Hotel, Porto Cervo, Sardinien, Italien
+  description: Inkl. Halbpension, Spa-Gutschein, Begrüßungsgetränk &amp; Extras
+  price: 218
+  price-description: pro Zimmer pro Nacht
+  saved: 63
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17278/e43ecae6_3668_4fec_bb58_361a8589f81c.jpg
+  link: https://www.secretescapes.de/5-star-hotel-an-sardiniens-smaragdkueste-colonna-pevero-hotel-porto-cervo-sardinien-italien/sale
+  sale-id: 93454
+  domestic: false
+
+- title: Märchenhafter Mailand-Trip
+  id: märchenhafter-mailand-trip
+  location: Château Monfort, Mailand, Lombardei, Italien
+  description: Mondänes Design – inkl. 1 Glas Prosecco, 1x Spa-Zugang, Dinner-Ermäßigung &amp; Extras
+  price: 172
+  price-description: pro Zimmer pro Nacht
+  saved: 45
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/80443/034d45dd_5a42_4ee6_8f8e_5e4d58dce66a.jpg
+  link: https://www.secretescapes.de/maerchenhafter-mailand-trip-chateau-monfort-mailand-lombardei-italien-de/sale
+  sale-id: 93672
+  domestic: false
+
+- title: Strandresort mit Weitblick auf Ischia
+  id: strandresort-mit-weitblick-auf-ischia
+  location: Punta Molino Beach Resort & Spa, Ischia, Kampanien, Italien
+  description: 5*-Luxus mit Privatstrand &amp; Spa – inkl. Frühstück, Ermäßigungen &amp; Extras
+  price: 150
+  price-description: pro Zimmer pro Nacht
+  saved: 48
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/59767/d91066b5_e1b3_4cf3_8b7c_97c4ab4441bf.jpg
+  link: https://www.secretescapes.de/strandresort-mit-weitblick-auf-ischia-punta-molino-beach-resort-and-spa-ischia-kampanien-italien/sale
+  sale-id: 93468
+  domestic: false
+
+- title: Endloser Sommer im Süden Andalusiens
+  id: endloser-sommer-im-süden-andalusiens
+  location: Iberostar Royal Andalus, Chiclana de la Frontera, Costa de la Luz, Andalusien, Spanien
+  description: Familienhotel direkt am Strand – inkl. Halbpension oder All-inclusive &amp; weiteren Extras
+  price: 124
+  price-description: pro Zimmer pro Nacht
+  saved: 27
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/81665/67160b8f_0e0b_4d69_b0b2_1d212d09f800.jpg
+  link: https://www.secretescapes.de/endloser-sommer-im-sueden-andalusiens-iberostar-royal-andalus-chiclana-de-la-frontera-costa-de-la-luz-andalusien-spanien1/sale
+  sale-id: 93488
+  domestic: false
+
+- title: Exklusives Strandvergnügen an der Costa del Sol
+  id: exklusives-strandvergnügen-an-der-costa-del-sol
+  location: Vincci Seleccion Estrella del Mar, Marbella, Costa del Sol, Spanien
+  description: Inkl. Frühstück oder Halbpension &amp; Begrüßungsgetränk
+  price: 211
+  price-description: pro Zimmer pro Nacht
+  saved: 34
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9544/1464f44a_e84c_4bf5_8e6e_952a1bdb85f3.jpg
+  link: https://www.secretescapes.de/exklusives-strandvergnuegen-an-der-costa-del-sol-vincci-seleccion-estrella-del-mar-marbella-costa-del-sol-spanien-1/sale
+  sale-id: 93854
+  domestic: false
+
+- title: Neuartiges Design mitten im malerischen Malmö
+  id: neuartiges-design-mitten-im-malerischen-malmö
+  location: Quality Hotel The Mill, Malmö, Skåne län, Schweden
+  description: Stilvoll in Schwedens Geheimtipp – inkl. Frühstück, täglichem Sekt &amp; Brasserie-Ermäßigung
+  price: 71
+  price-description: pro Zimmer pro Nacht
+  saved: 33
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93048/e85cd150_e290_4617_9ba8_0c1f008758d5.jpg
+  link: https://www.secretescapes.de/neuartiges-design-mitten-im-malerischen-malmo-quality-hotel-the-mill-malmo-skaane-laen-schweden/sale
+  sale-id: 93048
+  domestic: false
+
+- title: Prämiertes Eco-Design in Schwedens Fjord-Idylle
+  id: prämiertes-eco-design-in-schwedens-fjord-idylle
+  location: Vann Spa Hotell And Konferens, Brastad, Gullmarsfjord, Västra Götalands län, Schweden
+  description: Dreifach-Genuss für Natur-, Wellness- &amp; Architektur-Fans – inkl. Halbpension &amp; Spa-Zugang
+  price: 150
+  price-description: pro Zimmer pro Nacht
+  saved: 32
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86348/23555bdf_3d75_4cdf_8695_8385008f2aae.jpg
+  link: https://www.secretescapes.de/praemiertes-eco-design-in-schwedens-fjord-idylle-vann-spa-hotell-and-konferens-brastad-gullmarsfjord-vaestra-gotalands-laen-schweden/sale
+  sale-id: 93127
+  domestic: false
