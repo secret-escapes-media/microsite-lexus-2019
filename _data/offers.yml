@@ -41,18 +41,6 @@
   sale-id: 93854
   domestic: true
 
-- title: Hotel Casa León
-  location: Gran Canaria
-  description: Media pensión y extras en un lujoso hotel con spa en el sur de Gran Canaria
-  price: 79
-  price-description: por persona. Basado en 2 personas, por habitación
-  saved: 61
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42035/705147ec_d716_4442_8c30_693b79565b66.jpg
-  link: https://es.secretescapes.com/hotel-casa-leon-gran-canaria8541/sale
-  sale-id: 92865
-  domestic: true
-
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
