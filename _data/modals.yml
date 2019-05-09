@@ -60,10 +60,12 @@
       <h4 class="core-title core-title--xs space--lg">El Premio</h4>
       <ol class="continuing-list">
         <li>Habrá un (1) ganador. El premio para cada ganador será a) dos noches con alojamiento y desayuno para dos (2) en un hotel de 4/5 en España; b) el disfrute de un Lexus UX durante su fin de semana.</li>
-        <ol class="ol--nested ol--letters">
-          <li>La estancia deberá reservarse entre el 1 de octubre de 2019 y el 30 de abril de 2020. Está sujeta a disponibilidad y excluye las fechas restringidas.</li>
-          <li>Sujeto a los términos y condiciones incluidos en el apartado «Términos y Condiciones».</li>
-        </ol>
+        <div class="space--xs">
+          <ol class="ol--nested ol--letters">
+            <li>La estancia deberá reservarse entre el 1 de octubre de 2019 y el 30 de abril de 2020. Está sujeta a disponibilidad y excluye las fechas restringidas.</li>
+            <li>Sujeto a los términos y condiciones incluidos en el apartado «Términos y Condiciones».</li>
+          </ol>
+        </div>
         <li>En caso de ocurrir circunstancias fuera de nuestro control, el promotor no será responsable por demoras en el viaje o la entrega del premio.</li>
         <li>El promotor se reserva el derecho de publicar el nombre, el municipio y el país del ganador, así como de publicitar la entrega del premio con posterioridad a la fecha del sorteo. Si los ganadores no desean que tales datos sean publicados, deberán comunicárselo al promotor al momento de ser informados de que han ganado.</li>
         <li>Los premios son intransferibles y no canjeables por dinero u otras alternativas de crédito. En el caso de que los premios ofertados no se hallasen disponibles debido a circunstancias fuera de nuestro control, el promotor se reserva el derecho de ofrecer un premio alternativo de igual o superior valor.</li>
