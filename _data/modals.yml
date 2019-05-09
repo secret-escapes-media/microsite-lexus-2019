@@ -60,10 +60,12 @@
       <h4 class="core-title core-title--xs space--lg">Premien</h4>
       <ol class="continuing-list">
         <li>Det blir en (1) vinnere. Premien for vinnerne vil være a) To netters opphold med frokost på for to (2) på et 4/5* hotell i Norge. B) Bruk av Lexus UX for varigheten av ditt weekendopphold.</li>
-        <ol class="ol--nested ol--letters">
-          <li>Oppholdet må være tatt innen 30. april 2020. Det er underlagt tilgjengelighet og det inkluderer datoer som er opptatte</li>
-          <li>Vilkår og betingelser gjelder - og er beskrevet på slutten av vilkår og betingelser</li>
-        </ol>
+        <div class="space--xs">
+          <ol class="ol--nested ol--letters">
+            <li>Oppholdet må være tatt innen 30. april 2020. Det er underlagt tilgjengelighet og det inkluderer datoer som er opptatte</li>
+            <li>Vilkår og betingelser gjelder - og er beskrevet på slutten av vilkår og betingelser</li>
+          </ol>
+        </div>
         <li>Ved omstendigheter utenfor vår kontroll er arrangøren ikke ansvarlig for forsinkelser i reise eller levering.</li>
         <li>Arrangør forbeholder seg retten til å publisere vinnerens navn, by og fylke eller å offentliggjøre hvilken som helst presentasjon av premieoverrekning etter datoen for premietrekningen. Om vinneren ikke ønsker at slike detaljer skal publiseres, må de si fra til arrangøren når de blir informert om at de har vunnet.</li>
         <li>Premiene er ikke overførbare og ingen kontanter eller kreditt alternativer vil bli erstattet av premiene som tilbys. I tilfelle premiene som tilbys er utilgjengelige på grunn av omstendigheter utenfor vår kontroll, forbeholder arrangøren seg retten til å tilby en alternativ premie med samme eller større verdi.</li>
