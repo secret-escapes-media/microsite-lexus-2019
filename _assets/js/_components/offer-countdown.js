@@ -6,7 +6,7 @@ $('.js-offer-expires').each(function() {
   var expires = new Date(
     date.getFullYear(),
     date.getMonth(),
-    date.getDate()+1
+    date.getDate()
   );
 
   $(this).countdown(expires, function(event) {
