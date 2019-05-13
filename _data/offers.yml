@@ -2,32 +2,6 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: Designhotel in Hamburger Neustadt
-  id: designhotel-in-hamburger-neustadt
-  location: SIDE Design Hotel, Hamburg, Deutschland
-  description: Deluxe-Zimmer im puristischen Design – inkl Frühstücksbuffet &amp; Extras
-  price: 169
-  price-description: pro Zimmer pro Nacht
-  saved: 39
-  expires: 2019/05/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/84399/408286a6_bd8a_4ecd_8419_39ec2e021480.jpg
-  link: https://www.secretescapes.de/designhotel-in-hamburger-neustadt-side-design-hotel-hamburg-deutschland1/sale
-  sale-id: 92712
-  domestic: true
-
-- title: Stylisches Boutiquehotel in der Domstadt
-  id: stylisches-boutiquehotel-in-der-domstadt
-  location: The Midtown Cologne, Köln, Deutschland
-  description: Inkl. optionalem Frühstück, 1 Flasche Wasser &amp; Extras
-  price: 85
-  price-description: pro Zimmer pro Nacht
-  saved: 48
-  expires: 2019/05/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70596/0db0dcf6_390d_486b_b866_88d0dbe266f7.jpg
-  link: https://www.secretescapes.de/stylisches-boutiquehotel-in-der-domstadt-koln-deutschland/sale
-  sale-id: 92964
-  domestic: true
-
 - title: Modernes Design in Hamburger Bestlage
   id: modernes-design-in-hamburger-bestlage
   location: Ruby Lotti Hamburg, Hamburg, Deutschland
@@ -39,32 +13,6 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/87349/13e6a611_a0ae_4c4d_a50e_0f5f4a5825eb.jpg
   link: https://www.secretescapes.de/modernes-design-in-hamburger-bestlage-ruby-lotti-hamburg-hamburg-deutschland/sale
   sale-id: 93239
-  domestic: true
-
-- title: 25hours Hotel The Goldman
-  id: 25hours-hotel-the-goldman
-  location: Frankfurt, Hessen, Deutschland
-  description: Design-Hotel unweit des Mainufers inkl. Frühstück, Fahrradverleih &amp; WLAN
-  price: 79
-  price-description: pro Zimmer pro Nacht
-  saved: 41
-  expires: 2019/05/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93061/1e6aaca0_eafa_4026_a4b2_d142a8788a3f.jpg
-  link: https://www.secretescapes.de/25hours-hotel-the-goldman-frankfurt-hessen-deutschland/sale
-  sale-id: 93061
-  domestic: true
-
-- title: Bodensee-Ambiente mit See- & Alpenpanorama
-  id: bodensee-ambiente-mit-see--and-alpenpanorama
-  location: Hotel K99, Radolfzell am Bodensee, Baden-Württemberg, Deutschland
-  description: Inkl. Rooftop-Frühstück, 1 Flasche Secco, Sauna-Zugang &amp; Extras
-  price: 145
-  price-description: pro Zimmer pro Nacht
-  saved: 23
-  expires: 2019/05/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/37121/c62f834f_76ca_4923_8966_7e0ddd841148.jpg
-  link: https://www.secretescapes.de/bodensee-ambiente-mit-see-and-alpenpanorama-hotel-k99-radolfzell-am-bodensee-baden-wuerttemberg-deutschland/sale
-  sale-id: 93433
   domestic: true
 
 - title: Modernes Designhotel mit Spa im grünen Würzburg
@@ -84,7 +32,7 @@
   id: steigenberger-hotel-metropolitan
   location: Steigenberger Hotel Metropolitan, Frankfurt am Main, Hessen, Deutschland
   description: Superior-Zimmer mit Frühstück, Erstbefüllung der Minibar &amp; Extras
-  price: 126
+  price: 120
   price-description: pro Zimmer pro Nacht
   saved: 21
   expires: 2019/05/14
@@ -127,15 +75,15 @@
   price-description: pro Zimmer pro Nacht
   saved: 48
   expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/51644/9d2366bc_f2d6_4f43_a232_cc3942d6fa9d.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/37964/cf05f756_8793_456d_839d_a5bac0f5c0dd.jpg
   link: https://www.secretescapes.de/konigliche-aussichten-in-mainz-hyatt-regency-mainz-rheinland-pfalz-deutschland/sale
   sale-id: 93687
   domestic: true
 
-- title: Individueller Luxus im angesagten Berlin
-  id: individueller-luxus-im-angesagten-berlin
+- title: Unbeschränkte Möglichkeiten zwischen Spree und East Side Gallery
+  id: unbeschränkte-möglichkeiten-zwischen-spree-und-east-side-gallery
   location: Michelberger Berlin, Deutschland
-  description: Zwischen Spree und East Side Gallery – inkl. Frühstücksbuffet &amp; spätem Check-out
+  description: Individuelle Luxus-Zimmer– inkl. Frühstücksbuffet &amp; spätem Check-out
   price: 158
   price-description: pro Zimmer pro Nacht
   saved: 46
@@ -145,22 +93,48 @@
   sale-id: 93496
   domestic: true
 
+- title: Glanzvolle Apartments auf der Ostseeperle Usedom
+  id: glanzvolle-apartments-auf-der-ostseeperle-usedom
+  location: Villa Staudt, Heringsdorf, Usedom, Ostsee, Mecklenburg-Vorpommern, Deutschland
+  description: Mondäne Villa im Herzen des Kaiserbades Heringsdorf – inkl. 1 Fl. Wein, 1 Fl. Wasser &amp; Parkplatz
+  price: 110
+  price-description: pro Zimmer pro Nacht
+  saved: 49
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90753/e2316308_571e_467b_87b0_ff52267b3fe9.jpg
+  link: https://www.secretescapes.de/glanzvolle-apartments-auf-der-ostseeperle-usedom-villa-staudt-heringsdorf-ostsee-mecklenburg-vorpommern-deutschland/sale
+  sale-id: 94250
+  domestic: true
+
+- title: Idyllisches Parkhotel im Unterallgäu
+  id: idyllisches-parkhotel-im-unterallgäu
+  location: Parkhotel Residence, Bad Wörishofen, Allgäu, Bayern, Deutschland
+  description: Inkl. 3/4-Verwöhnpension, Spa-Zugang, 1 Flasche Sekt &amp; Extras
+  price: 189
+  price-description: pro Zimmer pro Nacht
+  saved: 36
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/12158/983f7c26_af10_4dad_a443_dea25c6b8642.jpg
+  link: https://www.secretescapes.de/idyllisches-parkhotel-im-unterallgaeu-parkhotel-residence-bad-worishofen-allgaeu-bayern-deutschland/sale
+  sale-id: 93974
+  domestic: true
+
+- title: Oberbayern für alle Sinne
+  id: oberbayern-für-alle-sinne
+  location: Gut Edermann, Teisendorf, Bayern, Deutschland
+  description: Inkl. Halbpension, Spa-Gutschein, Begrüßungsgetränk, Spa-Zugang &amp; Extras
+  price: 195
+  price-description: pro Zimmer pro Nacht
+  saved: 47
+  expires: 2019/05/20
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/57810/4c2305fa_38d2_4d6b_9ef5_a0f75b61a6fd.jpg
+  link: https://www.secretescapes.de/oberbayern-fuer-alle-sinne-gut-edermann-teisendorf-bayern-deutschland/sale
+  sale-id: 93963
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
-
-- title: Natur & Spa-Erholung in den Dolomiten
-  id: natur-and-spa-erholung-in-den-dolomiten
-  location: Seiser Alm Urthaler, Seis am Schlern, Südtirol, Italien
-  description: Inkl. Halbpension, 1 Flasche Prosecco, Wellness-Gutschein &amp; weiteren Extras
-  price: 239
-  price-description: pro Zimmer pro Nacht
-  saved: 34
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/48368/dca763de_8d5d_47a7_954c_fffac29b3881.jpg
-  link: https://www.secretescapes.de/natur-and-spa-erholung-in-den-dolomiten-seiser-alm-urthaler-seis-am-schlern-suedtirol-italien/sale
-  sale-id: 92276
-  domestic: false
 
 - title: "Mallorca: 5*-Panorama in Palmanova"
   id: mallorca:-5-panorama-in-palmanova
@@ -173,32 +147,6 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/b8b1d99f_4389_45ec_9808_c593f040320c.jpg
   link: https://www.secretescapes.de/mallorca-5-star-panorama-in-palmanova-fergus-style-tobago-palmanova-mallorca-balearen-spanien/sale
   sale-id: 92349
-  domestic: false
-
-- title: Lifestyle-Holzhotel im Salzburger Land
-  id: lifestyle-holzhotel-im-salzburger-land
-  location: Holzhotel Forsthofalm, Leogang, Salzburger Land, Österreich
-  description: Inkl. Frühstück oder 3/4-Pension, Spa-Zugang, Massage-Gutschein  &amp; weiteren Extras
-  price: 218
-  price-description: pro Zimmer pro Nacht
-  saved: 47
-  expires: 2019/05/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74138/b992ddeb_7a06_43df_8107_d26086dcf972.jpg
-  link: https://www.secretescapes.de/lifestyle-holzhotel-im-salzburger-land-holzhotel-forsthofalm-leogang-salzburg-osterreich/sale
-  sale-id: 92609
-  domestic: false
-
-- title: Spa-Schmuckstück direkt am Bodensee
-  id: spa-schmuckstück-direkt-am-bodensee
-  location: SENTIDO Seehotel Am Kaiserstrand, Lochau, Bodensee, Vorarlberg, Österreich
-  description: Inkl. Frühstücksbuffet, Spa-Zugang, Restaurant- und Spa-Gutschein &amp; Extras
-  price: 195
-  price-description: pro Unterkunft pro Nacht
-  saved: 57
-  expires: 2019/05/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42637/05d7e38e_41ec_4459_bd9e_2e3642b47bcd.jpg
-  link: https://www.secretescapes.de/spa-schmuckstueck-direkt-am-bodensee-sentido-seehotel-am-kaiserstrand-lochau-bodensee-vorarlberg-osterreich/sale
-  sale-id: 92776
   domestic: false
 
 - title: Scandi-Chic für Weinkenner
@@ -227,8 +175,8 @@
   sale-id: 92865
   domestic: false
 
-- title: Modern Alpines Design Hotel inmitten der Kitzbüheler Alpen
-  id: modern-alpines-design-hotel-inmitten-der-kitzbüheler-alpen
+- title: Alpines Design in den Kitzbüheler Alpen
+  id: alpines-design-in-den-kitzbüheler-alpen
   location: Hotel Kitzhof Mountain Design Resort, Kitzbühel, Tirol, Österreich
   description: Wellness- und Wanderglück in den Kitzbüheler Alpen – inkl. Champagnerfrühstück &amp; Extras
   price: 153
@@ -236,7 +184,7 @@
   saved: 39
   expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/12351/1079f5ff_292a_4f92_b452_0d040c34e4fe.jpg
-  link: https://www.secretescapes.de/urig-charmantes-alpenresort-in-tirol-hotel-kitzhof-mountain-design-resort-kitzbuehel-tirol-osterreich/sale
+  link: https://www.secretescapes.de/alpines-design-in-den-kitzbueheler-alpen-hotel-kitzhof-mountain-design-resort-kitzbuehel-tirol-osterreich/sale
   sale-id: 93133
   domestic: false
 
@@ -283,9 +231,9 @@
   id: kuschelige-chalets-im-bergsteigerdorf
   location: Chaletdorf Auszeit, Hüttschlag, Salzburger Land, Österreich
   description: Exklusive Chalets mit Privatsauna – inkl. Frühstück, Wellness-Ermäßigung &amp; Extras
-  price: 365
+  price: 276
   price-description: pro Chalet pro Nacht
-  saved: 21
+  saved: 40
   expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/34313/fb77870c_f4ab_40a3_896f_cf8242190085.jpg
   link: https://www.secretescapes.de/kuschelige-chalets-im-bergsteigerdorf-chaletdorf-auszeit-huettschlag-salzburger-land-osterreich/sale
@@ -305,42 +253,6 @@
   sale-id: 93438
   domestic: false
 
-- title: Mondänes 5*-Hotel im Herzen von Florenz
-  location: Helvetia & Bristol, Florenz, Toskana, Italien
-  description: Florentiner Stadtplast mit exklusiver Ausstattung und Lage – inkl. Frühstück & Extras
-  price: 158
-  price-description: pro Person. basierend auf 2 Personen pro Unterkunft
-  saved: 26
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/e2e157e9_54e7_42e9_aff2_34ac91b4fc68.jpg
-  link: https://www.secretescapes.de/mondaenes-5-star-hotel-im-herzen-von-florenz-helvetia-and-bristol-florenz-toskana-italien/sale
-  sale-id: 92223
-  domestic: false
-
-- title: Brandneuer Skandinavien-Chic mit Blick über Oslo
-  location: Clarion Hotel The Hub, Oslo, Norwegen
-  description: Modernes Eco-Design mitten im Zentrum – inkl. Frühstück
-  price: 54
-  price-description: pro Person. basierend auf 2 Personen pro Zimmer
-  saved: 32
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3b1d2886_cf0c_46cc_84cc_e9fcddcd7764.jpg
-  link: https://www.secretescapes.de/brandneuer-skandinavien-chic-mit-blick-ueber-oslo-clarion-hotel-the-hub-oslo-norwegen/sale
-  sale-id: 92425
-  domestic: false
-
-- title: Cityhotel in Stavanger
-  location: Radisson Blu Royal, Stavanger, Rogaland, Norwegen
-  description: Moderne Superior-Zimmer – inkl. Frühstück
-  price: 50
-  price-description: pro Person. basierend auf 2 Personen pro Zimmer
-  saved: 42
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
-  link: https://www.secretescapes.de/cityhotel-in-stavanger-radisson-blu-royal-stavanger-norwegen/sale
-  sale-id: 92455
-  domestic: false
-
 - title: 5*-Hotel an Sardiniens Smaragdküste
   id: 5-hotel-an-sardiniens-smaragdküste
   location: Colonna Pevero Hotel, Porto Cervo, Sardinien, Italien
@@ -357,7 +269,7 @@
 - title: Märchenhafter Mailand-Trip
   id: märchenhafter-mailand-trip
   location: Château Monfort, Mailand, Lombardei, Italien
-  description: Mondänes Design – inkl. 1 Glas Prosecco, 1x Spa-Zugang, Dinner-Ermäßigung &amp; Extras
+  description: Mondänes Design – inkl. 1 Glas Prosecco, 1x Spa-Zugang, Dinner-Ermäßigung &amp; optional Frühstück
   price: 172
   price-description: pro Zimmer pro Nacht
   saved: 45
@@ -384,7 +296,7 @@
   id: endloser-sommer-im-süden-andalusiens
   location: Iberostar Royal Andalus, Chiclana de la Frontera, Costa de la Luz, Andalusien, Spanien
   description: Familienhotel direkt am Strand – inkl. Halbpension oder All-inclusive &amp; weiteren Extras
-  price: 124
+  price: 130
   price-description: pro Zimmer pro Nacht
   saved: 27
   expires: 2019/05/14
@@ -419,10 +331,122 @@
   sale-id: 93048
   domestic: false
 
+- title: Thermenhotel im österreichischen Weinviertel
+  id: thermenhotel-im-österreichischen-weinviertel
+  location: Therme Laa – Hotel & Silent Spa, Laa an der Thaya, Niederösterreich, Österreich
+  description: Großes Thermenhotel mit täglichem 5-Gänge-Menü, Therme &amp; 1x Zugang zum SILENT SPA
+  price: 224
+  price-description: pro Zimmer pro Nacht
+  saved: 29
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94176/96f5bde8_a87b_4c34_90e8_cef645deb6f5.jpg
+  link: https://www.secretescapes.de/thermenhotel-im-osterreichischen-weinviertel-therme-laa-hotel-and-silent-spa-laa-an-der-thaya-niederosterreich-osterreich/sale
+  sale-id: 94176
+  domestic: false
+
+- title: Wellness-Luxus im steirischen Schloss
+  id: wellness-luxus-im-steirischen-schloss
+  location: Schloss Pichlarn, Aigen im Ennstal, Steiermark, Österreich
+  description: Inkl. Frühstück, Spa-Zugang, Minibar, Greenfee-Ermäßigung, Aktivprogramm &amp; Extras
+  price: 195
+  price-description: pro Zimmer pro Nacht
+  saved: 33
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/36529/d85047ba_b931_4e60_beca_bbfaaffa7ff8.jpg
+  link: https://www.secretescapes.de/im-schloss-mit-spa-in-der-malerischen-steiermark-schloss-pichlarn-aigen-im-ennstal-steiermark-osterreich/sale
+  sale-id: 94019
+  domestic: false
+
+- title: Wellnessoase mit Bergpanorama im Zillertal
+  id: wellnessoase-mit-bergpanorama-im-zillertal
+  location: Sport- und Wellnesshotel Held Fügen, Zillertal, Tirol, Österreich
+  description: Inkl. 3/4-Verwöhnpension, Anti-Stress-Massage, Wellness-Zugang, geführter Touren &amp; Extras
+  price: 210
+  price-description: pro Zimmer pro Nacht
+  saved: 23
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/45283/1715247d_4693_4364_ba31_8631717bbdcf.jpg
+  link: https://www.secretescapes.de/wellnessoase-mit-bergpanorama-im-zillertal-sport-und-wellnesshotel-held-fuegen-zillertal-tirol-osterreich1/sale
+  sale-id: 94169
+  domestic: false
+
+- title: "Neueröffnung: Schickes Designhotel in Wien"
+  id: neueröffnung:-schickes-designhotel-in-wien
+  location: MAX BROWN 7TH DISTRICT, Wien, Österreich
+  description: Sommerlicher Städtetrip – inkl. Begrüßungsgetränk und WLAN
+  price: 69
+  price-description: pro Zimmer pro Nacht
+  saved: 42
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88939/b1cc51d9_6de1_4d1c_a8b3_5ad5d5af2c0b.jpg
+  link: https://www.secretescapes.de/nur-heute-neu-eroffnetes-designhotel-in-wien-max-brown-7th-district-wien-osterreich/sale
+  sale-id: 94120
+  domestic: false
+
+- title: Hard Rock Hotel Davos
+  id: hard-rock-hotel-davos
+  location: Hard Rock Hotel Davos, Graubünden, Schweiz
+  description: Inkl. Frühstück, Guthaben, Begrüßungsgetränk, Spa-Zugang &amp; Memorabilia-Tour
+  price: 136
+  price-description: pro Zimmer pro Nacht
+  saved: 34
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/63276/5cc690ff_f464_4226_ad5e_4e73e00099b2.jpg
+  link: https://www.secretescapes.de/lifestyle-and-wellness-in-davos-hard-rock-hotel-davos-graubuenden-schweiz/sale
+  sale-id: 93669
+  domestic: false
+
+- title: Mondänes 5*-Hotel im Herzen von Florenz
+  location: Helvetia & Bristol, Florenz, Toskana, Italien
+  description: Florentiner Stadtplast mit exklusiver Ausstattung und Lage – inkl. Frühstück & Extras
+  price: 315
+  price-description: pro Unterkunft pro Nacht
+  saved: 26
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/2acef42f_464c_4274_bb84_d020f568b015.jpg
+  link: https://www.secretescapes.de/mondaenes-5-star-hotel-im-herzen-von-florenz-helvetia-and-bristol-florenz-toskana-italien/sale
+  sale-id: 92223
+  domestic: false
+
+- title: Natur & Spa-Erholung in den Dolomiten
+  location: Seiser Alm Urthaler, Seis am Schlern, Südtirol, Italien
+  description: Inkl. Halbpension, 1 Flasche Prosecco, Wellness-Gutschein & weiteren Extras
+  price: 239
+  price-description: pro Zimmer pro Nacht
+  saved: 34
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/48368/dca763de_8d5d_47a7_954c_fffac29b3881.jpg
+  link: https://www.secretescapes.de/natur-and-spa-erholung-in-den-dolomiten-seiser-alm-urthaler-seis-am-schlern-suedtirol-italien/sale
+  sale-id: 92276
+  domestic: false
+
+- title: Brandneuer Skandinavien-Chic mit Blick über Oslo
+  location: Clarion Hotel The Hub, Oslo, Norwegen
+  description: Modernes Eco-Design mitten im Zentrum – inkl. Frühstück
+  price: 109
+  price-description: pro Zimmer pro Nacht
+  saved: 32
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3b1d2886_cf0c_46cc_84cc_e9fcddcd7764.jpg
+  link: https://www.secretescapes.de/brandneuer-skandinavien-chic-mit-blick-ueber-oslo-clarion-hotel-the-hub-oslo-norwegen/sale
+  sale-id: 92425
+  domestic: false
+
+- title: Cityhotel in Stavanger
+  location: Radisson Blu Royal, Stavanger, Rogaland, Norwegen
+  description: Moderne Superior-Zimmer – inkl. Frühstück
+  price: 99
+  price-description: pro Zimmer pro Nacht
+  saved: 42
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
+  link: https://www.secretescapes.de/cityhotel-in-stavanger-radisson-blu-royal-stavanger-norwegen/sale
+  sale-id: 92455
+  domestic: false
+
 - title: Prämiertes Eco-Design in Schwedens Fjord-Idylle
-  id: prämiertes-eco-design-in-schwedens-fjord-idylle
   location: Vann Spa Hotell And Konferens, Brastad, Gullmarsfjord, Västra Götalands län, Schweden
-  description: Dreifach-Genuss für Natur-, Wellness- &amp; Architektur-Fans – inkl. Halbpension &amp; Spa-Zugang
+  description: Dreifach-Genuss für Natur-, Wellness- & Architektur-Fans – inkl. Halbpension & Spa-Zugang
   price: 150
   price-description: pro Zimmer pro Nacht
   saved: 32
