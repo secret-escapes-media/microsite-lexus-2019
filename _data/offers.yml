@@ -54,6 +54,58 @@
   sale-id: 93127
   domestic: true
 
+- title: Aktiv vistelse i natursköna Åre
+  id: aktiv-vistelse-i-natursköna-åre
+  location: Holiday Club Åre, Åre
+  description: Familjesemester med friluftsliv, aktiviteter och bad i fjällen, inkl. frukost eller halvpension
+  price: 1195
+  price-description: per rum per natt
+  saved: 44
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39416/5118d9d8_fe87_4eaf_bda2_9969e25f0ea5.jpg
+  link: https://www.secretescapes.se/aktiv-vistelse-i-naturskona-are-holiday-club-are-are/sale
+  sale-id: 94093
+  domestic: true
+
+- title: Klassiskt hotell i Helsingborg
+  id: klassiskt-hotell-i-helsingborg
+  location: Clarion Grand Hotel, Helsingborg
+  description: Anrikt boende i modern tappning på Stortorget i Helsingborg, inkl. frukost och middag som tillval
+  price: 895
+  price-description: per rum per natt
+  saved: 35
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94200/8cbec431_0e08_4831_8a49_23e2db78641c.jpg
+  link: https://www.secretescapes.se/klassiskt-hotell-med-spa-i-helsingborg-clarion-grand-hotel-helsingborg/sale
+  sale-id: 94200
+  domestic: true
+
+- title: Snyggt designhotell i Lund
+  id: snyggt-designhotell-i-lund
+  location: Radisson Blu Hotel Lund, Lund
+  description: Vardagslyx på modernt boende i den historiska universitetsstaden, inkl. frukost
+  price: 795
+  price-description: per rum per natt
+  saved: 45
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/84965/84bad8d1_c8ec_4816_939a_9bdd165aa35f.jpg
+  link: https://www.secretescapes.se/snyggt-designhotell-i-lund-radisson-blu-hotel-lund-lund-se-1/sale
+  sale-id: 94235
+  domestic: true
+
+- title: Modern vistelse vid vattnet i Stockholm
+  id: modern-vistelse-vid-vattnet-i-stockholm
+  location: Elite Hotel Marina Tower, Stockholm
+  description: Lyxigt boende i en ståtlig byggnad nära Södermalm, inkl. frukost
+  price: 1190
+  price-description: per rum per natt
+  saved: 23
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/11062/49294441_dab6_497f_b3e1_69397122793a.jpg
+  link: https://www.secretescapes.se/modern-vistelse-vid-vattnet-i-stockholm-elite-hotel-marina-tower-stockholm-se-1/sale
+  sale-id: 94102
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -142,7 +194,7 @@
   description: Lev jetsetlivet på Sardiniens vackra Smaragdkust, inkl. halvpension och mer
   price: 2230
   price-description: per rum per natt
-  saved: 62
+  saved: 64
   expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17278/e43ecae6_3668_4fec_bb58_361a8589f81c.jpg
   link: https://www.secretescapes.se/femstjaernigt-hotell-paa-sardinien-colonna-pevero-hotel-porto-cervo-sardinien-italien-01/sale
@@ -199,4 +251,56 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9544/1464f44a_e84c_4bf5_8e6e_952a1bdb85f3.jpg
   link: https://www.secretescapes.se/wellnessvistelse-i-marbella-vincci-seleccion-estrella-del-mar-marbella-spanien01/sale
   sale-id: 93854
+  domestic: false
+
+- title: Exklusivt boutiquehotell i Portals Nous
+  id: exklusivt-boutiquehotell-i-portals-nous
+  location: Portals Hills Boutique Hotel, Portals Nous, Mallorca, Spanien
+  description: Modernt boende med spa, pool, nattklubb och utsikt över Palmabukten, inkl. frukost, m.m.
+  price: 2120
+  price-description: per svit per natt
+  saved: 42
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90577/3a0e4e68_b76e_47ae_9708_b4b5c5804ae1.jpg
+  link: https://www.secretescapes.se/exklusivt-boutiquehotell-i-portals-nous-portals-hills-boutique-hotel-portals-nous-mallorca-spanien-se/sale
+  sale-id: 93893
+  domestic: false
+
+- title: Chict och bohemiskt på Mallorca
+  id: chict-och-bohemiskt-på-mallorca
+  location: Bikini Island & Mountain Hotel Port de Sóller, Port de Sóller, Mallorca, Spanien
+  description: Trendigt hotell för vuxna på Mallorca med pool och spa, inkl. frukost, cocktail och sparabatt
+  price: 1220
+  price-description: per rum per natt
+  saved: 26
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94158/4aa7b8e7_3c23_4b07_b11e_04904a21a247.jpg
+  link: https://www.secretescapes.se/chict-och-bohemiskt-paa-mallorca-bikini-island-and-mountain-hotel-port-de-soller-port-de-soller-mallorca-spanien/sale
+  sale-id: 94158
+  domestic: false
+
+- title: Urbant designhotell i centrala Oslo
+  id: urbant-designhotell-i-centrala-oslo
+  location: First Hotel Grims Grenka, Oslo, Norge
+  description: Upplev hippa Oslo från ett snyggt hotell med hyllad restaurang och takterrass, inkl. frukost
+  price: 1530
+  price-description: per rum per natt
+  saved: 37
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/13364/81b19555_d7cf_469a_a71e_b3bf37a9c4b2.jpg
+  link: https://www.secretescapes.se/urbant-designhotell-i-centrala-oslo-first-hotel-grims-grenka-oslo-norge/sale
+  sale-id: 93678
+  domestic: false
+
+- title: Boende med modern charm i centrala Oslo
+  id: boende-med-modern-charm-i-centrala-oslo
+  location: Clarion Collection Savoy, Oslo, Norge
+  description: Bo mitt i hjärtat av Oslo, nära sevärdheter, shopping och nöjen, inkl. frukost och kvällsmat
+  price: 1150
+  price-description: per rum per natt
+  saved: 30
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94237/becab491_5ad1_4ec0_b77a_b2d08f76e01d.jpg
+  link: https://www.secretescapes.se/boende-med-modern-charm-i-centrala-oslo-clarion-collection-savoy-oslo-norge/sale
+  sale-id: 94237
   domestic: false
