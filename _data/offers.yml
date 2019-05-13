@@ -32,9 +32,9 @@
   id: cph-pevero-hotel
   location: Porto Cervo, Sardegna
   description: Sole e relax in Sardegna in uno splendido 5* sul Golfo del Pevero
-  price: 218
+  price: 208
   price-description: per camera per notte
-  saved: 62
+  saved: 64
   expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17278/e43ecae6_3668_4fec_bb58_361a8589f81c.jpg
   link: https://it.secretescapes.com/cph-pevero-hotel-porto-cervo-sardegna-italia/sale
@@ -79,6 +79,7 @@
   link: https://it.secretescapes.com/punta-molino-beach-resort-and-spa-ischia-campania1/sale
   sale-id: 93468
   domestic: true
+
 
 ################################################################################
 # NON DOMESTIC OFFERS
@@ -134,6 +135,97 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9544/1464f44a_e84c_4bf5_8e6e_952a1bdb85f3.jpg
   link: https://it.secretescapes.com/vincci-seleccion-estrella-del-mar-marbella-spagna-it/sale
   sale-id: 93854
+  domestic: false
+
+- title: Portals Hills Boutique Hotel
+  id: portals-hills-boutique-hotel
+  location: Maiorca
+  description: Estate 2019 in un esclusivo 5* a Maiorca, affacciato sulle acque cristalline del Mediterraneo
+  price: 195
+  price-description: per camera per notte
+  saved: 42
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90577/3a0e4e68_b76e_47ae_9708_b4b5c5804ae1.jpg
+  link: https://it.secretescapes.com/portals-hills-boutique-hotel-maiorca/sale
+  sale-id: 93893
+  domestic: false
+
+- title: Bikini Island & Mountain Hotel Port de Sóller
+  id: bikini-island-and-mountain-hotel-port-de-sóller
+  location: Maiorca
+  description: Un 4* boutique tra i panorami più belli di Maiorca
+  price: 113
+  price-description: per camera per notte
+  saved: 26
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94158/4aa7b8e7_3c23_4b07_b11e_04904a21a247.jpg
+  link: https://it.secretescapes.com/bikini-island-and-mountain-hotel-port-de-soller-maiorca/sale
+  sale-id: 94158
+  domestic: false
+
+- title: H10 Palacio Colomera
+  id: h10-palacio-colomera
+  location: Cordoba, Andalusia
+  description: Nuovissimo hotel 4* nel cuore di Cordoba
+  price: 84
+  price-description: per camera per notte
+  saved: 36
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93925/2284ae36_fbc7_4540_a8e5_baa5f06c064e.jpg
+  link: https://it.secretescapes.com/h10-palacio-colomera-cordoba-andalusia/sale
+  sale-id: 93925
+  domestic: false
+
+- title: H10 Casa de la Plata
+  id: h10-casa-de-la-plata
+  location: Siviglia, Spagna
+  description: Vivi il fascino di Siviglia da un nuovissimo 4* nel cuore della città
+  price: 84
+  price-description: per camera per notte
+  saved: 44
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94159/1bb36bfb_5f56_42cb_b8c6_d16e7460ed4c.jpg
+  link: https://it.secretescapes.com/h10-casa-de-la-plata-siviglia-spagna/sale
+  sale-id: 94159
+  domestic: false
+
+- title: First Hotel Grims Grenka
+  id: first-hotel-grims-grenka
+  location: Oslo, Norvegia
+  description: City break di stile a Oslo, in un hotel con terrazza panoramica
+  price: 143
+  price-description: per camera per notte
+  saved: 37
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/13364/81b19555_d7cf_469a_a71e_b3bf37a9c4b2.jpg
+  link: https://it.secretescapes.com/first-hotel-grims-grenka-oslo-norvegia/sale
+  sale-id: 93678
+  domestic: false
+
+- title: Clarion Collection Savoy
+  id: clarion-collection-savoy
+  location: Oslo
+  description: Alla scoperta di Oslo da un 4* centralissimo
+  price: 106
+  price-description: per camera per notte
+  saved: 30
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94237/becab491_5ad1_4ec0_b77a_b2d08f76e01d.jpg
+  link: https://it.secretescapes.com/clarion-collection-savoy-oslo/sale
+  sale-id: 94237
+  domestic: false
+
+- title: Elite Hotel Marina Tower
+  id: elite-hotel-marina-tower
+  location: Stoccolma
+  description: Un 4* di design affacciato sulla baia della magica Stoccolma
+  price: 110
+  price-description: per camera per notte
+  saved: 23
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/11062/99a731c7_1861_4155_9496_32564705d568.jpg
+  link: https://it.secretescapes.com/elite-hotel-marina-tower-stoccolma-it/sale
+  sale-id: 94102
   domestic: false
 
 - title: Casa León
