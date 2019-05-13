@@ -41,6 +41,32 @@
   sale-id: 92455
   domestic: true
 
+- title: Supersentral beliggenhet i Oslo
+  id: supersentral-beliggenhet-i-oslo
+  location: First Hotel Grims Grenka, Oslo, Norge
+  description: Firestjerners designhotell som utmerker seg med unik skandinavisk design og supersentral beliggenhet
+  price: 1395
+  price-description: per rom per natt
+  saved: 37
+  expires: 2019/05/14
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10585/0eaf785a_d63d_41b5_b063_24d161b46e66.jpg
+  link: https://no.secretescapes.com/supersentral-beliggenhet-i-oslo-first-hotel-grims-grenka-oslo-norge/sale
+  sale-id: 93678
+  domestic: true
+
+- title: Sjarmerende og sentralt i Oslo
+  id: sjarmerende-og-sentralt-i-oslo
+  location: Clarion Collection Savoy, Oslo
+  description: Med Slottet og Stortinget som naboer
+  price: 1038
+  price-description: per rom per natt
+  saved: 30
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94237/becab491_5ad1_4ec0_b77a_b2d08f76e01d.jpg
+  link: https://no.secretescapes.com/sjarmerende-og-sentralt-i-oslo-clarion-collection-savoy-oslo/sale
+  sale-id: 94237
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -64,7 +90,7 @@
   description: Velkomstdrink og sparabatt på Sardinias smaragdkyst – med halvpensjon inkludert
   price: 2020
   price-description: per rom per natt
-  saved: 62
+  saved: 64
   expires: 2019/05/14
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17278/e43ecae6_3668_4fec_bb58_361a8589f81c.jpg
   link: https://no.secretescapes.com/lev-jetsetlivet-paa-sardinia-colonna-pevero-sardinia-italia-no-no/sale
@@ -134,4 +160,43 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86348/23555bdf_3d75_4cdf_8695_8385008f2aae.jpg
   link: https://no.secretescapes.com/komplett-spaopplevelse-i-sverige-vann-spa-hotell-and-konferens-brastad-sverige-1/sale
   sale-id: 93127
+  domestic: false
+
+- title: Eksklusivt boutiquehotell i Portal Nous
+  id: eksklusivt-boutiquehotell-i-portal-nous
+  location: Portals Hills Boutique Hotel, Portals Nous, Mallorca, Spania
+  description: Opphold på vakkert og moderne hotell med spa, basseng og nattklubb, inkludert frokost m.m.
+  price: 1914
+  price-description: per suite per natt
+  saved: 42
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90577/3a0e4e68_b76e_47ae_9708_b4b5c5804ae1.jpg
+  link: https://no.secretescapes.com/eksklusivt-boutiquehotell-i-portal-nous-portals-hills-boutique-hotel-portals-nous-mallorca-spania-no/sale
+  sale-id: 93893
+  domestic: false
+
+- title: Aktiv ferie på fjellet i Sverige
+  id: aktiv-ferie-på-fjellet-i-sverige
+  location: Holiday Club Åre, Åre, Sverige
+  description: Gå på tur, svøm og besøk opplevelsebadet i Åre, inkludert frokost, toretters middag som tilvalg m.m.
+  price: 1083
+  price-description: per rom per natt
+  saved: 44
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39416/5118d9d8_fe87_4eaf_bda2_9969e25f0ea5.jpg
+  link: https://no.secretescapes.com/aktiv-ferie-paa-fjellet-i-sverige-holiday-club-are-are-sverige-no/sale
+  sale-id: 94093
+  domestic: false
+
+- title: Skjærgårdshotell i Stockholm
+  id: skjærgårdshotell-i-stockholm
+  location: Elite Hotel Marina Tower, Stockholm, Sverige
+  description: Luksusopphold midt i krysningen av by og skjærgård, inkludert frokost
+  price: 1079
+  price-description: per rom per natt
+  saved: 23
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/11062/49294441_dab6_497f_b3e1_69397122793a.jpg
+  link: https://no.secretescapes.com/skjaergaardshotell-i-stockholm-elite-hotel-marina-tower-stockholm-sverige-no3/sale
+  sale-id: 94102
   domestic: false
