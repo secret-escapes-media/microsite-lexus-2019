@@ -19,11 +19,11 @@
 #
 #####################################
 
-# - id: feature-video
-#   type: youtube
-#   pages:
-#     - id: all
-#   youtube-id: JRg0BYcitU0
+- id: feature-video
+  type: youtube
+  pages:
+    - id: overview
+  youtube-id: JRg0BYcitU0
 
 - id: competition-terms
   pages:

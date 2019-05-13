@@ -1,18 +1,20 @@
-var modal          = $('.js-modal'),
-    modalLaunchBtn = $('.js-open-modal'),
-    modalCloseBtn  = $('.js-close-modal');
+var modal          = $('.js-modal');
+var modalLaunchBtn = $('.js-open-modal');
+var modalCloseBtn  = $('.js-close-modal');
+var bannerVideo    = document.getElementById('banner-video');
 
 // opens modal
 function modalOpen(event, modalId){
 
   // is there a click event?
+  var activeModalId;
   if (event) {
     event.preventDefault();
     // find the modal id from clicked element
-    var activeModalId = $(event.currentTarget).data('open-modal');
+    activeModalId = $(event.currentTarget).data('open-modal');
   } else {
     // find the modal id from passed string
-    var activeModalId = modalId;
+    activeModalId = modalId;
   }
 
   // find the active modal dom element
@@ -23,11 +25,15 @@ function modalOpen(event, modalId){
 
   // builds youtube video if needed
   if (activeModal.data('youtube-id')) {
+    // pause background video from playing as well
+    if (bannerVideo) {
+      bannerVideo.pause();
+    }
     // get youtube id and target div
     var video     = activeModal.find('.js-modal-video'),
         youtubeId = activeModal.data('youtube-id');
     // insert the code into the target with the id and autoplay
-    video.html('<div class="video__wrap"><iframe class="video" src="https://www.youtube.com/embed/' + youtubeId + '?rel=0&amp;showinfo=0&autoplay=1" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>');
+    video.html('<div class="video__wrap"><iframe class="video" src="https://www.youtube.com/embed/' + youtubeId + '?rel=0;color=white;hl=en;modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>');
   }
 
   // reveal the specific modal content
@@ -51,6 +57,10 @@ function modalClose(event){
     $('.modal.is-open').removeClass('is-open').addClass('is-closed');
     // kill everything inside of video if its there
     $('.js-modal-video').empty();
+    // play background video if its on the page
+    if (bannerVideo) {
+      bannerVideo.play();
+    }
   });
 }
 
