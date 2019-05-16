@@ -21,13 +21,14 @@
   }
 }
 
-// keep the car in the bg image in shot somewhat
-.lexus-ux .banner__bg {
-  background-position-x: 66%;
-  @include bp($xxxl){ background-position-x: 50%; }
-}
-
 .link {
   &:hover { text-decoration: underline; }
   &--underlined { text-decoration: underline; }
+}
+
+.bg--promo-test-drive {
+  background-image: url('../img/promo-test-drive-mobile.jpg');
+  @include bp($xxl){
+    background-image: url('../img/promo-test-drive.jpg');
+  }
 }

@@ -41,6 +41,29 @@
     z-index: $z-content;
     background-color: $l-black;
     @include background-attributes;
+    // page backgrounds
+    .city-guides & { background-image: url('../img/content/city-guides/bg.jpg'); }
+    .city-one & { background-image: url('../img/content/city-one/bg.jpg'); }
+    .city-two & { background-image: url('../img/content/city-two/bg.jpg'); }
+    .design-hotels & { background-image: url('../img/content/design-hotels/bg.jpg'); }
+    .competition & { background-image: url('../img/content/competition/bg.jpg'); }
+    .hotels & { background-image: url('../img/content/hotels/bg.jpg'); }
+    .overview & {
+      background-image: url('../img/content/overview/bg-mobile.jpg');
+      @include bp($lg) {
+        background-image: url('../img/content/overview/bg.jpg');
+      }
+    }
+    .lexus-ux & {
+      background-position-x: 75%;
+      background-image: url('../img/content/lexus-ux/bg-mobile.jpg');
+      @include bp($xxxl){
+        background-position-x: 50%;
+        background-image: url('../img/content/lexus-ux/bg.jpg');
+      }
+    }
+
+     // style="background-image: url('{{site.img}}/content/{{page.id}}/bg.jpg')"
   }
   &__nav {
     // optional container for navigation include
@@ -86,7 +109,7 @@
     right: 0;
     bottom: 0;
     z-index: $z-content-upper;
-    background-color: rgba($l-black,.3);
+    background-color: rgba(26,32,43,.4);
   }
   &__jump-down {
     position: absolute;
