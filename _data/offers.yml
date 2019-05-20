@@ -2,19 +2,6 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: FERGUS Style Tobago
-  id: fergus-style-tobago
-  location: Mallorca
-  description: Todo incluido y playas de ensueño en un hotel de cinco estrellas en Palmanova, Mallorca
-  price: 128
-  price-description: por habitación por noche
-  saved: 60
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/4c46adf7_a562_4793_9ad4_dce72e9f340b.jpg
-  link: https://es.secretescapes.com/fergus-style-tobago-mallorca-es-pa/sale
-  sale-id: 92349
-  domestic: true
-
 - title: Iberostar Royal Andalus
   id: iberostar-royal-andalus
   location: Chiclana de la Frontera, Cádiz
@@ -22,7 +9,7 @@
   price: 91
   price-description: por habitación por noche
   saved: 27
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/81665/67160b8f_0e0b_4d69_b0b2_1d212d09f800.jpg
   link: https://es.secretescapes.com/iberostar-royal-andalus-chiclana-de-la-frontera-cadiz-es-esp/sale
   sale-id: 93488
@@ -35,8 +22,8 @@
   price: 171
   price-description: por habitación por noche
   saved: 34
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9544/1464f44a_e84c_4bf5_8e6e_952a1bdb85f3.jpg
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9544/7aa05624_4417_4f73_ad58_f1e9e4826349.jpg
   link: https://es.secretescapes.com/vincci-seleccion-estrella-del-mar-marbella-esp/sale
   sale-id: 93854
   domestic: true
@@ -62,7 +49,7 @@
   price-description: por habitación por noche
   saved: 26
   expires: 2019/05/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94158/4aa7b8e7_3c23_4b07_b11e_04904a21a247.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94158/022d0043_f1ba_4c26_a894_8e65a2e3e77c.jpg
   link: https://es.secretescapes.com/bikini-island-and-mountain-hotel-port-de-soller-palma-de-mallorca-esp/sale
   sale-id: 94158
   domestic: true
@@ -97,56 +84,17 @@
 # NON DOMESTIC OFFERS
 ################################################################################
 
-- title: Hotel Helvetia & Bristol
-  id: hotel-helvetia-and-bristol
-  location: Florencia
-  description: Un exquisito cinco estrellas en el centro histórico de Florencia, con desayuno y varios extras
-  price: 315
-  price-description: por habitación por noche
-  saved: 26
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/2acef42f_464c_4274_bb84_d020f568b015.jpg
-  link: https://es.secretescapes.com/hotel-helvetia-and-bristol-florencia-es-pa/sale
-  sale-id: 92223
-  domestic: false
-
-- title: Clarion Hotel The Hub
-  id: clarion-hotel-the-hub
-  location: Oslo
-  description: Un contemporáneo hotel de cuatro estrellas recién abierto en el corazón de Oslo, con desayuno
-  price: 109
-  price-description: por habitación por noche
-  saved: 32
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/97e0ad09_2290_442d_adf1_616478d0465b.jpg
-  link: https://es.secretescapes.com/clarion-hotel-the-hub-oslo-esp/sale
-  sale-id: 92425
-  domestic: false
-
 - title: Colonna Pevero
   id: colonna-pevero
   location: Cerdeña
   description: Régimen de media pensión y lujo cinco estrellas en Cerdeña. Incluye extras
-  price: 208
+  price: 218
   price-description: por habitación por noche
   saved: 64
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17278/e43ecae6_3668_4fec_bb58_361a8589f81c.jpg
   link: https://es.secretescapes.com/colonna-pevero-cerdena-es/sale
   sale-id: 93454
-  domestic: false
-
-- title: Grand Hotel Ritz
-  id: grand-hotel-ritz
-  location: Roma
-  description: Lujo en Roma en un cinco estrellas, con desayuno, descuento en el spa y más extras
-  price: 131
-  price-description: por habitación por noche
-  saved: 42
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/33324/2ec48dca_bed6_4bfa_970d_2810691a9e47.jpg
-  link: https://es.secretescapes.com/grand-hotel-ritz-roma-es-es-es/sale
-  sale-id: 93240
   domestic: false
 
 - title: Château Monfort
@@ -156,7 +104,7 @@
   price: 172
   price-description: por habitación por noche
   saved: 45
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/80443/034d45dd_5a42_4ee6_8f8e_5e4d58dce66a.jpg
   link: https://es.secretescapes.com/chateau-monfort-milan-espana/sale
   sale-id: 93672
@@ -169,7 +117,7 @@
   price: 143
   price-description: por habitación por noche
   saved: 37
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10585/0eaf785a_d63d_41b5_b063_24d161b46e66.jpg
   link: https://es.secretescapes.com/first-hotel-grims-grenka-oslo-es/sale
   sale-id: 93678
@@ -186,4 +134,30 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94237/91c6b0f3_72c7_457d_a410_dda53c9135ee.jpg
   link: https://es.secretescapes.com/clarion-collection-savoy-oslo-esp/sale
   sale-id: 94237
+  domestic: false
+
+- title: Hilton Vilamoura As Cascatas Golf Resort & Spa
+  id: hilton-vilamoura-as-cascatas-golf-resort-and-spa
+  location: Algarve (Vilamoura, Portugal)
+  description: Un resort de cinco estrellas en el Algarve, con desayuno, una botella de vino y más extras
+  price: 123
+  price-description: por habitación por noche
+  saved: 44
+  expires: 2019/05/28
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93826/8eaef08b_e0a1_4705_b34f_61d35bed8526.jpg
+  link: https://es.secretescapes.com/hilton-vilamoura-as-cascatas-golf-resort-and-spa-algarve-vilamoura-portugal-es-pa/sale
+  sale-id: 93826
+  domestic: false
+
+- title: Jupiter Albufeira Hotel - Family & Fun
+  id: jupiter-albufeira-hotel---family-and-fun
+  location: Albufeira, Portugal
+  description: Comodidad y diversión en familia en este cinco estrellas del Algarve. Régimen de todo incluido
+  price: 138
+  price-description: por habitación por noche
+  saved: 52
+  expires: 2019/05/29
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94647/2e466b0a_a7a4_46ab_b242_667a2ce5e26f.jpg
+  link: https://es.secretescapes.com/jupiter-albufeira-hotel-family-and-fun-albufeira-portugal-es/sale
+  sale-id: 94647
   domestic: false
