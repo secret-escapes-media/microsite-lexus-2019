@@ -2,56 +2,17 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: Hotel Helvetia & Bristol
-  id: hotel-helvetia-and-bristol
-  location: Firenze, Toscana
-  description: Soggiorno nel cuore di Firenze in uno storico 5* scelto da Pirandello e D’Annunzio
-  price: 315
-  price-description: per camera per notte
-  saved: 26
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92223/e2e157e9_54e7_42e9_aff2_34ac91b4fc68.jpg
-  link: https://it.secretescapes.com/hotel-helvetia-and-bristol-firenze-toscana/sale
-  sale-id: 92223
-  domestic: true
-
-- title: Seiser Alm Urthaler
-  id: seiser-alm-urthaler
-  location: Alpe di Siusi, Trentino-Alto Adige
-  description: Relax, ecosostenibilità e buona cucina in un 5* tra le Dolomiti
-  price: 239
-  price-description: per camera per notte
-  saved: 45
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/48368/dca763de_8d5d_47a7_954c_fffac29b3881.jpg
-  link: https://it.secretescapes.com/seiser-alm-urthaler-alpe-di-siusi-trentino-alto-adige/sale
-  sale-id: 92276
-  domestic: true
-
 - title: CPH Pevero Hotel
   id: cph-pevero-hotel
   location: Porto Cervo, Sardegna
   description: Sole e relax in Sardegna in uno splendido 5* sul Golfo del Pevero
-  price: 208
+  price: 218
   price-description: per camera per notte
   saved: 64
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17278/e43ecae6_3668_4fec_bb58_361a8589f81c.jpg
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86868/cc19e19f_a512_4663_9635_2056146c3ba3.jpg
   link: https://it.secretescapes.com/cph-pevero-hotel-porto-cervo-sardegna-italia/sale
   sale-id: 93454
-  domestic: true
-
-- title: Grand Hotel Ritz
-  id: grand-hotel-ritz
-  location: Roma, Lazio
-  description: Un favoloso 5* con spa in uno dei quartieri più esclusivi di Roma
-  price: 131
-  price-description: per camera per notte
-  saved: 42
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/33324/2ec48dca_bed6_4bfa_970d_2810691a9e47.jpg
-  link: https://it.secretescapes.com/grand-hotel-ritz-roma-lazio2/sale
-  sale-id: 93240
   domestic: true
 
 - title: Château Monfort
@@ -61,7 +22,7 @@
   price: 172
   price-description: per camera per notte
   saved: 45
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/80443/034d45dd_5a42_4ee6_8f8e_5e4d58dce66a.jpg
   link: https://it.secretescapes.com/chateau-monfort-milano-lombardia-italia/sale
   sale-id: 93672
@@ -74,42 +35,15 @@
   price: 150
   price-description: per camera per notte
   saved: 48
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/59767/b5beae62_148c_44ce_a6e6_87ada268cfea.jpg
   link: https://it.secretescapes.com/punta-molino-beach-resort-and-spa-ischia-campania1/sale
   sale-id: 93468
   domestic: true
 
-
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
-
-- title: FERGUS Style Tobago
-  id: fergus-style-tobago
-  location: Maiorca
-  description: Fuga all inclusive in un 5* di Maiorca, con viste mozzafiato sul mare
-  price: 128
-  price-description: per camera per notte
-  saved: 60
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/4c46adf7_a562_4793_9ad4_dce72e9f340b.jpg
-  link: https://it.secretescapes.com/fergus-style-tobago-maiorca-it/sale
-  sale-id: 92349
-  domestic: false
-
-- title: Clarion Hotel The Hub
-  id: clarion-hotel-the-hub
-  location: Oslo
-  description: Nuovissimo hotel nel cuore di Oslo dall’animo urban-chic ed eco-friendly
-  price: 109
-  price-description: per camera per notte
-  saved: 32
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/97e0ad09_2290_442d_adf1_616478d0465b.jpg
-  link: https://it.secretescapes.com/clarion-hotel-the-hub-oslo-it/sale
-  sale-id: 92425
-  domestic: false
 
 - title: Iberostar Royal Andalus
   id: iberostar-royal-andalus
@@ -118,7 +52,7 @@
   price: 91
   price-description: per camera per notte
   saved: 27
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/81665/67160b8f_0e0b_4d69_b0b2_1d212d09f800.jpg
   link: https://it.secretescapes.com/iberostar-royal-andalus-chiclana-de-la-frontera-spagna/sale
   sale-id: 93488
@@ -131,8 +65,8 @@
   price: 171
   price-description: per camera per notte
   saved: 34
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9544/1464f44a_e84c_4bf5_8e6e_952a1bdb85f3.jpg
+  expires: 2019/05/21
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9544/7aa05624_4417_4f73_ad58_f1e9e4826349.jpg
   link: https://it.secretescapes.com/vincci-seleccion-estrella-del-mar-marbella-spagna-it/sale
   sale-id: 93854
   domestic: false
@@ -158,7 +92,7 @@
   price-description: per camera per notte
   saved: 26
   expires: 2019/05/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94158/4aa7b8e7_3c23_4b07_b11e_04904a21a247.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94158/022d0043_f1ba_4c26_a894_8e65a2e3e77c.jpg
   link: https://it.secretescapes.com/bikini-island-and-mountain-hotel-port-de-soller-maiorca/sale
   sale-id: 94158
   domestic: false
@@ -196,7 +130,7 @@
   price: 143
   price-description: per camera per notte
   saved: 37
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/13364/81b19555_d7cf_469a_a71e_b3bf37a9c4b2.jpg
   link: https://it.secretescapes.com/first-hotel-grims-grenka-oslo-norvegia/sale
   sale-id: 93678
@@ -228,14 +162,27 @@
   sale-id: 94102
   domestic: false
 
-- title: Casa León
-  location: Gran Canaria, Spagna
-  description: Benessere, lusso e sole splendente sulla più grande delle Isole Canarie
-  price: 79
-  price-description: a persona. Basato su 2 persone per camera
-  saved: 61
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42035/705147ec_d716_4442_8c30_693b79565b66.jpg
-  link: https://it.secretescapes.com/casa-leon-gran-canaria-spagna1/sale
-  sale-id: 92865
+- title: The Ampersand Hotel
+  id: the-ampersand-hotel
+  location: Londra
+  description: City break londinese a 5* in un eccentrico boutique hotel a South Kensington
+  price: 227
+  price-description: per camera per notte
+  saved: 45
+  expires: 2019/05/29
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94720/5fe64f55_c6f6_4142_9a53_0fc28cf1948b.jpg
+  link: https://it.secretescapes.com/the-ampersand-hotel-londra/sale
+  sale-id: 94720
+  domestic: false
+
+- title: Un'estate all-inclusive sotto il sole di Ibiza
+  location: Fergus Style Bahamas, Playa D'en Bossa
+  description: Sole, mare e spiagge chiarissime per la tua vacanza a Ibiza
+  price: 172
+  price-description: a persona. Basato su 2 persone per 2 notti
+  saved: 0
+  expires: 2019/05/29
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94486/87bb1fe6_567f_403f_b120_0c1e07c577ed.jpg
+  link: https://it.secretescapes.com/unestate-fantastica-a-ibiza-fergus-style-bahamas-ibiza-it/sale
+  sale-id: 94486
   domestic: false
