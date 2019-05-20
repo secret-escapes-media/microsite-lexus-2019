@@ -2,45 +2,6 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: Splitter nytt og sentralt i Oslo
-  id: splitter-nytt-og-sentralt-i-oslo
-  location: Clarion Hotel The Hub, Oslo, Norge
-  description: Vær blant de første som sjekker inn på trendy designhotell i Oslo – åpnet dørene i mars 2019!&nbsp;
-  price: 1050
-  price-description: per rom per natt
-  saved: 32
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92425/3b1d2886_cf0c_46cc_84cc_e9fcddcd7764.jpg
-  link: https://no.secretescapes.com/splitter-nytt-og-sentralt-i-oslo-clarion-hotel-the-hub-oslo-norge-no-no/sale
-  sale-id: 92425
-  domestic: true
-
-- title: Bare minutter unna Bryggen
-  id: bare-minutter-unna-bryggen
-  location: First Hotel Marin, Bergen, Norge
-  description: Beliggenheten midt i smørøyet i Norges vakreste by – inkludert frokost
-  price: 1250
-  price-description: per rom per natt
-  saved: 37
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/12765/052a5d9e_4ebe_4dc0_93a1_1b22f47feb7d.jpg
-  link: https://no.secretescapes.com/bare-minutter-unna-bryggen-first-hotel-marin-bergen-norge-no1/sale
-  sale-id: 92771
-  domestic: true
-
-- title: Basseng, trening og restauranter i Stavanger
-  id: basseng-trening-og-restauranter-i-stavanger
-  location: Radisson Blu Royal Hotel Stavanger, Stavanger
-  description: Moderne og komfortable rom på sentralt Stavanger-hotell med basseng, badstu og restauranter&nbsp;
-  price: 950
-  price-description: per rom per natt
-  saved: 42
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14180/6f74936c_c658_4fb1_8090_8993cf7ac642.jpg
-  link: https://no.secretescapes.com/basseng-trening-og-restauranter-i-stavanger-radisson-blu-royal-hotel-stavanger-stavanger/sale
-  sale-id: 92455
-  domestic: true
-
 - title: Supersentral beliggenhet i Oslo
   id: supersentral-beliggenhet-i-oslo
   location: First Hotel Grims Grenka, Oslo, Norge
@@ -48,7 +9,7 @@
   price: 1395
   price-description: per rom per natt
   saved: 37
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10585/0eaf785a_d63d_41b5_b063_24d161b46e66.jpg
   link: https://no.secretescapes.com/supersentral-beliggenhet-i-oslo-first-hotel-grims-grenka-oslo-norge/sale
   sale-id: 93678
@@ -71,43 +32,17 @@
 # NON DOMESTIC OFFERS
 ################################################################################
 
-- title: Femstjerners luksus ved stranden på Mallorca
-  id: femstjerners-luksus-ved-stranden-på-mallorca
-  location: FERGUS Style Tobago, Mallorca, Spania
-  description: Moderne femstjernes hotell like ved stranden i Magaluf, med utendørsbasseng og spennende gastronomi
-  price: 1224
-  price-description: per room per natt
-  saved: 60
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88670/f725f953_5e7e_4791_81fd_ab4102067d71.jpg
-  link: https://no.secretescapes.com/femstjerners-luksus-ved-stranden-paa-mallorca-fergus-style-tobago-mallorca-spania/sale
-  sale-id: 92349
-  domestic: false
-
 - title: Lev jetsetlivet på Sardinia
   id: lev-jetsetlivet-på-sardinia
   location: Colonna Pevero, Sardinia, Italia
   description: Velkomstdrink og sparabatt på Sardinias smaragdkyst – med halvpensjon inkludert
-  price: 2020
+  price: 2117
   price-description: per rom per natt
   saved: 64
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17278/e43ecae6_3668_4fec_bb58_361a8589f81c.jpg
   link: https://no.secretescapes.com/lev-jetsetlivet-paa-sardinia-colonna-pevero-sardinia-italia-no-no/sale
   sale-id: 93454
-  domestic: false
-
-- title: Klassisk og elegant i Roma
-  id: klassisk-og-elegant-i-roma
-  location: Grand Hotel Ritz, Roma, Italia
-  description: Et elegant opphold i nærheten av Parioli-området i Roma, inkl. frokost og ekstragoder
-  price: 1268
-  price-description: per rom per natt
-  saved: 42
-  expires: 2019/05/14
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/33324/2ec48dca_bed6_4bfa_970d_2810691a9e47.jpg
-  link: https://no.secretescapes.com/klassisk-og-elegant-i-roma-grand-hotel-ritz-roma-italia-no/sale
-  sale-id: 93240
   domestic: false
 
 - title: Unikt hotell med magiske rom
@@ -117,7 +52,7 @@
   price: 1683
   price-description: per rom per natt
   saved: 45
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/80443/034d45dd_5a42_4ee6_8f8e_5e4d58dce66a.jpg
   link: https://no.secretescapes.com/unikt-hotell-med-magiske-rom-chateau-monfort-milano-italia-no6/sale
   sale-id: 93672
@@ -130,7 +65,7 @@
   price: 1454
   price-description: per rom per natt
   saved: 48
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/59767/b5beae62_148c_44ce_a6e6_87ada268cfea.jpg
   link: https://no.secretescapes.com/femstjerners-velvaeredroem-paa-ischia-punta-molino-beach-resort-and-spa-ischia-italia/sale
   sale-id: 93468
@@ -143,7 +78,7 @@
   price: 1007
   price-description: per rom per natt
   saved: 46
-  expires: 2019/05/14
+  expires: 2019/05/21
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92791/9e08b0de_ac52_4b81_b333_fe12ae3a960a.jpg
   link: https://no.secretescapes.com/vin-og-design-i-stockholm-the-winery-hotel-stockholm-sverige-no1/sale
   sale-id: 92791
@@ -156,7 +91,7 @@
   price: 1453
   price-description: per rom per natt
   saved: 32
-  expires: 2019/05/14
+  expires: 2019/05/28
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86348/23555bdf_3d75_4cdf_8695_8385008f2aae.jpg
   link: https://no.secretescapes.com/komplett-spaopplevelse-i-sverige-vann-spa-hotell-and-konferens-brastad-sverige-1/sale
   sale-id: 93127
@@ -182,7 +117,7 @@
   price: 1083
   price-description: per rom per natt
   saved: 44
-  expires: 2019/05/21
+  expires: 2019/05/28
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39416/5118d9d8_fe87_4eaf_bda2_9969e25f0ea5.jpg
   link: https://no.secretescapes.com/aktiv-ferie-paa-fjellet-i-sverige-holiday-club-are-are-sverige-no/sale
   sale-id: 94093
