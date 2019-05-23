@@ -9,7 +9,7 @@
   price: 1395
   price-description: per rom per natt
   saved: 37
-  expires: 2019/05/21
+  expires: 2019/05/28
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10585/0eaf785a_d63d_41b5_b063_24d161b46e66.jpg
   link: https://no.secretescapes.com/supersentral-beliggenhet-i-oslo-first-hotel-grims-grenka-oslo-norge/sale
   sale-id: 93678
@@ -22,7 +22,7 @@
   price: 1038
   price-description: per rom per natt
   saved: 30
-  expires: 2019/05/21
+  expires: 2019/05/28
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94237/becab491_5ad1_4ec0_b77a_b2d08f76e01d.jpg
   link: https://no.secretescapes.com/sjarmerende-og-sentralt-i-oslo-clarion-collection-savoy-oslo/sale
   sale-id: 94237
@@ -32,19 +32,6 @@
 # NON DOMESTIC OFFERS
 ################################################################################
 
-- title: Lev jetsetlivet på Sardinia
-  id: lev-jetsetlivet-på-sardinia
-  location: Colonna Pevero, Sardinia, Italia
-  description: Velkomstdrink og sparabatt på Sardinias smaragdkyst – med halvpensjon inkludert
-  price: 2117
-  price-description: per rom per natt
-  saved: 64
-  expires: 2019/05/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/17278/e43ecae6_3668_4fec_bb58_361a8589f81c.jpg
-  link: https://no.secretescapes.com/lev-jetsetlivet-paa-sardinia-colonna-pevero-sardinia-italia-no-no/sale
-  sale-id: 93454
-  domestic: false
-
 - title: Unikt hotell med magiske rom
   id: unikt-hotell-med-magiske-rom
   location: Château Monfort, Milano, Italia
@@ -52,36 +39,10 @@
   price: 1683
   price-description: per rom per natt
   saved: 45
-  expires: 2019/05/21
+  expires: 2019/05/29
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/80443/034d45dd_5a42_4ee6_8f8e_5e4d58dce66a.jpg
   link: https://no.secretescapes.com/unikt-hotell-med-magiske-rom-chateau-monfort-milano-italia-no6/sale
   sale-id: 93672
-  domestic: false
-
-- title: Femstjerners velværedrøm på Ischia
-  id: femstjerners-velværedrøm-på-ischia
-  location: Punta Molino Beach Resort & Spa, Ischia, Italia
-  description: Sparesort med vakker beliggenhet og privat strand, inkludert frokost og ekstragoder
-  price: 1454
-  price-description: per rom per natt
-  saved: 48
-  expires: 2019/05/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/59767/b5beae62_148c_44ce_a6e6_87ada268cfea.jpg
-  link: https://no.secretescapes.com/femstjerners-velvaeredroem-paa-ischia-punta-molino-beach-resort-and-spa-ischia-italia/sale
-  sale-id: 93468
-  domestic: false
-
-- title: Vin og design i Stockholm
-  id: vin-og-design-i-stockholm
-  location: The Winery Hotel, Stockholm, Sverige
-  description: Svensk designdrøm for vinelskere rett utenfor Stockholm, inkludert frokost og mer
-  price: 1007
-  price-description: per rom per natt
-  saved: 46
-  expires: 2019/05/21
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92791/9e08b0de_ac52_4b81_b333_fe12ae3a960a.jpg
-  link: https://no.secretescapes.com/vin-og-design-i-stockholm-the-winery-hotel-stockholm-sverige-no1/sale
-  sale-id: 92791
   domestic: false
 
 - title: Komplett spaopplevelse i Sverige
@@ -104,7 +65,7 @@
   price: 1914
   price-description: per suite per natt
   saved: 42
-  expires: 2019/05/21
+  expires: 2019/05/29
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90577/3a0e4e68_b76e_47ae_9708_b4b5c5804ae1.jpg
   link: https://no.secretescapes.com/eksklusivt-boutiquehotell-i-portal-nous-portals-hills-boutique-hotel-portals-nous-mallorca-spania-no/sale
   sale-id: 93893
@@ -130,8 +91,21 @@
   price: 1079
   price-description: per rom per natt
   saved: 23
-  expires: 2019/05/21
+  expires: 2019/05/28
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/11062/49294441_dab6_497f_b3e1_69397122793a.jpg
   link: https://no.secretescapes.com/skjaergaardshotell-i-stockholm-elite-hotel-marina-tower-stockholm-sverige-no3/sale
   sale-id: 94102
+  domestic: false
+
+- title: Strandnært med spa på Sardinia
+  id: strandnært-med-spa-på-sardinia
+  location: Àrbatax Park Resort - Suites del Mare, Àrbatax, Sardinia, Italia
+  description: Suiter på resort med spa og flere strender i naturskjønne Ogliastra, inkludert halvpensjon
+  price: 4170
+  price-description: per suite per natt
+  saved: 63
+  expires: 2019/05/29
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73726/960100d5_f0ce_4382_96ff_20b561324f90.jpg
+  link: https://no.secretescapes.com/strandnaert-med-spa-paa-sardinia-arbatax-park-resort-suites-del-mare-arbatax-sardinia-italia-no/sale
+  sale-id: 94519
   domestic: false
