@@ -16,7 +16,7 @@
   domestic: true
 
 - title: Arbatax Park Resort - Suites Del Mare
-  id: arbatax-park-resort-suites-del-mare
+  id: arbatax-park-resort---suites-del-mare
   location: Àrbatax, Sardegna
   description: Soggiorno d’incanto in un resort 4* a picco sul blu della Sardegna
   price: 425
@@ -26,6 +26,45 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73726/960100d5_f0ce_4382_96ff_20b561324f90.jpg
   link: https://it.secretescapes.com/arbatax-park-resort-suites-del-mare-arbatax-sardegna2/sale
   sale-id: 94519
+  domestic: true
+
+- title: La Suite Boutique Hotel
+  id: la-suite-boutique-hotel
+  location: Procida, Campania
+  description: Un sogno a 5* con spa nella pittoresca isola di Procida
+  price: 131
+  price-description: per camera per notte
+  saved: 54
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95134/22f40907_88ba_43e3_b730_b922af7b7554.jpg
+  link: https://it.secretescapes.com/la-suite-boutique-hotel-procida-campania/sale
+  sale-id: 95134
+  domestic: true
+
+- title: I Monasteri Golf & Spa Resort
+  id: i-monasteri-golf-and-spa-resort
+  location: Siracusa, Sicilia
+  description: Soggiorno benessere a 5* in un antico monastero siciliano&nbsp;
+  price: 105
+  price-description: per camera per notte
+  saved: 61
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95177/877e6f5b_4f43_4af8_9364_90ed231da2ae.jpg
+  link: https://it.secretescapes.com/i-monasteri-golf-and-spa-resort-siracusa-sicilia/sale
+  sale-id: 95177
+  domestic: true
+
+- title: Hotel Bad Fallenbach
+  id: hotel-bad-fallenbach
+  location: San Leonardo in Passiria, Trentino-Alto Adige
+  description: Un 4*S green tra le meraviglie dell’Alto Adige, per un benessere ad alta quota
+  price: 229
+  price-description: per camera per notte
+  saved: 46
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74443/edd2d9c9_68a1_446e_9f20_ad720e154310.jpg
+  link: https://it.secretescapes.com/hotel-bad-fallenbach-san-leonardo-in-passiria-trentino-alto-adige-it123/sale
+  sale-id: 94973
   domestic: true
 
 ################################################################################
@@ -45,19 +84,6 @@
   sale-id: 93893
   domestic: false
 
-- title: H10 Palacio Colomera
-  id: h10-palacio-colomera
-  location: Cordoba, Andalusia
-  description: Nuovissimo hotel 4* nel cuore di Cordoba
-  price: 84
-  price-description: per camera per notte
-  saved: 36
-  expires: 2019/05/29
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93925/2284ae36_fbc7_4540_a8e5_baa5f06c064e.jpg
-  link: https://it.secretescapes.com/h10-palacio-colomera-cordoba-andalusia/sale
-  sale-id: 93925
-  domestic: false
-
 - title: H10 Casa de la Plata
   id: h10-casa-de-la-plata
   location: Siviglia, Spagna
@@ -71,45 +97,6 @@
   sale-id: 94159
   domestic: false
 
-- title: First Hotel Grims Grenka
-  id: first-hotel-grims-grenka
-  location: Oslo, Norvegia
-  description: City break di stile a Oslo, in un hotel con terrazza panoramica
-  price: 143
-  price-description: per camera per notte
-  saved: 37
-  expires: 2019/05/28
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/13364/81b19555_d7cf_469a_a71e_b3bf37a9c4b2.jpg
-  link: https://it.secretescapes.com/first-hotel-grims-grenka-oslo-norvegia/sale
-  sale-id: 93678
-  domestic: false
-
-- title: Clarion Collection Savoy
-  id: clarion-collection-savoy
-  location: Oslo
-  description: Alla scoperta di Oslo da un 4* centralissimo
-  price: 106
-  price-description: per camera per notte
-  saved: 30
-  expires: 2019/05/28
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94237/becab491_5ad1_4ec0_b77a_b2d08f76e01d.jpg
-  link: https://it.secretescapes.com/clarion-collection-savoy-oslo/sale
-  sale-id: 94237
-  domestic: false
-
-- title: Elite Hotel Marina Tower
-  id: elite-hotel-marina-tower
-  location: Stoccolma
-  description: Un 4* di design affacciato sulla baia della magica Stoccolma
-  price: 110
-  price-description: per camera per notte
-  saved: 23
-  expires: 2019/05/28
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/11062/99a731c7_1861_4155_9496_32564705d568.jpg
-  link: https://it.secretescapes.com/elite-hotel-marina-tower-stoccolma-it/sale
-  sale-id: 94102
-  domestic: false
-
 - title: The Ampersand Hotel
   id: the-ampersand-hotel
   location: Londra
@@ -117,10 +104,75 @@
   price: 227
   price-description: per camera per notte
   saved: 45
-  expires: 2019/05/29
+  expires: 2019/05/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94720/5fe64f55_c6f6_4142_9a53_0fc28cf1948b.jpg
   link: https://it.secretescapes.com/the-ampersand-hotel-londra/sale
   sale-id: 94720
+  domestic: false
+
+- title: GPRO Valparaiso Palace Hotel & Spa
+  id: gpro-valparaiso-palace-hotel-and-spa
+  location: Palma di Maiorca, Isole Baleari
+  description: Esclusivo resort a 5* nel cuore di Palma di Maiorca
+  price: 149
+  price-description: per camera per notte
+  saved: 49
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/28477/f79209b7_d7f6_469a_8454_6fb94d56ddae.jpg
+  link: https://it.secretescapes.com/gpro-valparaiso-palace-hotel-and-spa-palma-di-maiorca-isole-baleari/sale
+  sale-id: 95067
+  domestic: false
+
+- title: Bohemia Suites & Spa
+  id: bohemia-suites-and-spa
+  location: Gran Canaria, Isole Canarie
+  description: Uno splendido 5* per soli adulti con spa tra le meraviglie di Gran Canaria
+  price: 144
+  price-description: per camera per notte
+  saved: 23
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/9362/d78fa349_24c1_4f72_addd_b401bc657013.jpg
+  link: https://it.secretescapes.com/bohemia-suites-and-spa-gran-canaria-isole-canarie/sale
+  sale-id: 94708
+  domestic: false
+
+- title: Seaside Los Jameos Playa
+  id: seaside-los-jameos-playa
+  location: Lanzarote, Isole Canarie
+  description: Soggiorno in un 4* con spa a due passi dal mare di Lanzarote
+  price: 128
+  price-description: per camera per notte
+  saved: 27
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83040/b12ed0e9_4ce7_4e15_9e92_4bd626e06714.jpg
+  link: https://it.secretescapes.com/seaside-los-jameos-playa-lanzarote-isole-canarie2/sale
+  sale-id: 94693
+  domestic: false
+
+- title: Gara Suites Golf & Spa
+  id: gara-suites-golf-and-spa
+  location: Tenerife, Canarie
+  description: Soggiorno da sogno in mezza pensione in un incantevole 4* a Tenerife
+  price: 83
+  price-description: per camera per notte
+  saved: 42
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88953/4b3afadd_d23c_4fd8_a220_32caf459a489.jpg
+  link: https://it.secretescapes.com/gara-suites-golf-and-spa-tenerife-canarie/sale
+  sale-id: 94218
+  domestic: false
+
+- title: The Mandrake
+  id: the-mandrake
+  location: Londra
+  description: City break londinese in un boutique hotel con ristorante stellato a pochi minuti da Oxford Circus
+  price: 249
+  price-description: per camera per notte
+  saved: 57
+  expires: 2019/06/05
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74357/01dc45ca_f10b_4d0f_bacf_1bb0635c2926.jpg
+  link: https://it.secretescapes.com/the-mandrake-londra-italia-it/sale
+  sale-id: 94946
   domestic: false
 
 - title: Un'estate all-inclusive sotto il sole di Ibiza
@@ -128,9 +180,8 @@
   description: Sole, mare e spiagge chiarissime per la tua vacanza a Ibiza
   price: 172
   price-description: a persona. Basato su 2 persone per 2 notti
-  saved: 0
-  expires: 2019/05/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94486/f8d5a2c4_1970_4baa_81f4_469ec6a02cbe.jpg
+  expires: 2019/06/01
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/94486/8bd13c07_84f8_47b3_867e_1a88f5898d9e.jpg?auto=format,compress
   link: https://it.secretescapes.com/unestate-fantastica-a-ibiza-fergus-style-bahamas-ibiza-it/sale
   sale-id: 94486
   domestic: false
