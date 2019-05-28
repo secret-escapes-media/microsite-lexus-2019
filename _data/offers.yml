@@ -2,19 +2,6 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: Spahotell med utsikt över Gullmarsfjorden
-  id: spahotell-med-utsikt-över-gullmarsfjorden
-  location: Vann Spa Hotell & Konferens, Brastad, Bohuslän
-  description: Avkopplande spavistelse på bildsköna västkusten, inkl. frukost, tvårätters och spaentré
-  price: 1590
-  price-description: per rum per natt
-  saved: 32
-  expires: 2019/05/28
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86348/23555bdf_3d75_4cdf_8695_8385008f2aae.jpg
-  link: https://www.secretescapes.se/spahotell-med-utsikt-over-gullmarsfjorden-vann-spa-hotell-and-konferens-brastad-bohuslaen-se-2/sale
-  sale-id: 93127
-  domestic: true
-
 - title: Aktiv vistelse i natursköna Åre
   id: aktiv-vistelse-i-natursköna-åre
   location: Holiday Club Åre, Åre
@@ -22,7 +9,7 @@
   price: 1195
   price-description: per rum per natt
   saved: 44
-  expires: 2019/05/28
+  expires: 2019/06/04
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39416/5118d9d8_fe87_4eaf_bda2_9969e25f0ea5.jpg
   link: https://www.secretescapes.se/aktiv-vistelse-i-naturskona-are-holiday-club-are-are/sale
   sale-id: 94093
@@ -32,10 +19,10 @@
   id: klassiskt-hotell-i-helsingborg
   location: Clarion Grand Hotel, Helsingborg
   description: Anrikt boende i modern tappning på Stortorget i Helsingborg, inkl. frukost och middag som tillval
-  price: 895
+  price: 1645
   price-description: per rum per natt
   saved: 35
-  expires: 2019/05/28
+  expires: 2019/06/04
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94200/8cbec431_0e08_4831_8a49_23e2db78641c.jpg
   link: https://www.secretescapes.se/klassiskt-hotell-med-spa-i-helsingborg-clarion-grand-hotel-helsingborg/sale
   sale-id: 94200
@@ -48,23 +35,10 @@
   price: 795
   price-description: per rum per natt
   saved: 45
-  expires: 2019/05/28
+  expires: 2019/06/04
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/84965/84bad8d1_c8ec_4816_939a_9bdd165aa35f.jpg
   link: https://www.secretescapes.se/snyggt-designhotell-i-lund-radisson-blu-hotel-lund-lund-se-1/sale
   sale-id: 94235
-  domestic: true
-
-- title: Modern vistelse vid vattnet i Stockholm
-  id: modern-vistelse-vid-vattnet-i-stockholm
-  location: Elite Hotel Marina Tower, Stockholm
-  description: Lyxigt boende i en ståtlig byggnad nära Södermalm, inkl. frukost
-  price: 1190
-  price-description: per rum per natt
-  saved: 23
-  expires: 2019/05/28
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/11062/49294441_dab6_497f_b3e1_69397122793a.jpg
-  link: https://www.secretescapes.se/modern-vistelse-vid-vattnet-i-stockholm-elite-hotel-marina-tower-stockholm-se-1/sale
-  sale-id: 94102
   domestic: true
 
 ################################################################################
@@ -97,32 +71,6 @@
   sale-id: 93893
   domestic: false
 
-- title: Urbant designhotell i centrala Oslo
-  id: urbant-designhotell-i-centrala-oslo
-  location: First Hotel Grims Grenka, Oslo, Norge
-  description: Upplev hippa Oslo från ett snyggt hotell med hyllad restaurang och takterrass, inkl. frukost
-  price: 1530
-  price-description: per rum per natt
-  saved: 37
-  expires: 2019/05/28
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/13364/81b19555_d7cf_469a_a71e_b3bf37a9c4b2.jpg
-  link: https://www.secretescapes.se/urbant-designhotell-i-centrala-oslo-first-hotel-grims-grenka-oslo-norge/sale
-  sale-id: 93678
-  domestic: false
-
-- title: Boende med modern charm i centrala Oslo
-  id: boende-med-modern-charm-i-centrala-oslo
-  location: Clarion Collection Savoy, Oslo, Norge
-  description: Bo mitt i hjärtat av Oslo, nära sevärdheter, shopping och nöjen, inkl. frukost och kvällsmat
-  price: 1150
-  price-description: per rum per natt
-  saved: 30
-  expires: 2019/05/28
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94237/becab491_5ad1_4ec0_b77a_b2d08f76e01d.jpg
-  link: https://www.secretescapes.se/boende-med-modern-charm-i-centrala-oslo-clarion-collection-savoy-oslo-norge/sale
-  sale-id: 94237
-  domestic: false
-
 - title: Fartfyllt familjehotell vid Algarvekusten
   id: fartfyllt-familjehotell-vid-algarvekusten
   location: Jupiter Albufeira Hotel - Family & Fun, Albufeira, Portugal
@@ -143,7 +91,7 @@
   price: 2440
   price-description: per rum per natt
   saved: 45
-  expires: 2019/05/29
+  expires: 2019/05/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94720/5fe64f55_c6f6_4142_9a53_0fc28cf1948b.jpg
   link: https://www.secretescapes.se/chict-temahotell-i-london-the-ampersand-hotel-london-england/sale
   sale-id: 94720
@@ -160,4 +108,69 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73726/960100d5_f0ce_4382_96ff_20b561324f90.jpg
   link: https://www.secretescapes.se/strandnaera-med-spa-paa-sardinien-arbatax-park-resort-suites-del-mare-arbatax-sardinien-italien-se-1/sale
   sale-id: 94519
+  domestic: false
+
+- title: Femstjärnigt hotell på Mallorca
+  id: femstjärnigt-hotell-på-mallorca
+  location: GPRO Valparaiso Palace, Palma, Mallorca, Spanien
+  description: Kombinera strand, city och spa i Palma, inkl. frukost eller halvpension
+  price: 1600
+  price-description: per rum per natt
+  saved: 49
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/28477/f79209b7_d7f6_469a_8454_6fb94d56ddae.jpg
+  link: https://www.secretescapes.se/femstjaernigt-hotell-paa-mallorca-gpro-valparaiso-palace-palma-mallorca-spanien/sale
+  sale-id: 95067
+  domestic: false
+
+- title: Resort med lugnt läge på Algarvekusten
+  id: resort-med-lugnt-läge-på-algarvekusten
+  location: Laguna Resort Vilamoura, Vilamoura, Portugal
+  description: Modernt hotell med pool och designat café, inkl. frukost
+  price: 380
+  price-description: per lägenhet per natt
+  saved: 47
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/89458/a3c87639_7a84_437a_89c5_ac5ed203b400.jpg
+  link: https://www.secretescapes.se/resort-med-lugnt-laege-paa-algarvekusten-laguna-resort-vilamoura-vilamoura-portugal-se-1/sale
+  sale-id: 95065
+  domestic: false
+
+- title: Stilrent på Sicilien
+  id: stilrent-på-sicilien
+  location: I Monasteri Golf Resort, Syrakusa, Italien
+  description: Femstjärnig golf- och sparesort nära historiska Syrakusa, inkl. frukost eller halvpension
+  price: 1130
+  price-description: per rum per natt
+  saved: 61
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/65890/b4f2cf0a_f6ea_4661_9173_bd8f2b4267ea.jpg
+  link: https://www.secretescapes.se/stilrent-paa-sicilien-i-monasteri-golf-resort-syrakusa-italien/sale
+  sale-id: 95177
+  domestic: false
+
+- title: Prisad sparesort i norska fjällen
+  id: prisad-sparesort-i-norska-fjällen
+  location: Norefjell Ski & Spa, Norefjell, Norge
+  description: Ladda batterierna i Norges vackra bergslandskap, inkl. frukost, spaentré och matrabatt
+  price: 1480
+  price-description: per rum per natt
+  saved: 47
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/32900/e982c4f8_7e71_4ad4_95de_bcf5411485b4.jpg
+  link: https://www.secretescapes.se/prisad-sparesort-i-norska-fjaellen-norefjell-ski-and-spa-norefjell-norge-se-1/sale
+  sale-id: 94610
+  domestic: false
+
+- title: Femstjärnig oas i centrala London
+  id: femstjärnig-oas-i-centrala-london
+  location: The Mandrake, London, England
+  description: Boutiquehotell med spa, restaurang och lummig terrass i London, inkl. frukost
+  price: 2670
+  price-description: per rum per natt
+  saved: 57
+  expires: 2019/06/05
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74357/192483b6_5605_429d_9363_db368ad4dc60.jpg
+  link: https://www.secretescapes.se/femstjaernig-oas-i-centrala-london-the-mandrake-london-england/sale
+  sale-id: 94946
   domestic: false
