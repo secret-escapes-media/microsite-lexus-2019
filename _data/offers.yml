@@ -41,9 +41,36 @@
   sale-id: 94159
   domestic: true
 
+- title: GPRO Valparaiso Palace & Spa
+  id: gpro-valparaiso-palace-and-spa
+  location: Mallorca
+  description: Un cinco estrellas en Palma, con opción a desayuno o media pensión y varios extras
+  price: 149
+  price-description: por habitación por noche
+  saved: 49
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/28477/f79209b7_d7f6_469a_8454_6fb94d56ddae.jpg
+  link: https://es.secretescapes.com/gpro-valparaiso-palace-and-spa-mallorca-es-pa/sale
+  sale-id: 95067
+  domestic: true
+
+- title: Gara Suites Golf & Spa
+  id: gara-suites-golf-and-spa
+  location: Tenerife
+  description: Media pensión en un cuatro estrellas al sur de Tenerife, con una botella de vino
+  price: 83
+  price-description: por suite por noche
+  saved: 42
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88953/4b3afadd_d23c_4fd8_a220_32caf459a489.jpg
+  link: https://es.secretescapes.com/gara-suites-golf-and-spa-tenerife-es-es/sale
+  sale-id: 94218
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
+
 - title: Château Monfort
   id: château-monfort
   location: Milán
@@ -57,45 +84,6 @@
   sale-id: 93672
   domestic: false
 
-- title: First Hotel Grims Grenka
-  id: first-hotel-grims-grenka
-  location: Oslo
-  description: Descubre todos los rincones de Oslo desde un céntrico hotel, con desayuno incluido
-  price: 143
-  price-description: por habitación por noche
-  saved: 37
-  expires: 2019/05/28
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/10585/0eaf785a_d63d_41b5_b063_24d161b46e66.jpg
-  link: https://es.secretescapes.com/first-hotel-grims-grenka-oslo-es/sale
-  sale-id: 93678
-  domestic: false
-
-- title: Clarion Collection Savoy
-  id: clarion-collection-savoy
-  location: Oslo
-  description: Un acogedor cuatro estrellas en el corazón de Oslo, en régimen de media pensión
-  price: 106
-  price-description: por habitación por noche
-  saved: 30
-  expires: 2019/05/28
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94237/91c6b0f3_72c7_457d_a410_dda53c9135ee.jpg
-  link: https://es.secretescapes.com/clarion-collection-savoy-oslo-esp/sale
-  sale-id: 94237
-  domestic: false
-
-- title: Hilton Vilamoura As Cascatas Golf Resort & Spa
-  id: hilton-vilamoura-as-cascatas-golf-resort-and-spa
-  location: Algarve (Vilamoura, Portugal)
-  description: Un resort de cinco estrellas en el Algarve, con desayuno, una botella de vino y más extras
-  price: 123
-  price-description: por habitación por noche
-  saved: 44
-  expires: 2019/05/28
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93826/8eaef08b_e0a1_4705_b34f_61d35bed8526.jpg
-  link: https://es.secretescapes.com/hilton-vilamoura-as-cascatas-golf-resort-and-spa-algarve-vilamoura-portugal-es-pa/sale
-  sale-id: 93826
-  domestic: false
-
 - title: Jupiter Albufeira Hotel - Family & Fun
   id: jupiter-albufeira-hotel---family-and-fun
   location: Albufeira, Algarve, Portugal
@@ -107,4 +95,17 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94647/2e466b0a_a7a4_46ab_b242_667a2ce5e26f.jpg
   link: https://es.secretescapes.com/jupiter-albufeira-hotel-family-and-fun-albufeira-portugal-es/sale
   sale-id: 94647
+  domestic: false
+
+- title: Laguna Resort Vilamoura
+  id: laguna-resort-vilamoura
+  location: Algarve (Vilamoura, Portugal)
+  description: Tranquilidad y lujo en este complejo de apartamentos en Vilamoura. Incluye desayuno
+  price: 35
+  price-description: por apartamento por noche
+  saved: 47
+  expires: 2019/06/04
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/89458/a3c87639_7a84_437a_89c5_ac5ed203b400.jpg
+  link: https://es.secretescapes.com/laguna-resort-vilamoura-algarve-vilamoura-portugal-esp-es/sale
+  sale-id: 95065
   domestic: false
