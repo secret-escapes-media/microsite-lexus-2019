@@ -419,3 +419,120 @@
   link: https://www.secretescapes.de/5-star-boutiquehotel-nahe-oxford-street-the-mandrake-london-england-grossbritannien-2/sale
   sale-id: 94946
   domestic: false
+
+- title: Golfgenuss an der Algarve
+  id: golfgenuss-an-der-algarve
+  location: Amendoeira Golf Resort, Alcantarilha, Algarve, Portugal
+  description: Im Golf-Resort umgeben von malerischem Grün residieren – inkl. Frühstück &amp; Begrüßungsgetränk
+  price: 90
+  price-description: pro Unterkunft pro Nacht
+  saved: 64
+  expires: 2019/06/11
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/31715/50f1e0a7_bc88_4306_9944_0219cec9114f.jpg
+  link: https://www.secretescapes.de/golfgenuss-an-der-algarve-amendoeira-golf-resort-alcantarilha-algarve-portugal/sale
+  sale-id: 95542
+  domestic: false
+
+- title: Spanisches Lebensgefühl im Herzen Barcelonas
+  id: spanisches-lebensgefühl-im-herzen-barcelonas
+  location: The Gates Hotel Diagonal, Barcelona, Katalonien, Spanien
+  description: Direkt am Plaça de les Glòries Catalanes – inkl. Frühstück, Begrüßungsgetränk &amp; spätem Check-out
+  price: 89
+  price-description: pro Unterkunft pro Nacht
+  saved: 52
+  expires: 2019/06/11
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86981/8e234893_246c_4375_82a5_bc24a59e3330.jpg
+  link: https://www.secretescapes.de/spanisches-lebensgefuehl-im-herzen-barcelonas-the-gates-hotel-diagonal-barcelona-katalonien-spanien/sale
+  sale-id: 94489
+  domestic: false
+
+- title: Mallorca mit allen Sinnen genießen
+  id: mallorca-mit-allen-sinnen-genießen
+  location: Fergus Club Europa, Peguera, Mallorca, Balearen, Spanien
+  description: Moderne &amp; komfortable Zimmer mit All-inclusive-Verpflegung auf Mallorca
+  price: 110
+  price-description: pro Zimmer pro Nacht
+  saved: 43
+  expires: 2019/06/11
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73722/e32f9cc1_7f6e_406f_8d25_18cd426ff7fb.jpg
+  link: https://www.secretescapes.de/mallorca-mit-allen-sinnen-geniessen-fergus-club-europa-peguera-mallorca-spanien-de/sale
+  sale-id: 95187
+  domestic: false
+
+- title: Auf den Spuren des balearischen Lebensgefühls
+  id: auf-den-spuren-des-balearischen-lebensgefühls
+  location: Finca Serena, Montuiri, Mallorca, Balearen, Spanien
+  description: Luxus-Finca auf Mallorca – inkl. Frühstück, Restaurant- &amp; Spa-Gutschein &amp; Extras
+  price: 224
+  price-description: pro Unterkunft pro Nacht
+  saved: 41
+  expires: 2019/06/11
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95288/9f34fef9_51da_40c8_aec7_68c510ebe87c.jpg
+  link: https://www.secretescapes.de/auf-den-spuren-des-balearischen-lebensgefuehls-finca-serena-montuiri-mallorca-balearen-spanien/sale
+  sale-id: 95288
+  domestic: false
+
+- title: Modernes Design in Stockholms Vasastan
+  id: modernes-design-in-stockholms-vasastan
+  location: Elite Palace Hotel, Stockholm, Schweden
+  description: Zentral gelegenes Boutiquehotel mit Designzimmern &amp; vielseitigem Frühstücksbuffet
+  price: 74
+  price-description: pro Zimmer pro Nacht
+  saved: 34
+  expires: 2019/06/11
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91573/ed538f77_0945_46c3_8b03_09d402f28ad8.jpg
+  link: https://www.secretescapes.de/modernes-design-in-stockholms-vasastan-elite-palace-hotel-stockholm-schweden1/sale
+  sale-id: 94907
+  domestic: false
+
+- title: Stockholm-Abenteuer für Kunstaffine
+  id: stockholm-abenteuer-für-kunstaffine
+  location: Story Hotel Riddargatan, Stockholm, Schweden
+  description: Individuelles Design im Herzen von Stockholm – inkl. Frühstücksbuffet
+  price: 108
+  price-description: pro Zimmer pro Nacht
+  saved: 34
+  expires: 2019/06/11
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/49805/221f07b8_5ea4_4435_b03f_d59967a7445c.jpg
+  link: https://www.secretescapes.de/stockholm-abenteuer-fuer-kunstaffine-story-hotel-riddargatan-stockholm-schweden/sale
+  sale-id: 95328
+  domestic: false
+
+- title: Kunst & Design im Süden Roms
+  id: kunst-and-design-im-süden-roms
+  location: Hotel Pulitzer Roma, Rom, Italien
+  description: Superior-Zimmer in Roms Finanzviertel – inkl. Frühstück &amp; Begrüßungsgetränk
+  price: 89
+  price-description: pro Zimmer pro Nacht
+  saved: 40
+  expires: 2019/06/11
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/57116/189425a6_932d_4e52_8b0b_a5880b0c8e64.jpg
+  link: https://www.secretescapes.de/kunst-and-design-im-sueden-roms-hotel-pulitzer-roma-rom-italien2/sale
+  sale-id: 95364
+  domestic: false
+
+- title: Stilvoller Städtetrip nach Italien
+  id: stilvoller-städtetrip-nach-italien
+  location: Elizabeth Lifestyle Hotel, Mailand, Italien
+  description: In der Modestadt Mailand den italienischen Lebensstil genießen – inkl. Frühstück &amp; Prosecco
+  price: 128
+  price-description: pro Zimmer pro Nacht
+  saved: 57
+  expires: 2019/06/11
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94756/ca1c00fc_b85e_4ea8_ab7b_929382eae9ec.jpg
+  link: https://www.secretescapes.de/stilvoller-staedtetrip-nach-italien-elizabeth-lifestyle-hotel-mailand-italien/sale
+  sale-id: 94756
+  domestic: false
+
+- title: Toskana für Golfer & Gourmets
+  id: toskana-für-golfer-and-gourmets
+  location: Hotel Il Castelfalfi, Montaione, Florenz, Toskana, Italien
+  description: Inkl. Frühstück, täglichem Spa-Zugang und Ermäßigungen auf Wellness, Golf &amp; Tennis
+  price: 208
+  price-description: pro Zimmer pro Nacht
+  saved: 37
+  expires: 2019/06/11
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/52547/37fe61be_bc21_4bc8_be32_0bce4413b623.jpg
+  link: https://www.secretescapes.de/toskana-fuer-golfer-and-gourmets-hotel-il-castelfalfi-montaione-florenz-toskana-italien/sale
+  sale-id: 94624
+  domestic: false
