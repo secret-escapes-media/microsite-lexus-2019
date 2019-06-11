@@ -2,19 +2,6 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: Hippt boutiquehotell på Söder
-  id: hippt-boutiquehotell-på-söder
-  location: NOFO Hotel, Stockholm
-  description: Lyxa till det på en undangömd pärla i trendiga SoFo, inkl. frukost, ost och charkuterier
-  price: 1190
-  price-description: per rum per natt
-  saved: 41
-  expires: 2019/06/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94515/250228e4_c49f_4dbb_b659_8b298e450d25.jpg
-  link: https://www.secretescapes.se/hippt-boutiquehotell-paa-soder-nofo-hotel-stockholm-se-1/sale
-  sale-id: 94515
-  domestic: true
-
 - title: Prisbelönt designhotell i Linköping
   id: prisbelönt-designhotell-i-linköping
   location: Quality Hotel The Box, Linköping
@@ -22,23 +9,10 @@
   price: 870
   price-description: per rum per natt
   saved: 24
-  expires: 2019/06/11
+  expires: 2019/06/18
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73003/09903476_97eb_4551_a24c_ee62e9fe965a.jpg
   link: https://www.secretescapes.se/prisbelont-designhotell-i-linkoping-quality-hotel-the-box-linkoping-se-1/sale
   sale-id: 94724
-  domestic: true
-
-- title: Bo modernt mitt i Vasastan
-  id: bo-modernt-mitt-i-vasastan
-  location: Elite Palace Hotel, Stockholm
-  description: Stilren design nära Vanadislunden, Observatorielunden och Vasaparken, inkl. frukost
-  price: 795
-  price-description: per rum per natt
-  saved: 34
-  expires: 2019/06/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/46204/c7b6dde6_f745_49c2_9500_e8f680772090.jpg
-  link: https://www.secretescapes.se/bo-modernt-mitt-i-vasastan-elite-palace-hotel-stockholm01/sale
-  sale-id: 94907
   domestic: true
 
 - title: Idylliskt herrgårdsboende vid Mälaren
@@ -48,7 +22,7 @@
   price: 1790
   price-description: per rum per natt
   saved: 34
-  expires: 2019/06/11
+  expires: 2019/06/18
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91601/c7bfc1a6_e820_4c2b_a9b0_c647ce6e472c.jpg
   link: https://www.secretescapes.se/idylliskt-herrgaardsboende-vid-maelaren-krusenberg-herrgaard-uppsala-se/sale
   sale-id: 95052
@@ -61,7 +35,7 @@
   price: 1090
   price-description: per rum per natt
   saved: 34
-  expires: 2019/06/11
+  expires: 2019/06/18
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/62203/4cf7c76e_a17c_43e7_8d3f_54314311ee85.jpg
   link: https://www.secretescapes.se/boutiquehotell-paa-ostermalm-story-hotel-riddargatan-stockholm-se3/sale
   sale-id: 95328
@@ -74,41 +48,78 @@
   price: 2495
   price-description: per rum per natt
   saved: 32
-  expires: 2019/06/11
+  expires: 2019/06/18
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90811/18b1d890_eb28_461b_9035_c2a1a69e4e83.jpg
   link: https://www.secretescapes.se/vackert-boutiquehotell-utanfor-stockholm-gorvaelns-slott-jaerfaella-utanfor-stockholm01/sale
   sale-id: 95347
   domestic: true
 
-- title: Vardagslyx på spahotell vid Skrea strand
-  id: vardagslyx-på-spahotell-vid-skrea-strand
-  location: Falkenberg Strandbad, Falkenberg
-  description: En elegant vistelse på lyxigt hotell i Falkenberg, inkl. frukost och entré till Retreat Club
-  price: 1295
+- title: Designhotell i spännande del av Stockholm
+  id: designhotell-i-spännande-del-av-stockholm
+  location: Elite Hotel Carolina Tower, Stockholm
+  description: Modernt och stilrent boende i Stockholms trendiga stadsdel Hagastaden, inkl. frukost
+  price: 795
   price-description: per rum per natt
-  saved: 54
-  expires: 2019/06/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/49178/247212e7_30a1_4d0a_a369_158a84789a20.jpg
-  link: https://www.secretescapes.se/vardagslyx-paa-spahotell-vid-skrea-strand-falkenberg-strandbad-falkenberg/sale
-  sale-id: 95370
+  saved: 41
+  expires: 2019/06/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/64357/fd69d8b8_4cf3_44fe_93e1_97006f72d151.jpg
+  link: https://www.secretescapes.se/designhotell-i-spaennande-del-av-stockholm-elite-hotel-carolina-tower-stockholm/sale
+  sale-id: 95634
+  domestic: true
+
+- title: Designhotell med gourmetkrog i Växjö
+  id: designhotell-med-gourmetkrog-i-växjö
+  location: PM & Vänner Hotel, Växjö
+  description: Extraordinärt hotell med stiligt småländskt tema och Michelinrestaurang, inkl. frukost
+  price: 1690
+  price-description: per rum per natt
+  saved: 20
+  expires: 2019/06/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/41171/37b816aa_5e53_44f4_bb47_7647e3c92c01.jpg
+  link: https://www.secretescapes.se/designhotell-med-gourmetkrog-i-vaexjo-pm-and-vaenner-hotel-vaexjo/sale
+  sale-id: 95637
+  domestic: true
+
+- title: Trendigt koncepthotell i Malmö
+  id: trendigt-koncepthotell-i-malmö
+  location: Story Hotel Studio Malmö, Malmö
+  description: Lekfullt och kreativt designat hotell nära Malmö Centralstation, inkl. frukost
+  price: 850
+  price-description: per rum per natt
+  saved: 35
+  expires: 2019/06/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70367/0ad2838e_a60a_4367_b92c_b480008825e2.jpg
+  link: https://www.secretescapes.se/trendigt-koncepthotell-i-malmo-story-hotel-studio-malmo-malmo01/sale
+  sale-id: 95798
+  domestic: true
+
+- title: Stilren skandinavisk design i city
+  location: Nordic Light Hotel, Stockholm
+  description: Modernt designhotell i hjärtat av Stockholm, inkl. frukost
+  price: 602
+  price-description: per person. Baserat på 2 personer per rum per natt
+  saved: 25
+  expires: 2019/06/18
+  image: https://d2g6qre7voj6kv.cloudfront.net/hotels/35/6ecb860c_101b_497f_862e_c74618598298.jpg?auto=format,compress
+  link: https://www.secretescapes.se/nordic-light-hotel-stockholm-se/sale-hotel
+  sale-id: A2643
+  domestic: true
+
+- title: Trendigt designhotell i Stockholm
+  location: At Six, Stockholm
+  description: Stilfull vistelse på konceptuellt designhotell i Stockholms absoluta centrum, inkl frukost
+  price: 827
+  price-description: per person. Baserat på 2 personer per rum per natt
+  saved: 25
+  expires: 2019/06/18
+  image: https://d2g6qre7voj6kv.cloudfront.net/hotels/47/24f373a8_164a_4a63_b89b_910f6867c9d9.jpg?auto=format,compress
+  link: https://www.secretescapes.se/at-six-hotel-in-stockholm-se/sale-hotel
+  sale-id: A2749
   domestic: true
 
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
-
-- title: Chict temahotell i London
-  id: chict-temahotell-i-london
-  location: The Ampersand Hotel, London, England
-  description: Ett flott boutiquehotell i South Kensington, inkl. frukost
-  price: 2440
-  price-description: per rum per natt
-  saved: 45
-  expires: 2019/06/08
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94720/18cb899f_9595_4515_825f_7917662480e1.jpg
-  link: https://www.secretescapes.se/chict-temahotell-i-london-the-ampersand-hotel-london-england/sale
-  sale-id: 94720
-  domestic: false
 
 - title: Femstjärnigt hotell på Mallorca
   id: femstjärnigt-hotell-på-mallorca
@@ -117,23 +128,10 @@
   price: 1600
   price-description: per rum per natt
   saved: 50
-  expires: 2019/06/11
+  expires: 2019/06/18
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/85848/19585c3e_5d1d_462f_9c73_03b01197eb86.jpg
   link: https://www.secretescapes.se/femstjaernigt-hotell-paa-mallorca-gpro-valparaiso-palace-palma-mallorca-spanien/sale
   sale-id: 95067
-  domestic: false
-
-- title: Resort med lugnt läge på Algarvekusten
-  id: resort-med-lugnt-läge-på-algarvekusten
-  location: Laguna Resort Vilamoura, Vilamoura, Portugal
-  description: Modernt hotell med pool och designat café, inkl. frukost
-  price: 380
-  price-description: per lägenhet per natt
-  saved: 47
-  expires: 2019/06/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/89458/a3c87639_7a84_437a_89c5_ac5ed203b400.jpg
-  link: https://www.secretescapes.se/resort-med-lugnt-laege-paa-algarvekusten-laguna-resort-vilamoura-vilamoura-portugal-se-1/sale
-  sale-id: 95065
   domestic: false
 
 - title: Stilrent på Sicilien
@@ -143,23 +141,10 @@
   price: 1130
   price-description: per rum per natt
   saved: 61
-  expires: 2019/06/11
+  expires: 2019/06/18
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/65890/b4f2cf0a_f6ea_4661_9173_bd8f2b4267ea.jpg
   link: https://www.secretescapes.se/stilrent-paa-sicilien-i-monasteri-golf-resort-syrakusa-italien/sale
   sale-id: 95177
-  domestic: false
-
-- title: Prisad sparesort i norska fjällen
-  id: prisad-sparesort-i-norska-fjällen
-  location: Norefjell Ski & Spa, Norefjell, Norge
-  description: Ladda batterierna i Norges vackra bergslandskap, inkl. frukost, spaentré och matrabatt
-  price: 1480
-  price-description: per rum per natt
-  saved: 47
-  expires: 2019/06/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/32900/e982c4f8_7e71_4ad4_95de_bcf5411485b4.jpg
-  link: https://www.secretescapes.se/prisad-sparesort-i-norska-fjaellen-norefjell-ski-and-spa-norefjell-norge-se-1/sale
-  sale-id: 94610
   domestic: false
 
 - title: Femstjärnig oas i centrala London
@@ -169,62 +154,10 @@
   price: 2670
   price-description: per rum per natt
   saved: 57
-  expires: 2019/06/08
+  expires: 2019/06/13
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74357/192483b6_5605_429d_9363_db368ad4dc60.jpg
   link: https://www.secretescapes.se/femstjaernig-oas-i-centrala-london-the-mandrake-london-england/sale
   sale-id: 94946
-  domestic: false
-
-- title: Avslappnat vuxenhotell på Gran Canaria
-  id: avslappnat-vuxenhotell-på-gran-canaria
-  location: Club Maspalomas Suites & Spa, Maspalomas, Gran Canaria, Spanien
-  description: Stilrent boende med spa i Maspalomas, en kort bilresa från stranden, inkl. halvpension
-  price: 1350
-  price-description: per svit per natt
-  saved: 29
-  expires: 2019/06/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/85067/370bbec7_676a_44ba_9b27_de0874a4ca40.jpg
-  link: https://www.secretescapes.se/avslappnat-hotell-endast-for-vuxna-club-maspalomas-suites-and-spa-maspalomas-gran-canaria-spanien/sale
-  sale-id: 94249
-  domestic: false
-
-- title: Lyxig palmkantad utomhuspool
-  id: lyxig-palmkantad-utomhuspool
-  location: Suites Albayzin Del Mar, Almuñécar, Spanien
-  description: Njut av spansk solkustlyx i rymliga lägenheter, inkl. halvpension, choklad och cava
-  price: 1380
-  price-description: per lägenhet per natt
-  saved: 42
-  expires: 2019/06/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/94300/8e1efa37_975e_428f_a111_03ef5b323b9c.jpg
-  link: https://www.secretescapes.se/lyxig-palmkantad-utomhuspool-suites-albayzin-del-mar-almunecar-spanien-se-11/sale
-  sale-id: 94300
-  domestic: false
-
-- title: Barcelona-hotell med takterrass och pool
-  id: barcelona-hotell-med-takterrass-och-pool
-  location: The Gates Hotel Diagonal Barcelona, Barcelona, Spanien
-  description: Härlig cityvistelse på modernt hotell i Barcelonas centrum, inkl. frukost och välkomstdrink
-  price: 960
-  price-description: per rum per natt
-  saved: 52
-  expires: 2019/06/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86981/8e234893_246c_4375_82a5_bc24a59e3330.jpg
-  link: https://www.secretescapes.se/barcelona-hotell-med-takterrass-och-pool-the-gates-hotel-diagonal-barcelona-barcelona-spanien01/sale
-  sale-id: 94489
-  domestic: false
-
-- title: Solig all-inclusive-vistelse på Mallorca
-  id: solig-all-inclusive-vistelse-på-mallorca
-  location: Fergus Club Europa, Mallorca, Spanien
-  description: Ett rofyllt och familjevänligt hotell bland bergen på Mallorcas sydvästra kust, med all-inclusive
-  price: 1180
-  price-description: per rum per natt
-  saved: 43
-  expires: 2019/06/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73722/bbb0bd8d_8068_468b_b1ff_dfb4200e6962.jpg
-  link: https://www.secretescapes.se/solig-all-inclusive-vistelse-paa-mallorca-fergus-club-europa-mallorca-spanien/sale
-  sale-id: 95187
   domestic: false
 
 - title: Exklusiv resort på natursköna Mallorca
@@ -234,7 +167,7 @@
   price: 2400
   price-description: per rum per natt
   saved: 45
-  expires: 2019/06/11
+  expires: 2019/06/18
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95288/9f34fef9_51da_40c8_aec7_68c510ebe87c.jpg
   link: https://www.secretescapes.se/exklusiv-resort-paa-naturskona-mallorca-finca-serena-pina-mallorca-spanien/sale
   sale-id: 95288
@@ -247,7 +180,7 @@
   price: 950
   price-description: per rum per natt
   saved: 40
-  expires: 2019/06/11
+  expires: 2019/06/18
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/57116/189425a6_932d_4e52_8b0b_a5880b0c8e64.jpg
   link: https://www.secretescapes.se/mysigt-designhotell-i-rom-hotel-pulitzer-roma-rom-italien-se/sale
   sale-id: 95364
@@ -260,8 +193,8 @@
   price: 1300
   price-description: per rum per natt
   saved: 77
-  expires: 2019/06/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95083/62e361f5_0514_4080_8375_86730507604a.jpg
+  expires: 2019/06/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95083/7931e93d_17d9_4dc6_914d_433350ec768b.jpg
   link: https://www.secretescapes.se/exklusiv-resort-i-aostadalen-le-massif-courmayeur-italien/sale
   sale-id: 95083
   domestic: false
@@ -273,21 +206,73 @@
   price: 1930
   price-description: per rum per natt
   saved: 54
-  expires: 2019/06/11
+  expires: 2019/06/18
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/52996/95761db6_5a85_4a38_a82a_847e0e655eff.jpg
   link: https://www.secretescapes.se/femstjaernigt-spahotell-i-sodra-italien-relais-histo-san-pietro-sul-mar-piccolo-taranto-italien-se/sale
   sale-id: 94850
   domestic: false
 
-- title: Må bra-vistelse i Toscana
-  id: må-bra-vistelse-i-toscana
-  location: Il Castelfalfi, Castelfalfi, Italien
-  description: Elegant wellnessresort med spa på den toskanska landsbygden, inkl. frukost och mer
-  price: 2240
+- title: Boende med brittisk elegans i Mayfair
+  id: boende-med-brittisk-elegans-i-mayfair
+  location: Flemings Mayfair, London, England
+  description: Ett renoverat och elegant hotell i Mayfair, inkl. frukost
+  price: 2750
   price-description: per rum per natt
-  saved: 37
-  expires: 2019/06/11
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/52547/37fe61be_bc21_4bc8_be32_0bce4413b623.jpg
-  link: https://www.secretescapes.se/maa-bra-vistelse-i-toscana-il-castelfalfi-castelfalfi-italien01/sale
-  sale-id: 94624
+  saved: 41
+  expires: 2019/06/19
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/71164/5afc88d0_452e_41fd_b9ec_92bf119b2e2c.jpg
+  link: https://www.secretescapes.se/boende-med-brittisk-elegans-i-mayfair-flemings-mayfair-london-england/sale
+  sale-id: 95940
+  domestic: false
+
+- title: Hippt hotell i östra London
+  id: hippt-hotell-i-östra-london
+  location: New Road Hote1, London, England
+  description: Boende på London-hotell med cool, industriell design, inkl. frukost
+  price: 1080
+  price-description: per rum per natt
+  saved: 36
+  expires: 2019/06/19
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95863/8077a4f0_e9e3_4544_a46c_2baff9ed2cef.jpg
+  link: https://www.secretescapes.se/hippt-hotell-i-ostra-london-new-road-hote1-london-england/sale
+  sale-id: 95863
+  domestic: false
+
+- title: Boutiquehotell med toppläge
+  id: boutiquehotell-med-toppläge
+  location: Hospes Palau de la Mar, Valencia, Spanien
+  description: Historiskt boutiquehotell i Valencia, inkl. frukost, spaförmåner och välkomstdrink
+  price: 1520
+  price-description: per rum per natt
+  saved: 35
+  expires: 2019/06/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/6984/b670907a_c729_4a32_9196_83dd2cf49d48.jpg
+  link: https://www.secretescapes.se/boutiquehotell-med-bra-laege-i-valencia-hospes-palau-de-la-mar-valencia-spanien/sale
+  sale-id: 95372
+  domestic: false
+
+- title: Boutiquehotell i hjärtat av Sevilla
+  id: boutiquehotell-i-hjärtat-av-sevilla
+  location: Lobby Room Sevilla, Sevilla, Spanien
+  description: Väldesignat boende på centralt läge, nära Sevillas uteliv och flera sevärdheter, inkl. frukost
+  price: 1280
+  price-description: per rum per natt
+  saved: 31
+  expires: 2019/06/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95966/e5d76351_a98e_48c8_bed8_ae756dfcf60c.jpg
+  link: https://www.secretescapes.se/boutiquehotell-i-hjaertat-av-sevilla-lobby-room-sevilla-sevilla-spanien/sale
+  sale-id: 95966
+  domestic: false
+
+- title: Omges av cityvimlet i centrala Barcelona
+  id: omges-av-cityvimlet-i-centrala-barcelona
+  location: Hotel Jazz, Barcelona, Spanien
+  description: Chict och centralt boende ynka minuter från Las Ramblas, inkl. välkomstdrink
+  price: 1030
+  price-description: per rum per natt
+  saved: 42
+  expires: 2019/06/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/25434/f4181154_b4ae_4ba8_8fe4_c302ad21fa59.jpg
+  link: https://www.secretescapes.se/omges-av-cityvimlet-i-centrala-barcelona-hotel-jazz-barcelona-spanien-01/sale
+  sale-id: 95997
   domestic: false
