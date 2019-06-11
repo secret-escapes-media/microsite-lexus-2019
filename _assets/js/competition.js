@@ -104,6 +104,11 @@
       var firstError = $('.' + formInputClass + '.' + inputErrorClass).first();
       $('html,body').animate({scrollTop: firstError.offset().top}, 500);
     } else {
+      // add timestamp to entry
+      var now = new Date(); // get the current date and convert into "YYYY-MM-DD HH:MM" format
+      var timestamp = ("0" + now.getDate()).slice(-2) + "-" + ("0"+(now.getMonth()+1)).slice(-2) + "-" + now.getFullYear() + " " + ("0" + now.getHours()).slice(-2) + ":" + ("0" + now.getMinutes()).slice(-2);
+      // add timestamp for entry to hidden input
+      form.find('.js-form-entry-time').val(timestamp);
       // disable submit button so people cant post multiple times accidently
       form.find('button').prop("disabled", true).addClass('is-loading');
     }
