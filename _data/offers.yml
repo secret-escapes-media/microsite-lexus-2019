@@ -2,45 +2,6 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: "Einmalig: im Hamburger Sternschanzenpark"
-  id: einmalig:-im-hamburger-sternschanzenpark
-  location: Mövenpick Hamburg, Deutschland
-  description: Inkl. Frühstück, Begrüßungsgetränk, Zugang zum Sauna- und Fitnessbereich &amp; WLAN
-  price: 120
-  price-description: pro Zimmer pro Nacht
-  saved: 39
-  expires: 2019/06/15
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/6543/bed2264f_5182_4b32_8863_0096d033524e.jpg
-  link: https://www.secretescapes.de/einmalig-im-hamburger-sternschanzenpark-movenpick-hamburg-deutschland/sale
-  sale-id: 94757
-  domestic: true
-
-- title: Familiengeführte Ruheoase am Fleesensee
-  id: familiengeführte-ruheoase-am-fleesensee
-  location: Fleesensee Resort & Spa, Untergöhren, Mecklenburg-Vorpommern, Deutschland
-  description: Suiten mit Blick zum See, Frühstück, 1x Massage, täglichem Spa-Zugang &amp; Extras
-  price: 169
-  price-description: pro Zimmer pro Nacht
-  saved: 37
-  expires: 2019/06/15
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/49514/c94c5011_e079_4149_90e8_5a62cbe74340.jpg
-  link: https://www.secretescapes.de/familiengefuehrte-ruheoase-am-fleesensee-fleesensee-resort-and-spa-untergohren-mecklenburg-vorpommern-deutschland/sale
-  sale-id: 94963
-  domestic: true
-
-- title: Gräflicher Park Health & Balance Resort
-  id: gräflicher-park-health-and-balance-resort
-  location: Gräflicher Park Health & Balance Resort, Bad Driburg, Nordrhein-Westfalen, Deutschland
-  description: Inkl. Halbpension, spätem Check-out &amp; Spa-Zugang mit Spa-Nutzung am An- &amp; Abreisetag
-  price: 229
-  price-description: pro Zimmer pro Nacht
-  saved: 35
-  expires: 2019/06/15
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/27804/66697f90_b0ba_4eef_95f5_9b21fd1c5db0.jpg
-  link: https://www.secretescapes.de/graflicher-park-grand-resort-bad-driburg-nordrhein-westfalen-deutschland/sale
-  sale-id: 95115
-  domestic: true
-
 - title: Park Hyatt Hamburg
   id: park-hyatt-hamburg
   location: Park Hyatt Hamburg, Deutschland
@@ -54,19 +15,6 @@
   sale-id: 95291
   domestic: true
 
-- title: "Neueröffnung: Energie tanken mit Seeblick"
-  id: neueröffnung:-energie-tanken-mit-seeblick
-  location: Maremüritz Yachthafen Resort & Spa, Waren (Müritz), Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, Deutschland
-  description: Elegante Apartments mit Müritz-Blick – inkl. 1 Flasche Wasser, Sekt, Wäschepaket &amp; Endreinigung
-  price: 159
-  price-description: pro Appartement pro Nacht
-  saved: 46
-  expires: 2019/06/15
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95315/028afa59_ec20_4489_9479_ef09253a9f1b.jpg
-  link: https://www.secretescapes.de/neueroffnung-energie-tanken-mit-seeblick-maremueritz-yachthafen-resort-and-spa-waren-mueritz-mecklenburgische-seenplatte-mecklenburg-vorpommern-deutschland/sale
-  sale-id: 95315
-  domestic: true
-
 - title: Boutique-Charme auf St. Pauli
   id: boutique-charme-auf-st.-pauli
   location: east Hamburg, Deutschland
@@ -78,19 +26,6 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95873/28cab609_fa13_4276_b533_169aa3d3a0db.jpg
   link: https://www.secretescapes.de/boutique-charme-auf-st-pauli-east-hamburg-deutschland/sale
   sale-id: 95873
-  domestic: true
-
-- title: Sylter Insel-Idylle in Sommerlaune
-  id: sylter-insel-idylle-in-sommerlaune
-  location: Boutique Hotel Villa Monika, Sylt, Deutschland
-  description: Deluxe-Doppelzimmer oder Junior-Suite in Boutique-Hotel – inkl. 1 Flasche Wein &amp; WLAN
-  price: 159
-  price-description: pro Unterkunft pro Nacht
-  saved: 43
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95788/03a9c1f0_95c4_4385_9338_e3383880aae3.jpg
-  link: https://www.secretescapes.de/sylter-insel-idylle-in-sommerlaune-boutique-hotel-villa-monika-sylt-deutschland/sale
-  sale-id: 95788
   domestic: true
 
 - title: Auszeit in der mecklenburgischen Seenlandschaft
@@ -197,6 +132,136 @@
   sale-id: 95852
   domestic: true
 
+- title: Herrlich hanseatisches Flair in Hamburg
+  id: herrlich-hanseatisches-flair-in-hamburg
+  location: Ruby Lotti, Hamburg, Deutschland
+  description: Zentral gelegenes Hotel in der norddeutschen Hanse-Metropole – inkl. Frühstück
+  price: 99
+  price-description: pro Zimmer pro Nacht
+  saved: 43
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/78434/e03b9843_7bd2_4706_8c53_83fc78962ce4.jpg
+  link: https://www.secretescapes.de/herrlich-hanseatisches-flair-in-hamburg-hamburg-deutschland/sale
+  sale-id: 96046
+  domestic: true
+
+- title: "Neueröffnung: Ostseeflair in Lübeck"
+  id: neueröffnung:-ostseeflair-in-lübeck
+  location: the niu Rig, Lübeck, Schleswig-Holstein, Deutschland
+  description: Designhotel in direkter Nachbarschaft zum Holstentor – inkl. Frühstück &amp; Begrüßungsgetränk
+  price: 74
+  price-description: pro Zimmer pro Nacht
+  saved: 47
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95937/a7fe8559_9198_4e1b_af84_b653e4aa35a0.jpg
+  link: https://www.secretescapes.de/ostseeflair-in-luebeck-the-niu-rig-luebeck-schleswig-holstein-deutschland/sale
+  sale-id: 95937
+  domestic: true
+
+- title: Hotel Therme Bad Teinach
+  id: hotel-therme-bad-teinach
+  location: Hotel Therme Bad Teinach, Baden-Württemberg, Deutschland
+  description: Wellnesshotel im nördlichen Schwarzwald – inkl. Frühstück oder Halbpension &amp; Spa-Nutzung
+  price: 135
+  price-description: pro Zimmer pro Nacht
+  saved: 35
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/61565/f905ea0b_f966_4e51_806e_0ec174c6284d.jpg
+  link: https://www.secretescapes.de/wellness-and-entspannung-im-nordschwarzwald-hotel-therme-bad-teinach-baden-wuerttemberg-deutschland/sale
+  sale-id: 96153
+  domestic: true
+
+- title: Steigenberger Parkhotel Düsseldorf
+  id: steigenberger-parkhotel-düsseldorf
+  location: Steigenberger Parkhotel Düsseldorf, Nordrhein-Westfalen, Deutschland
+  description: 5*-Grandhotel am Anfang der Königsallee – inkl. Frühstücksbuffet
+  price: 189
+  price-description: pro Zimmer pro Nacht
+  saved: 56
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/28561/a82ccd66_47a7_47cf_95f8_97832a890cb6.jpg
+  link: https://www.secretescapes.de/steigenberger-parkhotel-duesseldorf-steigenberger-parkhotel-duesseldorf-nordrhein-westfalen-deutschland/sale
+  sale-id: 96169
+  domestic: true
+
+- title: Schloss-Refugium für Körper & Geist
+  id: schloss-refugium-für-körper-and-geist
+  location: Romantik Hotel Landschloss Fasanerie, Zweibrücken, Rheinland-Pfalz, Deutschland
+  description: Auszeit im Dreiländereck – inkl. Frühstücksbuffet, Zugang zu Schwimmbad &amp; Sauna sowie Extras
+  price: 149
+  price-description: pro Unterkunft pro Nacht
+  saved: 38
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/65263/041a41c0_0f25_47e2_956c_bd2b53fb42e4.jpg
+  link: https://www.secretescapes.de/schloss-refugium-fuer-korper-and-geist-romantik-hotel-landschloss-fasanerie-zweibruecken-rheinland-pfalz-deutschland2/sale
+  sale-id: 96303
+  domestic: true
+
+- title: Elegantes Berliner Hotel am Kurfürstendamm
+  id: elegantes-berliner-hotel-am-kurfürstendamm
+  location: ELLINGTON HOTEL BERLIN, Deutschland
+  description: Charmant, authentisch, stilecht – inkl. Frühstücksbuffet &amp; Extras
+  price: 98
+  price-description: pro Zimmer pro Nacht
+  saved: 48
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/2573/46975fb7_378a_4ff3_a3d6_1fc47907946e.jpg
+  link: https://www.secretescapes.de/elegantes-berliner-hotel-am-kurfuerstendamm-ellington-hotel-berlin-deutschland/sale
+  sale-id: 96325
+  domestic: true
+
+- title: "Neueröffnung: aja-Alpenresort in Ruhpolding"
+  id: neueröffnung:-aja-alpenresort-in-ruhpolding
+  location: aja Ruhpolding, Chiemgauer Alpen, Bayern, Deutschland
+  description: Berg-Auszeit in Ruhpolding – inkl. Frühstück oder Halbpension, Spa-Zugang &amp; Chiemgau Karte
+  price: 108
+  price-description: pro Zimmer pro Nacht
+  saved: 42
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91739/99577607_f593_49c3_b9dd_d077c4a45534.jpg
+  link: https://www.secretescapes.de/neueroffnung-aja-alpenresort-in-ruhpolding-aja-ruhpolding-chiemgauer-alpen-bayern-deutschland-de/sale
+  sale-id: 96296
+  domestic: true
+
+- title: "Neueröffnung: Luxus-Lifestyle Hotel in München"
+  id: neueröffnung:-luxus-lifestyle-hotel-in-münchen
+  location: Andaz München Schwabinger Tor, München, Bayern, Deutschland
+  description: "Gefragtes Schwabing: bayrische Lebensfreude in modernem Gewand – inkl. Frühstück &amp; Minibar"
+  price: 225
+  price-description: pro Zimmer pro Nacht
+  saved: 55
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96337/45ebce20_3b8e_4086_95d1_a1fc47042c0a.jpg
+  link: https://www.secretescapes.de/neueroffnung-5-star-hyatt-design-in-muenchen-andaz-muenchen-schwabinger-tor-muenchen-bayern-deutschland/sale
+  sale-id: 96337
+  domestic: true
+
+- title: Parkidylle vor den Toren Frankfurts
+  id: parkidylle-vor-den-toren-frankfurts
+  location: Dorint Frankfurt/Oberursel, Frankfurt am Main, Hessen, Deutschland
+  description: Eleganz inmitten einer historischen Parkanlage inkl. Frühstück &amp; Wellnessbereich-Zugang
+  price: 99
+  price-description: pro Zimmer pro Nacht
+  saved: 56
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68430/fa7851e2_9fe4_4c3d_802e_2ce958be1974.jpg
+  link: https://www.secretescapes.de/parkidylle-vor-den-toren-von-frankfurt-am-main-dorint-frankfurt-oberursel-hessen-deutschland/sale
+  sale-id: 96174
+  domestic: true
+
+- title: The Westin Grand Berlin
+  id: the-westin-grand-berlin
+  location: The Westin Grand Berlin, Deutschland
+  description: Domizil an der legendären Friedrichstraße – inkl. Frühstück, Berliner Mauermeißeln &amp; Extra
+  price: 139
+  price-description: pro Unterkunft pro Nacht
+  saved: 43
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/27808/6b9e6985_15d8_43d3_a611_0864ca6c5b91.jpg
+  link: https://www.secretescapes.de/the-westin-grand-berlin-the-westin-grand-berlin-deutschland-0/sale
+  sale-id: 96320
+  domestic: true
+
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
@@ -205,7 +270,7 @@
   id: hochglanz-tage-in-tirol
   location: NIDUM - Casual Luxury Hotel, Mösern, Tirol, Österreich
   description: Chalet mit Designfaktor – inkl. Halbpension, Spa-Zugang, Parkplatz &amp; Extras
-  price: 238
+  price: 258
   price-description: pro Zimmer pro Nacht
   saved: 35
   expires: 2019/06/18
@@ -238,19 +303,6 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/28477/f79209b7_d7f6_469a_8454_6fb94d56ddae.jpg
   link: https://www.secretescapes.de/urbanes-spa-refugium-auf-mallorca-gpro-valparaiso-palace-and-spa-palma-de-mallorca-mallorca-balearen-spanien1/sale
   sale-id: 95067
-  domestic: false
-
-- title: "Dolce vita: Golf-Refugium auf Sizilien"
-  id: dolce-vita:-golf-refugium-auf-sizilien
-  location: I Monasteri Golf Resort, Floridia, Sizilien, Italien
-  description: Inkl. Frühstück oder Halbpension, Begrüßungsgetränk, 1x Spa-Zugang &amp; Extras
-  price: 105
-  price-description: pro Zimmer pro Nacht
-  saved: 61
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/29342/60422f11_1bb2_4eef_b97b_fc467f665b34.jpg
-  link: https://www.secretescapes.de/dolce-vita-golf-refugium-auf-sizilien-i-monasteri-golf-resort-floridia-sizilien-italien/sale
-  sale-id: 95177
   domestic: false
 
 - title: Sommer im Südtiroler Naturidyll
@@ -292,19 +344,6 @@
   sale-id: 95333
   domestic: false
 
-- title: Auszeit in den Tiroler Bergen bei Ischgl
-  id: auszeit-in-den-tiroler-bergen-bei-ischgl
-  location: Appartments Dorfstadl, Kappl, Tirol, Österreich
-  description: Inkl. Frühstück, Wellness-Zugang, Wanderjause, Garagenstellplatz &amp; Extras
-  price: 278
-  price-description: pro Apartment pro Nacht
-  saved: 47
-  expires: 2019/06/15
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50874/d58c0054_3681_49e3_b78e_c02433400200.jpg
-  link: https://www.secretescapes.de/auszeit-in-den-tiroler-bergen-bei-ischgl-appartments-dorfstadl-kappl-tirol-osterreich/sale
-  sale-id: 95206
-  domestic: false
-
 - title: Boutique-Flair in Wien
   id: boutique-flair-in-wien
   location: Hotel Schani Wien, Österreich
@@ -316,19 +355,6 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92144/39f81c30_efc2_4ba8_8c69_f94144096651.jpg
   link: https://www.secretescapes.de/hotel-schani-wien-wien-osterreich/sale
   sale-id: 95285
-  domestic: false
-
-- title: Golfgenuss an der Algarve
-  id: golfgenuss-an-der-algarve
-  location: Amendoeira Golf Resort, Alcantarilha, Algarve, Portugal
-  description: Im Golf-Resort umgeben von malerischem Grün residieren – inkl. Frühstück &amp; Begrüßungsgetränk
-  price: 90
-  price-description: pro Unterkunft pro Nacht
-  saved: 64
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/31715/50f1e0a7_bc88_4306_9944_0219cec9114f.jpg
-  link: https://www.secretescapes.de/golfgenuss-an-der-algarve-amendoeira-golf-resort-alcantarilha-algarve-portugal/sale
-  sale-id: 95542
   domestic: false
 
 - title: Auf den Spuren des balearischen Lebensgefühls
@@ -351,7 +377,7 @@
   price: 103
   price-description: pro Zimmer pro Nacht
   saved: 34
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/49805/221f07b8_5ea4_4435_b03f_d59967a7445c.jpg
   link: https://www.secretescapes.de/stockholm-abenteuer-fuer-kunstaffine-story-hotel-riddargatan-stockholm-schweden/sale
   sale-id: 95328
@@ -377,7 +403,7 @@
   price: 169
   price-description: pro Unterkunft pro Nacht
   saved: 49
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/46238/916a8168_2373_4d91_969c_a2827d562547.jpg
   link: https://www.secretescapes.de/wellnessauszeit-in-den-vorarlberger-alpen-sporthotel-silvretta-montafon-gaschurn-vorarlberg-osterreich/sale
   sale-id: 95338
@@ -390,7 +416,7 @@
   price: 119
   price-description: pro Suite pro Nacht
   saved: 63
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/70222/f6caa28e_5de9_48fb_a6af_d3050d410acc.jpg
   link: https://www.secretescapes.de/privater-luxus-in-den-salzburger-bergen-avenida-mountain-lodges-saalbach-salzburger-land-osterreich/sale
   sale-id: 95580
@@ -521,7 +547,7 @@
   price-description: pro Zimmer pro Nacht
   saved: 42
   expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/57262/38cb3c64_f8bb_4e6f_ae0f_e88a7aa2e460.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/25434/8cf64809_0aac_4e51_8178_4ab2ff3619df.jpg
   link: https://www.secretescapes.de/modernes-ambiente-nahe-der-las-ramblas-jazz-hotel-barcelona-katalonien-spanien/sale
   sale-id: 95997
   domestic: false
@@ -539,14 +565,67 @@
   sale-id: 95634
   domestic: false
 
-- title: 5*-Boutiquehotel nahe Oxford Street
-  location: The Mandrake, London, England, Großbritannien
-  description: Märchenhaftes Design in bester Londoner Lage – inkl. English Breakfast
-  price: 112
-  price-description: pro Person. basierend auf 2 Personen pro Zimmer pro Nacht
-  saved: 56
-  expires: 2019/06/14
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/74357/9a350dd0_6245_44d8_90a4_8ae1149387d4.jpg?auto=format,compress
-  link: https://www.secretescapes.de/5-star-boutiquehotel-nahe-oxford-street-the-mandrake-london-england-grossbritannien-2/sale
-  sale-id: 94946
+- title: Elegantes See-Hotel im Salzburger Land
+  id: elegantes-see-hotel-im-salzburger-land
+  location: Seehotel Bellevue, Zell am See, Salzburger Land, Österreich
+  description: Inkl. Halbpension, 1 Flasche Rotwein, Wellness-Zugang &amp; Extras
+  price: 179
+  price-description: pro Zimmer pro Nacht
+  saved: 38
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/53863/8e8f96d6_6266_4e68_b41d_139ed6adac3e.jpg
+  link: https://www.secretescapes.de/elegantes-see-hotel-im-salzburger-land-seehotel-bellevue-zell-am-see-salzburger-land-osterreich/sale
+  sale-id: 96022
+  domestic: false
+
+- title: Luxus-Baumhaus hoch über dem Zillertal
+  id: luxus-baumhaus-hoch-über-dem-zillertal
+  location: Treelofts Zillertal, Aschau im Zillertal, Schwaz, Tirol, Österreich
+  description: Romantische TreeLofts mit Chalet-Chic inkl. Frühstück, 1x Dinner, Spa-Zugang &amp; Extras
+  price: 279
+  price-description: pro Loft pro Nacht
+  saved: 41
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96026/51a532fa_fd93_465a_b552_b256a34edb92.jpg
+  link: https://www.secretescapes.de/luxus-baumhaus-hoch-ueber-dem-zillertal-aschau-im-zillertal-schwaz-tirol-osterreich/sale
+  sale-id: 96026
+  domestic: false
+
+- title: "Tirol mit Stil: Designhotel mit Alpenpanorama"
+  id: tirol-mit-stil:-designhotel-mit-alpenpanorama
+  location: Designhotel Das Marent, Fiss, Tirol, Österreich
+  description: Inkl. Halbpension, Prosecco, Kaffee &amp; Kuchen, Spa &amp; Extras
+  price: 178
+  price-description: pro Zimmer pro Nacht
+  saved: 31
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/32463/7e1262fe_e0d8_4f74_acc3_e4b651af123e.jpg
+  link: https://www.secretescapes.de/tirol-mit-stil-designhotel-mit-alpenpanorama-das-marent-fiss-tirol-osterreich/sale
+  sale-id: 95945
+  domestic: false
+
+- title: Tschuggen Grand Hotel Arosa
+  id: tschuggen-grand-hotel-arosa
+  location: Tschuggen Grand Hotel Arosa, Graubünden, Schweiz
+  description: Luxus in Schweizer Bergkulisse – inkl. Halbpension, Parkplatz, Spa-Zugang &amp; Extras
+  price: 375
+  price-description: pro Zimmer pro Nacht
+  saved: 34
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95590/ed5f4b60_9684_466e_a290_1ef7cb56573c.jpg
+  link: https://www.secretescapes.de/sommersonne-and-wandern-in-graubuenden-tschuggen-grand-hotel-arosa-graubuenden-schweiz/sale
+  sale-id: 95590
+  domestic: false
+
+- title: Schickes Designhotel in Wien
+  id: schickes-designhotel-in-wien
+  location: MAX BROWN 7TH DISTRICT, Wien, Österreich
+  description: Sommerlicher Städtetrip nach Wien – inkl. Begrüßungsgetränk
+  price: 70
+  price-description: pro Zimmer pro Nacht
+  saved: 41
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88939/b1cc51d9_6de1_4d1c_a8b3_5ad5d5af2c0b.jpg
+  link: https://www.secretescapes.de/schickes-designhotel-in-wien-max-brown-7th-district-wien-osterreich/sale
+  sale-id: 96285
   domestic: false
