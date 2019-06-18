@@ -473,3 +473,133 @@
   link: https://www.secretescapes.de/schickes-designhotel-in-wien-max-brown-7th-district-wien-osterreich/sale
   sale-id: 96285
   domestic: false
+
+- title: Stilvolles Boutiquehotel in Barcelona
+  id: stilvolles-boutiquehotel-in-barcelona
+  location: Sir Victor, Barcelona, Katalonien, Spanien
+  description: Minimalismus &amp; Nachhaltigkeit – inkl. Frühstück, Spa-Zugang, Begrüßungsgetränk &amp; Extra
+  price: 159
+  price-description: pro Zimmer pro Nacht
+  saved: 52
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92339/828c60b9_056e_475f_b939_d2709920aedc.jpg
+  link: https://www.secretescapes.de/stilvolles-boutiquehotel-in-barcelona-sir-victor-barcelona-katalonien-spanien/sale
+  sale-id: 96404
+  domestic: false
+
+- title: Burgidylle im malerischen Südspanien
+  id: burgidylle-im-malerischen-südspanien
+  location: Castillo de Monda, Andalusien, Spanien
+  description: Andalusisches Schloss in Hügellage - inkl. Frühstück &amp; Willkommenspräsent
+  price: 89
+  price-description: pro Zimmer pro Nacht
+  saved: 27
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68242/4f360089_5b23_4247_8a0e_1b66cf8d9196.jpg
+  link: https://www.secretescapes.de/burgidylle-im-malerischen-suedspanien-castillo-de-monda-andalusien-spanien/sale
+  sale-id: 96316
+  domestic: false
+
+- title: Mallorca von seiner entspannten Seite erleben
+  id: mallorca-von-seiner-entspannten-seite-erleben
+  location: Hotel RD Mar de Portals, Bendinat, Mallorca, Balearen, Spanien
+  description: <div>Inkl. Frühstück, 1 Flasche Cava, Spa-Zugang, Begrüßungsgetränk &amp; spätem Check-out </div>
+  price: 125
+  price-description: pro Zimmer pro Nacht
+  saved: 43
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90300/6768c78b_5587_41ec_8035_e67d904da5fc.jpg
+  link: https://www.secretescapes.de/mallorca-von-seiner-entspannten-seite-erleben-hotel-rd-mar-de-portals-bendinat-mallorca-balearen-spanien/sale
+  sale-id: 96251
+  domestic: false
+
+- title: "Neueröffnung: 5*-Panorama auf Teneriffa"
+  id: neueröffnung:-5-panorama-auf-teneriffa
+  location: H10 Atlantic Sunset, Teneriffa, Kanaren, Spanien
+  description: Sommerurlaub auf den Kanaren – inkl. Halbpension, 1x Spa-Zugang &amp; Extras
+  price: 146
+  price-description: pro Zimmer pro Nacht
+  saved: 33
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91198/b57978af_4699_4696_8c4a_741666e30bb8.jpg
+  link: https://www.secretescapes.de/neueroffnung-5-star-panorama-auf-teneriffa-h10-atlantic-sunset-teneriffa-kanaren-spanien/sale
+  sale-id: 96036
+  domestic: false
+
+- title: Exklusives Spa-Hotel am Lido di Jesolo
+  id: exklusives-spa-hotel-am-lido-di-jesolo
+  location: Almar Jesolo Resort & Spa, Jesolo, Venetien, Italien
+  description: <div>Adriablick &amp; Wellness – inkl. Frühstück, 1 Flasche Prosecco &amp; Extras<br></div>
+  price: 149
+  price-description: pro Zimmer pro Nacht
+  saved: 56
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/32965/77fcda07_db60_421f_9b10_76ba62baa65f.jpg
+  link: https://www.secretescapes.de/exklusives-spa-hotel-am-lido-di-jesolo-almar-jesolo-resort-and-spa-jesolo-venetien-italien/sale
+  sale-id: 95680
+  domestic: false
+
+- title: Insel-Idyll vor der Küste Siziliens
+  id: insel-idyll-vor-der-küste-siziliens
+  location: Mari del Sud Resort, Vulcano, Liparische Inseln, Sizilien, Italien
+  description: Dolce Vita im eleganten Strandresort – inkl. Frühstück &amp; Extras
+  price: 58
+  price-description: pro Zimmer pro Nacht
+  saved: 35
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/19285/8640d351_200a_4192_be80_51ea16fe2653.jpg
+  link: https://www.secretescapes.de/insel-idyll-vor-der-kueste-siziliens-mari-del-sud-resort-vulcano-liparische-inseln-sizilien-italien/sale
+  sale-id: 96070
+  domestic: false
+
+- title: Mailand für kunstaffine Kosmopoliten
+  id: mailand-für-kunstaffine-kosmopoliten
+  location: Savona 18 Suites, Mailand, Lombardei, Italien
+  description: Moderne Home-Suite im Künstlerviertel Mailands mit italienischem Frühstück
+  price: 120
+  price-description: pro Suite pro Nacht
+  saved: 33
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88335/69b7e779_20ed_4c34_a823_072a8cc00965.jpg
+  link: https://www.secretescapes.de/mailand-fuer-kunstaffine-kosmopoliten-savona-18-suites-mailand-lombardei-italien/sale
+  sale-id: 96299
+  domestic: false
+
+- title: "Golf von Neapel: Pure Entspannung auf Procida"
+  id: golf-von-neapel:-pure-entspannung-auf-procida
+  location: San Michele Procida, Kampanien, Italien
+  description: Bohème-Chic und kampanisches Dolce Vita – inkl. Begrüßungsgetränk &amp; Frühstück
+  price: 125
+  price-description: pro Suite pro Nacht
+  saved: 36
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96310/14dee2f8_d12b_4e16_b605_13d4f5605fd1.jpg
+  link: https://www.secretescapes.de/golf-von-neapel-pure-entspannung-auf-procida-san-michele-procida-kampanien-italien/sale
+  sale-id: 96310
+  domestic: false
+
+- title: Nordische Nonchalance in Oslo
+  id: nordische-nonchalance-in-oslo
+  location: Comfort Hotel Børsparken, Oslo, Norwegen
+  description: Skandinavischer Chic an der alten Börse – inkl. Frühstück
+  price: 95
+  price-description: pro Zimmer pro Nacht
+  saved: 30
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/82872/578c09d3_bf82_48b4_9732_4052c54e497e.jpg
+  link: https://www.secretescapes.de/nordische-nonchalance-in-oslo-comfort-hotel-boersparken-oslo-norwegen/sale
+  sale-id: 96358
+  domestic: false
+
+- title: Art déco & Nordic Design in Oslo
+  id: art-déco-and-nordic-design-in-oslo
+  location: Clarion Collection Hotel Folketeateret, Oslo, Norwegen
+  description: Designperle in bester City-Lage – inkl. Halbpension
+  price: 119
+  price-description: pro Zimmer pro Nacht
+  saved: 32
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/38433/188ec379_8098_418f_a476_03a544c30c0a.jpg
+  link: https://www.secretescapes.de/art-deco-and-nordic-design-in-oslo-clarion-collection-hotel-folketeateret-oslo-norwegen/sale
+  sale-id: 95849
+  domestic: false
