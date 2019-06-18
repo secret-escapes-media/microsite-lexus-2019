@@ -9,7 +9,7 @@
   price: 169
   price-description: pro Unterkunft pro Nacht
   saved: 48
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/42673/8f084a44_fc4a_41bd_b0cb_db5494ff4bba.jpg
   link: https://www.secretescapes.de/park-hyatt-hamburg-park-hyatt-hamburg-deutschland/sale
   sale-id: 95291
@@ -22,7 +22,7 @@
   price: 135
   price-description: pro Zimmer pro Nacht
   saved: 44
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95873/28cab609_fa13_4276_b533_169aa3d3a0db.jpg
   link: https://www.secretescapes.de/boutique-charme-auf-st-pauli-east-hamburg-deutschland/sale
   sale-id: 95873
@@ -35,7 +35,7 @@
   price: 139
   price-description: pro Suite pro Nacht
   saved: 41
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/93129/a985ecdb_9bfd_49aa_b6d7_0406ef775ace.jpg
   link: https://www.secretescapes.de/auszeit-in-der-mecklenburgischen-seenlandschaft-schloss-basthorst-crivitz-mecklenburg-vorpommern-deutschland/sale
   sale-id: 95925
@@ -48,7 +48,7 @@
   price: 179
   price-description: pro Zimmer pro Nacht
   saved: 43
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/84639/09782b60_a67e_4c4a_bff9_73c14ec37e0b.jpg
   link: https://www.secretescapes.de/steigenberger-graf-zeppelin-steigenberger-graf-zeppelin-stuttgart-baden-wuerttemberg-deutschland/sale
   sale-id: 95169
@@ -61,7 +61,7 @@
   price: 279
   price-description: pro Zimmer pro Nacht
   saved: 49
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14299/3f744d5d_f6bf_4885_9343_2e0625b8b4e8.jpg
   link: https://www.secretescapes.de/5-star-schlosshotel-mit-mehrfach-praemierten-spa-wald-and-schlosshotel-friedrichsruhe-zweiflingen-baden-wuerttemberg-deutschland/sale
   sale-id: 95892
@@ -74,7 +74,7 @@
   price: 149
   price-description: pro Zimmer pro Nacht
   saved: 44
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/32932/364f66a5_f8d3_4081_829c_fdbcc6ffba88.jpg
   link: https://www.secretescapes.de/moderne-eleganz-in-der-augsburger-innenstadt-steigenberger-hotel-drei-mohren-augsburg-muenchen-deutschland/sale
   sale-id: 95971
@@ -87,7 +87,7 @@
   price: 99
   price-description: pro Zimmer pro Nacht
   saved: 41
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/60561/3ce027e8_864a_4c2d_a2de_a809c524cd71.jpg
   link: https://www.secretescapes.de/moderner-chic-im-historischen-eisenach-steigenberger-hotel-thueringer-hof-eisenach-thueringen-deutschland/sale
   sale-id: 95825
@@ -100,7 +100,7 @@
   price: 120
   price-description: pro Unterkunft pro Nacht
   saved: 30
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44455/3119905c_b5bf_4ca2_aa51_63f9fd750d5a.jpg
   link: https://www.secretescapes.de/steigenberger-hotel-berlin-steigenberger-hotel-berlin-deutschland/sale
   sale-id: 95594
@@ -113,7 +113,7 @@
   price: 59
   price-description: pro Zimmer pro Nacht
   saved: 39
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/89321/56370cb5_4cdd_4348_acd2_7b93b6f59a05.jpg
   link: https://www.secretescapes.de/sightseeing-in-der-mainmetropole-frankfurt-the-niu-charly-frankfurt-am-main-hessen-deutschland/sale
   sale-id: 95624
@@ -126,7 +126,7 @@
   price: 99
   price-description: pro Zimmer pro Nacht
   saved: 36
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/46766/538e3883_bb9f_4f2e_8b0c_89f14eed5db6.jpg
   link: https://www.secretescapes.de/junges-designhotel-in-muenchen-ruby-lilly-hotel-munich-muenchen-bayern-deutschland-de/sale
   sale-id: 95852
@@ -223,8 +223,8 @@
   sale-id: 96296
   domestic: true
 
-- title: "Neueröffnung: Luxus-Lifestyle Hotel in München"
-  id: neueröffnung:-luxus-lifestyle-hotel-in-münchen
+- title: "Neueröffnung: Luxus-Lifestyle in München - a concept by Hyatt"
+  id: neueröffnung:-luxus-lifestyle-in-münchen---a-concept-by-hyatt
   location: Andaz München Schwabinger Tor, München, Bayern, Deutschland
   description: "Gefragtes Schwabing: bayrische Lebensfreude in modernem Gewand – inkl. Frühstück &amp; Minibar"
   price: 225
@@ -266,19 +266,6 @@
 # NON DOMESTIC OFFERS
 ################################################################################
 
-- title: Hochglanz-Tage in Tirol
-  id: hochglanz-tage-in-tirol
-  location: NIDUM - Casual Luxury Hotel, Mösern, Tirol, Österreich
-  description: Chalet mit Designfaktor – inkl. Halbpension, Spa-Zugang, Parkplatz &amp; Extras
-  price: 258
-  price-description: pro Zimmer pro Nacht
-  saved: 35
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50746/ad2c4f83_f8ba_4f22_a83e_32820a21ce15.jpg
-  link: https://www.secretescapes.de/hochglanz-tage-in-tirol-nidum-casual-luxury-hotel-mosern-tirol-osterreich/sale
-  sale-id: 95174
-  domestic: false
-
 - title: Modernes Lifestyle-Hotel am Achensee
   id: modernes-lifestyle-hotel-am-achensee
   location: DAS KRONTHALER, Achenkirch, Tirol, Österreich
@@ -286,7 +273,7 @@
   price: 299
   price-description: pro Zimmer pro Nacht
   saved: 36
-  expires: 2019/06/18
+  expires: 2019/06/24
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/77310/c4095a53_f73d_4c34_a7d2_fc9911481435.jpg
   link: https://www.secretescapes.de/auf-aktiver-entdeckungstour-in-tirol-das-kronthaler-achenkirch-tirol-osterreich-de/sale
   sale-id: 94977
@@ -299,101 +286,10 @@
   price: 149
   price-description: pro Zimmer pro Nacht
   saved: 49
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/28477/f79209b7_d7f6_469a_8454_6fb94d56ddae.jpg
   link: https://www.secretescapes.de/urbanes-spa-refugium-auf-mallorca-gpro-valparaiso-palace-and-spa-palma-de-mallorca-mallorca-balearen-spanien1/sale
   sale-id: 95067
-  domestic: false
-
-- title: Sommer im Südtiroler Naturidyll
-  id: sommer-im-südtiroler-naturidyll
-  location: Hotel Bad Fallenbach, St. Leonhard in Passeier, Bozen, Südtirol, Italien
-  description: Suiten mit Halbpension, Begrüßungsgetränk, Spa-Gutschein, Vitalbad &amp; Extras
-  price: 234
-  price-description: pro Suite pro Nacht
-  saved: 46
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/72152/9fa3897c_455d_4a72_9296_559c4bda204a.jpg
-  link: https://www.secretescapes.de/sommer-im-suedtiroler-naturidyll-hotel-bad-fallenbach-st-leonhard-in-passeier-bozen-suedtirol-italien/sale
-  sale-id: 94973
-  domestic: false
-
-- title: Wellnessoase im Salzburger Land
-  id: wellnessoase-im-salzburger-land
-  location: Alpin Life Resort Hotel Lürzerhof, Untertauern, Salzburger Land, Österreich
-  description: Auszeit in herrlicher Bergkulisse – inkl. Gourmetpension+, täglichem Spa-Zugang &amp; Extras
-  price: 235
-  price-description: pro Zimmer pro Nacht
-  saved: 22
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/35749/371f70a4_68ae_4ff2_83ce_8a8bf1fedb6f.jpg
-  link: https://www.secretescapes.de/wellnessoase-im-salzburger-land-alpin-life-resort-hotel-luerzerhof-untertauern-salzburger-land-osterreich/sale
-  sale-id: 95293
-  domestic: false
-
-- title: Nachhaltiges Alpenflair in Tirol
-  id: nachhaltiges-alpenflair-in-tirol
-  location: Tirol Lodge, Ellmau, Tirol, Österreich
-  description: Tiroler Romantik – inkl. Zugang zu Pool, Panorama-Sauna, Outdoor-Fitnessparcours &amp; Extras
-  price: 79
-  price-description: pro Zimmer pro Nacht
-  saved: 55
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92028/77021688_a79f_4d00_b5e4_ba531007915d.jpg
-  link: https://www.secretescapes.de/nachhaltiges-alpenflair-in-tirol-tirol-lodge-ellmau-tirol-osterreich1/sale
-  sale-id: 95333
-  domestic: false
-
-- title: Boutique-Flair in Wien
-  id: boutique-flair-in-wien
-  location: Hotel Schani Wien, Österreich
-  description: Wien erleben - inkl. Frühstück, Begrüßungsgetränk &amp; Extras
-  price: 79
-  price-description: pro Zimmer pro Nacht
-  saved: 59
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92144/39f81c30_efc2_4ba8_8c69_f94144096651.jpg
-  link: https://www.secretescapes.de/hotel-schani-wien-wien-osterreich/sale
-  sale-id: 95285
-  domestic: false
-
-- title: Auf den Spuren des balearischen Lebensgefühls
-  id: auf-den-spuren-des-balearischen-lebensgefühls
-  location: Finca Serena, Montuiri, Mallorca, Balearen, Spanien
-  description: Luxus-Finca auf Mallorca – inkl. Frühstück, Restaurant- &amp; Spa-Gutschein &amp; Extras
-  price: 224
-  price-description: pro Unterkunft pro Nacht
-  saved: 41
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95288/9f34fef9_51da_40c8_aec7_68c510ebe87c.jpg
-  link: https://www.secretescapes.de/auf-den-spuren-des-balearischen-lebensgefuehls-finca-serena-montuiri-mallorca-balearen-spanien/sale
-  sale-id: 95288
-  domestic: false
-
-- title: Stockholm-Abenteuer für Kunstaffine
-  id: stockholm-abenteuer-für-kunstaffine
-  location: Story Hotel Riddargatan, Stockholm, Schweden
-  description: Individuelles Design im Herzen von Stockholm – inkl. Frühstücksbuffet
-  price: 103
-  price-description: pro Zimmer pro Nacht
-  saved: 34
-  expires: 2019/06/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/49805/221f07b8_5ea4_4435_b03f_d59967a7445c.jpg
-  link: https://www.secretescapes.de/stockholm-abenteuer-fuer-kunstaffine-story-hotel-riddargatan-stockholm-schweden/sale
-  sale-id: 95328
-  domestic: false
-
-- title: Kunst & Design im Süden Roms
-  id: kunst-and-design-im-süden-roms
-  location: Hotel Pulitzer Roma, Rom, Italien
-  description: Superior-Zimmer in Roms Finanzviertel – inkl. Frühstück &amp; Begrüßungsgetränk
-  price: 89
-  price-description: pro Zimmer pro Nacht
-  saved: 40
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/57116/189425a6_932d_4e52_8b0b_a5880b0c8e64.jpg
-  link: https://www.secretescapes.de/kunst-and-design-im-sueden-roms-hotel-pulitzer-roma-rom-italien2/sale
-  sale-id: 95364
   domestic: false
 
 - title: Wellnessauszeit in den Vorarlberger Alpen
@@ -412,7 +308,7 @@
 - title: Privater Luxus in den Salzburger Bergen
   id: privater-luxus-in-den-salzburger-bergen
   location: Avenida Mountain Lodges Saalbach, Salzburger Land, Österreich
-  description: Inkl. Frühstück, 1 Flasche Sekt, Wellness-Zugang, Joker Card &amp; Extras
+  description: Inkl. Frühstück, 1 Flasche Sekt, Wellness-Zugang, <i>Joker Card </i>&amp; Extras<i><br></i>
   price: 119
   price-description: pro Suite pro Nacht
   saved: 63
@@ -429,7 +325,7 @@
   price: 139
   price-description: pro Unterkunft pro Nacht
   saved: 57
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/81477/257c5efb_70ba_4e44_a8bb_e90b584708f2.jpg
   link: https://www.secretescapes.de/aktivtage-mit-stil-im-salzburger-land-stockinggut-by-avenida-hotel-and-residences-leogang-osterreich/sale
   sale-id: 95803
@@ -442,23 +338,10 @@
   price: 258
   price-description: pro Zimmer pro Nacht
   saved: 38
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95828/2dfc1b35_02e6_4f9b_8652_06ce8cedc7dd.jpg
   link: https://www.secretescapes.de/almenrausch-im-bezaubernden-berwanger-tal-singer-sporthotel-spa-berwang-tirol-osterreich/sale
   sale-id: 95828
-  domestic: false
-
-- title: Tirol erleben am Achensee
-  id: tirol-erleben-am-achensee
-  location: Arthurs Achensee, Maurach am Achensee, Tirol, Österreich
-  description: Sommerliche Auszeit in Tiroler Seen-Idylle – inkl. Frühstück &amp; 1 Flasche Wein
-  price: 135
-  price-description: pro Zimmer pro Nacht
-  saved: 33
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73672/ff901b57_7f4f_4d9d_8d74_d271487c6b44.jpg
-  link: https://www.secretescapes.de/tirol-erleben-am-achensee-arthurs-achensee-maurach-am-achensee-tirol-osterreich/sale
-  sale-id: 95587
   domestic: false
 
 - title: Tiroler Tradition im malerischen Ötztal
@@ -468,7 +351,7 @@
   price: 168
   price-description: pro Suite pro Nacht
   saved: 30
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/51460/1a04a49c_0b6d_41c0_a40b_f250dc20de97.jpg
   link: https://www.secretescapes.de/tiroler-tradition-im-malerischen-otztal-alpengasthof-gruener-solden-tirol-osterreich/sale
   sale-id: 95641
@@ -481,23 +364,10 @@
   price: 100
   price-description: pro Zimmer pro Nacht
   saved: 45
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/85905/bb3d7139_0c5d_4146_add7_9f1d2b9d3d87.jpg
   link: https://www.secretescapes.de/jugendstil-perle-im-zentrum-von-graz-hotel-wiesler-graz-steiermark-osterreich-de/sale
   sale-id: 95858
-  domestic: false
-
-- title: Elegante London-Residenz in Mayfair
-  id: elegante-london-residenz-in-mayfair
-  location: Flemings Mayfair Hotel, London, England, Großbritannien
-  description: Stilvolles Boutique-Hotel fußläufig vom Buckingham Palace – inkl. Frühstück
-  price: 258
-  price-description: pro Zimmer pro Nacht
-  saved: 41
-  expires: 2019/06/19
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/71164/5afc88d0_452e_41fd_b9ec_92bf119b2e2c.jpg
-  link: https://www.secretescapes.de/elegante-london-residenz-in-mayfair-flemings-mayfair-hotel-london-england-grossbritannien-de/sale
-  sale-id: 95940
   domestic: false
 
 - title: Stilbewusst im Londoner East End
@@ -513,32 +383,6 @@
   sale-id: 95863
   domestic: false
 
-- title: Historisches Herrenhaus in Valencia
-  id: historisches-herrenhaus-in-valencia
-  location: Hospes Palau de la Mar, Valencia, Spanien
-  description: Inkl. Frühstück, Begrüßungsgetränk, Spa-Zugang &amp; Spa-Gutschein
-  price: 150
-  price-description: pro Zimmer pro Nacht
-  saved: 35
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/6984/b670907a_c729_4a32_9196_83dd2cf49d48.jpg
-  link: https://www.secretescapes.de/historisches-herrenhaus-in-valencia-hospes-palau-de-la-mar-valencia-spanien/sale
-  sale-id: 95372
-  domestic: false
-
-- title: "Sevilla: Buntes Boutiquehotel in der Altstadt"
-  id: sevilla:-buntes-boutiquehotel-in-der-altstadt
-  location: Lobby Room Sevilla, Spanien
-  description: Sommerlicher Citytrip – inkl. Frühstück, 1 Flasche Cava &amp; Süßigkeiten
-  price: 120
-  price-description: pro Suite pro Nacht
-  saved: 31
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95966/e5d76351_a98e_48c8_bed8_ae756dfcf60c.jpg
-  link: https://www.secretescapes.de/sevilla-buntes-boutiquehotel-in-der-altstadt-lobby-room-sevilla-spanien/sale
-  sale-id: 95966
-  domestic: false
-
 - title: Modernes Ambiente nahe der Las Ramblas
   id: modernes-ambiente-nahe-der-las-ramblas
   location: Jazz Hotel, Barcelona, Katalonien, Spanien
@@ -546,7 +390,7 @@
   price: 97
   price-description: pro Zimmer pro Nacht
   saved: 42
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/25434/8cf64809_0aac_4e51_8178_4ab2ff3619df.jpg
   link: https://www.secretescapes.de/modernes-ambiente-nahe-der-las-ramblas-jazz-hotel-barcelona-katalonien-spanien/sale
   sale-id: 95997
@@ -559,7 +403,7 @@
   price: 75
   price-description: pro Zimmer pro Nacht
   saved: 41
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/64357/fd69d8b8_4cf3_44fe_93e1_97006f72d151.jpg
   link: https://www.secretescapes.de/skandinavien-chic-in-stockholm-elite-hotel-carolina-tower-stockholm-schweden-1/sale
   sale-id: 95634
