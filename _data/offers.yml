@@ -366,3 +366,68 @@
   link: https://www.secretescapes.com/h10-atlantic-sunset-santa-cruz-de-tenerife-spain-uk/sale
   sale-id: 96036
   domestic: false
+
+- title: Mari Del Sud Resort & Village
+  id: mari-del-sud-resort-and-village
+  location: Sicily, Italy
+  description: Escape to Vulcano Island and enjoy a boutique stay with amazing views
+  price: 51
+  price-description: per room per night
+  saved: 35
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/19285/8640d351_200a_4192_be80_51ea16fe2653.jpg
+  link: https://www.secretescapes.com/mari-del-sud-resort-and-village-sicily-italy/sale
+  sale-id: 96070
+  domestic: false
+
+- title: Savona 18 Suites
+  id: savona-18-suites
+  location: Milan, Italy
+  description: A design-led boutique hotel in the heart of Milan
+  price: 107
+  price-description: per suite per night
+  saved: 33
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/64792/0dbbdf83_b334_4263_9cc1_23c52b60a647.jpg
+  link: https://www.secretescapes.com/savona-18-suites-milan-italy-uk/sale
+  sale-id: 96299
+  domestic: false
+
+- title: San Michele Procida
+  id: san-michele-procida
+  location: Procida, Italy
+  description: Embrace design-led, boho-chic style on Italy’s Procida Island
+  price: 111
+  price-description: per suite per night
+  saved: 36
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96310/5b7810ad_b5d3_4e26_8ff1_40df7f2a28d1.jpg
+  link: https://www.secretescapes.com/san-michele-procida-procida-italy/sale
+  sale-id: 96310
+  domestic: false
+
+- title: Clarion Collection Hotel Folketeateret
+  id: clarion-collection-hotel-folketeateret
+  location: Oslo, Norway
+  description: Discover Oslo from a city centre Art Deco-style boutique hotel
+  price: 106
+  price-description: per room per night
+  saved: 32
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/47875/96e1fc6b_13d5_4473_902e_a62b4a868981.jpg
+  link: https://www.secretescapes.com/clarion-collection-hotel-folketeateret-oslo-norway/sale
+  sale-id: 95849
+  domestic: false
+
+- title: Smådalarö Gård
+  id: smådalarö-gård
+  location: Dalarö, Sweden
+  description: Escape to a cosy lakeside bolthole in Dalarö, close to Stockholm
+  price: 166
+  price-description: per room per night
+  saved: 34
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/21946/39c69634_6f37_4682_9538_85ae62af4b79.jpg
+  link: https://www.secretescapes.com/smaadalaro-gaard-dalaro-sweden/sale
+  sale-id: 95414
+  domestic: false
