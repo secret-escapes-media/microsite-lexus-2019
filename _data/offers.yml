@@ -2,58 +2,6 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: GPRO Valparaiso Palace & Spa
-  id: gpro-valparaiso-palace-and-spa
-  location: Mallorca
-  description: Un cinco estrellas en Palma, con opción a desayuno o media pensión y varios extras
-  price: 149
-  price-description: por habitación por noche
-  saved: 49
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/28477/f79209b7_d7f6_469a_8454_6fb94d56ddae.jpg
-  link: https://es.secretescapes.com/gpro-valparaiso-palace-and-spa-mallorca-es-pa/sale
-  sale-id: 95067
-  domestic: true
-
-- title: Finca Serena Mallorca
-  id: finca-serena-mallorca
-  location: Mallorca
-  description: Un cinco estrellas rodeado de naturaleza en el corazón de Mallorca, con desayuno y extras
-  price: 224
-  price-description: por habitación por noche
-  saved: 41
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95288/a341a4fe_7288_4354_bdc6_aed5811df353.jpg
-  link: https://es.secretescapes.com/finca-serena-mallorca-mallorca-es/sale
-  sale-id: 95288
-  domestic: true
-
-- title: Hospes Palau de la Mar
-  id: hospes-palau-de-la-mar
-  location: Valencia
-  description: Un hotel de cinco estrellas en el centro de Valencia, con desayuno, spa y varios extras
-  price: 143
-  price-description: por habitación por noche
-  saved: 35
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/6984/b670907a_c729_4a32_9196_83dd2cf49d48.jpg
-  link: https://es.secretescapes.com/hospes-palau-de-la-mar-valencia21/sale
-  sale-id: 95372
-  domestic: true
-
-- title: Lobby Room Sevilla
-  id: lobby-room-sevilla
-  location: Sevilla
-  description: Un cuatro estrellas de diseño en el centro de Sevilla, con desayuno y extras
-  price: 120
-  price-description: por habitación por noche
-  saved: 31
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95966/e5d76351_a98e_48c8_bed8_ae756dfcf60c.jpg
-  link: https://es.secretescapes.com/lobby-room-sevilla-sevilla-es/sale
-  sale-id: 95966
-  domestic: true
-
 - title: Hotel Jazz
   id: hotel-jazz
   location: Barcelona
@@ -61,28 +9,119 @@
   price: 97
   price-description: por habitación por noche
   saved: 42
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/81186/0e10b7f2_7420_4eec_abc8_5dce092a078f.jpg
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/25434/8cf64809_0aac_4e51_8178_4ab2ff3619df.jpg
   link: https://es.secretescapes.com/hotel-jazz-barcelona-espa/sale
   sale-id: 95997
+  domestic: true
+
+- title: Sir Victor Hotel Barcelona
+  id: sir-victor-hotel-barcelona
+  location: Barcelona
+  description: Diseño y confort en pleno centro de Barcelona, con desayuno incluido, extras y late check out
+  price: 159
+  price-description: por habitación por noche
+  saved: 52
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92339/828c60b9_056e_475f_b939_d2709920aedc.jpg
+  link: https://es.secretescapes.com/sir-victor-hotel-barcelona-barcelona-espa/sale
+  sale-id: 96404
+  domestic: true
+
+- title: Castillo de Monda
+  id: castillo-de-monda
+  location: Costa del Sol (Monda, Málaga)
+  description: Un histórico castillo con vistas, con desayuno y un detalle de bienvenida
+  price: 81
+  price-description: por habitación por noche
+  saved: 27
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68242/4f360089_5b23_4247_8a0e_1b66cf8d9196.jpg
+  link: https://es.secretescapes.com/castillo-de-monda-costa-del-sol-monda-malaga-esp-esp/sale
+  sale-id: 96316
+  domestic: true
+
+- title: Hotel RD Mar de Portals - Adults Only
+  id: hotel-rd-mar-de-portals---adults-only
+  location: Mallorca
+  description: Un cuatro estrellas solo para adultos en Mallorca, con desayuno, una botella de cava y más
+  price: 125
+  price-description: por habitación por noche
+  saved: 43
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90300/6768c78b_5587_41ec_8035_e67d904da5fc.jpg
+  link: https://es.secretescapes.com/hotel-rd-mar-de-portals-adults-only-mallorca-es-p/sale
+  sale-id: 96251
+  domestic: true
+
+- title: Hospes Puerta de Alcalá
+  id: hospes-puerta-de-alcalá
+  location: Madrid
+  description: Un cinco estrellas de diseño en el centro de Madrid, con desayuno, un acceso al spa y más
+  price: 175
+  price-description: por habitación por noche
+  saved: 35
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/57077/a8df3452_21ea_4a82_b41a_28b1876c33cc.jpg
+  link: https://es.secretescapes.com/hospes-puerta-de-alcala-madrid-es-p/sale
+  sale-id: 96148
+  domestic: true
+
+- title: Buendía Corralejo Nohotel
+  id: buendía-corralejo-nohotel
+  location: Corralejo, Fuerteventura
+  description: Disfruta de Fuerteventura a tu aire en un nuevo y moderno apartamento muy cerca de la playa
+  price: 74
+  price-description: por apartamento por noche
+  saved: 49
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96118/9dfe64e2_1a54_4f31_84b9_b867a8be7a80.jpg
+  link: https://es.secretescapes.com/buendia-corralejo-corralejo-es/sale
+  sale-id: 96118
+  domestic: true
+
+- title: H10 Atlantic Sunset
+  id: h10-atlantic-sunset
+  location: Santa Cruz de Tenerife
+  description: Media pensión en un hotel de ensueño en Tenerife, con un acceso al spa
+  price: 137
+  price-description: por habitación por noche
+  saved: 33
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91198/b57978af_4699_4696_8c4a_741666e30bb8.jpg
+  link: https://es.secretescapes.com/h10-atlantic-sunset-santa-cruz-de-tenerife-esp/sale
+  sale-id: 96036
+  domestic: true
+
+- title: Hotel Cap Negret
+  id: hotel-cap-negret
+  location: Costa Blanca (Altea, Alicante)
+  description: Un cuatro estrellas frente al mar en Altea, con tres opciones para elegir
+  price: 66
+  price-description: por habitación por noche
+  saved: 46
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69749/cdc39e32_7c68_4142_8e55_91f9efefa5d9.jpg
+  link: https://es.secretescapes.com/hotel-cap-negret-costa-blanca-alicante213/sale
+  sale-id: 96025
+  domestic: true
+
+- title: Marina Suites
+  id: marina-suites
+  location: Gran Canaria
+  description: Admira el océano Atlántico desde este hotel náutico en Gran Canaria, con desayuno y extras
+  price: 95
+  price-description: por suite por noche
+  saved: 41
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95349/405487f3_c915_4e1d_96ad_baa4ce61a19c.jpg
+  link: https://es.secretescapes.com/marina-suites-gran-canaria-es/sale
+  sale-id: 95349
   domestic: true
 
 ################################################################################
 # NON DOMESTIC OFFERS
 ################################################################################
-
-- title: Amendoeira Golf Resort
-  id: amendoeira-golf-resort
-  location: Algarve (Alcantarilha, Portugal)
-  description: Un resort de lujo para amantes del golf y la naturaleza en el Algarve, con desayuno incluido
-  price: 90
-  price-description: por apartamento por noche
-  saved: 64
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/31715/50f1e0a7_bc88_4306_9944_0219cec9114f.jpg
-  link: https://es.secretescapes.com/amendoeira-golf-resort-alcantarilha-portugal-es-es/sale
-  sale-id: 95542
-  domestic: false
 
 - title: Story Hotel Riddargatan
   id: story-hotel-riddargatan
@@ -91,23 +130,10 @@
   price: 103
   price-description: por habitación por noche
   saved: 34
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/62203/461d2da7_fec8_4cf0_9b3d_31f16cc3310a.jpg
   link: https://es.secretescapes.com/story-hotel-riddargatan-estocolmo-es-pa/sale
   sale-id: 95328
-  domestic: false
-
-- title: Hotel Pulitzer Roma
-  id: hotel-pulitzer-roma
-  location: Roma
-  description: Un cuatro estrellas de diseño en Roma, con desayuno y una bebida de bienvenida
-  price: 89
-  price-description: por habitación por noche
-  saved: 40
-  expires: 2019/06/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/57116/189425a6_932d_4e52_8b0b_a5880b0c8e64.jpg
-  link: https://es.secretescapes.com/hotel-pulitzer-roma-roma-es-pa/sale
-  sale-id: 95364
   domestic: false
 
 - title: New Road Hotel
@@ -130,8 +156,34 @@
   price: 75
   price-description: por habitación por noche
   saved: 41
-  expires: 2019/06/18
+  expires: 2019/06/25
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/64357/fd69d8b8_4cf3_44fe_93e1_97006f72d151.jpg
   link: https://es.secretescapes.com/elite-hotel-carolina-tower-solna-estocolmo-es-pa/sale
   sale-id: 95634
+  domestic: false
+
+- title: Savona 18 Suites
+  id: savona-18-suites
+  location: Milán
+  description: Una suite de diseño en la capital de la moda italiana, con desayuno incluido
+  price: 120
+  price-description: por suite por noche
+  saved: 33
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/64792/0dbbdf83_b334_4263_9cc1_23c52b60a647.jpg
+  link: https://es.secretescapes.com/savona-18-suites-milan-esp-es/sale
+  sale-id: 96299
+  domestic: false
+
+- title: Comfort Hotel Borsparken
+  id: comfort-hotel-borsparken
+  location: Oslo
+  description: Un cómodo hotel con una ubicación de lujo en Oslo, con desayuno incluido
+  price: 95
+  price-description: por habitación por noche
+  saved: 30
+  expires: 2019/06/25
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/82872/578c09d3_bf82_48b4_9732_4052c54e497e.jpg
+  link: https://es.secretescapes.com/comfort-hotel-borsparken-oslo-esp/sale
+  sale-id: 96358
   domestic: false
