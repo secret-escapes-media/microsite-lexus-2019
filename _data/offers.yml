@@ -84,19 +84,6 @@
 # NON DOMESTIC OFFERS
 ################################################################################
 
-- title: The Mandrake
-  id: the-mandrake
-  location: Londra
-  description: City break londinese in un boutique hotel con ristorante stellato a pochi minuti da Oxford Circus
-  price: 249
-  price-description: per camera per notte
-  saved: 57
-  expires: 2019/06/19
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74357/01dc45ca_f10b_4d0f_bacf_1bb0635c2926.jpg
-  link: https://it.secretescapes.com/the-mandrake-londra-italia-it/sale
-  sale-id: 94946
-  domestic: false
-
 - title: Story Hotel Riddargatan
   id: story-hotel-riddargatan
   location: Stoccolma, Svezia
@@ -117,23 +104,10 @@
   price: 258
   price-description: per camera per notte
   saved: 41
-  expires: 2019/06/19
+  expires: 2019/06/26
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/71164/5afc88d0_452e_41fd_b9ec_92bf119b2e2c.jpg
   link: https://it.secretescapes.com/flemings-mayfair-londra-italia/sale
   sale-id: 95940
-  domestic: false
-
-- title: New Road Hotel
-  id: new-road-hotel
-  location: Londra
-  description: Soggiorno hip in un boutique hotel a 4* nel cuore dell’East London
-  price: 101
-  price-description: per camera per notte
-  saved: 36
-  expires: 2019/06/19
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95863/8077a4f0_e9e3_4544_a46c_2baff9ed2cef.jpg
-  link: https://it.secretescapes.com/new-road-hotel-londra/sale
-  sale-id: 95863
   domestic: false
 
 - title: Hotel Jazz Barcelona
