@@ -58,19 +58,6 @@
   sale-id: 95067
   domestic: false
 
-- title: Elegant boutiquehotell i Fitzrovia
-  id: elegant-boutiquehotell-i-fitzrovia
-  location: The Mandrake, London, England
-  description: Essensen av britisk eleganse i sofistikert nabolag i hjertet av London, inkludert frokost
-  price: 2418
-  price-description: per rom per natt
-  saved: 57
-  expires: 2019/06/19
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74357/192483b6_5605_429d_9363_db368ad4dc60.jpg
-  link: https://no.secretescapes.com/fantastiske-fitzrovia-the-mandrake-london-england-1/sale
-  sale-id: 94946
-  domestic: false
-
 - title: Elegant designhotell på Stureplan
   id: elegant-designhotell-på-stureplan
   location: Story Hotel Riddargatan, Stockholm, Sverige
@@ -82,19 +69,6 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/62203/461d2da7_fec8_4cf0_9b3d_31f16cc3310a.jpg
   link: https://no.secretescapes.com/elegant-designhotell-paa-stureplan-story-hotel-riddargatan-stockholm-sverige-1/sale
   sale-id: 95328
-  domestic: false
-
-- title: Nytt og trendy hotell i East End
-  id: nytt-og-trendy-hotell-i-east-end
-  location: New Road Hote1, London, England
-  description: Omfavn industriell komfort på splitter nytt hotell ved Tower of London og Brick Lane, inkl. frokost
-  price: 983
-  price-description: per rom per natt
-  saved: 36
-  expires: 2019/06/19
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95863/8077a4f0_e9e3_4544_a46c_2baff9ed2cef.jpg
-  link: https://no.secretescapes.com/nytt-og-trendy-hotell-i-east-end-new-road-hote1-london-england-no/sale
-  sale-id: 95863
   domestic: false
 
 - title: Skandinavisk design i spennende bydel
