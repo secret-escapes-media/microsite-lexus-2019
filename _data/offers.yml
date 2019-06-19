@@ -122,19 +122,6 @@
   sale-id: 95067
   domestic: false
 
-- title: Femstjärnig oas i centrala London
-  id: femstjärnig-oas-i-centrala-london
-  location: The Mandrake, London, England
-  description: Boutiquehotell med spa, restaurang och lummig terrass i London, inkl. frukost
-  price: 2670
-  price-description: per rum per natt
-  saved: 57
-  expires: 2019/06/19
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74357/192483b6_5605_429d_9363_db368ad4dc60.jpg
-  link: https://www.secretescapes.se/femstjaernig-oas-i-centrala-london-the-mandrake-london-england/sale
-  sale-id: 94946
-  domestic: false
-
 - title: Boende med brittisk elegans i Mayfair
   id: boende-med-brittisk-elegans-i-mayfair
   location: Flemings Mayfair, London, England
@@ -142,23 +129,10 @@
   price: 2750
   price-description: per rum per natt
   saved: 41
-  expires: 2019/06/19
+  expires: 2019/06/26
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/71164/5afc88d0_452e_41fd_b9ec_92bf119b2e2c.jpg
   link: https://www.secretescapes.se/boende-med-brittisk-elegans-i-mayfair-flemings-mayfair-london-england/sale
   sale-id: 95940
-  domestic: false
-
-- title: Hippt hotell i östra London
-  id: hippt-hotell-i-östra-london
-  location: New Road Hote1, London, England
-  description: Boende på London-hotell med cool, industriell design, inkl. frukost
-  price: 1080
-  price-description: per rum per natt
-  saved: 36
-  expires: 2019/06/19
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95863/8077a4f0_e9e3_4544_a46c_2baff9ed2cef.jpg
-  link: https://www.secretescapes.se/hippt-hotell-i-ostra-london-new-road-hote1-london-england/sale
-  sale-id: 95863
   domestic: false
 
 - title: Boutiquehotell i hjärtat av Sevilla
