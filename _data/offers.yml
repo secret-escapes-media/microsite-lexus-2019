@@ -136,19 +136,6 @@
   sale-id: 95328
   domestic: false
 
-- title: New Road Hotel
-  id: new-road-hotel
-  location: Londres
-  description: Un estiloso hotel boutique al este de Londres, con desayuno inglés
-  price: 101
-  price-description: por habitación por noche
-  saved: 36
-  expires: 2019/06/19
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95863/8077a4f0_e9e3_4544_a46c_2baff9ed2cef.jpg
-  link: https://es.secretescapes.com/new-road-hotel-londres-es/sale
-  sale-id: 95863
-  domestic: false
-
 - title: Elite Hotel Carolina Tower
   id: elite-hotel-carolina-tower
   location: Solna, Estocolmo
