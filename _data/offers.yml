@@ -2,32 +2,6 @@
 # DOMESTIC OFFERS
 ################################################################################
 
-- title: Relais Sant'Uffizio Wellness & Spa
-  id: relais-santuffizio-wellness-and-spa
-  location: Monferrato, Piemonte
-  description: Relais 4* risalente al XVII secolo nel Monferrato, per un benessere senza limiti
-  price: 105
-  price-description: per camera per notte
-  saved: 62
-  expires: 2019/06/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68733/1a4615b1_47ac_4a9a_bae7_a873b0865c3e.jpg
-  link: https://it.secretescapes.com/relais-santuffizio-wellness-and-spa-monferrato-piemonte-it/sale
-  sale-id: 95540
-  domestic: true
-
-- title: Almar Jesolo Resort & Spa
-  id: almar-jesolo-resort-and-spa
-  location: Lido di Jesolo, Veneto
-  description: Benessere e lusso a 5* in un resort sul Lido di Jesolo
-  price: 149
-  price-description: per camera per notte
-  saved: 56
-  expires: 2019/06/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/32965/58013b38_59a9_4e3f_8559_f462c74e76b4.jpg
-  link: https://it.secretescapes.com/almar-jesolo-resort-and-spa-lido-di-jesolo-veneto-it1/sale
-  sale-id: 95680
-  domestic: true
-
 - title: Hotel Christof
   id: hotel-christof
   location: Appiano sulla Strada del Vino, Trentino-Alto Adige
@@ -35,7 +9,7 @@
   price: 184
   price-description: per camera per notte
   saved: 48
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/87898/e8a5af3e_5f92_4701_98aa_c8fcfca96073.jpg
   link: https://it.secretescapes.com/hotel-christof-appiano-sulla-strada-del-vino-trentino-alto-adige-it/sale
   sale-id: 95929
@@ -48,7 +22,7 @@
   price: 58
   price-description: per camera per notte
   saved: 35
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/19285/8640d351_200a_4192_be80_51ea16fe2653.jpg
   link: https://it.secretescapes.com/mari-del-sud-resort-vulcano-isole-eolie-ita7/sale
   sale-id: 96070
@@ -61,7 +35,7 @@
   price: 120
   price-description: per camera per notte
   saved: 33
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/64792/0dbbdf83_b334_4263_9cc1_23c52b60a647.jpg
   link: https://it.secretescapes.com/savona-18-suites-milano-lombardia1/sale
   sale-id: 96299
@@ -74,10 +48,62 @@
   price: 125
   price-description: per camera per notte
   saved: 36
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96310/5b7810ad_b5d3_4e26_8ff1_40df7f2a28d1.jpg
   link: https://it.secretescapes.com/san-michele-procida-campania/sale
   sale-id: 96310
+  domestic: true
+
+- title: Leone Blu Suites UNA Esperienze
+  id: leone-blu-suites-una-esperienze
+  location: Firenze, Toscana
+  description: Una suite a due passi dall’Arno, in un palazzo fiorentino del XV secolo
+  price: 165
+  price-description: per camera per notte
+  saved: 42
+  expires: 2019/07/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96732/c3ff8346_cef0_4fa3_b7ff_3b8ce1f89d8f.jpg
+  link: https://it.secretescapes.com/leone-blu-suites-una-esperienze-firenze-toscana-it/sale
+  sale-id: 96732
+  domestic: true
+
+- title: NH Trento
+  id: nh-trento
+  location: Trento, Trentino-Alto Adige
+  description: Design ad alta quota in un 4* a pochi passi da Trento
+  price: 75
+  price-description: per camera per notte
+  saved: 54
+  expires: 2019/07/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/28185/05075262_2ae9_4152_b0c0_bc45cf9325ee.jpg
+  link: https://it.secretescapes.com/nh-trento-trento-trentino-alto-adige-ita/sale
+  sale-id: 96533
+  domestic: true
+
+- title: iRooms Pantheon & Navona
+  id: irooms-pantheon-and-navona
+  location: Roma
+  description: Un romantico soggiorno con comfort benessere nel centro di Roma
+  price: 109
+  price-description: per camera per notte
+  saved: 50
+  expires: 2019/07/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/84628/74e2707e_d243_4648_a308_eaeed1e9e402.jpg
+  link: https://it.secretescapes.com/irooms-pantheon-and-navona-roma-it2/sale
+  sale-id: 96624
+  domestic: true
+
+- title: Masseria Fontana di Vite
+  id: masseria-fontana-di-vite
+  location: Matera, Basilicata
+  description: Pausa relax in un’antica masseria lucana a pochi chilometri da Matera
+  price: 75
+  price-description: per camera per notte
+  saved: 45
+  expires: 2019/07/02
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96678/75f9f105_9113_4415_88e4_b19ea256c42d.jpg
+  link: https://it.secretescapes.com/masseria-fontana-di-vite-matera-basilicata/sale
+  sale-id: 96678
   domestic: true
 
 ################################################################################
@@ -91,7 +117,7 @@
   price: 103
   price-description: per camera per notte
   saved: 34
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/49805/221f07b8_5ea4_4435_b03f_d59967a7445c.jpg
   link: https://it.secretescapes.com/story-hotel-riddargatan-stoccolma-svezia12/sale
   sale-id: 95328
@@ -110,19 +136,6 @@
   sale-id: 95940
   domestic: false
 
-- title: Hotel Jazz Barcelona
-  id: hotel-jazz-barcelona
-  location: Barcellona, Spagna
-  description: City break modern chic nel cuore di Barcellona
-  price: 97
-  price-description: per camera per notte
-  saved: 42
-  expires: 2019/06/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/25434/8cf64809_0aac_4e51_8178_4ab2ff3619df.jpg
-  link: https://it.secretescapes.com/hotel-jazz-barcelona-barcellona-spagna-it/sale
-  sale-id: 95997
-  domestic: false
-
 - title: Elite Hotel Carolina Tower
   id: elite-hotel-carolina-tower
   location: Solna, Stoccolma
@@ -130,7 +143,7 @@
   price: 75
   price-description: per camera per notte
   saved: 41
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/54642/f37348e1_a0b9_4f55_85b5_e652774c46e7.jpg
   link: https://it.secretescapes.com/elite-hotel-carolina-tower-solna-stoccolma-ita2/sale
   sale-id: 95634
@@ -143,7 +156,7 @@
   price: 159
   price-description: per camera per notte
   saved: 52
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/92339/828c60b9_056e_475f_b939_d2709920aedc.jpg
   link: https://it.secretescapes.com/sir-victor-hotel-barcellona-spagna1/sale
   sale-id: 96404
@@ -156,7 +169,7 @@
   price: 81
   price-description: per camera per notte
   saved: 27
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68242/4f360089_5b23_4247_8a0e_1b66cf8d9196.jpg
   link: https://it.secretescapes.com/castillo-de-monda-monda-spagna-it12/sale
   sale-id: 96316
@@ -169,7 +182,7 @@
   price: 125
   price-description: per camera per notte
   saved: 43
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90300/6768c78b_5587_41ec_8035_e67d904da5fc.jpg
   link: https://it.secretescapes.com/hotel-rd-mar-de-portals-maiorca-spagna/sale
   sale-id: 96251
@@ -182,7 +195,7 @@
   price: 175
   price-description: per camera per notte
   saved: 35
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/34119/c625d16f_c89e_4e5b_9f4e_c12385435d48.jpg
   link: https://it.secretescapes.com/hospes-puerta-de-alcala-madrid-spagna1/sale
   sale-id: 96148
@@ -195,7 +208,7 @@
   price: 74
   price-description: per camera per notte
   saved: 49
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96118/0402c2c4_ba71_405a_8c00_7e4675cd1beb.jpg
   link: https://it.secretescapes.com/buendia-corralejo-nohotel-fuerteventura/sale
   sale-id: 96118
@@ -208,36 +221,10 @@
   price: 137
   price-description: per camera per notte
   saved: 33
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91198/b57978af_4699_4696_8c4a_741666e30bb8.jpg
   link: https://it.secretescapes.com/h10-atlantic-sunset-tenerife-spagna-italia/sale
   sale-id: 96036
-  domestic: false
-
-- title: Hotel Cap Negret
-  id: hotel-cap-negret
-  location: Altea, Spagna
-  description: Un 4* dallo stile moderno sulla Costa Blanca, con opzione in pensione completa
-  price: 66
-  price-description: per camera per notte
-  saved: 46
-  expires: 2019/06/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/69749/cdc39e32_7c68_4142_8e55_91f9efefa5d9.jpg
-  link: https://it.secretescapes.com/hotel-cap-negret-altea-spagna1/sale
-  sale-id: 96025
-  domestic: false
-
-- title: Marina Suites
-  id: marina-suites
-  location: Gran Canaria, Isole Canarie
-  description: La tua suite di design in un 4* con vista sull'Oceano Atlantico
-  price: 95
-  price-description: per camera per notte
-  saved: 41
-  expires: 2019/06/25
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/95349/405487f3_c915_4e1d_96ad_baa4ce61a19c.jpg
-  link: https://it.secretescapes.com/marina-suites-gran-canaria-isole-canarie/sale
-  sale-id: 95349
   domestic: false
 
 - title: Comfort Hotel Børsparken
@@ -247,7 +234,7 @@
   price: 95
   price-description: per camera per notte
   saved: 30
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/82872/578c09d3_bf82_48b4_9732_4052c54e497e.jpg
   link: https://it.secretescapes.com/comfort-hotel-boersparken-oslo-norvegia-it/sale
   sale-id: 96358
@@ -260,7 +247,7 @@
   price: 119
   price-description: per camera per notte
   saved: 32
-  expires: 2019/06/25
+  expires: 2019/07/02
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/47875/96e1fc6b_13d5_4473_902e_a62b4a868981.jpg
   link: https://it.secretescapes.com/clarion-collection-hotel-folketeateret-oslo-norvegia/sale
   sale-id: 95849
