@@ -80,19 +80,6 @@
   sale-id: 95696
   domestic: true
 
-- title: The Private Hill
-  id: the-private-hill
-  location: Malton, North Yorkshire
-  description: Check into a new cutting-edge glamping dome in striking North Yorkshire
-  price: 146.5
-  price-description: per room per night
-  saved: 25
-  expires: 2019/06/27
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96258/3545a457_c4ac_4a3f_ae67_9534f4136321.jpg
-  link: https://www.secretescapes.com/the-private-hill-malton-north-yorkshire/sale
-  sale-id: 96258
-  domestic: true
-
 - title: K West Hotel & Spa
   id: k-west-hotel-and-spa
   location: Shepherd's Bush, London
