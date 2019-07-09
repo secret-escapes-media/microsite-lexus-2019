@@ -1,4 +1,4 @@
-- title: Hoar Cross Hall
+- title: Hoar Cross Hal
   id: hoar-cross-hall
   location: Hoar Cross, Staffordshire
   description: A Grade II-listed Staffordshire manor with spa
@@ -42,7 +42,7 @@
   price-description: per room per night
   saved: 37
   expires: 2019/07/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/91240/2d937c94_228c_472c_901c_eb520e3d489a.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86504/38cd8c6a_815c_4430_ae52_ab8b5479d734.jpg
   link: https://www.secretescapes.com/danesfield-house-hotel-and-spa-marlow-buckinghamshire/sale
   sale-id: 96136
 
@@ -66,7 +66,7 @@
   price-description: per room per night
   saved: 55
   expires: 2019/07/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/48427/070b3451_0058_4c73_885a_6e9b4864fd31.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/79799/69743c95_f9b7_4076_8583_6cc65aac2a29.jpg
   link: https://www.secretescapes.com/royal-berkshire-hotel-ascot-berkshire/sale
   sale-id: 96345
 
@@ -77,8 +77,8 @@
   price: 189
   price-description: per room per night
   saved: 46
-  expires: 2019/07/05
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88790/e2367453_a7ff_495d_85d0_b39f995764b9.jpg
+  expires: 2019/07/09
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88790/312c3e0c_93b9_46c0_b1c4_9406e488cb40.jpg
   link: https://www.secretescapes.com/vintry-and-mercer-the-city-london/sale
   sale-id: 96668
 
@@ -102,7 +102,7 @@
   price-description: per room per night
   saved: 39
   expires: 2019/07/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/83675/8d61f399_6b81_441b_975a_421539f7c234.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50037/ca740356_c48f_4b4d_879d_062dfc3298af.jpg
   link: https://www.secretescapes.com/good-hotel-london-royal-victoria-dock-london/sale
   sale-id: 96632
 
@@ -126,7 +126,7 @@
   price-description: per room per night
   saved: 43
   expires: 2019/07/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/88535/f7038a96_121e_4a89_91e6_2f86a7e9885a.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/81320/e872767f_f80f_4d1f_8c55_88cf522e69d9.jpg
   link: https://www.secretescapes.com/the-bird-bath-bath-somerset/sale
   sale-id: 96569
 
@@ -166,18 +166,6 @@
   link: https://www.secretescapes.com/the-gannet-inn-carbis-bay-cornwall/sale
   sale-id: 97053
 
-- title: Country Living St George Hotel
-  id: country-living-st-george-hotel
-  location: Harrogate, North Yorkshire
-  description: Find peace and quiet at a superb Edwardian mansion in Harrogate
-  price: 105
-  price-description: per room per night
-  saved: 47
-  expires: 2019/07/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96933/829605a1_1baa_4df3_b507_50f2360613bc.jpg
-  link: https://www.secretescapes.com/country-living-st-george-hotel-harrogate-north-yorkshire/sale
-  sale-id: 96933
-
 - title: Courthouse Hotel Shoreditch
   id: courthouse-hotel-shoreditch
   location: East End, London
@@ -186,7 +174,7 @@
   price-description: per room per night
   saved: 39
   expires: 2019/07/09
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39411/3b270c40_1c74_4c11_909d_26f28afe996e.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/34926/3c748f0a_3fbc_49d2_85e9_dc4513275051.jpg
   link: https://www.secretescapes.com/courthouse-hotel-shoreditch-east-end-london/sale
   sale-id: 97060
 
@@ -196,8 +184,128 @@
   description: Stay at a clifftop boutique hotel near Salcombe with soul-stirring views
   price: 251
   price-description: per room per night
-  saved: 38
+  saved: 44
   expires: 2019/07/09
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96699/e33c2cba_0902_45ed_986b_fd09e4fcfab7.jpg
   link: https://www.secretescapes.com/gara-rock-salcombe-devon/sale
   sale-id: 96699
+
+- title: Champneys Tring
+  id: champneys-tring
+  location: Wiggington, Hertfordshire
+  description: Pure indulgence at the flagship Champneys spa resort in Tring
+  price: 235
+  price-description: per room per night
+  saved: 50
+  expires: 2019/07/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90636/bb81cfed_da1f_44a4_b2a7_58e93dcf3a1b.jpg
+  link: https://www.secretescapes.com/champneys-tring-wiggington-hertfordshire/sale
+  sale-id: 97339
+
+- title: Mercure Nottingham City Centre Hotel
+  id: mercure-nottingham-city-centre-hotel
+  location: Nottingham, East Midlands
+  description: Stay in Nottingham’s vibrant Lace Market, near Old Market Square
+  price: 61
+  price-description: per room per night
+  saved: 54
+  expires: 2019/07/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97076/170c5fff_da46_4c44_a72c_8667a1518080.jpg
+  link: https://www.secretescapes.com/mercure-nottingham-city-centre-hotel-nottingham-east-midlands/sale
+  sale-id: 97076
+
+- title: HY Hotel
+  id: hy-hotel
+  location: Lytham, Lancashire
+  description: Take in the historic British seaside with an aparthotel stay near Blackpool
+  price: 125
+  price-description: per room per night
+  saved: 53
+  expires: 2019/07/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97356/4d0e2dc2_0b75_4d16_a1bf_cba0164cae3f.jpg
+  link: https://www.secretescapes.com/hy-hotel-blackpool-lancashire/sale
+  sale-id: 97356
+
+- title: Homewood Hotel & Spa
+  id: homewood-hotel-and-spa
+  location: Near Bath, Somerset
+  description: Relax near Bath at a picturesque, award-winning hotel with spa
+  price: 199
+  price-description: per room per night
+  saved: 40
+  expires: 2019/07/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/84233/5d05003c_ef14_47dc_bb07_f3cd705601f9.jpg
+  link: https://www.secretescapes.com/homewood-near-bath-somerset/sale
+  sale-id: 97341
+
+- title: The Old Bell Hotel
+  id: the-old-bell-hotel
+  location: Malmesbury, Wiltshire
+  description: Bed down in the Cotswolds at one of England's oldest hotels
+  price: 129
+  price-description: per room per night
+  saved: 49
+  expires: 2019/07/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/68321/b2ca6c60_735f_4453_8d52_9c742d0d5eda.jpg
+  link: https://www.secretescapes.com/the-old-bell-hotel-malmesbury-wiltshire/sale
+  sale-id: 97342
+
+- title: The Aviator Hotel
+  id: the-aviator-hotel
+  location: Farnborough, Hampshire
+  description: A striking design hotel with two AA Rosette dining in Farnborough
+  price: 94
+  price-description: per room per night
+  saved: 42
+  expires: 2019/07/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/71907/0bf82110_a009_48af_9280_31ff799a98c7.jpg
+  link: https://www.secretescapes.com/the-aviator-hotel-farnborough-hampshire/sale
+  sale-id: 97407
+
+- title: The Stratford
+  id: the-stratford
+  location: Stratford, London
+  description: Enjoy London skyline views and high style at a newly-opened Stratford spot
+  price: 145
+  price-description: per room per night
+  saved: 43
+  expires: 2019/07/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97689/6a0b7359_ae9e_4a91_9046_6943b0ccb5cf.jpg
+  link: https://www.secretescapes.com/the-stratford-stratford-london/sale
+  sale-id: 97689
+
+- title: Salthouse Harbour Hotel
+  id: salthouse-harbour-hotel
+  location: Ipswich, Suffolk
+  description: A designer hotel with waterside restaurant on the Ipswich harbour
+  price: 99
+  price-description: per room per night
+  saved: 39
+  expires: 2019/07/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44016/c87e977a_dec3_46c3_84b9_947645714cb1.jpg
+  link: https://www.secretescapes.com/salthouse-harbour-hotel-ipswich-suffolk/sale
+  sale-id: 97637
+
+- title: The Carnarvon Arms
+  id: the-carnarvon-arms
+  location: Newbury, Berkshire
+  description: Bed down at a classic country pub in Newbury
+  price: 69
+  price-description: per room per night
+  saved: 40
+  expires: 2019/07/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96928/3fefb5fa_b324_4d57_af54_b310c7a820e8.jpg
+  link: https://www.secretescapes.com/the-carnarvon-arms-newbury-berkshire/sale
+  sale-id: 96928
+
+- title: Hawkwell House Hotel
+  id: hawkwell-house-hotel
+  location: Oxford, Oxfordshire
+  description: A relaxing country stay with modern interiors near Oxford
+  price: 89
+  price-description: per room per night
+  saved: 53
+  expires: 2019/07/16
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50687/0cb326ff_5ed0_481d_8fb7_26561a155eaa.jpg
+  link: https://www.secretescapes.com/hawkwell-house-hotel-near-oxford-oxfordshire/sale
+  sale-id: 96995
