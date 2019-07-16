@@ -1,15 +1,3 @@
-- title: Hoar Cross Hal
-  id: hoar-cross-hall
-  location: Hoar Cross, Staffordshire
-  description: A Grade II-listed Staffordshire manor with spa
-  price: 250
-  price-description: per room per night
-  saved: 37
-  expires: 2019/07/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/48307/cb93ed68_8c56_4e74_9d3d_f1b84f71f107.jpg
-  link: https://www.secretescapes.com/hoar-cross-hall-hoar-cross-staffordshire/sale
-  sale-id: 95974
-
 - title: The Headland Hotel & Spa
   id: the-headland-hotel-and-spa
   location: Newquay, Cornwall
@@ -42,7 +30,7 @@
   price-description: per room per night
   saved: 61
   expires: 2019/07/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73444/9a692f00_3386_4f3c_a17f_dc041b29b7e2.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96510/149baa57_53c9_4698_8036_53742fe68d80.jpg
   link: https://www.secretescapes.com/the-lodge-hotel-putney-london/sale
   sale-id: 96510
 
@@ -113,7 +101,7 @@
   price: 120
   price-description: per room per night
   saved: 27
-  expires: 2019/07/12
+  expires: 2019/07/16
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97025/66e719c8_3354_4c17_bef6_596af945c798.jpg
   link: https://www.secretescapes.com/tailored-stays-cambridge-cambridgeshire/sale
   sale-id: 97025
@@ -154,18 +142,6 @@
   link: https://www.secretescapes.com/gara-rock-salcombe-devon/sale
   sale-id: 96699
 
-- title: Champneys Tring
-  id: champneys-tring
-  location: Wiggington, Hertfordshire
-  description: Pure indulgence at the flagship Champneys spa resort in Tring
-  price: 235
-  price-description: per room per night
-  saved: 50
-  expires: 2019/07/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90636/bb81cfed_da1f_44a4_b2a7_58e93dcf3a1b.jpg
-  link: https://www.secretescapes.com/champneys-tring-wiggington-hertfordshire/sale
-  sale-id: 97339
-
 - title: Mercure Nottingham City Centre Hotel
   id: mercure-nottingham-city-centre-hotel
   location: Nottingham, East Midlands
@@ -181,7 +157,7 @@
 - title: HY Hotel
   id: hy-hotel
   location: Lytham, Lancashire
-  description: Take in the historic British seaside with an aparthotel stay near Blackpool
+  description: Take in the historic British seaside with an aparthotel stay near Lytham St Annes
   price: 125
   price-description: per room per night
   saved: 53
@@ -222,7 +198,7 @@
   price-description: per room per night
   saved: 42
   expires: 2019/07/16
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/380/7a1d9d5a_607c_4025_87ec_7743c07e5d96.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/71907/0bf82110_a009_48af_9280_31ff799a98c7.jpg
   link: https://www.secretescapes.com/the-aviator-hotel-farnborough-hampshire/sale
   sale-id: 97407
 
@@ -230,7 +206,7 @@
   id: the-stratford
   location: Stratford, London
   description: Enjoy London skyline views and high style at a newly-opened Stratford spot
-  price: 145
+  price: 135
   price-description: per room per night
   saved: 43
   expires: 2019/07/16
@@ -273,3 +249,63 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50687/0cb326ff_5ed0_481d_8fb7_26561a155eaa.jpg
   link: https://www.secretescapes.com/hawkwell-house-hotel-near-oxford-oxfordshire/sale
   sale-id: 96995
+
+- title: Georgian House Hotel
+  id: georgian-house-hotel
+  location: Pimlico, London
+  description: Quintessential British charm at a London boutique hotel with cinema
+  price: 110
+  price-description: per room per night
+  saved: 31
+  expires: 2019/07/23
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97726/2504f4e5_a298_4437_9160_34204f18a137.jpg
+  link: https://www.secretescapes.com/georgian-house-hotel-pimlico-london/sale
+  sale-id: 97726
+
+- title: The Mandrake
+  id: the-mandrake
+  location: Fitzrovia, London
+  description: Boutique style and five-star elegance in London's Fitzrovia
+  price: 197
+  price-description: per room per night
+  saved: 48
+  expires: 2019/07/23
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74357/01dc45ca_f10b_4d0f_bacf_1bb0635c2926.jpg
+  link: https://www.secretescapes.com/the-mandrake-fitzrovia-london/sale
+  sale-id: 97818
+
+- title: Champneys Tring
+  id: champneys-tring
+  location: Wiggington, Hertfordshire
+  description: Pure indulgence at the flagship Champneys spa resort in Tring
+  price: 235
+  price-description: per room per night
+  saved: 50
+  expires: 2019/07/18
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90636/bb81cfed_da1f_44a4_b2a7_58e93dcf3a1b.jpg
+  link: https://www.secretescapes.com/champneys-tring-wiggington-hertfordshire/sale
+  sale-id: 97339
+
+- title: The Principal York
+  id: the-principal-york
+  location: York, Yorkshire
+  description: Visit York's historic sights with a glamorous Victorian hotel stay
+  price: 180
+  price-description: per room per night
+  saved: 33
+  expires: 2019/07/23
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73424/255605c3_3009_4ab7_9a0b_3769f1659c0d.jpg
+  link: https://www.secretescapes.com/the-principal-york-york-yorkshire/sale
+  sale-id: 97390
+
+- title: New Place Hotel
+  id: new-place-hotel
+  location: Shirrell Heath, Southampton
+  description: A beautiful Grade I-listed manor house near the South Downs
+  price: 99
+  price-description: per room per night
+  saved: 38
+  expires: 2019/07/23
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66430/96c6765d_3959_4217_8da9_8032015ec130.jpg
+  link: https://www.secretescapes.com/new-place-hotel-shirrell-heath-southampton/sale
+  sale-id: 97593"
