@@ -113,7 +113,7 @@
   price: 199
   price-description: per room per night
   saved: 40
-  expires: 2019/07/18
+  expires: 2019/07/23
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/84233/5d05003c_ef14_47dc_bb07_f3cd705601f9.jpg
   link: https://www.secretescapes.com/homewood-near-bath-somerset/sale
   sale-id: 97341
@@ -189,18 +189,6 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74357/01dc45ca_f10b_4d0f_bacf_1bb0635c2926.jpg
   link: https://www.secretescapes.com/the-mandrake-fitzrovia-london/sale
   sale-id: 97818
-
-- title: Champneys Tring
-  id: champneys-tring
-  location: Wiggington, Hertfordshire
-  description: Pure indulgence at the flagship Champneys spa resort in Tring
-  price: 235
-  price-description: per room per night
-  saved: 50
-  expires: 2019/07/18
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90636/bb81cfed_da1f_44a4_b2a7_58e93dcf3a1b.jpg
-  link: https://www.secretescapes.com/champneys-tring-wiggington-hertfordshire/sale
-  sale-id: 97339
 
 - title: The Principal York
   id: the-principal-york
