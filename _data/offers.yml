@@ -1,4 +1,4 @@
-- title: Danesfield House Hotel & Spa
+- title: Danesfield House Hotel & Sp
   id: danesfield-house-hotel-and-spa
   location: Marlow, Buckinghamshire
   description: A Buckinghamshire estate stay with an award-winning spa
@@ -6,7 +6,7 @@
   price-description: per room per night
   saved: 37
   expires: 2019/07/23
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/86504/38cd8c6a_815c_4430_ae52_ab8b5479d734.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/76988/fd772b50_193d_4e54_bdd8_63c1dcbc5ff6.jpg
   link: https://www.secretescapes.com/danesfield-house-hotel-and-spa-marlow-buckinghamshire/sale
   sale-id: 96136
 
@@ -21,18 +21,6 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96510/149baa57_53c9_4698_8036_53742fe68d80.jpg
   link: https://www.secretescapes.com/the-lodge-hotel-putney-london/sale
   sale-id: 96510
-
-- title: Royal Berkshire Hotel
-  id: royal-berkshire-hotel
-  location: Ascot, Berkshire
-  description: A mansion hotel near Windsor originally built for the Churchills
-  price: 89
-  price-description: per room per night
-  saved: 55
-  expires: 2019/07/19
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/79799/69743c95_f9b7_4076_8583_6cc65aac2a29.jpg
-  link: https://www.secretescapes.com/royal-berkshire-hotel-ascot-berkshire/sale
-  sale-id: 96345
 
 - title: DUKES London
   id: dukes-london
@@ -82,30 +70,6 @@
   link: https://www.secretescapes.com/gara-rock-salcombe-devon/sale
   sale-id: 96699
 
-- title: Mercure Nottingham City Centre Hotel
-  id: mercure-nottingham-city-centre-hotel
-  location: Nottingham, East Midlands
-  description: Stay in Nottingham’s vibrant Lace Market, near Old Market Square
-  price: 61
-  price-description: per room per night
-  saved: 54
-  expires: 2019/07/19
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97076/170c5fff_da46_4c44_a72c_8667a1518080.jpg
-  link: https://www.secretescapes.com/mercure-nottingham-city-centre-hotel-nottingham-east-midlands/sale
-  sale-id: 97076
-
-- title: HY Hotel
-  id: hy-hotel
-  location: Lytham, Lancashire
-  description: Take in the historic British seaside with an aparthotel stay near Lytham St Annes
-  price: 125
-  price-description: per room per night
-  saved: 53
-  expires: 2019/07/19
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97356/4d0e2dc2_0b75_4d16_a1bf_cba0164cae3f.jpg
-  link: https://www.secretescapes.com/hy-hotel-blackpool-lancashire/sale
-  sale-id: 97356
-
 - title: Homewood Hotel & Spa
   id: homewood-hotel-and-spa
   location: Near Bath, Somerset
@@ -114,7 +78,7 @@
   price-description: per room per night
   saved: 40
   expires: 2019/07/23
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/84233/5d05003c_ef14_47dc_bb07_f3cd705601f9.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97341/26981e64_77ce_451f_8b15_e28d7f23d062.jpg
   link: https://www.secretescapes.com/homewood-near-bath-somerset/sale
   sale-id: 97341
 
@@ -137,7 +101,7 @@
   price: 135
   price-description: per room per night
   saved: 43
-  expires: 2019/07/19
+  expires: 2019/07/23
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97689/ec91530d_7491_4e6c_b25a_2399d1c9a215.jpg
   link: https://www.secretescapes.com/the-stratford-stratford-london/sale
   sale-id: 97689
@@ -213,3 +177,87 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66430/96c6765d_3959_4217_8da9_8032015ec130.jpg
   link: https://www.secretescapes.com/new-place-hotel-shirrell-heath-southampton/sale
   sale-id: 97593
+
+- title: The Devonshire Club
+  id: the-devonshire-club
+  location: Spitalfields, London
+  description: High-end design at a plush private members' club in London
+  price: 182
+  price-description: per room per night
+  saved: 38
+  expires: 2019/07/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73650/2c684f28_edd5_4af7_8cd2_818518ce96e3.jpg
+  link: https://www.secretescapes.com/the-devonshire-club-spitalfields-london/sale
+  sale-id: 98245
+
+- title: Gorse Hill
+  id: gorse-hill
+  location: Woking, Surrey
+  description: Elegant grandeur at a refined Surrey countryside mansion
+  price: 119
+  price-description: per room per night
+  saved: 40
+  expires: 2019/07/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96670/c05be3d3_5e69_4e22_a9ac_9f93e648274c.jpg
+  link: https://www.secretescapes.com/gorse-hill-woking-surrey/sale
+  sale-id: 96670
+
+- title: Eckington Manor
+  id: eckington-manor
+  location: Pershore, Worcestershire
+  description: Escape to an award-winning, five-star manor stay near the Cotswolds
+  price: 99
+  price-description: per room per night
+  saved: 34
+  expires: 2019/07/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/14165/e578fb71_758b_4d33_8958_07f49d06bf74.jpg
+  link: https://www.secretescapes.com/eckington-manor-pershore-worcestershire/sale
+  sale-id: 98181
+
+- title: The Grand York
+  id: the-grand-york
+  location: York, North Yorkshire
+  description: A five-star York stay with spa and three AA Rosette-dining
+  price: 163
+  price-description: per room per night
+  saved: 27
+  expires: 2019/07/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74310/311e970b_3d65_489f_8077_65f96bcd681d.jpg
+  link: https://www.secretescapes.com/the-grand-york-york-north-yorkshire-uk/sale
+  sale-id: 98192
+
+- title: No.15 Great Pulteney
+  id: no.15-great-pulteney
+  location: Bath, Somerset
+  description: Bed down at a curio-filled boutique hotel in historic Bath
+  price: 144
+  price-description: per room per night
+  saved: 40
+  expires: 2019/07/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/39458/502c0d51_142e_4da0_b59c_31699328560b.jpg
+  link: https://www.secretescapes.com/no15-great-pulteney-bath-somerset/sale
+  sale-id: 98248
+
+- title: Lifehouse Spa & Hotel
+  id: lifehouse-spa-and-hotel
+  location: Thorpe-le-Soken, Essex
+  description: Relax and detox in Essex at an acclaimed adults-only spa hotel
+  price: 94
+  price-description: per room per night
+  saved: 41
+  expires: 2019/07/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44977/65fbdceb_cd04_41b9_93a3_4efec90261fc.jpg
+  link: https://www.secretescapes.com/lifehouse-spa-and-hotel-thorpe-le-soken-essex/sale
+  sale-id: 98280
+
+- title: Retreat East
+  id: retreat-east
+  location: Hemingstone, Suffolk
+  description: "Perfect for groups: Escape to a members-only Suffolk farmhouse and spa"
+  price: 150
+  price-description: per room per night
+  saved: 24
+  expires: 2019/07/30
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/72032/3716a151_1725_4172_8e43_4ed73285c12b.jpg
+  link: https://www.secretescapes.com/retreat-east-hemingstone-suffolk/sale
+  sale-id: 98470
