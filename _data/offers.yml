@@ -1,50 +1,14 @@
-- title: Danesfield House Hotel & Sp
-  id: danesfield-house-hotel-and-spa
-  location: Marlow, Buckinghamshire
-  description: A Buckinghamshire estate stay with an award-winning spa
-  price: 218
-  price-description: per room per night
-  saved: 37
-  expires: 2019/07/23
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/76988/fd772b50_193d_4e54_bdd8_63c1dcbc5ff6.jpg
-  link: https://www.secretescapes.com/danesfield-house-hotel-and-spa-marlow-buckinghamshire/sale
-  sale-id: 96136
-
-- title: The Lodge Hotel
+- title: The Lodge Hote
   id: the-lodge-hotel
   location: Putney, London
   description: See London's sights from a stylish South West boutique in Putney
   price: 90
   price-description: per room per night
   saved: 61
-  expires: 2019/07/23
+  expires: 2019/07/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96510/149baa57_53c9_4698_8036_53742fe68d80.jpg
   link: https://www.secretescapes.com/the-lodge-hotel-putney-london/sale
   sale-id: 96510
-
-- title: DUKES London
-  id: dukes-london
-  location: Mayfair, London
-  description: Five-star Mayfair award-winner with Ian Fleming's favourite bar
-  price: 230
-  price-description: per room per night
-  saved: 20
-  expires: 2019/07/23
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/84570/d644cb90_eb99_4a8f_8b6c_ff12c864db85.jpg
-  link: https://www.secretescapes.com/dukes-london-mayfair-london/sale
-  sale-id: 96474
-
-- title: The Gannet Inn
-  id: the-gannet-inn
-  location: Carbis Bay, Cornwall
-  description: Run away to a boutique Cornwall pad near a Blue Flag beach
-  price: 109
-  price-description: per room per night
-  saved: 60
-  expires: 2019/07/23
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/31945/5fae41e1_cf13_48dd_a8c4_6a46175c2adc.jpg
-  link: https://www.secretescapes.com/the-gannet-inn-carbis-bay-cornwall/sale
-  sale-id: 97053
 
 - title: Courthouse Hotel Shoreditch
   id: courthouse-hotel-shoreditch
@@ -53,22 +17,10 @@
   price: 169
   price-description: per room per night
   saved: 39
-  expires: 2019/07/23
+  expires: 2019/07/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/34926/960973b0_3a98_495f_866d_49aa62c20f0d.jpg
   link: https://www.secretescapes.com/courthouse-hotel-shoreditch-east-end-london/sale
   sale-id: 97060
-
-- title: Gara Rock
-  id: gara-rock
-  location: Salcombe, Devon
-  description: Stay at a clifftop boutique hotel near Salcombe with soul-stirring views
-  price: 251
-  price-description: per room per night
-  saved: 44
-  expires: 2019/07/23
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96699/e33c2cba_0902_45ed_986b_fd09e4fcfab7.jpg
-  link: https://www.secretescapes.com/gara-rock-salcombe-devon/sale
-  sale-id: 96699
 
 - title: Homewood Hotel & Spa
   id: homewood-hotel-and-spa
@@ -77,7 +29,7 @@
   price: 199
   price-description: per room per night
   saved: 40
-  expires: 2019/07/23
+  expires: 2019/07/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97341/26981e64_77ce_451f_8b15_e28d7f23d062.jpg
   link: https://www.secretescapes.com/homewood-near-bath-somerset/sale
   sale-id: 97341
@@ -89,7 +41,7 @@
   price: 94
   price-description: per room per night
   saved: 42
-  expires: 2019/07/23
+  expires: 2019/07/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/71907/0bf82110_a009_48af_9280_31ff799a98c7.jpg
   link: https://www.secretescapes.com/the-aviator-hotel-farnborough-hampshire/sale
   sale-id: 97407
@@ -101,7 +53,7 @@
   price: 135
   price-description: per room per night
   saved: 43
-  expires: 2019/07/23
+  expires: 2019/07/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97689/ec91530d_7491_4e6c_b25a_2399d1c9a215.jpg
   link: https://www.secretescapes.com/the-stratford-stratford-london/sale
   sale-id: 97689
@@ -113,7 +65,7 @@
   price: 99
   price-description: per room per night
   saved: 39
-  expires: 2019/07/23
+  expires: 2019/07/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44016/c87e977a_dec3_46c3_84b9_947645714cb1.jpg
   link: https://www.secretescapes.com/salthouse-harbour-hotel-ipswich-suffolk/sale
   sale-id: 97637
@@ -125,7 +77,7 @@
   price: 89
   price-description: per room per night
   saved: 53
-  expires: 2019/07/23
+  expires: 2019/07/26
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50687/0cb326ff_5ed0_481d_8fb7_26561a155eaa.jpg
   link: https://www.secretescapes.com/hawkwell-house-hotel-near-oxford-oxfordshire/sale
   sale-id: 96995
@@ -137,7 +89,7 @@
   price: 110
   price-description: per room per night
   saved: 31
-  expires: 2019/07/23
+  expires: 2019/07/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97726/2504f4e5_a298_4437_9160_34204f18a137.jpg
   link: https://www.secretescapes.com/georgian-house-hotel-pimlico-london/sale
   sale-id: 97726
@@ -149,22 +101,10 @@
   price: 197
   price-description: per room per night
   saved: 48
-  expires: 2019/07/23
+  expires: 2019/07/26
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74357/01dc45ca_f10b_4d0f_bacf_1bb0635c2926.jpg
   link: https://www.secretescapes.com/the-mandrake-fitzrovia-london/sale
   sale-id: 97818
-
-- title: The Principal York
-  id: the-principal-york
-  location: York, Yorkshire
-  description: Visit York's historic sights with a glamorous Victorian hotel stay
-  price: 180
-  price-description: per room per night
-  saved: 33
-  expires: 2019/07/23
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/73424/255605c3_3009_4ab7_9a0b_3769f1659c0d.jpg
-  link: https://www.secretescapes.com/the-principal-york-york-yorkshire/sale
-  sale-id: 97390
 
 - title: New Place Hotel
   id: new-place-hotel
@@ -173,7 +113,7 @@
   price: 99
   price-description: per room per night
   saved: 38
-  expires: 2019/07/23
+  expires: 2019/07/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/66430/96c6765d_3959_4217_8da9_8032015ec130.jpg
   link: https://www.secretescapes.com/new-place-hotel-shirrell-heath-southampton/sale
   sale-id: 97593
