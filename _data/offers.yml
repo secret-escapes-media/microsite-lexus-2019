@@ -1,16 +1,4 @@
-- title: The Lodge Hote
-  id: the-lodge-hotel
-  location: Putney, London
-  description: See London's sights from a stylish South West boutique in Putney
-  price: 90
-  price-description: per room per night
-  saved: 61
-  expires: 2019/07/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96510/149baa57_53c9_4698_8036_53742fe68d80.jpg
-  link: https://www.secretescapes.com/the-lodge-hotel-putney-london/sale
-  sale-id: 96510
-
-- title: Courthouse Hotel Shoreditch
+- title: Courthouse Hotel Shoreditc
   id: courthouse-hotel-shoreditch
   location: East End, London
   description: Tap into Shoreditch cool at a courthouse turned hip hotel with a pool
@@ -54,7 +42,7 @@
   price-description: per room per night
   saved: 43
   expires: 2019/07/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97689/ec91530d_7491_4e6c_b25a_2399d1c9a215.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/90114/5f6b91b2_1cf7_41c3_a644_c6dc7978a90d.jpg
   link: https://www.secretescapes.com/the-stratford-stratford-london/sale
   sale-id: 97689
 
@@ -66,21 +54,9 @@
   price-description: per room per night
   saved: 39
   expires: 2019/07/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44016/c87e977a_dec3_46c3_84b9_947645714cb1.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/44016/d7b55799_a39f_4bed_b5a0_150efa88fb09.jpg
   link: https://www.secretescapes.com/salthouse-harbour-hotel-ipswich-suffolk/sale
   sale-id: 97637
-
-- title: Hawkwell House Hotel
-  id: hawkwell-house-hotel
-  location: Oxford, Oxfordshire
-  description: A relaxing country stay with modern interiors near Oxford
-  price: 89
-  price-description: per room per night
-  saved: 53
-  expires: 2019/07/26
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/50687/0cb326ff_5ed0_481d_8fb7_26561a155eaa.jpg
-  link: https://www.secretescapes.com/hawkwell-house-hotel-near-oxford-oxfordshire/sale
-  sale-id: 96995
 
 - title: Georgian House Hotel
   id: georgian-house-hotel
@@ -90,7 +66,7 @@
   price-description: per room per night
   saved: 31
   expires: 2019/07/30
-  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97726/2504f4e5_a298_4437_9160_34204f18a137.jpg
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/97726/b0035484_e4dc_45a1_b0d8_c5fd7d8cc030.jpg
   link: https://www.secretescapes.com/georgian-house-hotel-pimlico-london/sale
   sale-id: 97726
 
@@ -98,10 +74,10 @@
   id: the-mandrake
   location: Fitzrovia, London
   description: Boutique style and five-star elegance in London's Fitzrovia
-  price: 197
+  price: 259
   price-description: per room per night
-  saved: 48
-  expires: 2019/07/26
+  saved: 42
+  expires: 2019/07/30
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/74357/01dc45ca_f10b_4d0f_bacf_1bb0635c2926.jpg
   link: https://www.secretescapes.com/the-mandrake-fitzrovia-london/sale
   sale-id: 97818
@@ -201,3 +177,87 @@
   image: https://d1x3cbuht6sy0f.cloudfront.net/sales/72032/3716a151_1725_4172_8e43_4ed73285c12b.jpg
   link: https://www.secretescapes.com/retreat-east-hemingstone-suffolk/sale
   sale-id: 98470
+
+- title: Melia White House
+  id: melia-white-house
+  location: Regents Park, London
+  description: Tradition meets avant-garde style in the heart of London
+  price: 156
+  price-description: per room per night
+  saved: 30
+  expires: 2019/08/06
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/98564/b3c5cb73_b48a_43c8_b805_469e22999fe0.jpg
+  link: https://www.secretescapes.com/melia-white-house-regents-park-london/sale
+  sale-id: 98564
+
+- title: The Bonham Hotel
+  id: the-bonham-hotel
+  location: Edinburgh, Scotland
+  description: Elegance and sophistication at an Edinburgh townhouse in the West End
+  price: 124
+  price-description: per room per night
+  saved: 44
+  expires: 2019/08/06
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/98728/0ee1c574_a7cc_4c22_bfe3_bdd7521117cd.jpg
+  link: https://www.secretescapes.com/the-bonham-hotel-edinburgh-scotland/sale
+  sale-id: 98728
+
+- title: The Collective Canary Wharf
+  id: the-collective-canary-wharf
+  location: Canary Wharf, London
+  description: A vibrant, newly-opened co-living space in London's Canary Wharf
+  price: 78
+  price-description: per room per night
+  saved: 49
+  expires: 2019/08/06
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/98862/626fc457_08e7_48d5_9aa6_f1336dd805f6.jpg
+  link: https://www.secretescapes.com/the-collective-canary-wharf-canary-wharf-london/sale
+  sale-id: 98862
+
+- title: Mount Haven Hotel
+  id: mount-haven-hotel
+  location: Marazion, Cornwall
+  description: Stunning St. Michael’s Mount views at a tranquil Cornish hotel
+  price: 119
+  price-description: per room per night
+  saved: 49
+  expires: 2019/08/06
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/98546/aacb0ef7_e6f3_42f9_ad58_304bc874bd1c.jpg
+  link: https://www.secretescapes.com/mount-haven-hotel-marazion-cornwall/sale
+  sale-id: 98546
+
+- title: Lympstone Manor
+  id: lympstone-manor
+  location: Exmouth, Devon
+  description: A stunning five-star Devon hotel with Michelin-star dining
+  price: 625
+  price-description: per room per night
+  saved: 34
+  expires: 2019/08/06
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/77245/97ae6271_fad2_43ce_b53c_a65cbf6e5862.jpg
+  link: https://www.secretescapes.com/lympstone-manor-exmouth-devon/sale
+  sale-id: 98562
+
+- title: Moddershall Oaks Country Spa Retreat
+  id: moddershall-oaks-country-spa-retreat
+  location: Moddershall, Staffordshire
+  description: Suite dreams at a Good Spa Guide-rated Staffordshire retreat
+  price: 270
+  price-description: per suite per night
+  saved: 45
+  expires: 2019/08/06
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/98732/fa7bfef0_953c_4048_a34b_322bcaa7356a.jpg
+  link: https://www.secretescapes.com/moddershall-oaks-country-spa-retreat-moddershall-staffordshire/sale
+  sale-id: 98732
+
+- title: Country Living St. George Hotel
+  id: country-living-st.-george-hotel
+  location: Harrogate, North Yorkshire
+  description: Find peace and quiet at a superb Edwardian mansion in Harrogate
+  price: 105
+  price-description: per room per night
+  saved: 42
+  expires: 2019/08/06
+  image: https://d1x3cbuht6sy0f.cloudfront.net/sales/96933/829605a1_1baa_4df3_b507_50f2360613bc.jpg
+  link: https://www.secretescapes.com/country-living-st-george-hotel-harrogate-north-yorkshire/sale
+  sale-id: 98734
